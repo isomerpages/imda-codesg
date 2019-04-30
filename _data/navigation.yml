@@ -1,0 +1,54 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: About
+  url: /about/
+- title: In Schools
+  url: /in-schools/overview/
+  sub-links:
+  - title: Overview
+    url: /in-schools/overview/
+  - title: PlayMaker
+    url: /in-schools/playmaker/overview/
+  - title: ICM Learning Roadmap
+    url: /in-schools/icm-learning-roadmap/
+  - title: Code For Fun
+    url: /in-schools/code-for-fun/primary/
+  - title: Unstructured Making
+    url: /in-schools/unstructured-making/
+  - title: National Infocomm Competitions
+    url: /in-schools/national-infocomm-competitions/
+  - title: Digital Maker
+    url: /in-schools/digital-maker/lesson-ideas-primary/
+- title: In Community
+  url: /in-community/overview/
+  sub-links:
+  - title: Overview
+    url: /in-community/overview/
+  - title: PlayMaker
+    url: /in-community/playmaker/overview/
+  - title: Code &amp; Make @ Community
+    url: /in-community/code-and-make-at-community/
+  - title: By Community For Community
+    url: /in-community/by-community-for-community/
+- title: Events
+  url: /events/
+  sub-links:
+  - title: All
+    url: /events/
+  - title: Category One
+    url: /events/category-one/
+  - title: Cateogry Two
+    url: /events/category-two/
+- title: Stories
+  url: /stories/media/
+  sub-links:
+  - title: Media
+    url: /stories/media/story-one/
+  - title: Features
+    url: /stories/features/story-one/
+- title: Contact Us
+  url: /contact-us/
