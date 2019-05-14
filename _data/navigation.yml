@@ -46,6 +46,8 @@
 - title: Stories
   url: /stories/
   sub-links:
+  - title: All
+    url: /stories/
   - title: Media
     url: /stories/media/
   - title: Features
