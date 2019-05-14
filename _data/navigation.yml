@@ -47,8 +47,8 @@
   url: /stories/
   sub-links:
   - title: Media
-    url: /stories/media/story-one/
+    url: /stories/media/
   - title: Features
-    url: /stories/features/story-one/
+    url: /stories/features/
 - title: Contact Us
   url: /contact-us/
