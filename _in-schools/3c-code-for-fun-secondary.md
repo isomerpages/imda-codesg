@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Secondary Schools
+title: Code For Fun (Secondary Schools)
 permalink: /in-schools/code-for-fun/secondary/
 breadcrumb: Secondary Schools
 collection_name: in-schools
