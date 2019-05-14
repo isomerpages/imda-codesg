@@ -44,7 +44,7 @@
   - title: Cateogry Two
     url: /events/category-two/
 - title: Stories
-  url: /stories/media/
+  url: /stories/
   sub-links:
   - title: Media
     url: /stories/media/story-one/
