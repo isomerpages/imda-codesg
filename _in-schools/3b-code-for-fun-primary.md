@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Primary Schools
+title: Code For Fun (Primary Schools)
 permalink: /in-schools/code-for-fun/primary/
 breadcrumb: Primary Schools
 collection_name: in-schools
