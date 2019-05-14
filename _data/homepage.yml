@@ -11,29 +11,32 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Digital Literacy Programme
-hero-subtitle: Your Subtitle Here
-hero-banner: /images/hero-banner.png
+hero-title: Code & Make @SG
+hero-subtitle: Developing Computational Thinking and Making as a National Capability
+hero-banner: /images/home-page/Hero Banner.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
-    
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://isomer.gov.sg
-    external: true
-  - title: About
-    description: About is important too
     url: /about/
 
-resources-title: Events
-resources-subtitle: Some subtitle for Events
-resources-more-button: More Events
-resources-more-button-url: events/
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: In Schools
+    section-description: Our programmes support schools in developing computational thinking and making skills in their students. We engage educators to help them create a new generation workforce with coding and computational thinking skills, making these part of Singapore's national capabilities
+    section-more-button: Learn more
+    section-more-button-url: /in-schools/overview/
+    section-image-path: /images/home-page/In Schools.jpg
+  - section-title: 
+    section-subtitle: In Community
+    section-description: Programmes run in the community for members of the public to try their hand at coding and making. Our programmes also cater to innovative and creative individuals amongst the public, encouraging collaboration and fostering a community of coders and makers
+    section-more-button: Learn more
+    section-more-button-url: /in-community/overview/
+    section-image-path: /images/home-page/In Community.jpg
+ 
+
+resources-subtitle: Events
+resources-title: Code & Make @SG's calendar has events from workshops to competitions. Come on down and join us in having some creative fun!
+resources-more-button: Learn more
+resources-more-button-url: /events/
