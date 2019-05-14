@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Media
-permalink: /stories/media/
-breadcrumb: media
+title: Features
+permalink: /stories/features/
+breadcrumb: Features
 collection_name: stories
 ---
