@@ -2,6 +2,6 @@
 layout: leftnav-page-content
 title: Overview
 permalink: /in-community/overview/
-breadcrumb: Overview (In Community)
+breadcrumb: In Community Overview
 collection_name: in-community
 ---
