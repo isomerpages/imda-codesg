@@ -8,7 +8,7 @@ Code & Make @SG is an initiative by Infocomm Media Development Authority to deve
 
 Our programmes reach out to individuals and communities across all ages, providing them with opportunities to try their hands at a myriad of frontier technologies, understanding how they impact the way we work, live, learn, and play.  
 
-![Code and Make infographic](/images/about/about-infographic.png)
+(/images/about/about-infographic.png)
 
 We aim to equip people with the ability to use technology optimally to achieve a better quality of life through computational thinking and making. 
 
