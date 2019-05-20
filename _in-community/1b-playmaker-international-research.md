@@ -6,19 +6,13 @@ breadcrumb: International Research
 collection_name: in-community
 second_nav_title: PlayMaker
 ---
-**Awards**
+A research study by DevTech Research Group at Tufts University was conducted with 5 Singapore pre-schools, titled “Dancing robots: integrating art, music, and robotics in Singapore’s early childhood centers.”
 
-PlayMaker has received several domestic and international accolades
+> insert infographic when ready
 
-* The EdTech Awards 2019 Trendsetter - Finalist
-* IMS Global Learning Impact Awards 2017 - Bronze
-* ASEAN ICT Innovation Award (Public Sector) 2017 - Gold
-* Public Sector Transformation Awards 2018 (Excel Innovation Project)
-* MCI Family Innovation Award 2018 (Innovation Project) - Gold
+<div class="bp-youtube">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/qTjtGM0ITGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
----
+The research paper is published on International Journal of Technology and Design Education and is available for download [here.](/files/playmaker/playmaker-study.pdf) 
 
-**In The News**
-
-PlayMaker has garnered substantial attention from domestic and international news outlets.
-To read or view these features, please visit our Media page by clicking [here](/stories/media/)
