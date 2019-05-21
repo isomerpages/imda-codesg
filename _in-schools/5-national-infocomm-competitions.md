@@ -5,7 +5,8 @@ permalink: /in-schools/national-infocomm-competitions/
 breadcrumb: National Infocomm Competitions
 collection_name: in-schools
 ---
-The National InfoComm Competitions (NIC) are a series of competitions to expose students to areas like programming, app development, and game creation. They support quality and impactful competitions, and are the largest and most prestigious network of ICT competitions in Singapore. 
+The National Infocomm Competition (NIC) is a series of infocomm-themed competitions to expose students to areas such as programming, mobile application development, artificial intelligence, games design and creation.  The NIC supports quality and impactful competitions which seeks to deepen students' engagement and ICT skills in the areas of build, secure and analyse. 
+
 
 The key competitions supported under NIC include the following:
 * FIRST LEGO League Singapore - <a href="http://www.ducklearning.com/first-lego-league-fll/" target="_blank">link</a>
@@ -16,5 +17,7 @@ The key competitions supported under NIC include the following:
 * Shopee National Data Science Challenge - <a href="https://careers.shopee.sg/ndsc/" target="_blank">link</a>
 * Singapore National Olympiad in Informatics - <a href="https://noisg.comp.nus.edu.sg/noi/" target="_blank">link</a>
 * 3D-Tronics Digital Making National Infocomm Challenge - <a href="https://www.3d-tronics.com" target="_blank">link</a>
+* Singapore Space Challenge - <a href="https://www.space.org.sg/education-and-outreach/singapore-space-challenge" target="_blank">link</a>
+* AWS Build On Singapore
 
 For more information, please contact Leonard at <leonard_wong@imda.gov.sg>
