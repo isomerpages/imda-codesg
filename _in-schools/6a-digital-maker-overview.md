@@ -6,7 +6,7 @@ breadcrumb: Digital Maker Overview
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
-> insert infographic when ready
+![digital maker infographic](/images/in-schools/digital-maker/overview/digital-maker-infographic.png)
 
 Digital Maker programme aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. 
 
