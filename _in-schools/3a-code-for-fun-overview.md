@@ -39,27 +39,27 @@ The following vendors offer programming courses, please contact them for their p
   <tr>
     <td class="tg-22f5">A1. Roboto LLP</td>
     <td class="tg-22f5">Kitonic Buggy Kit</td>
-    <td class="tg-22f5">Brian Lee<br>9191 7610<br>brianlee@roboto.sg</td>
+    <td class="tg-22f5">Brian Lee<br>9191 7610<br><a href="brianlee@roboto.sg"> brianlee@roboto.sg</a></td>
   </tr>
   <tr>
     <td class="tg-x5q1">A2. Zenitant Pte Ltd</td>
     <td class="tg-x5q1">3D-tronics</td>
-    <td class="tg-x5q1">Philip Kong<br>9744 0711<br>philipkong@zenitant.com.sg</td>
+    <td class="tg-x5q1">Philip Kong<br>9744 0711<br><a href="philipkong@zenitant.com.sg"> philipkong@zenitant.com.sg</a></td>
   </tr>
   <tr>
     <td class="tg-22f5">A3. EP-TEC Solutions Pte Ltd</td>
     <td class="tg-22f5">Moway</td>
-    <td class="tg-22f5">Alex Lim<br>8157 3211<br>alexlim@ep-asia.com</td>
+    <td class="tg-22f5">Alex Lim<br>8157 3211<br><a href="alexlim@ep-asia.com"> alexlim@ep-asia.com</a></td>
   </tr>
   <tr>
     <td class="tg-x5q1">A4. Duck Learning</td>
     <td class="tg-x5q1">Lego Wedo / Mindstorm EV3 (used in advanced course only)</td>
-    <td class="tg-x5q1">Hozefa<br>9023 9517<br>hozefa@ducklearning.com</td>
+    <td class="tg-x5q1">Hozefa<br>9023 9517<br><a href="hozefa@ducklearning.com"> hozefa@ducklearning.com</a></td>
   </tr>
   <tr>
     <td class="tg-22f5">A5. Ripple Group Holdings Pte Ltd</td>
     <td class="tg-22f5">mBot</td>
-    <td class="tg-22f5">Thomas Tan<br>9824 0088<br>thomas.tan@ripplecreate.com</td>
+    <td class="tg-22f5">Thomas Tan<br>9824 0088<br><a href="thomas.tan@ripplecreate.com"> thomas.tan@ripplecreate.com</a></td>
   </tr>
 </table>
 
