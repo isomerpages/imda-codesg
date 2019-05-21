@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-permalink: /events/
-breadcrumb: Events
-title: Events
+permalink: /ignore/
+breadcrumb: ignore
+title: ignore
 ---
 
 ### **FAQ**
