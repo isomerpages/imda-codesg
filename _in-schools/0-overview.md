@@ -11,12 +11,12 @@ IMDA supports the development of computational thinking and making in schools by
 
 ### Pre-Schools
 
-[<img src="/images/in-schools/overview/Playmaker_Icon.jpg">](/in-schools/playmaker-overview/)
+[<img src="/images/in-schools/overview/Playmaker_Icon.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/playmaker-overview/)
 
 ### Pre-Tertiary
 
-[<img src="/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg">](/in-schools/code-for-fun/overview/)
-[<img src="/images/in-schools/overview/ICM_Icon_V2.jpg">](/in-schools/icm-learning-roadmap/)
-[<img src="/images/in-schools/overview/Student_Development_Icon_V2.jpg">](/in-schools/student-development/)
-[<img src="/images/in-schools/overview/National_Infocomm_Icon_V2.jpg">](/in-schools/national-infocomm-competitions/)
-[<img src="/images/in-schools/overview/Digital_Maker_Icon_V2.jpg">](/in-schools/digital-maker/overview/)
+[<img src="/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/)
+[<img src="/images/in-schools/overview/ICM_Icon_V2.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/)
+[<img src="/images/in-schools/overview/Student_Development_Icon_V2.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/student-development/)
+[<img src="/images/in-schools/overview/National_Infocomm_Icon_V2.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competitions/)
+[<img src="/images/in-schools/overview/Digital_Maker_Icon_V2.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/)
