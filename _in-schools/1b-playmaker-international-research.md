@@ -8,7 +8,7 @@ second_nav_title: PlayMaker
 ---
 A research study by DevTech Research Group at Tufts University was conducted with 5 Singapore pre-schools, titled “Dancing robots: integrating art, music, and robotics in Singapore’s early childhood centers.”
 
-> insert infographic when ready
+![international research infographic](/images/in-schools/playmaker/international-research/international-research-infographic.jpg)
 
 <div class="bp-youtube">
      <iframe width="560" height="315" src="https://www.youtube.com/embed/qTjtGM0ITGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
