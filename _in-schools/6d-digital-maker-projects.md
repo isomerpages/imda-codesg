@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Projects
+title: Project Ideas By Community
 permalink: /in-schools/digital-maker/projects/
-breadcrumb: Projects
+breadcrumb: Project Ideas By Community
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
