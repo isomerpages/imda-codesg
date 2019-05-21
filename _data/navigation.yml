@@ -39,10 +39,12 @@
   sub-links:
   - title: All
     url: /events/
-  - title: Category One
-    url: /events/category-one/
-  - title: Cateogry Two
-    url: /events/category-two/
+  - title: Workshops
+    url: /events/workshops/
+  - title: Conventions and Exhibitions
+    url: /events/conventions-and-exhibitions/
+  - title: Competitions
+    url: /events/competitions/
 - title: Stories
   url: /stories/
   sub-links:
