@@ -20,7 +20,7 @@ The CFF Enrichment Programme aims to:
 The following vendors offer programming courses, please contact them for their price list and detailed training content.
 
 <details>
-  <summary>Robotic block-based programming course</summary>
+  <summary>**Robotic block-based programming course**</summary>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
