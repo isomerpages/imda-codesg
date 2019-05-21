@@ -16,6 +16,8 @@ PlayMaker has received several domestic and international accolades
 * Public Sector Transformation Awards 2018 (Excel Innovation Project)
 * MCI Family Innovation Award 2018 (Innovation Project) - Gold
 
+![awards](/images/in-schools/playmaker/noteworthy/awards-images.jpeg)
+
 ---
 
 **In The News**
