@@ -6,14 +6,13 @@ breadcrumb: Code For Fun Overview
 collection_name: in-schools
 second_nav_title: Code For Fun
 ---
-[<img src="/images/in-schools/code-for-fun/code-for-fun.JPG">](http://google.com.au/)
+[<img src="/images/in-schools/code-for-fun/code-for-fun.JPG">](https://www.imda.gov.sg/imtalent/programmes/cff)
 
-Code For Fun  Enrichment Programme is a joint IMDA and MOE effort in primary and secondary schools, using visual-based programming language combined with robotic kits and microcontrollers to facilitate exposure of computational thinking concepts to a large student base. 
-
-The CFF Enrichment Programme aims to:
-
-1. Facilitate the exposure of computational thinking and coding concepts to a large base of students.
-2. Build an entire generation of workforce with computational thinking and basic coding skills. 
+The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary and secondary schools to increase students’ exposure to coding and computational thinking. The programme includes academic learning of related concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create a coding experience for the students.
+The Code for Fun Enrichment Programme aims to:
+* Facilitate the exposure of a large base of students to coding and computational thinking; and
+* Help build an entire generation of workforce inculcated with basic coding and computational thinking skills.
+We are currently reviewing the programme to make it better. More details will be released by September 2019.
 
 **Training Partners**
 
