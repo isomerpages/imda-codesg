@@ -201,4 +201,4 @@ The following vendors offer programming courses, please contact them for their p
   
 </details>
   
-For more information about CFF, please email <Oscar_Tan@imda.gov.sg>
+For more information about Code for Fun, please email <Oscar_Tan@imda.gov.sg>
