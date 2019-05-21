@@ -6,10 +6,6 @@ breadcrumb: Code For Fun Overview
 collection_name: in-schools
 second_nav_title: Code For Fun
 ---
-![code for fun image](/images/in-schools/code-for-fun/code-for-fun.JPG)
-
-<a href="www.bbc.co.uk"><img src="/images/in-schools/code-for-fun/code-for-fun.JPG" alt="test"></a>
-
 [<img src="/images/in-schools/code-for-fun/code-for-fun.JPG">](http://google.com.au/)
 
 Code For Fun  Enrichment Programme is a joint IMDA and MOE effort in primary and secondary schools, using visual-based programming language combined with robotic kits and microcontrollers to facilitate exposure of computational thinking concepts to a large student base. 
