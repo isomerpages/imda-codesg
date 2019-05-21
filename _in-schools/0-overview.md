@@ -11,7 +11,7 @@ IMDA supports the development of computational thinking and making in schools by
 
 ### Pre-Schools
 
-[<img src="/images/in-schools/overview/Playmaker_Icon.jpg">](https://isomer-dlp-staging.netlify.com/in-schools/playmaker-overview/ =300x300)
+[<img src="/images/in-schools/overview/Playmaker_Icon.jpg">  =300x300](https://isomer-dlp-staging.netlify.com/in-schools/playmaker-overview/)
 
 ### Pre-Tertiary
 
