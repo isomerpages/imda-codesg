@@ -7,6 +7,16 @@ collection_name: in-schools
 ---
 ![In Schools Overview](/images/in-schools/overview/in-schools-overview.jpg)
 
-We engage with educators to help them create a next generation workforce with coding and computational thinking capabilities. We partner with schools all over Singapore to increase students’ exposure to these concepts, with many programmes for different levels and interests. 
+IMDA supports the development of computational thinking and making in schools by offering programmes for broad-based learning and specialised training at multiple educational levels to encourage students to innovate and build Infocomm and Technology (ICT) solutions, as part of long-term efforts to prepare students for the digital age and future workforce.
 
->to be continued
+### Pre-Schools
+
+[<img src="/images/in-schools/overview/Playmaker_Icon.jpg">](/in-schools/playmaker-overview/)
+
+### Pre-Tertiary
+
+[<img src="/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg">](/in-schools/code-for-fun/overview/)
+[<img src="/images/in-schools/overview/ICM_Icon_V2.jpg">](/in-schools/icm-learning-roadmap/)
+[<img src="/images/in-schools/overview/Student_Development_Icon_V2.jpg">](/in-schools/student-development/)
+[<img src="/images/in-schools/overview/National_Infocomm_Icon_V2.jpg">](/in-schools/national-infocomm-competitions/)
+[<img src="/images/in-schools/overview/Digital_Maker_Icon_V2.jpg">](/in-schools/digital-maker/overview/)
