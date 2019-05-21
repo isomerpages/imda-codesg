@@ -21,8 +21,8 @@ The following vendors offer programming courses, please contact them for their p
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-family:Lato;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
@@ -55,7 +55,7 @@ The following vendors offer programming courses, please contact them for their p
   <tr>
     <td class="tg-0lax">A5. Ripple Group Holdings Pte Ltd</td>
     <td class="tg-0lax">mBot</td>
-    <td class="tg-0lax">Thomas Tan<br>9824 0088<br>thomas.tan@ripplecreate.com</td>
+    <td class="tg-0lax">Thomas Tan<br>9824 0088<br><a href="thomas.tan@ripplecreate.com">thomas.tan@ripplecreate.com</a></td>
   </tr>
 </table>
 
