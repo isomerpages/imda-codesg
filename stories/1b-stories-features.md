@@ -4,7 +4,6 @@ title: Features
 permalink: /stories/features/
 breadcrumb: Features
 collection_name: stories
-second_nav_title: "Stories"
 ---
 > features image
 
