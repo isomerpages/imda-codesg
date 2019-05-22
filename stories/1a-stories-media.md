@@ -4,7 +4,6 @@ title: Media
 permalink: /stories/media/
 breadcrumb: Media
 collection_name: stories
-second_nav_title: "Stories"
 ---
 > media image
 
