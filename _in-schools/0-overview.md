@@ -25,7 +25,7 @@ IMDA supports the development of computational thinking and making in schools by
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-cr4b"><a href="https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/"><img src="/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg"></th>
+    <th class="tg-cr4b"><a href="https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/"><img src="/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg" width="300" height="300"></th>
   </tr>
   <tr>
     <td class="tg-5cbf"><a href="https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/"><img src="/images/in-schools/overview/ICM_Icon_V2.jpg"></td>
