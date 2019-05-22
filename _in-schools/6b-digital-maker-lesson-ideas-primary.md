@@ -10,6 +10,8 @@ second_nav_title: Digital Maker
  
  <summary>Math</summary>
 
-1. [Using micro:bit to facilitate learning of Patterns - Whole Numbers](/pages/lesson-plans/nan-chiau-1/)
+1. Using micro:bit to facilitate learning of Patterns - Whole Numbers
+2. Creating a micro:bit Multiplication Calculator
+3. Using micro:bit to facilitate learning of Geometry - Area of Triangle
 
 </details>
