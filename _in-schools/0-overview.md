@@ -40,3 +40,10 @@ IMDA supports the development of computational thinking and making in schools by
     <td class="tg-czno"><a href="https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/"><img src="/images/in-schools/overview/Digital_Maker_Icon_V2.jpg"></td>
   </tr>
 </table>
+
+| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  loren ipsum code for fun blah blah click here for more information |
+|---|---|
+| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  | loren ipsum code for fun blah blah click here for more information  |
+|  ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  loren ipsum code for fun blah blah click here for more information |  loren ipsum code for fun blah blah click here for more information |
+|  ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg) | loren ipsum code for fun blah blah click here for more information  |
+| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  loren ipsum code for fun blah blah click here for more information |
