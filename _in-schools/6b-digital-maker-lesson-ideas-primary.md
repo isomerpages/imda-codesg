@@ -10,6 +10,6 @@ second_nav_title: Digital Maker
  
  <summary>Math</summary>
 
-1. [Using micro:bit to facilitate learning of Patterns - Whole Numbers](/digital-maker-lesson-plans/primary-schools/math/nan-chiau-1/)
+1. [Using micro:bit to facilitate learning of Patterns - Whole Numbers](/pages/lesson-plans/nan-chiau-1/)
 
 </details>
