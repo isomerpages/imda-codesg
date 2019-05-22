@@ -18,10 +18,8 @@ We aim to equip people with the ability to use technology optimally to achieve a
 
 ### Why Computational Thinking?
 
-Problem solving, coming up with and evaluating solutions, and recognising patterns in data are all important professional skills, whether or not someone decides to take up an ICT career. 
+Computational thinking involves problem solving, coming up with and evaluating solutions, and recognising patterns in data. Whether or not someone decides to take up an ICT career, these are all important professional skills with benefits that extend beyond coding and computer science
 
-Computational thinking is essential in coding or computer science, but has benefits that extend beyond that, such as problem solving to increase the efficiency of a company’s processes, or coming up with new products and services for consumers. 
-
-As the world continues to digitise, Code @SG aims to provide an avenue for Singapore to build the capabilities necessary to benefit from the resulting opportunities. 
+As the world continues to digitise, Code @SG aims to provide an avenue to take Singapore to the next level in the relevant capabiities.
 
 To find out more about our programmes, click [here](https://isomer-dlp-staging.netlify.com/in-schools/overview/)
