@@ -9,7 +9,15 @@
 - title: Stories
   name: Never Too Young To Code
   # dept: Government Digital Services, Data Science Division
-  story: Cedric Phua may be too young to drive, but he has already made his own micro:bit car at the age of 10! Find out more about his digital making journey by clicking below.
+  story: Cedric Phua may be too young to drive, but he has already made his own micro:bit car at the age of 10!
   img: images/home-page/cedric-phua-carousel-image.JPG
   button-text: Read more
-  button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19feb16_waterwayprimary
+  button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/04/02/19jan26_cedric-phua
+
+- title: Stories
+  name: Never Too Old To Code
+  # dept: Government Digital Services, Data Science Division
+  story: Taman Jurong seniors show age is no barrier to learning digital making skills!
+  img: images/home-page/taman-jurong-carousel-image.JPG
+  button-text: Read more
+  button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19jan22_taman-jurong-cc
