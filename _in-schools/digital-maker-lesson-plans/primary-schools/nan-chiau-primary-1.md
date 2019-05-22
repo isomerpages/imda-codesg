@@ -1,8 +1,8 @@
 ---
-layout: simple-page
-title: Using micro:bit to facilitate learning of Patterns - Whole Numbers
+layout: post
+title:  Using micro:bit to facilitate learning of Patterns - Whole Numbers
+date:   2019-05-22
 permalink: /digital-maker-lesson-plans/primary-schools/math/nan-chiau-1/
-breadcrumb: Using micro:bit to facilitate learning of Patterns - Whole Numbers
 ---
 
 > image
