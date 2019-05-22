@@ -11,13 +11,14 @@ IMDA supports the development of computational thinking and making in schools by
 
 ### Pre-Schools
 
-[<img src="/images/in-schools/overview/Playmaker_Icon.jpg" alt= "playmaker" width="300" height="300">](https://isomer-dlp-staging.netlify.com/in-schools/playmaker-overview/)
+| ![code for fun](/images/in-schools/overview/Playmaker_Icon.jpg)  |  Click [here](https://isomer-dlp-staging.netlify.com/in-schools/playmaker-overview/) for more information |
+|---|---|
 
 ### Pre-Tertiary
 
-| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  loren ipsum code for fun blah blah click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) for more information |
+| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) for more information |
 |---|---|
-| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  | **loren ipsum code for fun blah blah click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) for more information** |
-|  ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  **loren ipsum code for fun blah blah click here for more information** | 
-|  ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg) | **loren ipsum code for fun blah blah click here for more information** |
-| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  **loren ipsum code for fun blah blah click here for more information** |
+| ![code for fun](/images/in-schools/overview/ICM_Icon_V2.jpg)  | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/) for more information** |
+|  ![code for fun](/images/in-schools/overview/Student_Development_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/) for more information** | 
+|  ![code for fun](/images/in-schools/overview/National_Infocomm_Icon_V2.jpg) | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competitions/) for more information** |
+| ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/) for more information** |
