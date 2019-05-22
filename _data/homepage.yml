@@ -11,7 +11,7 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Code & Make @SG
+hero-title: Code @SG
 hero-subtitle: Developing Computational Thinking and Making as a National Capability
 hero-banner: /images/home-page/Hero Banner.jpg
 
@@ -41,5 +41,5 @@ resources-title: Join us to create with tech!
 resources-more-button: Learn more
 resources-more-button-url: /events/
 
-careers-subtitle: Check Out Our Stories!
-careers-description: 
+careers-subtitle: Stories
+careers-description: loren ipsum
