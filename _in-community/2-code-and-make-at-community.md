@@ -31,8 +31,8 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky">Wed &amp; Thu</th>
-    <th class="tg-0pky">12pm - 8.30pm</th>
+    <td class="tg-0pky">Wed &amp; Thu</td>
+    <td class="tg-0pky">12pm - 8.30pm</td>
   </tr>
   <tr>
     <td class="tg-y698">Fri</td>
