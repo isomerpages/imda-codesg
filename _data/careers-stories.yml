@@ -1,5 +1,6 @@
 - title: Stories
-  name: Waterway Primary School 
+  name: Feature
+  position: Waterway Primary School
   # dept: Government Digital Services, Data Science Division
   story: Students team up with their parents to code at Waterway Primary School!
   img: images/home-page/waterway-carousel-image.jpg
@@ -7,7 +8,8 @@
   button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19feb16_waterwayprimary
   
 - title: Stories
-  name: Never Too Young To Code
+  name: Feature
+  position: Never Too Young To Code
   # dept: Government Digital Services, Data Science Division
   story: Cedric Phua may be too young to drive, but he has already made his own micro:bit car at the age of 10!
   img: images/home-page/cedric-phua-carousel-image.JPG
@@ -15,7 +17,8 @@
   button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/04/02/19jan26_cedric-phua
 
 - title: Stories
-  name: Never Too Old To Code
+  name: Feature
+  position: Never Too Old To Code
   # dept: Government Digital Services, Data Science Division
   story: Taman Jurong seniors show age is no barrier to learning digital making skills!
   img: images/home-page/taman-jurong-carousel-image.JPG
