@@ -9,8 +9,8 @@ collection_name: stories
 
 List of feature articles
 
-|* loren ipsum | Click here |
+|* loren ipsum | Click [here](/features-content-placeholder/) |
 |--|--|
-|* **loren ipsum** | **Click here** |
+|* **loren ipsum** | **Click [here](/features-content-placeholder/)** |
 |* **loren ipsum** | **Click here** |
 |* **loren ipsum** | **Click here** |
