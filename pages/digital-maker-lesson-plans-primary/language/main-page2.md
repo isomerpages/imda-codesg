@@ -4,4 +4,4 @@ title: Language (Intermediate)
 permalink: /primary-language-intermediate/
 breadcrumb: Language (Intermediate)
 ---
-[test](/placeholder-language-intermediate/)
+[test](/placeholder-primary-language-intermediate/)
