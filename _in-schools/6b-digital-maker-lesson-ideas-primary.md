@@ -9,12 +9,10 @@ second_nav_title: Digital Maker
 
 <details>
  
- <summary>Math</summary>
-
-1. <a href="www.bbc.co.uk> test</a> <br>
-
-2. Creating a micro:bit Multiplication Calculator <br>
-
-3. Using micro:bit to facilitate learning of Geometry - Area of Triangle
+|[test](www.bbc.co.uk)   |
+|---|
+| f  |
+| f  |
+| f  |
 
 </details>
