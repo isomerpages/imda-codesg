@@ -15,8 +15,7 @@ second_nav_title: Digital Maker
 | ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/) for more information** |
 
 
-<div class="sgds-accordion">
-    <div class="sgds-accordion-set">
+<div class="accordion">
         <a class="sgds-accordion-header">
             <h5>Title 1</h5> <i class="sgds-icon sgds-icon-chevron-down"></i>
         </a>
