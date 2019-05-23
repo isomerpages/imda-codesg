@@ -9,10 +9,8 @@ collection_name: stories
 
 List of media articles
 
-| loren ipsum | Click [here](/media-content-placeholder/
-) |
+| loren ipsum | Click [here](/media-content-placeholder/) |
 |--|--|
-| **loren ipsum** | **Click [here](/media-content-placeholder/
-)** |
+| **loren ipsum** | **Click [here](/media-content-placeholder/)** |
 | **loren ipsum** | **Click here** |
 | **loren ipsum** | **Click here** |
