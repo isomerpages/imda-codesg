@@ -5,10 +5,10 @@
 ##################################
 
 # Favicon
-favicon: /images/DLP-logo.png
+favicon: /images/DLP-logo.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/DLP-logo.png
 
 # Hero Banner
 hero-title: Code @SG
