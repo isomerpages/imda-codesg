@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Placeholder
-permalink: /placeholder-secondary-physical-education-advanced/
+permalink: /placeholder-secondary-physical-education-easy/
 breadcrumb: Placeholder
 ---
 
