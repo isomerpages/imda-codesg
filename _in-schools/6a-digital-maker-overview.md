@@ -29,6 +29,6 @@ For more information, please contact Wendy at <Wendy_Tee@imda.gov.sg>.
 
 ![digital maker overview image 3](/images/in-schools/digital-maker/overview/digital-maker-overview3.JPG)
 
-Digital making enthusiasts have also submitted their digital projects to our portal for sharing. Click on the sidebar to see these projects. 
+Digital making enthusiasts have also submitted their digital projects to our portal for sharing. Click [here](/in-schools/digital-maker/projects/) to see these projects. 
 
 
