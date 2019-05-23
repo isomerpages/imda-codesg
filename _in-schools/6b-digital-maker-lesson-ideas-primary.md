@@ -6,11 +6,12 @@ breadcrumb: Digital Maker Lesson Ideas (Primary Schools)
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
+
 <details>
  
  <summary>Math</summary>
 
-1. Using micro:bit to facilitate learning of Patterns - Whole Numbers <br>
+1. [Using micro:bit to facilitate learning of Patterns - Whole Numbers](/test/) <br>
 
 2. Creating a micro:bit Multiplication Calculator <br>
 
