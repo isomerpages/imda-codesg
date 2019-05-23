@@ -1,11 +1,11 @@
 ---
 layout: leftnav-page-content
-title: Code &amp; Make @ Community
-permalink: /in-community/code-and-make-at-community/
-breadcrumb: Code &amp; Make @ Community
+title: PIXEL Labs
+permalink: /in-community/pixel-labs/
+breadcrumb: PIXEL Labs
 collection_name: in-community
 ---
-Code & Make @Community aims to introduce computational thinking and making concepts to the public, raising awareness and generating interest. 
+PIXEL Labs aims to introduce computational thinking and making concepts to the public, raising awareness and generating interest. 
 
 ![code and make image](/images/in-community/code-and-make/code-and-make-image.jpg)
 
@@ -13,7 +13,8 @@ Code & Make @Community aims to introduce computational thinking and making conce
 
 Introductory workshops are held in community spaces, allowing and encouraging members of the public to explore coding and digital making.
 Various programmes are also conducted to let participants build projects that benefit the community.
-If you are interested to find out what goes on at our workshops and programmes, check out our *stories* on past events.
+*Meaningful making
+If you are interested to find out what goes on at our workshops and programmes, check out our [stories](/stories/features/) on past events.
 
 ![code and make image 2](/images/in-community/code-and-make/code-and-make-image2.jpg)
 
