@@ -9,7 +9,7 @@ second_nav_title: Digital Maker
 
 -------------------
 [**Easy**](#easy) | [**Intermediate**](#intermediate) | [**Advanced**](#advanced) 
--------------------
+
 
 <a name="easy"></a>
 
