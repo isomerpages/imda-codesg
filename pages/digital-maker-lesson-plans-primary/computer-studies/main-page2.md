@@ -5,4 +5,4 @@ permalink: /primary-computer-studies-intermediate/
 breadcrumb: Computer Studies (Intermediate)
 ---
 
-loren ipsum
+[test](/placeholder-computer-science-intermediate/)
