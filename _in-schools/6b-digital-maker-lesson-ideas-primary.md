@@ -16,9 +16,9 @@ second_nav_title: Digital Maker
 
 <a name="easy"></a>
 
-### Easy Lesson Plans 
-
-#### [Computer Studies](/primary-computer-studies-easy/)
+#### Easy Lesson Plans 
+---
+[**Computer Studies**](/primary-computer-studies-easy/)
 #### Design and Technology
 #### Humanities
 #### Language
@@ -33,8 +33,8 @@ second_nav_title: Digital Maker
 
 <a name="intermediate"></a>
 
-### Intermediate Lesson Plans 
-
+#### Intermediate Lesson Plans 
+---
 #### Computer Studies
 #### Design and Technology
 #### Humanities
@@ -50,8 +50,8 @@ second_nav_title: Digital Maker
 
 <a name="intermediate"></a>
 
-### Advanced Lesson Plans 
-
+#### Advanced Lesson Plans 
+---
 #### Computer Studies
 #### Design and Technology
 #### Humanities
