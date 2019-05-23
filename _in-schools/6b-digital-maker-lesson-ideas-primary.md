@@ -17,14 +17,14 @@ second_nav_title: Digital Maker
 <a name="easy"></a>
 
 #### Easy Lesson Plans 
-[**Computer Studies**](/primary-computer-studies-easy/)
-**Design and Technology**
-**Humanities**
-#**Language**
-**Math**
-**Music and Art**
-**Physical Education**
-**Science**
+[**Computer Studies**](/primary-computer-studies-easy/)<br>
+**Design and Technology**<br>
+**Humanities**<br>
+#**Language**<br>
+**Math**<br>
+**Music and Art**<br>
+**Physical Education**<br>
+**Science**<br>
 
 [Back to top](#top)
 
