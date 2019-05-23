@@ -2,7 +2,7 @@
 layout: simple-page
 title: Music and Art (Easy)
 permalink: /secondary-music-and-art-easy/
-breadcrumb: Placeholder
+breadcrumb: Music and Art (Easy)
 ---
 
 [test](/placeholder-secondary-music-and-art-easy/)
