@@ -11,7 +11,7 @@ second_nav_title: Digital Maker
  
  <summary>Math</summary>
 
-1. [Using micro:bit to facilitate learning of Patterns - Whole Numbers](www.bbc.co.uk) <br>
+1. <a href="www.bbc.co.uk> test</a> <br>
 
 2. Creating a micro:bit Multiplication Calculator <br>
 
