@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Placeholder
-permalink: /placeholder-design-and-technology-easy/
+permalink: /placeholder-primary-design-and-technology-easy/
 breadcrumb: Placeholder
 ---
 
