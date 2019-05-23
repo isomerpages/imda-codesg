@@ -7,36 +7,90 @@ collection_name: in-schools
 second_nav_title: Digital Maker
 ---
 
-| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) for more information |
-|---|---|
-| ![code for fun](/images/in-schools/overview/ICM_Icon_V2.jpg)  | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/) for more information** |
-|  ![code for fun](/images/in-schools/overview/Student_Development_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/) for more information** | 
-|  ![code for fun](/images/in-schools/overview/National_Infocomm_Icon_V2.jpg) | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competitions/) for more information** |
-| ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/) for more information** |
+<dl>
+  <dt>Definition list</dt>
+  <dd><html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
 
+.active, .collapsible:hover {
+  background-color: #555;
+}
 
-<div class="accordion">
-        <a class="sgds-accordion-header">
-            <h5>Title 1</h5> <i class="sgds-icon sgds-icon-chevron-down"></i>
-        </a>
-        <div class="sgds-accordion-body">
-            test
-        </div>
-    </div>
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<h2>Animated Collapsibles</h2>
+
+<p>A Collapsible:</p>
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
-<div class="sgds-accordion">
-    <div class="sgds-accordion-set">
-        <a class="sgds-accordion-header">
-            <h5>Title 1</h5> <i class="sgds-icon sgds-icon-chevron-down"></i>
-        </a>
-        <div class="sgds-accordion-body">
-            | ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) for more information |
-|---|---|
-| ![code for fun](/images/in-schools/overview/ICM_Icon_V2.jpg)  | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/) for more information** |
-|  ![code for fun](/images/in-schools/overview/Student_Development_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/) for more information** | 
-|  ![code for fun](/images/in-schools/overview/National_Infocomm_Icon_V2.jpg) | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competitions/) for more information** |
-| ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/) for more information** |
-        </div>
-    </div>
+<p>Collapsible Set:</p>
+<button class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
+<button class="collapsible">Open Section 2</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html></dd>
+</dl>
