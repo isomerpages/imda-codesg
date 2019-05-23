@@ -18,7 +18,7 @@ second_nav_title: Digital Maker
 </style>
 <table class="tg">
   <tr>
-   <th class="tg-0pky"><a href="www.bbc.co.uk">test</a></th>
+   <th class="tg-0pky"><a href="www.bbc.co.uk" target="_blank">test</a></th>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
