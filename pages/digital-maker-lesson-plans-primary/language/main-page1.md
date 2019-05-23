@@ -4,4 +4,4 @@ title: Language (Easy)
 permalink: /primary-language-easy/
 breadcrumb: Language (Easy)
 ---
-[test](/placeholder-language-easy/)
+[test](/placeholder-primary-language-easy/)
