@@ -7,9 +7,6 @@ collection_name: in-schools
 second_nav_title: Digital Maker
 ---
 
-<details>
- <summary>test</summary>
-
 | ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) for more information |
 |---|---|
 | ![code for fun](/images/in-schools/overview/ICM_Icon_V2.jpg)  | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/) for more information** |
@@ -17,7 +14,6 @@ second_nav_title: Digital Maker
 |  ![code for fun](/images/in-schools/overview/National_Infocomm_Icon_V2.jpg) | **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competitions/) for more information** |
 | ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/) for more information** |
 
-</details>
 
 <div class="sgds-accordion">
     <div class="sgds-accordion-set">
