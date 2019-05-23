@@ -49,6 +49,5 @@ collections:
     output: true
   stories:
     output: true
-  events:
-    output: true
+
 resources_name: events
