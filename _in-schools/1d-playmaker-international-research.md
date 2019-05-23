@@ -15,4 +15,4 @@ A research study by DevTech Research Group at Tufts University was conducted wit
      <iframe width="560" height="315" src="https://www.youtube.com/embed/qTjtGM0ITGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The research paper is published in the International Journal of Technology and Design Education and is available for download [here.](/files/playmaker/playmaker-study.pdf) 
+The research paper is published in the International Journal of Technology and Design Education and is available for reading [here.](https://www.semanticscholar.org/paper/Dancing-robots%3A-integrating-art%2C-music%2C-and-in-Sullivan-Bers/90249b0f482d889777aacb3b4712394efe3f3f3e) 
