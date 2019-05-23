@@ -4,4 +4,4 @@ title: Math (Intermediate)
 permalink: /primary-math-intermediate/
 breadcrumb: Math (Intermediate)
 ---
-[test](/placeholder-math-intermediate/)
+[test](/placeholder-primary-math-intermediate/)
