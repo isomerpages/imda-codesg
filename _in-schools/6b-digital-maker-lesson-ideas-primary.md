@@ -17,15 +17,14 @@ second_nav_title: Digital Maker
 <a name="easy"></a>
 
 #### Easy Lesson Plans 
----
 [**Computer Studies**](/primary-computer-studies-easy/)
-#### Design and Technology
-#### Humanities
-#### Language
-#### Math
-#### Music and Art
-#### Physical Education
-#### Science
+**Design and Technology**
+**Humanities**
+#**Language**
+**Math**
+**Music and Art**
+**Physical Education**
+**Science**
 
 [Back to top](#top)
 
@@ -33,16 +32,14 @@ second_nav_title: Digital Maker
 
 <a name="intermediate"></a>
 
-#### Intermediate Lesson Plans 
----
-#### Computer Studies
-#### Design and Technology
-#### Humanities
-#### Language
-#### Math
-#### Music and Art
-#### Physical Education
-#### Science
+[**Computer Studies**](/primary-computer-studies-easy/)
+**Design and Technology**
+**Humanities**
+#**Language**
+**Math**
+**Music and Art**
+**Physical Education**
+**Science**
 
 [Back to top](#top)
 
@@ -51,16 +48,14 @@ second_nav_title: Digital Maker
 <a name="intermediate"></a>
 
 #### Advanced Lesson Plans 
----
-#### Computer Studies
-#### Design and Technology
-#### Humanities
-#### Language
-#### Math
-#### Music and Art
-#### Physical Education
-#### Science
-
+[**Computer Studies**](/primary-computer-studies-easy/)
+**Design and Technology**
+**Humanities**
+#**Language**
+**Math**
+**Music and Art**
+**Physical Education**
+**Science**
 [Back to top](#top)
 
 -------------------
