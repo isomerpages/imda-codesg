@@ -5,4 +5,4 @@ permalink: /primary-computer-studies-advanced/
 breadcrumb: Computer Studies (Advanced)
 ---
 
-loren ipsum
+[test](/placeholder-computer-science-advanced/)
