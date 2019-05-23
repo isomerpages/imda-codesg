@@ -14,9 +14,9 @@ second_nav_title: Digital Maker
 
 #### Easy Projects
 
-[**Smart Home**](/secondary-computer-studies-easy/)<br>
-[**Fun and Games**](/secondary-design-and-technology-easy/)<br>
-[**A Better World**](/secondary-humanities-easy/)<br>
+[**Smart Home**](/smart-home-easy/)<br>
+[**Fun and Games**](/fun-and-games-easy/)<br>
+[**A Better World**](/a-better-world-easy/)<br>
 
 [Back to top](#top)
 
@@ -26,9 +26,9 @@ second_nav_title: Digital Maker
 
 #### Intermediate Projects
 
-[**Smart Home**](/secondary-computer-studies-easy/)<br>
-[**Fun and Games**](/secondary-design-and-technology-easy/)<br>
-[**A Better World**](/secondary-humanities-easy/)<br>
+[**Smart Home**](/smart-home-intermediate/)<br>
+[**Fun and Games**](/fun-and-games-intermediate/)<br>
+[**A Better World**](/a-better-world-intermediate/)<br>
 
 [Back to top](#top)
 
@@ -38,9 +38,9 @@ second_nav_title: Digital Maker
 
 #### Advanced Projects 
 
-[**Smart Home**](/secondary-computer-studies-easy/)<br>
-[**Fun and Games**](/secondary-design-and-technology-easy/)<br>
-[**A Better World**](/secondary-humanities-easy/)<br>
+[**Smart Home**](/smart-home-advanced/)<br>
+[**Fun and Games**](/fun-and-games-advanced/)<br>
+[**A Better World**](/a-better-world-advanced/)<br>
 
 
 [Back to top](#top)
