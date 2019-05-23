@@ -29,6 +29,7 @@ second_nav_title: Digital Maker
 
 <a name="intermediate"></a>
 
+#### Intermediate Lesson Plans
 [**Computer Studies**](/secondary-computer-studies-intermediate/)<br>
 [**Design and Technology**](/secondary-design-and-technology-intermediate/)<br>
 [**Humanities**](/secondary-humanities-intermediate/)<br>
