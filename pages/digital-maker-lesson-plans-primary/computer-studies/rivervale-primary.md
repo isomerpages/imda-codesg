@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: CyberWellness with Reaction Game
-permalink: /rivervale-primary/
-breadcrumb: CyberWellness with Reaction Game
+title: Computer Studies (Easy)
+permalink: /primary-computer-studies-easy/
+breadcrumb: Computer Studies (Easy)
 ---
 
 test
