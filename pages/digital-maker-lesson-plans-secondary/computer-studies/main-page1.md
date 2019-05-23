@@ -5,4 +5,4 @@ permalink: /secondary-computer-studies-easy/
 breadcrumb: Computer Studies (Easy)
 ---
 
-[test](/placeholder-secondary-computer-science-intermediate/)
+[test](/placeholder-secondary-computer-science-easy/)
