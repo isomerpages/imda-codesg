@@ -7,4 +7,4 @@ collection_name: in-schools
 ---
 > insert diagram
 
-Under the Student Development Programme, students from Infocomm Media Clubs at schools and community will be offered opportunities to acquire skills relevant to the industry, through partnerships with industry partners.  Such opportunities could be in the form of internships/mentorships, accelerated training programmes, and boot camps with technology leaders and start-ups, as well as the National Infocomm Competitions. 
+Under the Student Development Programme, students from Infocomm Media Clubs at schools and community will be offered opportunities to acquire skills relevant to the industry, through partnerships with industry partners.  Such opportunities could be in the form of internships/mentorships, accelerated training programmes, and boot camps with technology leaders and start-ups.
