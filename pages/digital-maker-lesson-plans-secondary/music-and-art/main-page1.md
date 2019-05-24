@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Music and Art (Easy)
-permalink: /secondary-music-and-art-easy/
-breadcrumb: Music and Art (Easy)
+title: Music and Art Lesson Ideas - Secondary
+permalink: /secondary-music-and-art/
+breadcrumb: Music and Art Lesson Ideas - Secondary
 ---
 
 [test](/placeholder-secondary-music-and-art-easy/)
