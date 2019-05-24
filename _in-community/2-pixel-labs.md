@@ -29,7 +29,9 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 .tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
 .tg .tg-h6w4{font-weight:bold;font-size:15px;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
@@ -39,16 +41,16 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
     <th class="tg-1wig">Time</th>
   </tr>
   <tr>
-    <td class="tg-0pky">Wed &amp; Thu</td>
-    <td class="tg-0lax">12pm - 8.30pm</td>
+    <td class="tg-y698">Wed &amp; Thu</td>
+    <td class="tg-kftd">12pm - 8.30pm</td>
   </tr>
   <tr>
     <td class="tg-0pky">Fri</td>
     <td class="tg-0lax">12pm - 3pm</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sat &amp; Sun</td>
-    <td class="tg-0lax">5.30pm - 8.30pm (*2pm - 8.30pm)</td>
+    <td class="tg-y698">Sat &amp; Sun</td>
+    <td class="tg-kftd">5.30pm - 8.30pm (*2pm - 8.30pm)</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2">* The lab will be open for extended weekend tinkering every third Saturday and Sunday of the month.</td>
