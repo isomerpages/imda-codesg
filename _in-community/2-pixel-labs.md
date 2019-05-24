@@ -9,7 +9,7 @@ PIXEL Labs aims to introduce computational thinking and making concepts to the p
 
 ![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image.jpg)
 
-**Workshops and programmes**
+#### Workshops and programmes
 
 Introductory workshops are held in community spaces, allowing and encouraging members of the public to explore coding and digital making.
 Various programmes are also conducted to let participants build projects that benefit the community.
@@ -20,7 +20,7 @@ If you are interested to find out what goes on at our workshops and programmes, 
 
 ![pixel labs 2](/images/in-community/pixel-labs/pixel-labs-image2.jpg)
 
-**Tinkering hours**
+#### Tinkering hours
 
 Independent makers can register to use PIXEL Labs @ NLB for their tinkering at designated hours. Equipment such as 3D printers and micro controllers will be made available.
 
