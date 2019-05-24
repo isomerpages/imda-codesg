@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Math (Easy)
-permalink: /secondary-math-easy/
-breadcrumb: Math (Easy)
+title: Math Lesson Ideas - Secondary
+permalink: /secondary-math/
+breadcrumb: Math Lesson Ideas - Secondary)
 ---
 
 [test](/placeholder-secondary-math-easy)
