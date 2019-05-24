@@ -7,7 +7,7 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 10 Pasir Panjang Road<br>#10-03 Mapletree Business City<br>Singapore 117438
+    address: 10 Pasir Panjang Road<br>#03-01 Mapletree Business City<br>Singapore 117438
     find-directions: https://www.google.com/maps/place/Government+Technology+Agency+(GovTech)/@1.2742548,103.7977659,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1bc0bcd90b45:0xf191edbdddbc919e!8m2!3d1.2742548!4d103.7999546
   # Operating Hours [OPTIONAL]
     operating-hours:
