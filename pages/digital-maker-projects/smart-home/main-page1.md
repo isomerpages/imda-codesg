@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Smart Home - Project Ideas
-permalink: /smart-home-easy/
+permalink: /smart-home/
 breadcrumb: Smart Home - Project Ideas
 ---
 
