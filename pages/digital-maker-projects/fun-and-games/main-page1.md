@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Fun and Games (Easy)
-permalink: /fun-and-games-easy/
-breadcrumb: Fun and Games (Easy)
+title: Fun and Games - Project Ideas
+permalink: /fun-and-games/
+breadcrumb: Fun and Games - Project Ideas
 ---
 
 [test](/placeholder-fun-and-games-easy/)
