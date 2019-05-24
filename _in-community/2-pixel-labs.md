@@ -7,7 +7,7 @@ collection_name: in-community
 ---
 PIXEL Labs aims to introduce computational thinking and making concepts to the public, raising awareness and generating interest. 
 
-![code and make image](/images/in-community/code-and-make/code-and-make-image.jpg)
+![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image.jpg)
 
 **Workshops and programmes**
 
@@ -18,7 +18,7 @@ An example would be Meaningful Making whereby various programmes are organized t
 
 If you are interested to find out what goes on at our workshops and programmes, check out our [stories](/stories/features/) on past events.
 
-![code and make image 2](/images/in-community/code-and-make/code-and-make-image2.jpg)
+![pixel labs 2](/images/in-community/pixel-labs/pixel-labs-image2.jpg)
 
 **Tinkering hours**
 
@@ -26,28 +26,29 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Lato;font-size:20px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Lato;font-size:20px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h6w4{font-weight:bold;font-size:15px;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-0pky">Day</td>
-    <td class="tg-0pky">Time</td>
+    <th class="tg-h6w4">Day</th>
+    <th class="tg-1wig">Time</th>
   </tr>
   <tr>
     <td class="tg-0pky">Wed &amp; Thu</td>
-    <td class="tg-0pky">12pm - 8.30pm</td>
+    <td class="tg-0lax">12pm - 8.30pm</td>
   </tr>
   <tr>
-    <td class="tg-y698">Fri</td>
-    <td class="tg-y698">12pm - 3pm</td>
+    <td class="tg-0pky">Fri</td>
+    <td class="tg-0lax">12pm - 3pm</td>
   </tr>
   <tr>
     <td class="tg-0pky">Sat &amp; Sun</td>
-    <td class="tg-0pky">5.30pm - 8.30pm (*2pm - 8.30pm)</td>
+    <td class="tg-0lax">5.30pm - 8.30pm (*2pm - 8.30pm)</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2">* The lab will be open for extended weekend tinkering every third Saturday and Sunday of the month.</td>
