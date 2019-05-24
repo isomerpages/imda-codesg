@@ -2,7 +2,7 @@
 layout: post
 title: Lorem Ipsum
 date: 2019-04-29
-permalink: /events/conventions-and-exhibitions/lorem-ipsum
+permalink: /events/roadshows-and-exhibitions/lorem-ipsum
 ---
 
 ![Some mountains rising from the fog - this is an alt text which briefly describes what is in the image for the benefit of visually impaired visitors using screen reading tools](https://static.photocdn.pt/images/articles/2017_1/iStock-545347988.jpg)
