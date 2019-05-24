@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Design and Technology Lesson Plans - Primary
+title: Design and Technology Lesson Ideas - Primary
 permalink: /primary-design-and-technology/
-breadcrumb: Design and Technology Lesson Plans - Primary
+breadcrumb: Design and Technology Lesson Ideas - Primary
 ---
 [test](/placeholder-primary-design-and-technology-easy/)
