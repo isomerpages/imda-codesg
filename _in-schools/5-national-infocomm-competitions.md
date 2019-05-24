@@ -20,4 +20,3 @@ The key competitions supported under NIC include the following:
 * Singapore Space Challenge - <a href="https://www.space.org.sg/education-and-outreach/singapore-space-challenge" target="_blank">link</a>
 * AWS Build On Singapore
 
-For more information, please contact Leonard at <leonard_wong@imda.gov.sg>
