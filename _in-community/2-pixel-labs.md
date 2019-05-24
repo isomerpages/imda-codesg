@@ -34,8 +34,8 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-0pky">Day</td>
-    <td class="tg-0pky">Time</td>
+    <td class="tg-0pky">**Day**</td>
+    <td class="tg-0pky">**Time**</td>
   </tr>
   <tr>
     <td class="tg-0pky">Wed &amp; Thu</td>
