@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Science (Easy)
-permalink: /secondary-science-easy/
-breadcrumb: Science (Easy)
+title: Science Lesson Ideas - Secondary
+permalink: /secondary-science/
+breadcrumb: Science Lesson Ideas - Secondary
 ---
 
 [test](/placeholder-secondary-science-easy/)
