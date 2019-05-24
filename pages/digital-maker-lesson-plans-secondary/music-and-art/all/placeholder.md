@@ -3,6 +3,7 @@ layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-music-and-art-easy/
 breadcrumb: Placeholder
+---
 
 loren ipsum
 
