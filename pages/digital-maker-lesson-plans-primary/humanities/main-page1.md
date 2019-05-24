@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Humanities (Easy)
-permalink: /primary-humanities-easy/
-breadcrumb: Humanities (Easy)
+title: Humanities Lesson Plans - Primary
+permalink: /primary-humanities/
+breadcrumb: Humanities Lesson Plans - Primary
 ---
 [test](/placeholder-humanities-easy/)
