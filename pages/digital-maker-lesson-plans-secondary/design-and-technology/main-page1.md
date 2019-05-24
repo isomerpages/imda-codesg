@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Design and Technology (Easy)
-permalink: /secondary-design-and-technology-easy/
-breadcrumb: Design and Technology (Easy)
+title: Design and Technology Lesson Ideas - Secondary
+permalink: /secondary-design-and-technology/
+breadcrumb: Design and Technology Lesson Ideas - Secondary
 ---
 
 [test](/placeholder-secondary-design-and-technology-easy/)
