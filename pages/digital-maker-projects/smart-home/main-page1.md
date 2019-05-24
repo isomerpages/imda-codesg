@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Smart Home (Easy)
+title: Smart Home - Project Ideas
 permalink: /smart-home-easy/
-breadcrumb: Smart Home (Easy)
+breadcrumb: Smart Home - Project Ideas
 ---
 
 [test](/placeholder-smart-home-easy)
