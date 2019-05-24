@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: A Better World (Easy)
-permalink: /a-better-world-easy/
-breadcrumb: A Better World (Easy)
+title: A Better World - Project Ideas
+permalink: /a-better-world/
+breadcrumb: A Better World - Project Ideas
 ---
 
 [test](/placeholder-a-better-world-easy)
