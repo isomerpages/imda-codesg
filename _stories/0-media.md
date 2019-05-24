@@ -7,12 +7,12 @@ collection_name: stories
 ---
 ![media main image](/images/stories/media/media-main-page.jpg)
 
-## "children between four and seven can learn the basics of engineering and sequencing" 
-#### - apolitical.co
+## "There’s no ceiling to what you can learn and make" 
+
 
 ---
 
-Here you will find a list of the instances where Code @SG has been featured in external media. Click on the links in the table below to see more!
+Here you will find a list of our feature articles. Click on the links in the table below to see more!
 
 #### List of media articles
 
