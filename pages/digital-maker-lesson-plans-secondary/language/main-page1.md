@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Language (Easy)
-permalink: /secondary-language-easy/
-breadcrumb: Language (Easy)
+title: Language Lesson Ideas - Secondary
+permalink: /secondary-language/
+breadcrumb: Language Lesson Ideas - Secondary
 ---
 
 [test](/placeholder-secondary-language-easy/)
