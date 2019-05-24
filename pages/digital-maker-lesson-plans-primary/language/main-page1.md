@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Language Lesson Plans - Primary
+title: Language Lesson Ideas - Primary
 permalink: /primary-language/
-breadcrumb: Language Lesson Plans - Primary
+breadcrumb: Language Lesson Ideas - Primary
 ---
 [test](/placeholder-primary-language-easy/)
