@@ -10,7 +10,9 @@ collection_name: stories
 ## "children between four and seven can learn the basics of engineering and sequencing" 
 #### - apolitical.co
 
-Here you will find a list of the instances where Code @SG has been featured in external media.
+---
+
+Here you will find a list of the instances where Code @SG has been featured in external media. Click on the links in the table below to see more!
 
 #### List of media articles
 
