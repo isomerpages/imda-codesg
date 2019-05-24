@@ -11,29 +11,29 @@
   sub-links:
   - title: Overview
     url: /in-schools/overview/
-  - title: PlayMaker
-    url: /in-schools/playmaker-overview/
-  - title: ICM Learning Roadmap
-    url: /in-schools/icm-learning-roadmap/
   - title: Code For Fun
     url: /in-schools/code-for-fun/overview/
-  - title: Student Development
-    url: /in-schools/student-development/
-  - title: National Infocomm Competition
-    url: /in-schools/national-infocomm-competition/
   - title: Digital Maker
     url: /in-schools/digital-maker/overview/
+  - title: ICM Learning Roadmap
+    url: /in-schools/icm-learning-roadmap/
+  - title: National Infocomm Competition
+    url: /in-schools/national-infocomm-competition/
+  - title: PlayMaker
+    url: /in-schools/playmaker-overview/
+  - title: Student Development
+    url: /in-schools/student-development/
 - title: In Community
   url: /in-community/overview/
   sub-links:
   - title: Overview
     url: /in-community/overview/
-  - title: PlayMaker
-    url: /in-community/playmaker-overview/
-  - title: PIXEL Labs
-    url: /in-community/pixel-labs/
   - title: By Community For Community
     url: /in-community/by-community-for-community/
+  - title: PIXEL Labs
+    url: /in-community/pixel-labs/
+  - title: PlayMaker
+    url: /in-community/playmaker-overview/
 - title: Events
   url: /events/
   sub-links:
