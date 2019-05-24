@@ -12,6 +12,6 @@ List of feature articles
 
 | date | loren ipsum | Click [here](/features-content-placeholder/) |
 |--|--|--|
-| date | **loren ipsum** | **Click [here](/features-content-placeholder/)** |
-| date | **loren ipsum** | **Click here** |
-| date | **loren ipsum** | **Click here** |
+| **date** | **loren ipsum** | **Click [here](/features-content-placeholder/)** |
+| **date** | **loren ipsum** | **Click here** |
+| **date** | **loren ipsum** | **Click here** |
