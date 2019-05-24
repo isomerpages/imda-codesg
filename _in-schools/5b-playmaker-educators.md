@@ -17,6 +17,6 @@ For more details on the course fee and dates, please refer to AECES website <a h
 
 A collection of lesson plans from all the PlayMaker pre-schools has been categorised into different tech toys and is available as a resource guide book for all educators and parents who are interested to embark on integrating PlayMaker into their classroom or home learning environments. 
 
-Click *here to download the resource guide.
+Click [here](/files/playmaker/PlayMaker-Resource-Guidebook.pdf) to download the resource guide.
 
 Find out more about the PlayMaker journey on our [next page](/in-schools/playmaker/our-journey/)
