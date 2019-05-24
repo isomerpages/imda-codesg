@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Math (Easy)
-permalink: /primary-math-easy/
-breadcrumb: Math (Easy)
+title: Math Lesson Plans - Primary
+permalink: /primary-math/
+breadcrumb: Math Lesson Plans - Primary
 ---
 [test](/placeholder-primary-math-easy/)
