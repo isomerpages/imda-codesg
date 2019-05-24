@@ -16,14 +16,14 @@ Launched in April 2017, the 2-year Digital Maker programme was rolled out to sch
 
 Under this programme, we provided interested primary and secondary schools with micro:bits for up to one full cohort of their students. Together with our partner Microsoft, we equip school teachers with basic skills of digital making using the micro:bit and show them the possibilities of infusing digital making in lessons and/or schools’ programmes.  To date, we have 220 schools on board the programme, and we continue to share the lesson ideas by our teachers and build a community of maker educators.
 
-**Lesson Ideas**
+#### Lesson Ideas
 
 ![diigtal maker overview image 2](images/in-schools/digital-maker/overview/digital-maker-overview2.jpg)
 
 Teachers working with the Digital Maker programme created lesson plans to incorporate digital making into their curriculum. Click on the links in the sidebar to view and download the lesson plans for primary and secondary school students.
 
 
-**Projects**
+#### Projects
 
 ![digital maker overview image 3](/images/in-schools/digital-maker/overview/digital-maker-overview3.JPG)
 
