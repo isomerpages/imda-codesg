@@ -16,4 +16,4 @@ The following are examples of age-appropriate and developmentally-appropriate te
 
 The PlayMaker programme introduces fundamental computational thinking and making concepts in 2 ways, through educators at preschool centres and parent-child workshops in the community.
 
-
+Find out the learning opportunities PlayMaker offers parents and children on our [next page](/in-community/playmaker/parent-child-workshop/)
