@@ -10,8 +10,7 @@ second_nav_title: Digital Maker
 
 The Digital Maker programme aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. 
 Launched in April 2017, the 2-year Digital Maker programme was rolled out to schools and community to introduce digital making through a simple-to-use and open-ended technology called the “micro:bit”. This allows students and adults to understand technology easily and thus inspire them to explore the possibilities of creating with technology. 
-
-For more information, please contact Wendy at <Wendy_Tee@imda.gov.sg>. 
+ 
 
 ![digital maker overview image](/images/in-schools/digital-maker/overview/digital-maker-overview.jpg)
 
@@ -23,7 +22,6 @@ Under this programme, we provided interested primary and secondary schools with 
 
 Teachers working with the Digital Maker programme created lesson plans to incorporate digital making into their curriculum. Click on the links in the sidebar to view and download the lesson plans for primary and secondary school students.
 
-For more information, please contact Wendy at <Wendy_Tee@imda.gov.sg>. 
 
 **Projects**
 
