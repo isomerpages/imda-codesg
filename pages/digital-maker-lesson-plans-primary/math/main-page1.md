@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-title: Math Lesson Plans - Primary
+title: Math Lesson Ideas - Primary
 permalink: /primary-math/
-breadcrumb: Math Lesson Plans - Primary
+breadcrumb: Math Lesson Ideas - Primary
 ---
 [test](/placeholder-primary-math-easy/)
