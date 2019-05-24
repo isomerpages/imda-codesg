@@ -6,7 +6,8 @@ breadcrumb: Lesson Study
 collection_name: in-community
 second_nav_title: PlayMaker
 ---
-IMDA commissioned a collaborativeaction research with Temasek Polytechnic and 6 pre-school centres to develop resources to guide pre-school educators in planning, implementing and reflecting on lessons involving the PlayMaker pedagogy and the use of tech toys in their lessons at the pre-school centres.  
+
+IMDA commissioned a collaborative action research with Temasek Polytechnic and 6 pre-school centres to develop resources to guide pre-school educators in planning, implementing and reflecting on lessons involving the PlayMaker pedagogy and the use of tech toys in their lessons at the pre-school centres.  
 
 The PlayMaker pedagogy combines the well-established theoretical underpinnings of the key role of play in a child’s learning and development with maker-centred learnings which encourage tinkering experiences for innovation. Such experiences can help children to innovate and invent in a fun and active way.
 
