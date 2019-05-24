@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Humanities (Easy)
-permalink: /secondary-humanities-easy/
-breadcrumb: Humanities (Easy)
+title: Humanities Lesson Ideas - Secondary
+permalink: /secondary-humanities/
+breadcrumb: Humanities Lesson Ideas - Secondary
 ---
 
 [test](/placeholder-secondary-humanities-easy/)
