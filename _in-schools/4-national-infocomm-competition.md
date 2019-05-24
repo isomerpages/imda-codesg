@@ -11,7 +11,7 @@ The National Infocomm Competition (NIC) is a series of infocomm-themed competiti
 The key competitions supported under NIC include the following:
 * FIRST LEGO League Singapore - <a href="http://www.ducklearning.com/first-lego-league-fll/" target="_blank">link</a>
 * Lockheed Martin Code Quest - <a href="https://www.lockheedmartin.com/en-us/who-we-are/communities/codequest/code-quest-suntec.html" target="_blank">link</a>
-* RoboCup Singapore - <a href=" http://robocupsingapore.org/en/singaporeopen/open-2019" target="_blank">link</a>
+* RoboCup Singapore - <a href="http://robocupsingapore.org/en/singaporeopen/open-2019" target="_blank">link</a>
 * Samsung Solve for Tomorrow - <a href="https://www.samsung.com/sg/solvefortomorrow/" target="_blank">link</a>
 * SAP ASEAN Data Science Explorers - <a href="https://www.aseandse.org/" target="_blank">link</a>
 * Shopee National Data Science Challenge - <a href="https://careers.shopee.sg/ndsc/" target="_blank">link</a>
