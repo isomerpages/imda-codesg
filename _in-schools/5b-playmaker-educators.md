@@ -19,4 +19,4 @@ A collection of lesson plans from all the PlayMaker pre-schools has been categor
 
 Click [here](/files/playmaker/PlayMaker-Resource-Guidebook.pdf) to download the resource guide.
 
-Find out more about the PlayMaker journey on our [next page](/in-schools/playmaker/our-journey/)
+Find out more about the PlayMaker journey by [clicking here](/in-schools/playmaker/our-journey/)
