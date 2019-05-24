@@ -18,7 +18,6 @@ An example would be Meaningful Making whereby various programmes are organized t
 
 If you are interested to find out what goes on at our workshops and programmes, check out our [stories](/stories/features/) on past events.
 
-![pixel labs 2](/images/in-community/pixel-labs/pixel-labs-image2.jpg)
 
 #### Tinkering hours
 
