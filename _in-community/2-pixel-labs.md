@@ -13,7 +13,9 @@ PIXEL Labs aims to introduce computational thinking and making concepts to the p
 
 Introductory workshops are held in community spaces, allowing and encouraging members of the public to explore coding and digital making.
 Various programmes are also conducted to let participants build projects that benefit the community.
-*Meaningful making
+
+An example would be Meaningful Making whereby various programmes are organized to bring students and families together to build meaningful projects. One such program is Tech Pals, where participants gather over 8 weekly sessions to build tech solutions for a good cause, like tech-enabled toys for disabled children. 
+
 If you are interested to find out what goes on at our workshops and programmes, check out our [stories](/stories/features/) on past events.
 
 ![code and make image 2](/images/in-community/code-and-make/code-and-make-image2.jpg)
