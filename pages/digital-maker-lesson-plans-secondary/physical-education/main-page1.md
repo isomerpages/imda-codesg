@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Physical Education (Easy)
-permalink: /secondary-physical-education-easy/
-breadcrumb: Physical Education (Easy)
+title: Physical Education Lesson Ideas - Secondary
+permalink: /secondary-physical-education/
+breadcrumb: Physical Education Lesson Ideas - Secondary
 ---
 
 [test](/placeholder-secondary-physical-education-easy)
