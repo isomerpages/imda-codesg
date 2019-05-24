@@ -17,6 +17,12 @@ locations:
         time: 8.30am - 5.30pm
         description: "except public holidays"
 
+  # Contact Us
+  column:
+    - title: General Enquiries & Feedback
+      content:
+      - line: +65 6377 3800
+      - line: info@imda.gov.sg (email)
 
 # Image
 image-url:
