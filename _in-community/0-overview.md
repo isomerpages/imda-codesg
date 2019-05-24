@@ -5,7 +5,7 @@ permalink: /in-community/overview/
 breadcrumb: In Community Overview
 collection_name: in-community
 ---
-![in community overview image](/images/in-community/overview/in-community-overview-image.jpg)
+![overview image](/images/in-community/pixel-labs/pixel-labs-image2.jpg)
 
 Our programmes also cater to innovative and creative individuals amongst the public, encouraging collaboration and fostering a community of coders and makers, and boosting computational thinking skills as a national competency. 
 
