@@ -5,7 +5,7 @@ permalink: /stories/media/
 breadcrumb: Media
 collection_name: stories
 ---
-> media image
+![media main image](/images/stories/media/media-main-page.jpg)
 
 List of media articles
 
