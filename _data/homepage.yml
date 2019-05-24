@@ -24,7 +24,7 @@ button:
 info-sections:
   - section-title: 
     section-subtitle: In Schools
-    section-description: IMDA supports the development of computational thinking and making in schools.Programmes for broad-  based learning and specialised training are offered at multiple educational levels to encourage students to innovate and build ICT solutions, as part of long-term efforts to build the future pipeline of infocomm professionals. 
+    section-description: IMDA supports the development of computational thinking and making in schools. Programmes for broad-  based learning and specialised training are offered at multiple educational levels to encourage students to innovate and build ICT solutions, as part of long-term efforts to build the future pipeline of infocomm professionals. 
     section-more-button: Learn more
     section-more-button-url: /in-schools/overview/
     section-image-path: /images/home-page/In Schools.jpg
@@ -42,4 +42,4 @@ resources-more-button: Learn more
 resources-more-button-url: /events/
 
 careers-subtitle: Stories
-careers-description: loren ipsum
+careers-description: Check out our media and features!
