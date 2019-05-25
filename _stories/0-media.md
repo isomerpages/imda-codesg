@@ -18,7 +18,7 @@ Here you will find a list of our feature articles. Click on the links in the tab
 
 | Title | Media | Date | Click [here](insert link) |
 |--|--|
-| Steve Jobs | The Straits Times | 10 April 2019 | Click [here](https://www.imda.gov.sg/infocomm-and-media-news/sg-digital-wonderland-2019/innovate-zone) |
+| Singapore to use micro:bit to teach coding, nurture its own Steve Jobs | The Straits Times | 13 April 2017 | Click [here](https://www.straitstimes.com/singapore/singapore-to-use-microbit-to-teach-coding-nurture-its-own-steve-jobs) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
