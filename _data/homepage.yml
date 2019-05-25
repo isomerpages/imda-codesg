@@ -35,9 +35,9 @@ info-sections:
     section-more-button-url: /in-community/overview/
     section-image-path: /images/home-page/In Community.jpg
  
-  - section-title: 
-    section-subtitle: Events
-    section-description: Join us to create with tech!
+  - section-title: Events
+    section-subtitle: Join us to create with tech!
+    section-description: 
     section-more-button: Learn more
     section-more-button-url: /in-community/overview/
     section-image-path: /images/home-page/In Community.jpg
