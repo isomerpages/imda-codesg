@@ -7,7 +7,7 @@ breadcrumb: Secondary School - design and technology
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
 
-Students have to decipher a morse code to help the police apprehend a prisoner who has escaped from the prison! 
+Students have to decipher a morse code to help the police apprehend a prisoner who has escaped from prison! 
 
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/Morse Code.pptx)
