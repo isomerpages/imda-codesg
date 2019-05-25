@@ -12,6 +12,7 @@ Students will learn about how particles of matter behave differently in terms of
 You Will Need:
 
 1 x micro:bit with battery pack
+
 1 x USB connector Computer or phones with Internet access (optional)
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/Sec 1  2 Science  Model of MatterParticulate Nature of Matter TinkerTanker.pdf)
