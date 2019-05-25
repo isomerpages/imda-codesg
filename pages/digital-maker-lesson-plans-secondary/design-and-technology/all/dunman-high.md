@@ -13,4 +13,6 @@ By the end of the module, students will learn about the basic building blocks of
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/Dunman High School.zip)
 
+Download the lesson plan [here](/files/lesson-plans/primary-schools/computer-studies/Rivervale-Primary-CyberWellness-With-Reaction-Game.docx)
+
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)
