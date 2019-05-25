@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Beacon Primary Emoji Beacon.
-permalink: /beacon-primary-emoji-beacon/
-breadcrumb: Beacon Primary Emoji Beacon.
+title: Beacon Primary Emoji
+permalink: /beacon-primary-emoji/
+breadcrumb: Beacon Primary Emoji
 ---
 
 ![stock image/ project photo here](picture link here)
