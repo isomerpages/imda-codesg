@@ -23,4 +23,4 @@ Join the competition today, if you are an ASEAN National above 16 years of age, 
 
 For more information on this competition, <a href="https://www.aseandse.org/" target="_blank">click here</a> 
 
-*Information and image source: Singapore Space and Technology Association
+*Information and image source: ASEAN Data Science Explorers official website
