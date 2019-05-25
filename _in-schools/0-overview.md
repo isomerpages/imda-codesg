@@ -13,6 +13,7 @@ IMDA supports the development of computational thinking and making in schools by
 
 | ![code for fun](/images/in-schools/overview/Playmaker_Icon.jpg)  |  For Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
 |---|---|
+|---|---|
 | ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/)** |
 | ![code for fun](/images/in-schools/overview/ICM_Icon_V2.jpg)  | **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/)** |
 |  ![code for fun](/images/in-schools/overview/Student_Development_Icon_V2.jpg)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/)** | 
