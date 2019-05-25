@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: MICRO:BIT Fun! and Design Thinking in Science
-permalink: /sembawang-secondary/
+permalink: /sembawang-secondary-microbit-fun-and-design-thinking-in-science/
 breadcrumb: Secondary School - design and technology
 ---
 
