@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: West Spring Primary Moisture Analyzer
-permalink: /west-spring-primary-moisture-analyzer/
-breadcrumb: West Spring Primary Moisture Analyzer
+title: Sengkang Primary LED Panel
+permalink: /sengkang-primary-led-panel/
+breadcrumb: WSengkang Primary LED Panel
 ---
 
 ![LED panel](/images/in-schools/digital-maker/overview/lesson-plans/primary/Sengkang-primary-LED-panel.jpg)
