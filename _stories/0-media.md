@@ -16,10 +16,10 @@ Here you will find a list of our feature articles. Click on the links in the tab
 
 #### List of media articles
 
-| loren ipsum | Click [here](insert web link) |
+| Title | Media | Date | Click [here](insert link) |
 |--|--|
-| **loren ipsum** | **Click [here](/media-content-placeholder/)** |
-| **loren ipsum** | **Click here** |
-| **loren ipsum** | **Click here** |
-| **loren ipsum** | **Click [here](/media-content-placeholder/)** |
-| **Singapore to use micro:bit to teach coding, nurture its own Steve Jobs by The Straits Times [13 April 2017]** | **Click [here](https://www.straitstimes.com/singapore/singapore-to-use-microbit-to-teach-coding-nurture-its-own-steve-jobs)** |
+| Steve Jobs | The Straits Times | 10 April 2019 | Click [here](https://www.imda.gov.sg/infocomm-and-media-news/sg-digital-wonderland-2019/innovate-zone) |
+| Title | Media | Date | Click [here](insert link) |
+| Title | Media | Date | Click [here](insert link) |
+| Title | Media | Date | Click [here](insert link) |
+| Title | Media | Date | Click [here](insert link) |
