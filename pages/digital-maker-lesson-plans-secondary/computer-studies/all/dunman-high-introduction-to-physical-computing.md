@@ -2,7 +2,7 @@
 layout: simple-page
 title: Introduction to Physical Computing
 permalink: /dunman-high-introduction-to-physical-computing/
-breadcrumb: Secondary School - design and technology
+breadcrumb: Secondary School - computer studies
 ---
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
