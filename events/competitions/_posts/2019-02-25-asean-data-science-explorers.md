@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ASEAN Data Science Explorers 2019
-date:   2019-05-15
+date:   2019-02-25
 permalink: /events/competitions/asean-data-science-explorers-2019
 ---
 
