@@ -5,11 +5,6 @@ date:   2019-02-23
 permalink: /events/workshops/introduction-to-digital-making-digital-keychain
 ---
 
-| Date:  | 23 April 2019  |
-|--------|---|
-| **Time:**  | **02:00 PM - 04:00 PM**  |
-| **Venue:** | **Taman Jurong Community Club**  |
-
 ![hi](/images/events/generic-event-image.jpg)
 
 Hi Everyone! Come and join us in this workshop and create your own Digital Keychain at Taman Jurong CC!
