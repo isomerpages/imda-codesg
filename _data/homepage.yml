@@ -28,6 +28,7 @@ info-sections:
     section-more-button: Learn more
     section-more-button-url: /in-schools/overview/
     section-image-path: /images/home-page/In Schools.jpg
+    
   - section-title: 
     section-subtitle: In Community
     section-description: IMDA reaches out to the community to introduce coding and making to members of the public. To promote innovation and collaboration, our programmes are also offered at community locations to bring the community (from preschoolers to seniors) together to create and make with technology.
