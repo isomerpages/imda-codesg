@@ -23,7 +23,7 @@ We have been featured in various media. To read more about us, see below list.
 | Singapore Hosts a Full-On Maker Extravaganza| Makezine | 20 July 2017 | Click [here](https://makezine.com/2017/07/20/singapore-hosts-full-maker-extravaganza/) |
 | Getting Singapore making with the micro:bit | Tinkercademy | 25 June 2017 | Click [here](https://blog.tinkercademy.com/digital-maker-programme-998927090ddc) |
 | Add coding to basic skills taught in schools | The Straits Times  | 11 May 2017 | Click [here](https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18) |
-| Title | Media | Date | Click [here](insert link) |
+| Pocket-size gadget for 100,000 potential coders | The Straits Times | 14 April 2017 | Click [here](https://www.straitstimes.com/singapore/pocket-size-gadget-for-100000-potential-coders) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
