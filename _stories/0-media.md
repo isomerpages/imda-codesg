@@ -25,9 +25,5 @@ We have been featured in various media. To read more about us, see below list.
 | Add coding to basic skills taught in schools | The Straits Times  | 11 May 2017 | Click [here](https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18) |
 | Pocket-size gadget for 100,000 potential coders | The Straits Times | 14 April 2017 | Click [here](https://www.straitstimes.com/singapore/pocket-size-gadget-for-100000-potential-coders) |
 | Micro:bit launch: What you need to know about the coding gadget Singapore plans to introduce | The Straits Times | 13 April 2017 | Click [here](https://www.straitstimes.com/singapore/microbit-launch-what-you-need-to-know-about-the-coding-gadget-singapore-plans-to-introduce) |
-| Title | Media | Date | Click [here](insert link) |
-| Title | Media | Date | Click [here](insert link) |
-
 | Singapore to use micro:bit to teach coding, nurture its own Steve Jobs | The Straits Times | 13 April 2017 | Click [here](https://www.straitstimes.com/singapore/singapore-to-use-microbit-to-teach-coding-nurture-its-own-steve-jobs) |
-| Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
