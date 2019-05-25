@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Investigating rate of emission of infra-red radiation
-permalink: /yuan-ching-secondary/
+permalink: /yuan-ching-secondary-investigating-rate-of-emission-of-infra-red-radiation/
 breadcrumb: Secondary School - design and technology
 ---
 
