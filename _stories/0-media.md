@@ -11,7 +11,7 @@ We have been featured in various media. To read more about us, see below list.
 
 #### List of media articles
 
-| Title | Media | Date | Click [here](insert link) |
+| Title | Media | Date | Link |
 |--|--|
 | Members of Girls Brigade Singapore pick up technology skills to better serve community | The Straits Times  | 14 July 2018 | Click [here](https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community) |
 | Amazon Web Services are collaborating with the Girls’ Brigade Singapore | Facebook | 14 July 2018 | Click [here](https://www.facebook.com/amazonwebservices/videos/1735724719798219/) |
