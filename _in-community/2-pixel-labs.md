@@ -24,7 +24,7 @@ If you are interested to find out what goes on at our workshops and programmes, 
 Independent makers can register to use PIXEL Labs @ NLB for their tinkering at designated hours. Equipment such as 3D printers and micro controllers will be made available.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0; border: 0;}
 .tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
