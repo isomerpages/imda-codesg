@@ -35,11 +35,17 @@ info-sections:
     section-more-button-url: /in-community/overview/
     section-image-path: /images/home-page/In Community.jpg
  
-
-resources-subtitle: Events
-resources-title: Join us to create with tech!
-resources-more-button: Learn more
-resources-more-button-url: /events/
+  - section-title: 
+    section-subtitle: Events
+    section-description: Join us to create with tech!
+    section-more-button: Learn more
+    section-more-button-url: /in-community/overview/
+    section-image-path: /images/home-page/In Community.jpg
+ 
+# resources-subtitle: Events
+# resources-title: Join us to create with tech!
+# resources-more-button: Learn more
+# resources-more-button-url: /events/
 
 careers-subtitle: Stories
 careers-description: Check out our media and features!
