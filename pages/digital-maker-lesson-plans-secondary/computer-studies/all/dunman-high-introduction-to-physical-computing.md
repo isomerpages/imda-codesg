@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Introduction to Physical Computing
-permalink: /dunman-high/
+permalink: /dunman-high-introduction-to-physical-computing/
 breadcrumb: Secondary School - design and technology
 ---
 
