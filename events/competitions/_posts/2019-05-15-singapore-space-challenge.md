@@ -5,6 +5,10 @@ date:   2019-05-15
 permalink: /events/competitions/singapore-space-challenge-2019-2020
 ---
 
+![singapore space challenge](/images/events/competitions/Singapore-space-challenge.jpg)
+
+The Singapore Space Challenge (SSC) is a highly anticipated national space design competition that challenges student teams to leverage space technology; from satellite mapping to GPS and GNSS. We encourage innovation in engineering to conceptualise and design space-related projects to tackle real-world challenges from disasters to improving the quality of life. The challenge is held annually and is organised by the Singapore Space and Technology Association (SSTA).
+
 | Date  | Description |
 |--------|---|
 | 15 May 2019  | Registration Opens |
@@ -16,10 +20,6 @@ permalink: /events/competitions/singapore-space-challenge-2019-2020
 | November - December 2019 | Submission Deadline  |
 | December - January 2020 | Judging Panel Review |
 | 7 February 2020 | Award Ceremony  |
-
-![singapore space challenge](/images/events/competitions/Singapore-space-challenge.jpg)
-
-The Singapore Space Challenge (SSC) is a highly anticipated national space design competition that challenges student teams to leverage space technology; from satellite mapping to GPS and GNSS. We encourage innovation in engineering to conceptualise and design space-related projects to tackle real-world challenges from disasters to improving the quality of life. The challenge is held annually and is organised by the Singapore Space and Technology Association (SSTA).
 
 For more information on this competition, <a href="https://www.space.org.sg/education-and-outreach/singapore-space-challenge" target="_blank">click here</a> 
 
