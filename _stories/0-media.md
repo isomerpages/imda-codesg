@@ -19,6 +19,9 @@ Here you will find a list of our feature articles. Click on the links in the tab
 | Title | Media | Date | Click [here](insert link) |
 |--|--|
 | Members of Girls Brigade Singapore pick up technology skills to better serve community | The Straits Times  | 14 July 2018 | Click [here](https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community) |
+| Amazon Web Services are collaborating with the Girls’ Brigade Singapore | Facebook | 14 July 2018 | Click [here](https://www.facebook.com/amazonwebservices/videos/1735724719798219/) |
+| Title | Media | Date | Click [here](insert link) |
+| Title | Media | Date | Click [here](insert link) |
 | Singapore to use micro:bit to teach coding, nurture its own Steve Jobs | The Straits Times | 13 April 2017 | Click [here](https://www.straitstimes.com/singapore/singapore-to-use-microbit-to-teach-coding-nurture-its-own-steve-jobs) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
