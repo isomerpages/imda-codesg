@@ -21,8 +21,8 @@ We have been featured in various media. To read more about us, see below list.
 | ESpace is proud of Taman Jurong Active Aging Committee Seniors | Facebook | 7 October 2017 | Click [here](https://www.facebook.com/EspaceCW/videos/vb.1185282284824920/1661212403898570/?type=2&theater) |
 | As Young As Primary School, These S'poreans Are Coding The Future Of Our Country | Vulcan Post | 28 July 2017 | Click [here](https://vulcanpost.com/617312/code-xtremeapps-2017-hackathon/) |
 | Singapore Hosts a Full-On Maker Extravaganza| Makezine | 20 July 2017 | Click [here](https://makezine.com/2017/07/20/singapore-hosts-full-maker-extravaganza/) |
-| Title | Media | Date | Click [here](insert link) |
-| Title | Media | Date | Click [here](insert link) |
+| Getting Singapore making with the micro:bit | Tinkercademy | 25 June 2017 | Click [here](https://blog.tinkercademy.com/digital-maker-programme-998927090ddc) |
+| Add coding to basic skills taught in schools | The Straits Times  | 11 May 2017 | Click [here](https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
