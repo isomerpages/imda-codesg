@@ -9,6 +9,6 @@ breadcrumb: Automated Teachers Attendance System
 
 Students currently use the intercom system to page for teachers they wish to see. However, if the teacher is not in the staffroom, students end up waiting aimlessly outside. A system to let students know if teachers are in the staffroom would help eliminate time wasted.
 
-Download the lesson plan [here](//files/lesson-plans/primary-schools/design-and-technology/Clementi-Primary-Automated-Teachers-Attendance-System.pdf)
+Download the lesson plan [here](/files/lesson-plans/primary-schools/design-and-technology/Clementi-Primary-Automated-Teachers-Attendance-System.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-primary/)
