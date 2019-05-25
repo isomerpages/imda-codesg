@@ -24,7 +24,7 @@ We have been featured in various media. To read more about us, see below list.
 | Getting Singapore making with the micro:bit | Tinkercademy | 25 June 2017 | Click [here](https://blog.tinkercademy.com/digital-maker-programme-998927090ddc) |
 | Add coding to basic skills taught in schools | The Straits Times  | 11 May 2017 | Click [here](https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18) |
 | Pocket-size gadget for 100,000 potential coders | The Straits Times | 14 April 2017 | Click [here](https://www.straitstimes.com/singapore/pocket-size-gadget-for-100000-potential-coders) |
-| Title | Media | Date | Click [here](insert link) |
+| Micro:bit launch: What you need to know about the coding gadget Singapore plans to introduce | The Straits Times | 13 April 2017 | Click [here](https://www.straitstimes.com/singapore/microbit-launch-what-you-need-to-know-about-the-coding-gadget-singapore-plans-to-introduce) |
 | Title | Media | Date | Click [here](insert link) |
 | Title | Media | Date | Click [here](insert link) |
 
