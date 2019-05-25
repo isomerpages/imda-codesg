@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Introduction to micro:bit coding
-permalink: /chung-cheng-high-main/
+permalink: /chung-cheng-high-main-introduction-to-microbit-coding/
 breadcrumb: Secondary School - design and technology
 ---
 
