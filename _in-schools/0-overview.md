@@ -22,8 +22,14 @@ IMDA supports the development of computational thinking and making in schools by
 | ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/)** |
 
 
-| ![code for fun](/images/in-schools/overview/Playmaker_Icon.jpg) | For Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
-|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-
-| ![code for fun](/images/in-schools/overview/Playmaker_Icon.jpg) | For Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
-|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
