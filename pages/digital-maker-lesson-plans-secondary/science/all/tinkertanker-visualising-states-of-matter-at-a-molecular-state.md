@@ -10,6 +10,7 @@ breadcrumb: Secondary School - design and technology
 Students will learn about how particles of matter behave differently in terms of speed and movement during different states of matter. They will also be able to visualise the transfer of energy by programming the micro:bit to change the animation of the states of matter upon shaking, thereby helping them better understand the transfer of energy that takes place.
 
 You Will Need:
+
 1 x micro:bit with battery pack
 1 x USB connector Computer or phones with Internet access (optional)
 
