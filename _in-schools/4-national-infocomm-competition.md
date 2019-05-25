@@ -21,5 +21,5 @@ The key competitions supported under NIC include the following:
 * Singapore Space Challenge - <a href="https://www.space.org.sg/education-and-outreach/singapore-space-challenge" target="_blank">link</a>
 * AWS Build On Singapore - <a href="https://www.buildonsg-2019.com/" target="_blank">link</a>
 
-Look out for upcoming competitions [here](/events/competitions/) <br>
-See coverage on the past competitions [here](/stories/features/)
+Look out for upcoming competitions [here].(/events/competitions/) <br>
+See coverage on the past competitions [here].(/stories/features/)
