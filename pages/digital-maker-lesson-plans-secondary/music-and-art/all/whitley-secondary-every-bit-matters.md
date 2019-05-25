@@ -3,7 +3,7 @@ layout: simple-page
 title: Every bit matters (My First Microcontroller)
 permalink: /whitley-secondary-every-bit-matters/
 breadcrumb: Secondary School - music and art
-
+---
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
 
