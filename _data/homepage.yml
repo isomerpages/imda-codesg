@@ -35,14 +35,10 @@ info-sections:
     section-more-button: Learn more
     section-more-button-url: /in-community/overview/
     section-image-path: /images/home-page/In Community.jpg
-    
-  - section-title: 
-    section-image-path: /images/home-page/home-page-events.jpg
-    
-
-resources-subtitle:
+ 
+# Resources Section 
+resources-subtitle: Join us to create with tech!
 resources-title: Events
-resources-description: Join us to create with tech!
 resources-more-button: Learn more
 resources-more-button-url: /events/
 
