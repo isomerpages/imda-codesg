@@ -3,6 +3,7 @@ layout: post
 title: "Digital Maker: Making a Simple Cardboard Action Sword using micro:bit"
 date: 2018-11-18
 permalink: /events/workshops/digital-maker-making-a-simple-cardboard-action-sword-using-microbit
+image: /images/events/generic-event-image.jpg
 ---
 
 | Date | Time | Venue |
