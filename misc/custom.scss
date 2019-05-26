@@ -199,8 +199,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-section.bp-section-pagetitle {
   background-color:#008080 !important;
-  padding: 1rem!important;
-    padding-bottom: 1rem!important;
+  padding: 0rem!important;
+  padding-top: 0rem!important;
+  padding-bottom: 1rem!important;
 }
 
 // Pagination
