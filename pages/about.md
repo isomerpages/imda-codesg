@@ -8,8 +8,6 @@ Code@SG is an initiative by the Infocomm Media Development Authority (IMDA) to d
 
 Various programmes are run in schools and community that reach out to pre-schoolers, students and adults. By providing them with opportunities to try a myriad of coding and making technologies, we are shaping a generation of digital innovators, makers and creators who are passionate in using technology to solve real-world problems.
 
-![About infographic](/images/about/about-infographic.png)
-
 We aim to equip people with the ability to use technology optimally to achieve a better quality of life through computational thinking and making. 
 
 ### Understanding Computational Thinking
