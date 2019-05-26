@@ -45,8 +45,6 @@ Participants are also required to bring their own writing materials and laptop i
 **Registration**
 Registration is required at library e-kiosks or at <a href="https://nlb.gov.sg/golibrary" target="_blank">http://nlb.gov.sg/golibrary</a> .
 
-{:target="_blank"}
-
 This workshop is proudly brought to you by Info-communications Media Development Authority of Singapore (IMDA).
 
 Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features <a href="" target="_blank">here</a>
