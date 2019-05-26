@@ -13,23 +13,11 @@ IMDA supports the development of computational thinking and making in schools by
 
 
 
-| ![code for fun](/images/in-schools/overview/Playmaker_Icon.jpg) | For Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
+| ![code for fun](/images/in-schools/overview/playmaker-icon.JPG) | For Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
 |---||---|
-| ![code for fun](/images/in-schools/overview/Code_For_Fun_Icon_V2.jpg)  |  **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/)** |
-| ![code for fun](/images/in-schools/overview/ICM_Icon_V2.jpg)  | **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/)** |
-|  ![code for fun](/images/in-schools/overview/Student_Development_Icon_V2.jpg)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/)** | 
-|  ![code for fun](/images/in-schools/overview/National_Infocomm_Icon_V2.jpg) | **For All Ages. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competition/)** |
-| ![code for fun](/images/in-schools/overview/Digital_Maker_Icon_V2.jpg)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/)** |
+| ![code for fun](/images/in-schools/overview/code-for-fun-icon.jpeg)  |  **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/)** |
+| ![code for fun](/images/in-schools/overview/icm-learning-roadmap-icon.jpg)  | **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/)** |
+|  ![code for fun](/images/in-schools/overview/student-development-icon.jpg)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/)** | 
+|  ![code for fun](/images/in-schools/overview/national-infocomm-competition-icon.jpg) | **For All Ages. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competition/)** |
+| ![code for fun](/images/in-schools/overview/digital-maker-overview-icon.JPG)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/)** |
 
-
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
