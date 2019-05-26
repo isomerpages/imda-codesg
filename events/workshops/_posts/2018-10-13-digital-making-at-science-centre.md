@@ -40,6 +40,7 @@ Venue: The Digital Movie Studio, Science Centre Singapore
 Cost:
 | Participants | Member | Non-Member |
 |--------|---|---|
+|--------|---|---|
 | 1 Parent + 1 Child | $10| $20 |
 | 1 Parent +  2 Children	 | $15| $30 |
 
@@ -51,6 +52,6 @@ Click below links to register!
 
 13 October: <a href="https://www.regonline.sg/builder/site/Default.aspx?EventID=2157829&" target="_blank">regonline.sg/microbit1310</a>
 
-16 December: <a href="https://www.regonline.sg/builder/site/Default.aspx?EventID=2157830&"_blank">regonline.sg/microbit1612</a>
+16 December: <a href="https://www.regonline.sg/builder/site/Default.aspx?EventID=2157830&" target="_blank">regonline.sg/microbit1612</a>
 
 Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features <a href="" target="_blank">here</a>
