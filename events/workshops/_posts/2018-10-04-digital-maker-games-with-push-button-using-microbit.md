@@ -7,7 +7,7 @@ permalink: /events/workshops/digital-maker-games-with-push-button-using-microbit
 
 | Date | Time | Venue |
 |--------|---|---|
-| Sunday X October 2018 | 02:00 PM - 04:00 PM | XXXClub |
+| Thursday 4 October 2018 | 03:00 PM - 05:00 PM | Tampines Regional Library PIXEL Labs@NLB, Level 4 |
 
 ![hi](/images/events/generic-event-image.jpg)
 
