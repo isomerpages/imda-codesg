@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: East Coast Primary Addition Of Money Decimal
+title: East Coast - Primary Addition Of Money Decimal
 permalink: /east-coast-primary-addition-of-money-decimal/
-breadcrumb: East Coast Primary Addition Of Money Decimal
+breadcrumb: East Coast - Primary Addition Of Money Decimal
 ---
 
 ![stock image/ project photo here](picture link here)
