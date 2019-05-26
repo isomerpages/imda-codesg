@@ -38,9 +38,13 @@ Venue: The Digital Movie Studio, Science Centre Singapore
  
 
 Cost:
+
 | Participants | Member | Non-Member |
 |--------|---|---|
 | 1 Parent + 1 Child | $10 | $20 |
+
+
+
 | 1 Parent +  2 Children	 | $15 | $30 |
 
  
