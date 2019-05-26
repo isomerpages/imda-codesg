@@ -204,6 +204,12 @@ $desktop: 960px + (2 * $gap) !default;
   padding-bottom: 1rem!important;
 }
 
+.img_crop{
+  width: 640px;
+  height: 320px;
+  object-fit: cover;
+}
+
 // Pagination
 .pagination {
 	span {
