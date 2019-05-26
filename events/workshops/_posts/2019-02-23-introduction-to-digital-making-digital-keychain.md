@@ -15,4 +15,4 @@ Hi Everyone! Come and join us in this workshop and create your own Digital Keych
 
 Register with Taman Jurong Community Club now.
 
-Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features [here.](/stories/features/
+Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features [here.](/stories/features/)
