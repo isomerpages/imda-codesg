@@ -11,8 +11,8 @@ Hi Everyone! Come and join us in this workshop and create your own Digital Keych
 
 Register with Taman Jurong Community Club now.
 
-| Date  | Time | Venue |
-|--------|---|
+| Date | Time | Venue |
+|--------|---|---|
 | Saturday 23 February 2019 | 02:00 PM - 04:00 PM | Taman Jurong Community Club |
 
 Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features <a href="https://isomer-dlp-staging.netlify.com/stories/features/" target="_blank">here</a>
