@@ -11,7 +11,7 @@ permalink: /events/workshops/digital-maker-desktop-mood-lamp
 
 ![hi](/images/events/generic-event-image.jpg)
 
-This workshop is suitable for participants aged 10 and above. Registration is required and material fee ($10 per participant) is payable to the organizer. Registration is required at library e-kiosks or at <a href="http://nlb.gov.sg/golibrary" target="_blank">http://nlb.gov.sg/golibrary</a> 
+This workshop is suitable for participants aged 10 and above. Registration is required and material fee ($10 per participant) is payable to the organizer. Registration is required at library e-kiosks or at https://www.nlb.gov.sg/golibrary
 
 In the month of October, some of our friends who are studying may be feeling the anxiety & heat from upcoming exams.  Take some time off to join our 2-hours Digital Maker workshops to chill, de-stress and refocus by doing some interesting projects involving coding and making!  
 
