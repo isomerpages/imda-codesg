@@ -25,6 +25,7 @@ Participants will also learn how to
 
 • Use the LED grid to randomly display images by pressing a button
 
+
 Such as scissor/paper/stone
 
 • Use push button to trigger an evasive action.
