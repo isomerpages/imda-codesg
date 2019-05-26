@@ -46,11 +46,11 @@
   - title: Competitions
     url: /events/competitions/
 - title: Stories
-  url: /stories/media/
-  sub-links:
-  - title: Media
-    url: /stories/media/
-  - title: Features
-    url: /stories/features/
+  url: /stories/
+  # sub-links:
+  # - title: Media
+  #   url: /stories/media/
+  # - title: Features
+  #   url: /stories/features/
 - title: Contact Us
   url: /contact-us/
