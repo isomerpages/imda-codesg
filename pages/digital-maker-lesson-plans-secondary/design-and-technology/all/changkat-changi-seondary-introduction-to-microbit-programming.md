@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Introduction to Physical Computing
+title: Introduction to micro:bit Programming
 permalink: /changkat-changi-seondary-introduction-to-microbit-programming/
 breadcrumb: Secondary School - design and technology
 ---
