@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IntroRobotics @PIXEL Labs JRL
+title: "IntroRobotics @PIXEL Labs JRL"
 date: 2018-11-03
 permalink: /events/workshops/introrobotics-pixel-labs-jrl
 ---
