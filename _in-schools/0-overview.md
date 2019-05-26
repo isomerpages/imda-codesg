@@ -13,11 +13,11 @@ IMDA supports the development of computational thinking and making in schools by
 
 
 
-| ![code for fun](/images/in-schools/overview/playmaker-icon.JPG) | For Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
+| ![code for fun](/images/in-schools/overview/playmaker-icon.JPG) | PlayMaker, a programme for Pre-Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/) |
 |---||---|
-| ![code for fun](/images/in-schools/overview/code-for-fun-icon.jpeg)  |  **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/)** |
-| ![code for fun](/images/in-schools/overview/icm-learning-roadmap-icon.jpg)  | **For Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/)** |
-|  ![code for fun](/images/in-schools/overview/student-development-icon.jpg)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/)** | 
-|  ![code for fun](/images/in-schools/overview/national-infocomm-competition-icon.jpg) | **For All Ages. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competition/)** |
-| ![code for fun](/images/in-schools/overview/digital-maker-overview-icon.JPG)  |  **For Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/)** |
+| ![code for fun](/images/in-schools/overview/code-for-fun-icon.jpeg)  |  **Code For Fun, a programme for Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/code-for-fun/overview/)** |
+| ![code for fun](/images/in-schools/overview/icm-learning-roadmap-icon.jpg)  | **ICM Learning Roadmap, for Primary and Seconday Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/icm-learning-roadmap/)** |
+|  ![code for fun](/images/in-schools/overview/student-development-icon.jpg)  |  **Student Development, a programme for Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/student-development/)** | 
+|  ![code for fun](/images/in-schools/overview/national-infocomm-competition-icon.jpg) | **National Infocomm Competition, a programme for all ages. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/national-infocomm-competition/)** |
+| ![code for fun](/images/in-schools/overview/digital-maker-overview-icon.JPG)  |  **Digital Maker, a programme for Primary and Secondary Schools. Click [here](https://isomer-dlp-staging.netlify.com/in-schools/digital-maker/overview/)** |
 
