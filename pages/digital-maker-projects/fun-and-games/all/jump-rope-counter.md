@@ -54,11 +54,13 @@ Jump rope is a great calories burner exercise that most people can take part in.
 **5. Attach**<br>Attach the micro:bit and place 2 AAA battery to the AAA battery holder. The micro:bit should run the program.<br>
 
 ---
+
 ![7](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter7.jpg)
 
 **6. Shake**<br>Shake the micro:bit and click the 'A' button to display the number of shakes done. Press the B button if you wish to reset. Once done, you may now hold your micro:bit and jump. As you jump, your movement shakes the micro:bit and it records the number of jumps you make.<br>
 
 ---
+
 ![8](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter8.jpg)
 
 **7. Design and Print**<br>Now we are going to make the cover for the micro:bit Jump Rope Counter. We used Tinkercad.com to design the 3D model. You can choose to download the front and back cover from the link in the captions below or follow the dimensions to design your own cover.<br>
@@ -66,15 +68,18 @@ Jump rope is a great calories burner exercise that most people can take part in.
 <a href="https://www.tinkercad.com/things/gdHT9PEFJUv">Bottom Cover Wearable</a><br>
 
 ---
+
 ![9](dlp/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter9.jpg)
 
 **8. 3D Printed**<br>After the 3D printing process is done, wait for a few minutes before removing from 3D printer due to high temperature. Once removed, your 3D printed pieces should look like the ones on the right.<br>
 
 ---
+
 ![10](dlp/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter10.jpg)
 
 **9. Making the Strap**<br>Now we can start to make the strap of the counter. Take 3 paracord straps at length of 50cm. Tie a knot at one end of the straps. Refer to the video on the right for a simple way of weaving. Once done, run the straps through the left and right holes of the micro:bit cover, tie a knot to secure Your strap is now done!
-Click here to view: <a href="https://www.youtube.com/watch?v=_acjMZi2HZQ">Making the Paracord Strap (DMP)</a><br
+Click here to view: <a href="https://www.youtube.com/watch?v=_acjMZi2HZQ">Making the Paracord Strap (DMP)</a><br>
+
 ---
 ![11](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter11.jpg)
 
