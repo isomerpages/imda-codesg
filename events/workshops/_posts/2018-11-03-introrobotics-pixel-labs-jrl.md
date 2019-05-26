@@ -45,16 +45,19 @@ A minimum age of 10 is required for attending this activity.
 This is due to the technical complexity of the workshop and hands-on dexterity needed for handling the materials.
  
 **Age Waiver**
+
 If parents are keen to register children that are younger than the age limit, please **fill in the acknowledgement section in the registration form** for special allowance for children aged 7-9. The children will also need to be accompanied by a parent or guardian.
 
 Children younger than 7 are not allowed to register for this specific workshop. Please check our <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/" target="_blank">Go Library</a> website for other suitable activities for young children.
  
 **Other Requirements**
+
 A minimum of 6 pax is required to start the workshop.
 Participants are advised to arrive 15 minutes before the start of the workshop. Reservations will be released to participants on our waiting list 5 minutes after the start of the workshop
 Participants are also required to bring their own writing materials and laptop if they wish to save the codes created during the workshop.
  
 **Registration**
+
 Registration is required.
 
  
