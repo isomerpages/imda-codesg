@@ -9,7 +9,7 @@ Stephen Curry, Kobe Bryant, Lebron James, what do these people have in common? Y
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/arcade-basketball1.png)
 
-**You will need**
+**You will need:**
 
 [Block Editor Link](https://makecode.microbit.org/)<br>
 [Hex File Download](https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0)<br>
