@@ -7,6 +7,10 @@ permalink: /events/workshops/digital-maker-iot-at-home-with-microbit
 
 ![hi](/images/events/generic-event-image.jpg)
 
+| Date | Time | Venue |
+|--------|---|---|
+| Sunday 27 January 2019 | 02:00 PM - 04:00 PM |  Tampines Regional Library PIXEL Labs@NLB, Level 4 |
+
 This workshop is suitable for participants aged 10 and above. Registration is required at click <a href="https://https://www.nlb.gov.sg/golibrary2/e/iot-at-home-with-microbit-pixel-labsnlb-92973951/" target="_blank">here</a>  to register. Material fee ($25 per participant) is payable to the organizer.
 
 Participate in our Digital Maker workshop and bring home a micro:bit! In this 2-hour workshop, you will learn how to program the micro:bit, and use it to light up a programmable LED strip. We’ll explore possible uses: a pill box to light up which day’s pills to take, or a fun shake-on cloud lamp!
