@@ -36,7 +36,8 @@ The material fees charged for this workshop do not include any micro:bit.
 If the participant has already collected a free micro:bit previously, they may bring it along for this workshop. Otherwise, one may be loaned to the participant, while stocks last from a limited supply. Loaned micro:bit must be returned in full, undamaged condition at the end of the workshop.
 
 **Attendance is free for this workshop. All materials will be provided free of charge.**
-***Loan kit is issued for use during workshop and will be collected back at the end of the workshop**
+
+****Loan kit is issued for use during workshop and will be collected back at the end of the workshop**
 
 
 **Age Requirements**
