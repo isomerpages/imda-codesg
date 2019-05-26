@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Maker: IoT at Home with Micro:bit
+title: "Digital Maker: IoT at Home with Micro:bit"
 date: 2019-01-27
 permalink: /events/workshops/digital-maker-iot-at-home-with-microbit
 ---

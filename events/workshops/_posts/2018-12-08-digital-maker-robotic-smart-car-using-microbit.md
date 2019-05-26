@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Maker: Robotic Smart Car using micro:bit
+title: "Digital Maker: Robotic Smart Car using micro:bit"
 date: 2018-12-08
 permalink: /events/workshops/digital-maker-robotic-smart-car-using-microbit
 ---

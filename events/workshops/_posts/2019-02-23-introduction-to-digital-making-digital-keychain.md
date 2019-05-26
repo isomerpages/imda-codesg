@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Digital Making: Digital Keychain
+title: "Introduction to Digital Making: Digital Keychain"
 date: 2019-02-23
 permalink: /events/workshops/introduction-to-digital-making-digital-keychain
 ---

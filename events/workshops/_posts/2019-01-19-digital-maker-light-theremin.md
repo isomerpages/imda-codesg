@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Maker: Light Theremin
+title: "Digital Maker: Light Theremin"
 date: 2019-01-19
 permalink: /events/workshops/digital-maker-light-theremin
 ---

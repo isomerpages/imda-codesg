@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Maker: Create a mini remote control robotic vehicle with micro:bit
+title: "Digital Maker: Create a mini remote control robotic vehicle with micro:bit"
 date: 2018-12-07
 permalink: /events/workshops/digital-maker-create-a-mini-remote-control-robotic-vehicle-with-microbit
 ---

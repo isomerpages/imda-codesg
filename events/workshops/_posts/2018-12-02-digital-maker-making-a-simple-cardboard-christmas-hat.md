@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Maker: Making a Simple Cardboard Christmas Hat
+title: "Digital Maker: Making a Simple Cardboard Christmas Hat"
 date: 2018-12-02
 permalink: /events/workshops/digital-maker-making-a-simple-cardboard-christmas-hat
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Maker: Create your own mini remote control robotic vehicle
+title: "Digital Maker: Create your own mini remote control robotic vehicle"
 date: 2018-12-01
 permalink: /events/workshops/digital-maker-create-your-own-mini-remote-control-robotic-vehicle
 ---
