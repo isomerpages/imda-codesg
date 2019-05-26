@@ -37,6 +37,10 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 .content table td, .content table th{
   border:1px solid;
 }
+
+.content table tbody tr:last-child td, .content table tbody tr:last-child th{
+  border-bottom-width:1;
+}
 </style>
 <table class="tg">
   <tr>
