@@ -7,7 +7,7 @@ permalink: /events/workshops/digital-maker-ba-ding-your-interval-training-assist
 
 | Date | Time | Venue |
 |--------|---|---|
-| Sunday X September 2018 | 02:00 PM - 04:00 PM | XXXClub |
+| Sunday X September 2018 | 02:00 PM - 04:00 PM | Jurong Regional Library PIXEL Labs@NLB |
 
 ![hi](/images/events/generic-event-image.jpg)
 
