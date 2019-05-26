@@ -39,7 +39,7 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 }
 
 .content table tbody tr:last-child td, .content table tbody tr:last-child th{
-  border-bottom-width:1;
+  border-bottom-width:thin;
 }
 </style>
 <table class="tg">
