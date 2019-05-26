@@ -26,7 +26,7 @@ Terms of receiving a free micro:bit
 Recipient must be an eligible participant of the workshop
 Recipient must be receiving their free micro:bit from IMDA for the **first time**. This covers all other previous activities beyond the Library Pixel Labs (eg, other workshops, schools).
 The material fees charged for this workshop do not include any micro:bit. 
-***Loan kit is issued for use during workshop and will be collected back at the end of the workshop***
+***Loan kit is issued for use during workshop and will be collected back at the end of the workshop**
 
 **Loan kit consists of:**
 - **cruise bit x1 (vehicle)**
