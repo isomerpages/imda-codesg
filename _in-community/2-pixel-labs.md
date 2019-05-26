@@ -25,8 +25,8 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0; border: 0;}
-.tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
 .tg .tg-h6w4{font-weight:bold;font-size:15px;border-color:inherit;text-align:left;vertical-align:top}
