@@ -11,8 +11,8 @@ We've all heard of the game, Guitar Hero, whereby players use a guitar-shaped ga
 
 **You will need:**
 
-<a href="https://makecode.microbit.org/" target="_blank">Block Editor Link</a>
-<a href="https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0" target="_blank">Hex File Download</a>
+<a href="https://makecode.microbit.org/" target="_blank">Block Editor Link</a><br>
+<a href="https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0" target="_blank">Hex File Download</a><br>
 
 ---
 
