@@ -16,14 +16,20 @@ In the month of October, some of our friends who are studying may be feeling the
 In the 2-hour workshop, you will be introduced to the micro:bit hardware, the block-based programming environment, PXT and how to create a simple digital game with push button as input to display random image such as scissors/paper/stone using the micro:bit.  
 
 Participants will also learn how to 
+
 • Give instructions using the block-based programming environment to display different images, 
+
 • Upload the program onto the micro:bit
+
 • Use push buttons on the micro:bit as a form of input, 
+
 • Use the LED grid to randomly display images by pressing a button
+
 Such as scissor/paper/stone
+
 • Use push button to trigger an evasive action.
+
 The workshop and the micro:bits are sponsored by IMDA.  
- 
  
 Registration is required. Click <a href="https://nlb.gov.sg/golibrary" target="_blank">here</a> to register* or at library e-kiosks.
 
