@@ -23,6 +23,19 @@ IMDA supports the development of computational thinking and making in schools by
 
 <row>
 <div class='col'>
-<img src='/images/in-schools/overview/playmaker-icon.JPG'> 
+<img src='/images/in-schools/overview/playmaker-icon.JPG'> <br>
+ PlayMaker, a programme for Pre-Schools.
+  Click <a href='/_in-schools/5a-playmaker-overview.md'>here</a>
+</div>
+
+<div class='col'>
+<img src='/images/in-schools/overview/playmaker-icon.JPG'>  <br>
+Code For Fun, a programme for Primary and Seconday Schools.
+ Click <a href='/_in-schools/1-code-for-fun-overview.md'>here</a>
+</div>
+
+<div class='col'>
+<img src='/images/in-schools/overview/playmaker-icon.JPG'>  <br>
+ICM Learning Roadmap, for Primary and Seconday Schools. Click <a href='/_in-schools/3-icm-learning-roadmap.md'>here</a>
 </div>
 </row> 
