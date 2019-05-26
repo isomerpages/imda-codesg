@@ -18,7 +18,7 @@ As part of the Digital Maker programme initiative, registered participants for t
 
 Terms of receiving a free micro:bit
 
-Recipient must be an eligible participant of the workshop
+Recipient must be an eligible participant of the workshop.
 
 Recipient must be receiving their free micro:bit from IMDA for the first time. This covers all other previous activities beyond the Library Pixel Labs (eg, other workshops, schools).
 
