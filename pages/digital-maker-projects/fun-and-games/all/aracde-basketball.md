@@ -11,9 +11,9 @@ Stephen Curry, Kobe Bryant, Lebron James, what do these people have in common? Y
 
 **You will need**
 
-[Block Editor Link](https://makecode.microbit.org/)
-[Hex File Download](https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0)
-[Coreldraw Link](https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0)
+[Block Editor Link](https://makecode.microbit.org/)<br>
+[Hex File Download](https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0)<br>
+[Coreldraw Link](https://www.dropbox.com/sh/cj6uj8lo7pownms/AACYJpCFwbQx9HYWlBgehA_Ma?dl=0)<br>
 
 ---
 
