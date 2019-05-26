@@ -39,7 +39,7 @@ Children younger than 7 are not allowed to register for this specific workshop. 
 
 **Other Requirements**
 
-A minimum of 10 pax is required to start the workshop.
+A minimum of 10 pax is required to start the workshop
 
 Participants are advised to arrive 15 minutes before the start of the workshop. Reservations will be released to participants on our waiting list 5 minutes after the start of the workshop.
 
