@@ -14,5 +14,6 @@ The core roadmap will allow students to better appreciate different facets of IC
 ![icm learning roadmap infographic](/images/in-schools/icm-learning-roadmap/icm-learning-roadmap-infographic.jpg)
 
 To learn more about the roadmap, download a copy of the [ICM Learning Roadmap.](/files/icm-learning-roadmap/icm-learning-roadmap.pdf)
+
 We are currently reviewing the programme to make it better. More details will be released by Sep 2019.
 
