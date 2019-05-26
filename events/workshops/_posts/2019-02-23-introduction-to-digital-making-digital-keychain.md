@@ -13,7 +13,7 @@ permalink: /events/workshops/introduction-to-digital-making-digital-keychain
 
 Hi Everyone! Come and join us in this workshop and create your own Digital Keychain at Taman Jurong CC!
 
-** Register ** with Taman Jurong Community Club now.
+Register with Taman Jurong Community Club now.
 
 
 Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features <a href="https://isomer-dlp-staging.netlify.com/stories/features/" target="_blank">here</a>
