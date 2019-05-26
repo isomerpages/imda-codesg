@@ -69,13 +69,13 @@ Jump rope is a great calories burner exercise that most people can take part in.
 
 ---
 
-![9](dlp/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter9.jpg)
+![9](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter9.jpg)
 
 **8. 3D Printed**<br>After the 3D printing process is done, wait for a few minutes before removing from 3D printer due to high temperature. Once removed, your 3D printed pieces should look like the ones on the right.<br>
 
 ---
 
-![10](dlp/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter10.jpg)
+![10](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter10.jpg)
 
 **9. Making the Strap**<br>Now we can start to make the strap of the counter. Take 3 paracord straps at length of 50cm. Tie a knot at one end of the straps. Refer to the video on the right for a simple way of weaving. Once done, run the straps through the left and right holes of the micro:bit cover, tie a knot to secure Your strap is now done!
 Click here to view: <a href="https://www.youtube.com/watch?v=_acjMZi2HZQ">Making the Paracord Strap (DMP)</a><br>
