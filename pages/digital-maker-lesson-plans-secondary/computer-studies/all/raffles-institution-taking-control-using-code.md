@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Introduction to Physical Computing
+title: Taking Control Using Code
 permalink: /raffles-institution-taking-control-using-code/
 breadcrumb: Secondary School - Computer Studies
 ---

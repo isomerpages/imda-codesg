@@ -5,7 +5,7 @@ permalink: /in-schools/overview/
 breadcrumb: In Schools / Overview
 collection_name: in-schools
 ---
-![In Schools Overview](/images/in-schools/overview/in-schools_overview.JPG)
+![In Schools Overview](/images/in-schools/overview/In-school-overview-3.jpg)
 
 IMDA supports the development of computational thinking and making in schools by offering programmes for broad-based learning and specialised training at multiple educational levels to encourage students to innovate and build Infocomm and Technology (ICT) solutions, as part of long-term efforts to prepare students for the digital age and future workforce.
 
