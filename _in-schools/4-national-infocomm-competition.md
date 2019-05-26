@@ -8,6 +8,9 @@ collection_name: in-schools
 
 The National Infocomm Competition (NIC) is a series of infocomm-themed competitions to expose students to areas such as programming, mobile application development, artificial intelligence, games design and creation.  The NIC supports quality and impactful competitions which seeks to deepen students' engagement and ICT skills in the areas of building, security and analysis. 
 
+![national infocomm competitions](/images/in-schools/national-infocomm-competition/national-infocomm-competitions-2.jpg
+)
+
 The key competitions supported under NIC include the following:
 * FIRST LEGO League Singapore - <a href="http://www.ducklearning.com/first-lego-league-fll/" target="_blank">link</a>
 * Lockheed Martin Code Quest - <a href="https://www.lockheedmartin.com/en-us/who-we-are/communities/codequest/code-quest-suntec.html" target="_blank">link</a>
