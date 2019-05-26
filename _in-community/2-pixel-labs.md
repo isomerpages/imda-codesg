@@ -33,6 +33,10 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
 .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
+
+.content table td, .content table th{
+  border:1px solid;
+}
 </style>
 <table class="tg">
   <tr>
