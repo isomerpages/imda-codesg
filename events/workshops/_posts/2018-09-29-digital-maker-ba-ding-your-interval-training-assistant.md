@@ -7,7 +7,7 @@ permalink: /events/workshops/digital-maker-ba-ding-your-interval-training-assist
 
 | Date | Time | Venue |
 |--------|---|---|
-| Sunday X September 2018 | 02:00 PM - 04:00 PM | Jurong Regional Library PIXEL Labs@NLB |
+| Saturday 29 September 2018 | 01:00 PM - 03:00 PM| Jurong Regional Library PIXEL Labs@NLB |
 
 ![hi](/images/events/generic-event-image.jpg)
 
