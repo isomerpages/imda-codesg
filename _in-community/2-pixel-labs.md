@@ -7,7 +7,7 @@ collection_name: in-community
 ---
 PIXEL Labs aims to introduce computational thinking and making concepts to the public, raising awareness and generating interest. 
 
-![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image3.jpg)
+![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image3.jpg){:class="img_crop"}
 
 #### Workshops and programmes
 
