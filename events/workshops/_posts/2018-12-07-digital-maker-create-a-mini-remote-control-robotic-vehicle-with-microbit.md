@@ -11,7 +11,7 @@ permalink: /events/workshops/digital-maker-create-a-mini-remote-control-robotic-
 
 ![hi](/images/events/generic-event-image.jpg)
 
-This workshop is suitable for participants **aged 10 and above**. Registration is required at library e-kiosks or click here to register.
+This workshop is suitable for participants **aged 10 and above**. Registration is required at library e-kiosks or click <a href="https://www.nlb.gov.sg/golibrary2/e/digital-maker-create-your-own-mini-remote-control-robotic-vehicle-using-microbit-pixel-labsnlb-31368532" target="_blank">here</a> to register.
 
 **Participate in our <Create your own mini remote control robotic vehicle>  Digital Maker workshop and bring home a micro:bit!
 In this 2-hour workshop, you will be introduced to the micro:bit hardware, the block-based programming environment and to program the push buttons and accelerometer as a form of input. The participants will also learn how to:**
@@ -29,14 +29,14 @@ The material fees charged for this workshop do not include any micro:bit.
 ***Loan kit is issued for use during workshop and will be collected back at the end of the workshop***
 
 **Loan kit consists of:**
-- **cruise bit x1 (vehicle)
-- **remote controller x1 (with micro:bit)
+- **cruise bit x1 (vehicle)**
+- **remote controller x1 (with micro:bit)**
 - **cardboard design x1 (small)**
 
 If the participant has already collected a free micro:bit previously, they may bring it along for this workshop. Otherwise, one may be loaned to the participant, while stocks last from a limited supply. Loaned micro:bit must be returned in full, undamaged condition at the end of the workshop.
 
 **Attendance is free for this workshop. All materials will be provided free of charge.**
-**** Loan kit is issued for use during workshop and will be collected back at the end of the workshop****
+***Loan kit is issued for use during workshop and will be collected back at the end of the workshop**
 
 
 **Age Requirements**
@@ -54,7 +54,7 @@ Participants are advised to arrive 15 minutes before the start of the workshop. 
 Participants are also required to bring their own writing materials and laptop if they wish to save the codes created during the workshop.
 
 **Registration**
-Registration is required at library e-kiosks or click <a href="https://www.nlb.gov.sg/golibrary2/e/digital-maker-create-your-own-mini-remote-control-robotic-vehicle-using-microbit-pixel-labsnlb-31368532" target="_blank">here</a>  to register.
+Registration is required at library e-kiosks or click <a href="https://www.nlb.gov.sg/golibrary2/e/digital-maker-create-your-own-mini-remote-control-robotic-vehicle-using-microbit-pixel-labsnlb-31368532" target="_blank">here</a> to register.
 
 This workshop is proudly brought to you by Info-communications Media Development Authority of Singapore (IMDA).
 
