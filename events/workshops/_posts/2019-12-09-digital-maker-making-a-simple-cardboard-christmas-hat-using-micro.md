@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Making a Simple Cardboard Christmas Hat using micro:bit"
 date: 2019-12-09
-permalink: /events/workshops/digital-maker-making-a-simple-cardboard-christmas-hat-using-micro:bit
+permalink: /events/workshops/digital-maker-making-a-simple-cardboard-christmas-hat-using-micro-bit
 ---
 
 | Date | Time | Venue |
