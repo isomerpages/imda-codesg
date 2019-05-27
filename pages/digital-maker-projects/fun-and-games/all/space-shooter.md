@@ -8,7 +8,7 @@ breadcrumb: Space Shooter
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/space-shooter/space-shooter.jpg)
 
-Are you tired of complicated flashy modern games? Do you prefer your games in 5 x 5 resolution rather than 4K resolution? Have some arcade fun on your Micro:bit with Space Shooter! This tutorial is in JavaScript! Typing, Many Typing. This tutorial was contributed by Luke Tan from Raffles Institution.<br>
+Are you tired of complicated flashy modern games? Do you prefer your games in 5 x 5 resolution rather than 4K resolution? Have some arcade fun on your Micro:bit with Space Shooter! This tutorial is in JavaScript! Typing, Many Typing.<br>
 
 **You will need:**<br>
 
