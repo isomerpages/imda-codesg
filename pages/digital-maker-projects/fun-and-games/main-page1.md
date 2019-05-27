@@ -8,5 +8,18 @@ breadcrumb: Fun and Games - Project Ideas
 [Arcade Basketball](/arcade-basketball/)<br>
 [Air Guitar](/air-guitar/)<br>
 [Jump Rope Counter](/jump-rope-counter/)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
 
 Click [here](/in-schools/digital-maker/projects/) to go back to the Digital Maker Projects By Community main page.
