@@ -5,7 +5,7 @@ permalink: /thirsty-plant-auto-watering-system/
 breadcrumb: Thirsty Plant Auto Watering System
 ---
 
-**Contributed by Joshua Teo
+**Contributed by Joshua Teo**
 
 Have you ever wanted to keep a potted plant, but are worried that you might be forgetful sometimes or simply not have the time to water your plants? Well fear not! This Micro:Bit helps to keep your plants watered for you!
 
