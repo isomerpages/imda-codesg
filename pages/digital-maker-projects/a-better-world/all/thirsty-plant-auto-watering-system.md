@@ -31,7 +31,7 @@ Some wires<br>
 
 #### Instructions
 
-![2](//images/in-schools/digital-maker/projects/a-better-world/thirsty-plant-auto-watering-system/auto-plant-watering-project1.jpg)
+![2](/images/in-schools/digital-maker/projects/a-better-world/thirsty-plant-auto-watering-system/auto-plant-watering-project1.jpg)
 
 **1.  Coding the micro:bit** <br>Key in the following code in the JavaScript Block Editor.
 
