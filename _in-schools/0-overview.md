@@ -21,7 +21,7 @@ IMDA supports the development of computational thinking and making in schools by
 |  ![national infocomm competition](/images/in-schools/overview/national-infocomm-competition-icon.jpg) | **National Infocomm Competition, a programme for all ages. Click [here](/_in-schools/4-national-infocomm-competition.md)** |
 | ![digital maker](/images/in-schools/overview/digital-maker-overview-icon.JPG)  |  **Digital Maker, a programme for Primary and Secondary Schools. Click [here](/_in-schools/2a-digital-maker-overview.md)** |
 
-<row>
+<!-- <row>
 <div class='col'>
 <img src='/images/in-schools/overview/playmaker-icon.JPG'> <br>
  PlayMaker, a programme for Pre-Schools.
@@ -38,4 +38,4 @@ Code For Fun, a programme for Primary and Seconday Schools.
 <img src='/images/in-schools/overview/playmaker-icon.JPG'>  <br>
 ICM Learning Roadmap, for Primary and Seconday Schools. Click <a href='/_in-schools/3-icm-learning-roadmap.md'>here</a>
 </div>
-</row> 
+</row>  -->
