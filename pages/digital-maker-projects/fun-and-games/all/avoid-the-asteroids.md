@@ -6,7 +6,7 @@ breadcrumb: Avoid The Asteroids
 ---
 **Contributed by Josh Ho from Raffles Institution**
 
-![1](/images/in-schools/digital-maker/projects/fun-and-games/space-shooter/space-shooter.jpg)
+![1](/images/in-schools/digital-maker/projects/fun-and-games/avoid-the-asteroids/avoid-the-asteroid.jpg)
 Make your own little arcade game on the micro:bit, and admire it in all 5 x 5 pixelated glory!<br>
 
 **You will need:**<br>
