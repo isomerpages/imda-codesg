@@ -9,7 +9,7 @@ permalink: /events/workshops/microbit-digital-making-using-micropython-programmi
 |--------|---|---|
 | Saturday 3 March 2018 - Sunday 4 March 2018 | 05:00 PM - 01:00 AM | ITE College Central |
 
-![hi](/images/workshops/programming-the-bbc-micro-bit-getting-started-with-micropython.jpg)
+![hi](/images/events/workshops-and-exhibitions/programming-the-bbc-micro-bit-getting-started-with-micropython.jpg)
 
 This Digital Maker workshop would teach you how to code using MicroPython Programming and Micro:bit. Total duration would be 14 hours in 2 sessions. 
  
