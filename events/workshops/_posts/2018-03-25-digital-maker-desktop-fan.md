@@ -14,14 +14,14 @@ permalink: /events/workshops/digital-maker-desktop-fan
 Join us in learning how to build your own desktop fan and program it to operate using micro:bit!
 
 Through this workshop, participants will be:
-Introduced to coding and computational thinking
-Able to appreciate how technology can help people
-Introduced to block-based programming
-Introduced to micro:bit and its sensors
-Able to build their very own desk fan and integrate it with micro:bit
-Able to apply concepts and knowledge learnt to real-life problems
-This workshop will be held at Jurong Regional Library.
-This programme is suitable for participants aged 10 and above.
+- Introduced to coding and computational thinking
+- Able to appreciate how technology can help people
+- Introduced to block-based programming
+- Introduced to micro:bit and its sensors
+- Able to build their very own desk fan and integrate it with micro:bit
+- Able to apply concepts and knowledge learnt to real-life problems
+- This workshop will be held at Jurong Regional Library.
+- This programme is suitable for participants aged 10 and above.
 
 Each person is entitled to only one micro:bit. Hence, participants are required to bring their own micro:bits if they have received one from previous IMDA Digital Maker workshops.
 
