@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Maker: Spin Art"
+title: "Digital Maker - Spin Art"
 date: 2018-06-07
 permalink: /events/workshops/digital-maker-spin-art
 ---
