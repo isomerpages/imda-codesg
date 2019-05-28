@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Maker: Boombox"
+title: "Digital Maker - Boombox"
 date: 2018-08-04
 permalink: /events/workshops/digital-maker-boombox
 ---
