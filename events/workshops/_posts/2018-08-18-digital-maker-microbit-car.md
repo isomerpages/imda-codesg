@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Micro:bit Car"
 date: 2018-08-18
-permalink: /events/workshops/digital-maker-microbit-car
+permalink: /events/workshops/digital-maker-microbit-car3
 ---
 
 | Date | Time | Venue |
