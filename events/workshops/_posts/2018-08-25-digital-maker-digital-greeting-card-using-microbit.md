@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Digital Greeting Card using micro:bit"
 date: 2018-08-25
-permalink: /events/workshops/digital-maker-digital-greeting-card-using-microbit
+permalink: /events/workshops/digital-maker-digital-greeting-card-using-microbit2
 ---
 
 | Date | Time | Venue |
