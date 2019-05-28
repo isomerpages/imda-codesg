@@ -18,8 +18,11 @@ Cost: $10.00
  
 
 17TH MARCH 2018 (SATURDAY) 9:00AM TO 12:00PM | (14 Vacancies)
+
 24TH MARCH 2018 (SATURDAY) 1:00PM TO 4:00PM | (15 Vacancies)
+
 14TH APRIL 2018 (SATURDAY) 1:00PM TO 4:00PM | (20 Vacancies)
+
 28TH APRIL 2018 (SATURDAY) 1:00PM TO 4:00PM | (20 Vacancies)
 
  
@@ -42,10 +45,15 @@ Minimum Class size: 16 Pairs of Parent-Child
 Each person is entitled to only one micro:bit hence participants are required to bring their own micro:bits if they have received one from previous IMDA Digital Maker workshops.
 
 *Note: Participants are reminded to bring along their own laptop for this workshop.
+
 *Confirmation email will only sent to the participants 3 days in advance.
+
 *Receive a FREE micro:bit worth $38.00
+
 *Mummies are welcomed to join in the fun as well!
+
 *Hands-On activities: Participants will build their own digital keychain.
+
 
 Participants are advised to arrive 15min before workshop, as allocated seats will be released to interested participants 5 minutes after the start of the workshop.
 
