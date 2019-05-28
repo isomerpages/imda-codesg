@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker - Desk Fan"
 date: 2018-07-13
-permalink: /events/workshops/digital-maker-desk-fan
+permalink: /events/workshops/digital-maker-desk-fan2
 ---
 
 | Date | Time | Venue |
