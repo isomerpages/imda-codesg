@@ -7,6 +7,7 @@ collection_name: in-community
 ---
 ![overview image](/images/in-community/pixel-labs/pixel-labs-image2.jpg)
 
-Our programmes also cater to innovative and creative individuals amongst the public, encouraging collaboration and fostering a community of coders and makers, and boosting computational thinking skills as a national competency. 
+
+IMDA reaches out to the community to introduce coding and making to members of the public. To promote innovation and collaboration, our programmes are also offered at community locations to bring the community (from preschoolers to seniors) together to create and make with technology.
 
 Click on the sidebar to find out more about the programmes and resources we offer.
