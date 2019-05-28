@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Light Up Your House"
 date: 2018-09-08
-permalink: /events/workshops/digital-maker-light-up-your-house
+permalink: /events/workshops/digital-maker-light-up-your-house1
 ---
 
 | Date | Time | Venue |
