@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Micro:bit with Spin Art Machine"
 date: 2018-08-17
-permalink: /events/workshops/digital-maker-microbti-with-spin-art-machine
+permalink: /events/workshops/digital-maker-microbit-with-spin-art-machine
 ---
 
 | Date | Time | Venue |
