@@ -5,6 +5,8 @@ permalink: /fu-character/
 breadcrumb: Fu Character
 ---
 
+**Contributed by Mark Ng from Singapore Polytechnic**
+
 ![1](/images/in-schools/digital-maker/projects/smart-home/fu-character/fu-character.jpg)
 
 The Fu character means "fortune" or "good luck", displayed "upside down" (倒, Pinyin: dào) and "to arrive" (到, Pinyin: dào). Creative design using neopixels and micro:bit. Click the link below to watch the video now!
