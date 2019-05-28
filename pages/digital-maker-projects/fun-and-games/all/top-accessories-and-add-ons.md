@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Top Accessories and Add-Ons For The microbit
-permalink: /space-shooter/
+permalink: /top-accessories-and-add-ons/
 breadcrumb: Top Accessories and Add-Ons For The microbit
 ---
 
