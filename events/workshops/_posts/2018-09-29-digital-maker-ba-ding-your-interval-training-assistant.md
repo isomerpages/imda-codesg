@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Ba-ding! Your Interval Training Assistant"
 date: 2018-09-29
-permalink: /events/workshops/digital-maker-ba-ding-your-interval-training-assistant
+permalink: /events/workshops/digital-maker-ba-ding-your-interval-training-assistant2
 ---
 
 | Date | Time | Venue |
