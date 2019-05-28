@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Games with push button using micro:bit"
 date: 2018-10-04
-permalink: /events/workshops/digital-maker-games-with-push-button-using-microbit
+permalink: /events/workshops/digital-maker-games-with-push-button-using-microbit1
 ---
 
 | Date | Time | Venue |
