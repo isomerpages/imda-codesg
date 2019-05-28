@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Mini Finger Soccer"
 date: 2018-08-19
-permalink: /events/workshops/digital-maker-mini-finger-soccer
+permalink: /events/workshops/digital-maker-mini-finger-soccer2
 ---
 
 | Date | Time | Venue |
