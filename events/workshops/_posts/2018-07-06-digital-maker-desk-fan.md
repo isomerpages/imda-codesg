@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Maker: Desk Fan"
+title: "Digital Maker - Desk Fan"
 date: 2018-07-06
 permalink: /events/workshops/digital-maker-desk-fan
 ---
