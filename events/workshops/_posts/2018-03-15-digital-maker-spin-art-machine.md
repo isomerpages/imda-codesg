@@ -15,11 +15,17 @@ Did you know that you can build your own Spin-Art Machine and program it? Join u
  
 Participants will be:
 Introduced to coding and computational thinking
+
 Able to appreciate how technology can help people
+
 Introduced to block-based programming
+
 Introduced to micro:bit and its sensors
+
 Build their very own Spin-Art Machine and integrate it with micro:bit
+
 Able to apply concepts and knowledge learned to real-life problems
+ 
  
 This workshop will be held at Jurong Regional Library.
  
