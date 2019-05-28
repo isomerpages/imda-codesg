@@ -2,7 +2,7 @@
 layout: post
 title: "Games with Push button and Accelerometer using micro:bit"
 date: 2018-08-19
-permalink: /events/workshops/games-with-push-button-and-accelerometer-using-micro:bit
+permalink: /events/workshops/games-with-push-button-and-accelerometer-using-micro-bit
 ---
 
 | Date | Time | Venue |
