@@ -16,8 +16,11 @@ This workshop introduces participants to micro:bit hardware, the block-based pro
 Participants will also learn how to:
 
 Give instructions using the block-based programming environment to display different images,
+
 Upload the program onto the microcontroller
+
 To display messages and music by pressing a button
+
 Program the piezo speaker and connect to the micro:bit to play musical notes when button A is pressed.
 
  
