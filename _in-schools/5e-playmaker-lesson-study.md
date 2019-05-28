@@ -51,4 +51,4 @@ PLAY@TP Video
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8eS9PNNR5j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Learn more about the awards and external features that PlayMaker has garnered by [clicking here](/in-schools/playmaker/noteworthy/)
+Learn more about the awards and media stories that PlayMaker has garnered by [clicking here](/in-schools/playmaker/noteworthy/)
