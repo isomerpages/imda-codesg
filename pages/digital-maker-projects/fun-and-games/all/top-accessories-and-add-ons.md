@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Top Accessories and Add-Ons For The micro:bit
+title: Top Accessories and Add-Ons For The microbit
 permalink: /space-shooter/
-breadcrumb: Top Accessories and Add-Ons For The micro:bit
+breadcrumb: Top Accessories and Add-Ons For The microbit
 ---
 
 The BBC launched the Micro:Bit single-board microcontroller back in 2015 as an education tool for kids in an effort to get them actively involved in writing software and project development. While the development board is a big hit with kids, it’s equally popular with makers of all ages and has been used as the foundation in creating a myriad of great projects- from musical instruments to weather stations.
