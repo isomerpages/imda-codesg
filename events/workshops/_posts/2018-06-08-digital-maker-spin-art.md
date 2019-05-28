@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker - Spin Art"
 date: 2018-06-08
-permalink: /events/workshops/digital-maker-spin-art
+permalink: /events/workshops/digital-maker-spin-art2
 ---
 
 | Date | Time | Venue |
