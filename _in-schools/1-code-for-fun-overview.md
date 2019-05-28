@@ -12,5 +12,6 @@ The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is offer
 <br> The Code for Fun Enrichment Programme aims to:
 * Facilitate the exposure of a large base of students to coding and computational thinking; and
 * Help build an entire generation of workforce inculcated with basic coding and computational thinking skills. <br>
+
 We are currently reviewing the programme to make it better. More details will be released by September 2019.
 
