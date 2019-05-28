@@ -9,7 +9,7 @@ permalink: /events/workshops/digital-maker-creating-digital-greeting-cards-using
 |--------|---|---|
 | Sunday 11 February 2018 | 06:30 PM - 08:30 PM | Tampines Regional Library PIXEL Labs@NLB, Level 4 |
 
-![hi](/images/workshops/Digital Gift Box2.jpg) 
+![hi](/images/events/workshops-and-exhibitions/Digital Gift Box2.jpg) 
 
 This workshop introduces participants to micro:bit hardware, the block-based programming environment, PXT and create a simple greeting message using animations and text with musical notes when button A is pressed. Make a simple greeting card with musical notes using the piezo speaker strawbees and cardboard. Material fee ($12 per pax) include one piezo buzzer, 2 crocodile wires, strawbees and customised cardboard.
 
