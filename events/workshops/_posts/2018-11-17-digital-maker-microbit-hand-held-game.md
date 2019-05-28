@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Micro:bit Hand-held game"
 date: 2018-11-17
-permalink: /events/workshops/digital-maker-microbit-hand-held-game
+permalink: /events/workshops/digital-maker-microbit-hand-held-game1
 ---
 
 | Date | Time | Venue |
