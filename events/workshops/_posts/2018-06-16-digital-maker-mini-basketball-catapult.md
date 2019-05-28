@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Maker: Mini Basketball Catapult"
+title: "Digital Maker - Mini Basketball Catapult"
 date: 2018-06-16
 permalink: /events/workshops/digital-maker-mini-basketball-catapult
 ---
