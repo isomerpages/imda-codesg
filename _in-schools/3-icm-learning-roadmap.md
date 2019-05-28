@@ -11,7 +11,7 @@ As an overview, the roadmap covers 8 roadmaps under 4 functional domain areas of
 
 The core roadmap will allow students to better appreciate different facets of ICM through a progressive set of ICM-related activities.
 
-![icm learning roadmap infographic](/images/in-schools/icm-learning-roadmap/icm-learning-roadmap-infographic.jpg)
+![icm learning roadmap infographic](/images/in-schools/icm-learning-roadmap/icm-learning-roadmap-infographic-final.jpg)
 
 To learn more about the roadmap, download a copy of the [ICM Learning Roadmap.](/files/icm-learning-roadmap/icm-learning-roadmap.pdf)
 
