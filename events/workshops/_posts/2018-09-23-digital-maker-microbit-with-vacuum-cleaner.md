@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker: Micro:bit with Vacuum Cleaner"
 date: 2018-09-23
-permalink: /events/workshops/digital-maker-microbit-with-vacuum-cleaner
+permalink: /events/workshops/digital-maker-microbit-with-vacuum-cleaner2
 ---
 
 | Date | Time | Venue |
