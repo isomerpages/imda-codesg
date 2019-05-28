@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Maker - Boombox"
 date: 2018-08-04
-permalink: /events/workshops/digital-maker-boombox
+permalink: /events/workshops/digital-maker-boombox1
 ---
 
 | Date | Time | Venue |
