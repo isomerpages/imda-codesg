@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Digital Maker: Microbit Car"
+title: "Digital Maker - Microbit Car"
 date: 2018-07-21
 permalink: /events/workshops/digital-maker-microbit-car
 ---
