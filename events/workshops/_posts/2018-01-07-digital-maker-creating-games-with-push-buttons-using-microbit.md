@@ -27,7 +27,7 @@ This programme is suitable for participants aged 10 and above. Participants aged
 
 Participants are required to bring writing materials and their own microbit if they have received one at previous IMDA Digital Maker workshops. 
 
-Admission is free and registration is required here or at library e-kiosks.
+Admission is free and registration is required <a href="https://www.nlb.gov.sg/golibrary2/e/digital-maker-creating-games-with-push-buttons-using-microbit-pixel-labsnlb-38944270" target="_blank">here</a> or at library e-kiosks.
 
 Participants are advised to arrive 15 minutes before the start of the workshop, as allocated seats will be released to interested participants 5 minutes after the start of the workshop.
 
