@@ -21,6 +21,7 @@ Suitable for children ages 9 to 12, this workshop will teach them basic programm
 
 
 Cost:
+
 | Participants| Member | Non-Member |
 |--------|---|---|
 | 1 Parent + 1 Child | $10 | $20 |
