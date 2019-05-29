@@ -28,7 +28,8 @@ https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/seniors-for-smart-
 
 
 **Venue: Home-Fix XPC**
-| Workshop Date | Time | Residents from: |
+
+| Workshop Date | Time | Residents from |
 |--------|---|---|
 | 21 January 2018  | 02:00 PM - 05:00 PM | Bukit Panjang Cc, Potong Pasir CC |
 
