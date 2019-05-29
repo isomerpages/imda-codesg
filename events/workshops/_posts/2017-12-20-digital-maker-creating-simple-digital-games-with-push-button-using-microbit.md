@@ -9,7 +9,7 @@ permalink: /events/workshops/digital-maker-creating-simple-digital-games-with-pu
 |--------|---|---|
 | Wednesday 20 December 2017 - Thursday 21 December 2017 | 10:00 AM - 12:00 PM | Tampines Regional Library (PIXEL Labs@NLB, Level 4 |
 
-![hi](/images/events/generic-event-image.jpg)
+![hi](/images/events/workshops-and-exhibitions/Games-with-microbit-gallery.jpg)
 
 This workshop introduces participants to micro:bit hardware, the block-based programming environment, PXT and how to create a simple digital game such as Battleship with both push buttons and the accelerometer as input using the micro:bit. 
 
