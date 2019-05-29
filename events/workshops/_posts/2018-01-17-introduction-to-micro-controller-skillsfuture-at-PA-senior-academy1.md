@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Micro-controller (Skillsfuture@PA Senior Academy)
+title: "Introduction to Micro-controller (Skillsfuture@PA Senior Academy)"
 date: 2018-01-17
 permalink: /events/workshops/introduction-to-micro-controller-skillsfuture-at-PA-senior-academy1
 ---
