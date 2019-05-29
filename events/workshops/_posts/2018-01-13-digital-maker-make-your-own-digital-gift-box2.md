@@ -9,7 +9,7 @@ permalink: /events/workshops/digital-maker-make-your-own-digital-gift-box2
 |--------|---|---|
 | Saturday 13 January 2018 | 01:30 PM - 03:30 PM | Tampines Regional Library PIXEL Labs@NLB, Level 4 |
 
-![hi](/images/events/generic-event-image.jpg)
+![hi](/images/events/workshops-and-exhibitions/Digital-Gift-Box2.jpg)
 
 Have you ever wanted a gift box that has a spotlight on the gift and a produce an “Ahhh” sound when you open it or make some spooky noises when someone opens your box? If so, this is the workshop just for you! In this workshop, you will learn how to infuse technology into gift boxes, from a simple birthday present and a halloween surprise to even a marriage proposal. Join us now to make your very own music gift box.
  
