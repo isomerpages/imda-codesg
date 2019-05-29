@@ -9,7 +9,7 @@ permalink: /events/workshops/introduction-to-micro-controller-skillsfuture-at-PA
 |--------|---|---|
 | Sunday 21 January 2018 - Monday 22 January 2018  | 10:00 PM - 01:00 AM | Home-Fix XPC |
 
-![hi](/images/events/workshops-and-exhibitions/SmartNation2.png)
+![hi](/images/events/workshops-and-exhibitions/SmartNation2.jpg)
 
 Skillsfuture@PA (Senior Academy) Introduction to Micro-controller
 
