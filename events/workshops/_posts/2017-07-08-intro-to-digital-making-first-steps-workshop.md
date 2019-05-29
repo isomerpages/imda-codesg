@@ -9,7 +9,7 @@ permalink: /events/workshops/intro-to-digital-making-first-steps-workshop
 |--------|---|---
 | Saturday 8 July 2017 | 10:00 AM - 04:00 PM |   Home-Fix XPC |
 
-![hi](/images/events/generic-event-image.jpg)
+![hi](/images/events/workshops-and-exhibitions/Intro-to-Digital-Making-First-Steps-Homefix-Banner.jpg)
 
 Due to popular demand, Home-Fix XPC will be conducting 2 individual workshops on 8 July 2017 on 10:00am to 12:00pm (first timeslot) and 2:00pm to 4:00pm (2nd timeslot) to introduce you to Digital Making!
 
