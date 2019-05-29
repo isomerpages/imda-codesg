@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Micro-controller (Skillsfuture@PA Senior Academy)
+title: "Introduction to Micro-controller (Skillsfuture@PA Senior Academy)"
 date: 2018-01-16
 permalink: /events/workshops/introduction-to-micro-controller-skillsfuture-at-PA-senior-academy2
 ---
@@ -33,7 +33,7 @@ https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/seniors-for-smart-
 
 | Workshop Date | Time | Residents from |
 |--------|---|---|
-| 16 January 2018  | 02:00 PM - 05:00 PM  | Nee Soon South CC, Sembawang CCAljunied CC , Boon Lay CC |
+| 16 January 2018  | 02:00 PM - 05:00 PM  | Nee Soon South CC, Sembawang CC |
 
 
 Updates: This event has successfully concluded. Get to know what happens in our events by checking out our features <a href="" target="_blank">here</a>
