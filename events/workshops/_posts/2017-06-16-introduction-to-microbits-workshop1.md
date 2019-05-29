@@ -7,7 +7,7 @@ permalink: /events/workshops/introduction-to-microbits-workshop1
 
 | Date | Time | Venue |
 |--------|---|---|
-| Friday 16 June 2017 | 06:00 PM - 08:00 PM |   Home-Fix XPC |
+| Friday 16 June 2017 | 02:00 PM - 04:00 PM |   Home-Fix XPC |
 
 ![hi](/images/events/workshops-and-exhibitions/Intro-to-microbit-workshop-Homefix-Banner.jpg)
 
