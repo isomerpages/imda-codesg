@@ -11,9 +11,11 @@ permalink: /events/workshops/introduction-to-micro-controller-skillsfuture-at-PA
 
 ![hi](/images/events/workshops-and-exhibitions/SmartNation2.jpg)
 
+
+
 Skillsfuture@PA (Senior Academy) Introduction to Micro-controller
 
- 
+
 
 Learn to program a micro:bit controller with sensors to create an electric compass.
 
