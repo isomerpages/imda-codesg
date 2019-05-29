@@ -15,12 +15,10 @@ In the month of October, some of our friends who are studying may be feeling the
 
 Participants will also learn how to 
 
-• Give instructions using the block-based programming environment to display different images, 
-• Upload the program onto the micro:bit 
-
-• Use accelerometer on the micro:bit as a form of input, 
-
-• Use accelerometer to change the location of the LED on the grid and randomly display images by tilting the microbits.
+- Give instructions using the block-based programming environment to display different images, 
+- Upload the program onto the micro:bit 
+- Use accelerometer on the micro:bit as a form of input, 
+- Use accelerometer to change the location of the LED on the grid and randomly display images by tilting the microbits.
 
 
  The workshop and the micro:bits are sponsored by IMDA.  
