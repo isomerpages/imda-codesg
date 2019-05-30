@@ -8,7 +8,7 @@ second_nav_title: Digital Maker
 ---
 
 
-| [**Computer Studies**](/primary-computer-studies/) |
+|[**Computer Studies**](/primary-computer-studies/) |
 |---|
 | [**Design and Technology**](/primary-design-and-technology/) |
 | [**Humanities**](/primary-humanities/) |
