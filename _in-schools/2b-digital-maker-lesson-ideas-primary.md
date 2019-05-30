@@ -6,7 +6,7 @@ breadcrumb: Digital Maker Lesson Ideas - Primary Schools
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
-![main image](/images/in-schools/digital-maker/lesson-plans/secondary/category-page-image2.jpg)
+![main image](/images/in-schools/digital-maker/overview/lesson-plans/primary/category-page-image.jpg)
 
 | Select a category to view our lesson plans! |
 |---|
