@@ -7,13 +7,15 @@ collection_name: in-schools
 second_nav_title: Digital Maker
 ---
 
-[**Computer Studies**](/primary-computer-studies/)<br>
-[**Design and Technology**](/primary-design-and-technology/)<br>
-[**Humanities**](/primary-humanities/)<br>
-[**Language**](/primary-language/)<br>
-[**Math**](/primary-math/)<br>
-[**Music and Art**](/primary-music-and-art/)<br>
-[**Physical Education**](/primary-physical-education/)<br>
-[**Science**](/primary-science/)<br>
+
+| [**Computer Studies**](/primary-computer-studies/) |
+|---|
+| [**Design and Technology**](/primary-design-and-technology/) |
+| [**Humanities**](/primary-humanities/) |
+| [**Language**](/primary-language/) |
+| [**Math**](/primary-math/) |
+| [**Music and Art**](/primary-music-and-art/) |
+| [**Physical Education**](/primary-physical-education/) |
+| [**Science**](/primary-science/) |
 
 
