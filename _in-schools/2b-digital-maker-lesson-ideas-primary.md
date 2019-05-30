@@ -8,8 +8,9 @@ second_nav_title: Digital Maker
 ---
 
 
-|[**Computer Studies**](/primary-computer-studies/) |
+| Select a category to view our lesson plans! |
 |---|
+|[**Computer Studies**](/primary-computer-studies/) |
 | [**Design and Technology**](/primary-design-and-technology/) |
 | [**Humanities**](/primary-humanities/) |
 | [**Language**](/primary-language/) |
