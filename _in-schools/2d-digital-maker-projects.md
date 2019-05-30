@@ -6,8 +6,9 @@ breadcrumb: Project Ideas By Community
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
-
-[**Smart Home**](/smart-home)<br>
-[**Fun and Games**](/fun-and-games)<br>
-[**A Better World**](/a-better-world)<br>
+| Select a category to view fun projects tutorials! |
+| --- |
+| [**Smart Home**](/smart-home) |
+| [**Fun and Games**](/fun-and-games) |
+| [**A Better World**](/a-better-world) |
 
