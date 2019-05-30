@@ -6,14 +6,14 @@ breadcrumb: Digital Maker Lesson Ideas (Secondary Schools)
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
-
-
-[**Computer Studies**](/secondary-computer-studies/)<br>
-[**Design and Technology**](/secondary-design-and-technology/)<br>
-[**Humanities**](/secondary-humanities/)<br>
-[**Language**](/secondary-language/)<br>
-[**Math**](/secondary-math/)<br>
-[**Music and Art**](/secondary-music-and-art/)<br>
-[**Physical Education**](/secondary-physical-education/)<br>
-[**Science**](/secondary-science/)<br>
+| Select a category to view our lesson plans! |
+|---|
+|[**Computer Studies**](/secondary-computer-studies/) |
+| [**Design and Technology**](/secondary-design-and-technology/) |
+| [**Humanities**](/secondary-humanities/) |
+| [**Language**](/secondary-language/) |
+| [**Math**](/secondary-math/) |
+| [**Music and Art**](/secondary-music-and-art/) |
+| [**Physical Education**](/secondary-physical-education/) |
+| [**Science**](/secondary-science/) |
 
