@@ -18,5 +18,5 @@ This video below will show how Cedric uses the Radio, ultrasonic sensor and LED 
  
 Click the video link below for more instructions & guidelines:<br>
 
-<a href="https://www.youtube.com/watch?v=DvbsrraxLGU" target="_blank">Video in action</a><br>
+<a href="https://www.youtube.com/watch?v=DvbsrraxLGU" target="_blank">Video of project in action</a><br>
 
