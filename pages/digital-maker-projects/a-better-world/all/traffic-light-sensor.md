@@ -12,7 +12,7 @@ The project focuses on the safety of pedestrians near the traffic light junction
 
  
 
-Once they move out of the zone, the LED lights will still be on and the warning message will still be displayed, but the buzzer will stop sounding. When the green man appears, the LED light and warning alert will be turned off. .<br>
+Once they move out of the zone, the LED lights will still be on and the warning message will still be displayed, but the buzzer will stop sounding. When the green man appears, the LED light and warning alert will be turned off.<br>
 
 **You will need:**<br>
 
@@ -45,7 +45,7 @@ Identify on an area of interest and brief study of data to confirm project.<br>
 **2.  Brainstorm** <br>
 Brainstorm for possible causes of the problem, using fishbone diagram.<br>
 
---
+---
 
 **3. Use mindmap** <br>
 Use mindmap to guide and develop solutions to solve the problem.<br>
