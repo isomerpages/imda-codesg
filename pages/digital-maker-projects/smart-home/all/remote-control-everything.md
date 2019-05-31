@@ -19,19 +19,11 @@ Partner up with a friend, or grab a spare micro:bit, to make a remote controlled
 
 
 1 x BBC micro:bit<br>
-
 1 x Micro USB cable<br>
-
 1 x Battery box<br>
-
 2 x AA batteries<br>
-
 1 x micro:bit car<br>
-
 *OR*<br>
-
 1 x a project you'd like to remote control<br>
-
----
 
 Click [here](/in-schools/digital-maker/projects/) to go back to the Digital Maker Projects By Community main page.
