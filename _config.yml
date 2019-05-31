@@ -6,7 +6,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-remote_theme: travispoh/isomer-dlp-template
+remote_theme: isomerpages/isomerpages-template
 safe: false
 
 plugins:
