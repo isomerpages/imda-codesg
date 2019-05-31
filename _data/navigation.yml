@@ -45,12 +45,11 @@
     url: /events/roadshows-and-exhibitions/
   - title: Competitions
     url: /events/competitions/
-- title: Stories
-  url: /stories/
-  # sub-links:
-  # - title: Media
-  #   url: /stories/media/
-  # - title: Features
-  #   url: /stories/features/
+- title: Stories 
+  sub-links:
+  - title: Media
+    url: /stories/media/
+  - title: Features
+    url: /stories/features/
 - title: Contact Us
   url: /contact-us/
