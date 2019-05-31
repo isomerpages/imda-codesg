@@ -4,7 +4,7 @@ title: Traffic Light Sensor
 permalink: /traffic-light-sensor/
 breadcrumb: Traffic Light Sensor
 ---
-**Contributed by Ms Chiam Lee Lee (Teacher), Aretha Lee and Pay Xinyi (Students) from Raffles Girls Primary School **
+**Contributed by Ms Chiam Lee Lee (Teacher), Aretha Lee and Pay Xinyi (Students) from Raffles Girls Primary School**
 
 ![1](/XXX)
 
@@ -16,23 +16,22 @@ Once they move out of the zone, the LED lights will still be on and the warning 
 
 **You will need:**<br>
 
-![Download Program Code](/files/projects/a-better-world/traffic-light-sensor-program-code.hex)<br>
+[Download Program Code](/files/projects/a-better-world/traffic-light-sensor-program-code.hex)<br>
 
-<a href="/files/projects/a-better-world/traffic-light-sensor-program-code.hex"_blank">Download Program Code</a><br>
 
-1 x Micro:bit<br>
-1 x Micro:bit breakout board<br>
-1 x Ambient Light Sensor<br> 
-1 x Digital Buzzer Module<br>
-1 x Laser pointer<br>
-1 x Servo motor 9g<br>
-1 x Popsicle<br>
-1 x Bottle cap<br>
-1 x Paper target<br>
-1 x Glue gun<br>
-1 x Crocodile clip<br>
-1 x Micro switch<br>
-1 x 3V battery case<br>
+1 x BBC micro:bit<br>
+1 x micro USB cable<br>
+2 x AAA batteries<br>
+1 x Wooden cardboard<br>
+2 x Spray paint<br>
+1 x set Lego figurines and cars<br>
+1 x Breadboard and Prototype Shield<br>
+1 x Ultrasonic sensor<br>
+1 x set LEDs for LED strip and red/green man<br>
+1 x set Jumper wires<br>
+1 x Buzzer<br>
+2 x Synthetic glass patches<br>
+1 x Wooden stick<br>
 
 #### Instructions
 
