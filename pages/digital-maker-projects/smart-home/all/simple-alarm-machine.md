@@ -10,7 +10,7 @@ breadcrumb: Simple Alarm Machine
 
 For your simple anti-thievery needs! Please don't actually use this as an anti-theft device, unless you're protecting against small children. In which case, you should try counselling... but we don't have a micro:bit project for that. <br>
 
-<a href="https://tinkercademy.com/tutorials/simple-alarm-machine/" target="_blank">here</a> <br>
+<a href="https://tinkercademy.com/tutorials/simple-alarm-machine/" target="_blank">Go to tutorial</a> <br>
 
 
 Click [here](/in-schools/digital-maker/projects/) to go back to the Digital Maker Projects By Community main page.
