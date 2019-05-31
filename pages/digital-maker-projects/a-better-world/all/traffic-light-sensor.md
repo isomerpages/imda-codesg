@@ -38,7 +38,7 @@ Once they move out of the zone, the LED lights will still be on and the warning 
 ![2](/images/in-schools/digital-maker/projects/a-better-world/traffic-light-sensor/traffic-light-sensor2.jpg)
 
 **1.  Identify on an area of interest** <br>
-Identified on an area of interest and brief study of data to confirm project.<br>
+Identify on an area of interest and brief study of data to confirm project.<br>
 
 ---
 
