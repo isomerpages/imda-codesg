@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Media
-permalink: /stories/media/2019-05-26-media
+permalink: /stories/
 breadcrumb: Media
 collection_name: stories
 ---
