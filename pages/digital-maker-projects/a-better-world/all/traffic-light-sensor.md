@@ -6,7 +6,7 @@ breadcrumb: Traffic Light Sensor
 ---
 **Contributed by Ms Chiam Lee Lee (Teacher), Aretha Lee and Pay Xinyi (Students) from Raffles Girls Primary School **
 
-![1](/images/in-schools/digital-maker/projects/fun-and-games/laser-gun/laser-gun.jpg)
+![1](/XXX)
 
 The project focuses on the safety of pedestrians near the traffic light junctions. When it is red man, the traffic light sensor will trigger the LED lights to blink, the warning message to display and the buzzer to sound when someone steps into the prohibited zone.
 
@@ -16,9 +16,9 @@ Once they move out of the zone, the LED lights will still be on and the warning 
 
 **You will need:**<br>
 
-![Download Program Code](/images/in-schools/digital-maker/projects/fun-and-games/laser-gun/laser-gun.jpg)<br>
+![Download Program Code](/files/projects/a-better-world/traffic-light-sensor-program-code.hex)<br>
 
-<a href="https://www.youtube.com/watch?v=FLZVTazZZ4c&feature=youtu.be" target="_blank">Download Program Code</a><br>
+<a href="/files/projects/a-better-world/traffic-light-sensor-program-code.hex"_blank">Download Program Code</a><br>
 
 1 x Micro:bit<br>
 1 x Micro:bit breakout board<br>
