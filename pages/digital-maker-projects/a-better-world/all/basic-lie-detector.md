@@ -18,10 +18,10 @@ This tutorial was contributed by Samuel Ong from Raffles Institution.
 
 **You will need:**<br>
 
-1 x BBC micro:bit
-1 x Micro USB cable
-1 x Breakout board
-1 x Octopus LED
+1 x BBC micro:bit<br>
+1 x Micro USB cable<br>
+1 x Breakout board<br>
+1 x Octopus LED<br>
 1 x Moisture Sensor<br>
 
 Click [here](/in-schools/digital-maker/projects/) to go back to the Digital Maker Projects By Community main page.
