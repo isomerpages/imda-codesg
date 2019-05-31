@@ -10,7 +10,7 @@ breadcrumb: Remote control everything
 
 Remote Control Everything! Do you already have a micro:bit project you’d like to control from afar?<br>
 
-Partner up with a friend, or grab a spare micro:bit, to make a remote controlled project with 2 micro:bits. (Don’t grab a friend’s micro:bit. Be nice.).<br>
+Partner up with a friend, or grab a spare micro:bit, to make a remote controlled project with 2 micro:bits. (Don’t grab a friend’s micro:bit. Be nice.)<br>
 
 
 <a href="https://tinkercademy.com/tutorials/remote-control-everything/" target="_blank">Go to tutorial</a> 
