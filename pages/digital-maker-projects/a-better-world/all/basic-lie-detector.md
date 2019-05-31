@@ -22,6 +22,6 @@ This tutorial was contributed by Samuel Ong from Raffles Institution.
 1 x Micro USB cable
 1 x Breakout board
 1 x Octopus LED
-1 x Moisture Sensor
+1 x Moisture Sensor<br>
 
 Click [here](/in-schools/digital-maker/projects/) to go back to the Digital Maker Projects By Community main page.
