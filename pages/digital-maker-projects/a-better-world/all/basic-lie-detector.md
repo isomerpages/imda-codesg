@@ -4,13 +4,11 @@ title: Basic Lie Detector
 permalink: /basic-lie-detector/
 breadcrumb: Basic Lie Detector
 ---
-**Contributed by Samuel Ong**
+**Contributed by Samuel Ong from Raffles Institution**
 
 ![1](/images/in-schools/digital-maker/projects/a-better-world/lie-detector.jpg)
 
 Basic Lie Detector. With this machine, the truth will never escape you! As long as you can make your subject hold a moisture sensor for a while.
-
-This tutorial was contributed by Samuel Ong from Raffles Institution.
 
 
 
