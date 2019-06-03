@@ -16,22 +16,22 @@ Come and look for us at our Digital Maker booth where there are many exciting pr
 
  
 
-**Program your Race Car and Compete!**
+**Program your Race Car and Compete!**<br>
 Explore robotics with a micro:bit-powered car. Use an RC controller to navigate, or equip the micro:bit car with sensors so that it can navigate its world autonomously. Race against one another on the track to see who is faster, an autonomous or a human-controller car?
 
  
 
-**Fire your Air Cannon!**
+**Fire your Air Cannon!**<br>
 Play off against each other in a micro:bit powered game where the winner gets to fire their air cannon first!
 
  
 
-**Angry Bird Catapult**
+**Angry Bird Catapult**<br>
 See who can shoot their angry bird the furthest possible!
 
  
 
-**Fiddle with Micro:bit**
+**Fiddle with Micro:bit**<br>
 Code your first program on the micro:bit in minutes on the user-friendly Microsoft MakeCode's code editor. Make a simple animation or a digital compass.
 
 
