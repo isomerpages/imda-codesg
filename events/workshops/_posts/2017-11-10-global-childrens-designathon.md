@@ -7,16 +7,16 @@ permalink: /events/workshops/global-childrens-designathon
 
 | Date | Time | Venue |
 |--------|---|---|
-| Friday 10 November 2017 - Saturday 11 November 2017 | 03:00 PM - 06:00 PM / 09:30 AM - 05:00 PM |  Tinkering Studio  |
+| Friday 10 November 2017 / Saturday 11 November 2017 | 03:00 PM - 06:00 PM / 09:30 AM - 05:00 PM |  Tinkering Studio  |
 
 ![hi](/images/events/workshops-and-exhibitions/global-childrens-designathon.jpg)
 
 The Global Children’s Designathon is a design thinking process especially developed for children to work on global and sustainability issues. Developed by Designathon Works from Amsterdam, children develop their own ideas and build prototypes using new technologies to solve real-world problems affecting the environment and society.<br>
 
-*Digital Maker Workshop*<br>
+***Digital Maker Workshop***<br>
 10 Nov 2017, Friday: 3.00pm to 6.00pm<br>
 
-*Global Designathon*<br>
+***Global Designathon***<br>
 11 Nov 2017, Saturday: 9.30am to 5.00pm<br>
 
 Target audience: Children 9-12 years old<br>
