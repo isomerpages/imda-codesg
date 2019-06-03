@@ -48,6 +48,5 @@ EduTECH Asia is designed to show off the best and latest in education technology
 
 ![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-6.jpg)
 
-See more of us in action [here] at one of our events. (/events/roadshows-and-exhibitions/)
 
 See more of us in action [here](/events/roadshows-and-exhibitions/_posts) at one of our events.
