@@ -10,7 +10,7 @@ permalink: /events/workshops/silver-it-fest
 |-------|---|
 | Friday 22 September 2017 - Sunday 24 September 2017  |  Toa Payoh HDB Hub Atrium  |
 
-![hi](/images/events/generic-event-image.jpg) 
+![hi](/images/events/workshops-and-exhibitions/Silver-IT-fest.jpg) 
 
 Join our free Digital Making workshops for seniors aged 50 years old and experience the fun of coding and making. The Digital Maker programme aims to grow a community of digital creators who are passionate in innovation and co-creation to solve real-world problems.<br>  
 
