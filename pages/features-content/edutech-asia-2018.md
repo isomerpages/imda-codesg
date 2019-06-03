@@ -50,3 +50,4 @@ EduTECH Asia is designed to show off the best and latest in education technology
 
 See more of us in action [here] at one of our events. (/events/roadshows-and-exhibitions/)
 
+See more of us in action <a href="" target="_blank">here</a> at one of our events.
