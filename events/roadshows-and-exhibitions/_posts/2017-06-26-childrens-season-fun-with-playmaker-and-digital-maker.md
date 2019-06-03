@@ -17,9 +17,9 @@ Bring your child along for a journey of fun and learning with history and techno
 Admission is FREE!
 
 
-Recommended Age for Playmaker (BeeBot): 3 years and above
-Recommended Age for Digital Maker: 7 years and above
-Location: National Musueum of Singapore, Activity Space Level 3
+Recommended Age for Playmaker (BeeBot): 3 years and above<br>
+Recommended Age for Digital Maker: 7 years and above<br>
+Location: National Musueum of Singapore, Activity Space Level 3<br>
 
 <a href="https://www.nationalmuseum.sg/Cwp/PageNotFound.aspx" target="_blank">Register now</a> 
 
