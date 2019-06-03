@@ -39,7 +39,7 @@ Watch how Kids' Kingdom Child Development and Learning Centre used littleBits to
 </div>
 To learn more, please download their lesson plan [here](/files/playmaker/Kids Kingdom Lesson Plan.pdf)
 
---
+---
 
 Find out how students at New Life Community Services Childcare used littleBits to learn language, literacy and other associated skills.
 <div class="bp-youtube">
