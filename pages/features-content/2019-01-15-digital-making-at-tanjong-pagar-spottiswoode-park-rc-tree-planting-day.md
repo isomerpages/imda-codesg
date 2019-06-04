@@ -16,7 +16,6 @@ in 1990. Its new home is now at the open space behind Block 108 Spottiswoode Par
 ![digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day](/images/stories/features/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day1.jpg)<br> 
 <sub>Ms Indranee Rajah watering the coconut tree after transplantation</sub>
 
-## "You do not need to be tech-savvy to learn how to do it”
 IMDA’s Digital Maker Programme (DMP) played a part in this year’s event, organising workshops for residents to learn about incorporating technology, particularly digital making, into traditional gardening. The workshops enabled residents to learn basic coding and digital making skills, using a pocket-sized codeable computer called the micro:bit. 
 
  
@@ -39,12 +38,12 @@ One of the main highlights of this event was the showcase of a vertical garden p
 ![digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day](/images/stories/features/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day3.jpg)<br>
 <sub>A watering system is set to up automatically water the plants when the low moisture levels are detected.</sub>
 
+## "...we will want to incorporate the use of technology into gardening to showcase to residents that greening is sustainable in the long run”
 Participants of the Tree Planting Day had a fun-filled day, treated to various games, performances and activities, including digital making workshops. Ms Indranee visited various booths and tried out several games that utilized the micro:bit; such as the laser pointing and mini basketball game. She also visited the digital making workshop where volunteers and trainers assisted the participants to learn how to code the micro:bit to create a soil moisture sensor. This moisture sensor uses capacitance to determine the water content of soil and the moisture reading will trigger a ‘happy’ or ‘sad’ face on the micro:bit display.
 
 ![digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day](/images/stories/features/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day4.jpg)<br>
 <sub>Ms Indranee Rajah engaging participants during a digital making workshop.</sub>
 
-## "Tree Planting Day is a significant and enduring tradition started by our founding fathers...”
 With 2018 being the Year of Climate Action, the Tree Planting Day showcased how technology can play a part. In her speech about climate change, Ms Indranee said that the green initiative by the late Mr Lee Kuan Yew was ahead of its time and the Tanjong Pagar-Tiong Bahru Grassroots Organisations will honour this tree planting tradition to keep the legacy alive. “Tree Planting Day is a significant and enduring tradition started by our founding fathers, for Singaporeans to stay rooted in the notion of greening our homeland. At the same time, we will want to incorporate the use of technology into gardening to showcase to residents that greening is sustainable in the long run,” said Ms Indranee. She further stressed that the Tree Planting Day is more than just a community event; it is part of a much bigger cause in making Singapore and the planet greener.
 
  
