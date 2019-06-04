@@ -1,6 +1,7 @@
 ---
 layout: simple-page
 title: "Students team up with their parents to code at Waterway Primary School!"
+date: 2019-02-16
 permalink: /students-team-up-with-their-parents-to-code-at-waterway-primary-school/
 breadcrumb: Students team up with their parents to code at Waterway Primary School!
 ---
