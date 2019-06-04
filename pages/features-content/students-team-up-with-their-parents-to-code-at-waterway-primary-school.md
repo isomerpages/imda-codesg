@@ -6,10 +6,9 @@ permalink: /students-team-up-with-their-parents-to-code-at-waterway-primary-scho
 breadcrumb: Students team up with their parents to code at Waterway Primary School!
 ---
 
-## Students team up with their parents to code at Waterway Primary School!<br>
+## Students team up with their parents to code at Waterway Primary School!
 
 
-## "...computational thinking skills and knowledge of digital making will be a valuable part of work and life.”
 Waterway Primary School has always strived to prepare its students for the future. Coding and Programming, a distinctive programme of the school since 2017, aims to teach students computational thinking skills. According to Mr. Ben Sim, Head of Department for InfoComm Technology, the reason for implementing the programme was simple, “At Waterway Primary, we foresee that for our students in the future, computational thinking skills and knowledge of digital making will be a valuable part of work and life.”
 
 Knowing that such a programme would be difficult to implement independently, Waterway wisely decided to join IMDA’s Digital Maker Programme (DMP). Through DMP, IMDA has provided support for Coding and Programming in multiple ways, such as sponsoring micro:bits for up to one cohort’s worth of students, and running an introductory educator’s workshop to bring Waterway’s teachers up to speed on the device.
@@ -20,6 +19,7 @@ For Primary 2 students, Waterway uses micro:bit as a platform to teach basic cod
 
 ![students-team-up-with-their-parents-to-code-at-waterway-primary-school](/images/stories/features/students-team-up-with-their-parents-to-code-at-waterway-primary-school/Students-team-up-with-their-parents-to-code-at-Waterway-Primary-School1.jpg)
 
+## "“This programme helps us to extend the idea of digital making to the community.”
 Waterway’s effort to teach digital making extends beyond their students to the wider community. Introduced in tandem with their Coding and Programming curriculum, the annual Parent-Child micro:bit engagement is a one-day activity, held at the end of the Primary 2 micro:bit curriculum, where the parents of all Primary 2 students at Waterway are invited to take on a micro:bit making challenge with their child.
 
 Mr. Sim had this to say about the engagement:
