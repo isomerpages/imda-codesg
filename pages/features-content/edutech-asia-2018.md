@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: post
 title: Digital Making @EduTECH Asia 2018
 date: 2018-10-09
 permalink: /edutech-asia-2018/
