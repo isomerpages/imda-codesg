@@ -1,6 +1,7 @@
 ---
 layout: simple-page
 title: Digital Making @EduTECH Asia 2018
+date: 2018-10-09
 permalink: /edutech-asia-2018/
 breadcrumb: Digital Making @EduTECH Asia 2018
 ---
@@ -15,12 +16,14 @@ Focusing on new technologies and methods in education, the free expo highlighted
 Digital Maker Programme (DMP)’s participation in this distinguished event was befitting, being at the forefront of bringing digital making to education in Singapore. DMP is proud to have presented a dedicated pavilion with seven schools, each with a booth showcasing their projects and learning journey.
 
 ![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-1.jpg)
+<sub>Students from Pasir Ris Primary School presenting their digital project to attendees at the event.</sub>
 
 The seven schools that took part in this event are Rivervale Primary School, Rosyth School, Gan Eng Seng School, Pasir Ris Primary School, Temasek Primary School, Yishun Secondary School, and Paya Lebar Methodist Girls School (Secondary).
 
 Each school had a different theme and approach in their digital maker projects. For example, Pasir Ris Primary School embarked on a project in its Infocomm Club CCA, aiming to make a fidget cube out of the micro:bit and code a unique output for each of the inputs when the different buttons were pressed. Meanwhile, Rivervale Primary had their students in Primary 4 learn about Cyber Wellness and coding as part of their Multi-Literacy Programme; and created a Cyber Wellness reaction game in the form of a micro:bit powered Plinko!
 
 ![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-3.jpg)
+<sub>Students used computational thinking to create solutions to real-world problems.</sub>
 
 More than showing familiarity with the basic concepts of digital making, the 7 digital maker projects proved the students’ ability to apply this knowledge to various issues of the 21st century. The students showcased their logical and innovative applications of coding to create solutions to real-world problems.
 
@@ -29,6 +32,7 @@ For example, micro:bit was incorporated into a moisture detector to create an au
 Also representing Singapore, Micromaker held an educators’ training workshop, equipping teachers with the necessary skills to make coding a part of the students’ learning in their respective schools. According to Micromaker, they aim to empower all learners to be digital creators and makers, so as to cultivate real-world problems solving and encourage creativity.
 
 ![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-4.jpg)
+<sub>Teachers gathered for a workshop on how to make coding a part of students’ learning in schools.</sub>
 
 DMP’s showcase, stemming from a broader drive for digital-making in Singapore, was met with positive response from educators and students alike.
 
@@ -43,10 +47,12 @@ At the booth to showcase Paya Lebar Methodist Girls School’s project was Secon
 Echoing Kelyn’s sentiment was Primary 6 student Jovan Low from Rosyth School, “Micro:bit coding has helped me form new friendships as I got to work with many people during the process.” He added, “This project has also helped me gain a better understanding of people with disabilities and how we can help them through the use of technology and micro:bit.”
 
 ![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-7.jpg)
+<sub>EduTECH Asia 2018 attracted quite a crowd and DMP’s booth saw many interested members of the public eager to learn more about the programme.</sub>
 
 EduTECH Asia is designed to show off the best and latest in education technology. Code@SG is not only proud of the successful showcase of these seven schools, but also their commitment to the programme and how far they have come in such a short time. The invaluable impact on their education, both direct and indirect, is a sure sign of great things to come.
 
 ![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-6.jpg)
+<sub>Primary 6 students from Rosyth School tinkering with their project.</sub>
 
 
 See more of us in action [here](/events/roadshows-and-exhibitions/_posts) at one of our events.
