@@ -22,7 +22,7 @@ Mr. Lee Yen Chai from Paya Lebar Methodist Girls' School (PLMGS) Design & Techno
 
 Despite their interest in the micro:bit, Mr. Lee and Mr. Liew had almost no knowledge about the device at the outset, and sacrificed much of their personal time to bring themselves up to speed. After roping in two other interested staff members, Ms. Wendy Khoo and Mr. Lee Kee Heong, the foursome began to meet weekly to discuss and troubleshoot their coding lesson plans, building a curriculum from scratch.
 
-![humble-beginnings-to-grand-plans–digital-making-at-plmgs](/images/stories/features/humble-beginnings-to-grand-plans–digital-making-at-plmgs/humble-beginnings-to-grand-plans–digital-making-at-plmgs3.jpg)
+![humble-beginnings-to-grand-plans–digital-making-at-plmgs](/images/stories/features/humble-beginnings-to-grand-plans–digital-making-at-plmgs3.jpg)
 <sub>PLMGS tinkerers at work!</sub>
 
 **Digital Maker Programme adoption and other digital making curriculum**
@@ -32,7 +32,7 @@ The very first proposal was to have a weekly coding session for a small group of
 
 Made possible due to the strong support from the School’s Management, the Sec. 1 coding curriculum begins with a 10-week coding programme where students learn the coding basics. Subsequently, they apply their knowledge to practical applications in their D&T and PE lessons. Mr. Liew shared, “During the PE lessons, our students learnt to code the Step-Counter and how to troubleshoot and improve the device.”
 
-![humble-beginnings-to-grand-plans–digital-making-at-plmgs](/images/stories/features/humble-beginnings-to-grand-plans–digital-making-at-plmgs/humble-beginnings-to-grand-plans–digital-making-at-plmgs4.jpg)
+![humble-beginnings-to-grand-plans–digital-making-at-plmgs](/images/stories/features/humble-beginnings-to-grand-plans–digital-making-at-plmgs4.jpg)
 <sub>The micro:bit  works perfectly with PCs, Macs, Chromebooks, iOS, and Android devices</sub>
 
 **Events participation and breaking the stereotype**
@@ -84,7 +84,7 @@ Management,” Mr. Lee shares.
 If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click here.
 
 Useful links:
-https://www.imda.gov.sg/digitalmaker
+https://www.imda.gov.sg/digitalmaker<br>
 https://www.plmgss.moe.edu.sg/
 
 
