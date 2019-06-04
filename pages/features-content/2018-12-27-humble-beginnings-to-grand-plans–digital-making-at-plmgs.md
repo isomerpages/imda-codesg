@@ -32,7 +32,7 @@ The very first proposal was to have a weekly coding session for a small group of
 
 Made possible due to the strong support from the School’s Management, the Sec. 1 coding curriculum begins with a 10-week coding programme where students learn the coding basics. Subsequently, they apply their knowledge to practical applications in their D&T and PE lessons. Mr. Liew shared, “During the PE lessons, our students learnt to code the Step-Counter and how to troubleshoot and improve the device.”
 
-![humble-beginnings-to-grand-plans–digital-making-at-plmgs](/images/stories/features/humble-beginnings-to-grand-plans–digital-making-at-plmgs4.JPG)
+![humble-beginnings-to-grand-plans–digital-making-at-plmgs](/images/stories/features/humble-beginnings-to-grand-plans–digital-making-at-plmgs/humble-beginnings-to-grand-plans–digital-making-at-plmgs4.JPG)
 <sub>The micro:bit  works perfectly with PCs, Macs, Chromebooks, iOS, and Android devices</sub>
 
 **Events participation and breaking the stereotype**
