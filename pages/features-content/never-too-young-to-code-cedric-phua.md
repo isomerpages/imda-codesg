@@ -47,7 +47,7 @@ Besides micro:bit, Mr. and Mrs. Phua also nurture Cedric’s interest in digital
 
 ![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/Never-Too-Young-to-Code-Cedric-Phua4.JPG) 
 
-## "...the key to success is: Don’t be discouraged even if you fail after many tries.”
+## "I realized the key to success is: Don’t be discouraged even if you fail after many tries.”
 
 Cedric continues to work on new digital making projects, with his latest work in progress being a Pokémon themed steady hand toy for the Sony Creative Science Award 2019.
 
