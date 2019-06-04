@@ -16,6 +16,7 @@ in 1990. Its new home is now at the open space behind Block 108 Spottiswoode Par
 ![digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day](/images/stories/features/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day1.jpg)<br> 
 <sub>Ms Indranee Rajah watering the coconut tree after transplantation</sub>
 
+## "You do not need to be tech-savvy to learn how to do it”
 IMDA’s Digital Maker Programme (DMP) played a part in this year’s event, organising workshops for residents to learn about incorporating technology, particularly digital making, into traditional gardening. The workshops enabled residents to learn basic coding and digital making skills, using a pocket-sized codeable computer called the micro:bit. 
 
  
