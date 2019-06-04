@@ -30,6 +30,7 @@ The key figure in helping seniors learn coding has been volunteer instructor Mr.
 ![never-too-old-to-code](/images/stories/features/never-too-old-to-code/never-too-old-to-code2.jpg) 
 <sub>Mr. William Tan volunteers as an instructor for the Taman Jurong Community Club digital making class</sub>
  
+ ## "There’s no ceiling to what you can learn and make...”
  With a little patience, as well as the support of their instructors and co-learners, Julie and Edward succeeded in learning micro:bit coding. After overcoming this challenge, Julie and Edward found that coding came much easier. “It felt like mental gymnastics in a way, but after you get the feel of it, it becomes easier and simpler,” said Edward.
 
  
@@ -51,6 +52,8 @@ In her own time, Julia has also created a micro:bit mini playground, where the u
 ![never-too-old-to-code](/images/stories/features/never-too-old-to-code/never-too-old-to-code3.jpg) 
 <sub>Julie’s micro:bit playground project.</sub>
 
+## "To me, the biggest reward is that I now have a common language to bond with my grandchildren.”
+
 In addition to being a fun social activity and helping to keep them up to date with IT, Julie and Edward have found other benefits of continuing to learn coding and digital making. For example, the cerebral nature of learning coding and digital making has enabled them to keep mentally active in their golden years. Furthermore, improving their IT skills has helped to bridge the generational divide between them and their children and grandchildren. As Edward said, “To me, the biggest reward is that I now have a common language to bond with my grandchildren.”
 
  
@@ -71,7 +74,7 @@ Supporting the class as instructors were staff and students from ITE College Wes
 “I have approached him for help on Facebook and he followed up on my question. That is encouraging for me as a learner.”
 
  
-
+## "I believe that we should still learn even if we are seniors.”
 When asked how digital making can be made even more accessible to seniors, Julie and Edward had a few suggestions. Noting that the initial difficulty of digital making classes leads seniors to prefer less challenging activities such as line dancing, they suggested that the courses be simplified even more to hook seniors onto coding. “After completing a simple project, participants may be encouraged to try more difficult ones,” said Julie. Further, they viewed greater publicity efforts as helpful to engaging seniors, pointing out the bolstering effect the Taman Jurong Makefest had on interested seniors.
 
  
