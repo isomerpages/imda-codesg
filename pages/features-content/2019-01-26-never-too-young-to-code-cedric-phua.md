@@ -29,7 +29,6 @@ Cedric’s father credits the block based programming system of the micro:bit fo
 ![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/Never-Too-Young-to-Code-Cedric-Phua3.JPG) 
 <sub>Cedric’s robo car project, and the micro:bit kit he used to create it.</sub>
 
-## "What if we can use [an] ultrasonic sensor to detect pedestrians who want to cross the road?”
 
 Aside from his CCA, Cedric’s love for digital making is also encouraged by his parents. Seeing it as an opportunity for family bonding, Mr. and Mrs. Phua bought him a micro:bit kit to use outside of school, and often spend time with Cedric brainstorming ideas for his next digital making project.
 
