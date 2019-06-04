@@ -74,7 +74,6 @@ Supporting the class as instructors were staff and students from ITE College Wes
 “I have approached him for help on Facebook and he followed up on my question. That is encouraging for me as a learner.”
 
  
-## "I believe that we should still learn even if we are seniors.”
 When asked how digital making can be made even more accessible to seniors, Julie and Edward had a few suggestions. Noting that the initial difficulty of digital making classes leads seniors to prefer less challenging activities such as line dancing, they suggested that the courses be simplified even more to hook seniors onto coding. “After completing a simple project, participants may be encouraged to try more difficult ones,” said Julie. Further, they viewed greater publicity efforts as helpful to engaging seniors, pointing out the bolstering effect the Taman Jurong Makefest had on interested seniors.
 
  
