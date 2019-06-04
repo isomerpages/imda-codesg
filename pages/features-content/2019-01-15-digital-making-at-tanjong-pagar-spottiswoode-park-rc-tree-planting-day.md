@@ -43,6 +43,7 @@ Participants of the Tree Planting Day had a fun-filled day, treated to various g
 ![digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day](/images/stories/features/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day4.jpg)<br>
 <sub>Ms Indranee Rajah engaging participants during a digital making workshop.</sub>
 
+## "Tree Planting Day is a significant and enduring tradition started by our founding fathers...”
 With 2018 being the Year of Climate Action, the Tree Planting Day showcased how technology can play a part. In her speech about climate change, Ms Indranee said that the green initiative by the late Mr Lee Kuan Yew was ahead of its time and the Tanjong Pagar-Tiong Bahru Grassroots Organisations will honour this tree planting tradition to keep the legacy alive. “Tree Planting Day is a significant and enduring tradition started by our founding fathers, for Singaporeans to stay rooted in the notion of greening our homeland. At the same time, we will want to incorporate the use of technology into gardening to showcase to residents that greening is sustainable in the long run,” said Ms Indranee. She further stressed that the Tree Planting Day is more than just a community event; it is part of a much bigger cause in making Singapore and the planet greener.
 
  
