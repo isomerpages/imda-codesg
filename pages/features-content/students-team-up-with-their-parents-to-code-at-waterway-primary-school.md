@@ -19,7 +19,7 @@ For Primary 2 students, Waterway uses micro:bit as a platform to teach basic cod
 
 ![students-team-up-with-their-parents-to-code-at-waterway-primary-school](/images/stories/features/students-team-up-with-their-parents-to-code-at-waterway-primary-school/Students-team-up-with-their-parents-to-code-at-Waterway-Primary-School1.jpg)
 
-## "“This programme helps us to extend the idea of digital making to the community.”
+## "This programme helps us to extend the idea of digital making to the community.”
 Waterway’s effort to teach digital making extends beyond their students to the wider community. Introduced in tandem with their Coding and Programming curriculum, the annual Parent-Child micro:bit engagement is a one-day activity, held at the end of the Primary 2 micro:bit curriculum, where the parents of all Primary 2 students at Waterway are invited to take on a micro:bit making challenge with their child.
 
 Mr. Sim had this to say about the engagement:
