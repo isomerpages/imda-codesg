@@ -37,7 +37,7 @@ Made possible due to the strong support from the School’s Management, the Sec.
 
 **Events participation and breaking the stereotype**
 
-
+## "...someone even questioned our girls about their participation, to which our girls cleverly responded: we are here to break the stereotype!”
 Despite having embarked on their digital making journey for only about a year, PLMGS has actively participated in notable digital making and tech events such as the Maker Faire 2018 and Edutech Asia 2018.
 
 PLMGS’ digital making journey is not without its obstacles and challenges. As Mr. Lee said, “There is still a gender stereotype that girls are not inclined towards computing and coding. Also in general, students prefer to focus more on their core subjects.”
