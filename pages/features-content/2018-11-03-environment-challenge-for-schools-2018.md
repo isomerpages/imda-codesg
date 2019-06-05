@@ -50,20 +50,20 @@ PM Lee emphasized: "We must consider the far reaching implications of climate ch
 **Primary School Category Best Project winner:** Greendale Primary School with corporate partner Ricoh (Singapore) Pte Ltd        
 
 **Project Details:** The school worked to reduce food waste by reminding people each time they throw food away via a display attached to their food waste bin. If the food thrown by any one student (or teacher) exceeds 30g, a message is displayed to remind them to waste less food.
-
 <br>
+
 ![environment-challenge-for-schools-2018](/images/stories/features/environment-challenge-for-schools-2018/environment-challenge-for-schools-2018-3.jpg)<br>
 **Primary School Category Merit Award winner:** Kuo Chuan Presbyterian Primary School with corporate partner Tetra Pak & Green Sproutz Singapore                                 
 
 **Project Details:** Their project uses a line-following robot they dubbed Tetrabot03 (TB03) to teach and motivate pupils in the school to recycle packet drink cartons by counting the number of cartons recycled.
-
 <br>
+
 ![environment-challenge-for-schools-2018](/images/stories/features/environment-challenge-for-schools-2018/environment-challenge-for-schools-2018-4.jpg)<br>
 **Open Category Merit Award winner:** ITE College West with corporate partner ZAP Piling Pte Ltd    
 
 **Project Details:** Their Smart Talking Bin talks and shows facial expressions while sorting waste to encourage more people to recycle and reduce climate change. Thanks to micro:bits, the project could be designed in modular form to make it customisable and easily adaptable to engage different groups of people
-
 <br>
+
 ![environment-challenge-for-schools-2018](/images/stories/features/environment-challenge-for-schools-2018/environment-challenge-for-schools-2018-5.jpg)<br>
 **Open category Merit Award winner:** Nan Chiau High School with corporate partner Canact Pte Ltd    
 
