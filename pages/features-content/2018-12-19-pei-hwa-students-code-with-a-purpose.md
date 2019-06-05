@@ -82,7 +82,7 @@ A survey conducted by the school showed that students were highly receptive to t
 
  
 
-If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/_in-schools/0-overview/)
+If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/0-overview/)
 
 
 Useful links:<br>
