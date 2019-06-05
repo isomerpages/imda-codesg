@@ -7,7 +7,7 @@ breadcrumb: The 2018 Environment Challenge for Schools saw students using digita
 ---
 
 ## Environment Challenge for Schools
-#### a collaboration between NEA with IMDA and ITE College Central
+#### A collaboration between NEA with IMDA and ITE College Central
 
 ![environment-challenge-for-schools-2018](/images/stories/features/environment-challenge-for-schools-2018/environment-challenge-for-schools-2018-1.jpg)
 <sub>Prime Minister Lee Hsien Loong with some of the participants in the ECS</sub>
@@ -31,7 +31,7 @@ For ECS 2018, participating schools kept the spirit of creativity and innovation
 2018 was designated as the Year of Climate Action to raise national awareness about climate change and the need for individual and collective effort to mitigate its effect.
 
  
-
+## "We must consider the far reaching implications of climate change for our city, our economy and our people.”
 Our youth are our future, so it is important to encourage our young students to take action and fight climate change for a sustainable future. ECS 2018 challenged the participating students to use the micro:bit to create solutions for a more carbon-efficient Singapore.
 
  
