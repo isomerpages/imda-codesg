@@ -72,7 +72,7 @@ PM Lee emphasized: "We must consider the far reaching implications of climate ch
 
 **Project Details:** Inspired after attending the PUB ABC waters learning trail, the team created a water sensor prototype with micro:bit programming that can be installed at the tap to remind people of water-saving habits.
 
-
+---
 
 ECS 2018 has given the students invaluable experience, not just in terms of digital making and mirco:bit programming , but also through their collaboration with partners outside of their schools. Most importantly, the digital making process showed our young generation that despite their young age, they can contribute meaningfully to solving real-world problems as significant as climate change.
 
