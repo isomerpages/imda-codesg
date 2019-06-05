@@ -56,23 +56,23 @@ Students who have similar interest but cannot make the same time commitment as j
 
 A survey conducted by the school showed that students were highly receptive to the digital making curriculum, even with female students who are normally perceived to be less inclined towards coding. The successful adoption of DMP by Pei Hwa is further reflected by their numerous digital making achievements in the short two years since they started the programme. Here is a quick rundown:
 
-![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose1.JPG)
- <sub>Presenting their project at Maker Faire 2017 to Minister Vivian Balakrishnan</sub>
+![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose1.JPG)<sub>Presenting their project at Maker Faire 2017 to Minister Vivian Balakrishnan</sub>
+
 ![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose2.jpg)
- <sub>Project showcase at Tech Saturday in 2018, where local celebrity Romeo Tan tried out the shooting game</sub>
+<sub>Project showcase at Tech Saturday in 2018, where local celebrity Romeo Tan tried out the shooting game</sub>
  
  So far, the DMP has integrated seamlessly with Pei Hwa’s existing community service curriculum, helping to elevate both pursuits. Students working with hospice providers created two well received projects - the Balance and React game and the Panic Button device.
  
 ![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose3.jpg)
- <sub>The ‘Balance and React’ game was showcased at EduTech Asia 2017 where participants included educators and industry experts from around the world. The game involves two players performing one of four actions upon prompting by the micro:bit LED display. As the correct inputs are made, the time allotted for the players becomes shorter. The game ends when a player fails to make the correct input in the given time</sub>
+<sub>The ‘Balance and React’ game was showcased at EduTech Asia 2017 where participants included educators and industry experts from around the world. The game involves two players performing one of four actions upon prompting by the micro:bit LED display. As the correct inputs are made, the time allotted for the players becomes shorter. The game ends when a player fails to make the correct input in the given time</sub>
  
 ![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose4.jpg)
- <sub>The Panic Button was showcased on local television show ‘Time Machine’</sub>
+<sub>The Panic Button was showcased on local television show ‘Time Machine’</sub>
  
  The Panic Button works via a wrist strap that is wirelessly connected to an alarm. Worn by an elderly person, this wrist strap will detect any trip or fall and trigger an alarm, alerting people to provide assistance.
  
- ![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose5.jpg)
- <sub>Most recently, students created an automatic pet feeder to assist volunteers at the Causes For Animals organization in coping with the feeding of the many abandoned animals under their care</sub>
+![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose5.jpg)
+<sub>Most recently, students created an automatic pet feeder to assist volunteers at the Causes For Animals organization in coping with the feeding of the many abandoned animals under their care</sub>
  
  For schools that are undecided about DMP, Mr. Neo has some advice, “Don’t be afraid to invest the time on the students even if they don’t produce something meaningful. We see it as a learning experience – how can we motivate them to try again? Most successful entrepreneurs didn’t succeed on their first try.”
 
@@ -82,7 +82,7 @@ A survey conducted by the school showed that students were highly receptive to t
 
  
 
-If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/)
+If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/_in-schools/0-overview/)
 
 
 Useful links:<br>
