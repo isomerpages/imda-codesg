@@ -47,4 +47,4 @@ In summary, the cluster students were able to mingle with each other on a creati
 
  
 
-To learn more about us, follow us on Instagram @digitalmakersg
+To learn more about us, follow us on Instagram <a href="https://www.instagram.com/digitalmakersg/?hl=en" target="_blank">@digitalmakersg</a> 
