@@ -18,6 +18,7 @@ Principal Mr Wilbur Wong shared, “This is a wonderful platform for us because 
 ![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school2.JPG)
 <sub>Montfort tinkerers showing their DIY projects</sub>
 
+## "Students can apply computational thinking to their everyday school life to deconstruct and solve problems.”
 MJS also promotes a school-wide ‘Makers Culture’ with a ‘Tinkershop’ which boasts a wide array of apparatus such as 3D and vinyl printers, electronic parts, soldering irons, and moisture and temperature sensors. The Tinkershop remains open every afternoon to encourage students of all levels and skills to take part in challenges and work on their team/individual projects. 
 
 **DMP adoption**
@@ -26,7 +27,8 @@ When IMDA announced the Digital Maker Programme (DMP) in early 2017, the educato
 
 Educators at Montfort Junior also attended a digital making workshop to help them get familiar with coding. Mr Wong emphasized, “The idea is not to turn all our teachers into expert coders. At least they now have a better understanding of what our students go through in the learning process. Students can apply computational thinking to their everyday school life to deconstruct and solve problems. Our teachers need to be able to see this link and help the students make the connection.” 
 
-“Our teachers are encouraged to explore ways to incorporate coding into their lesson plans like how we have used Sphero, a programmable robotic gadget for Math and the micro:bit for PE and digital art.”, Mr Wong added.
+“Our teachers are encouraged to explore ways to incorporate coding into their lesson plans like how we have used Sphero, a programmable
+robotic gadget for Math and the micro:bit for PE and digital art.”, Mr Wong added.
 
 **Achievements and Milestones**
 
