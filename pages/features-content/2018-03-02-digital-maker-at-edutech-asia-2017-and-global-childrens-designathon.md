@@ -37,3 +37,5 @@ This is a 2-process filtration system which uses heat and a thin membrane layer,
 While their children were busy coding and making with micro:bit, the parents also had a chance to learn and make a smart terrarium using the micro:bit.  This allows the parents to experience what their children have learnt, so that they can continue to explore other projects to work together with their children. 
 
 [See full article](/files/features/DIGITAL MAKER AT EDUTECH ASIA 2017 AND GLOBAL CHILDRENS DESIGNATHON.pdf)
+
+
