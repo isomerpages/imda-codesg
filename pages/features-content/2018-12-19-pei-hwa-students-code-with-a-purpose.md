@@ -22,7 +22,7 @@ The Digital Maker Programme (DMP) by IMDA offered precisely the kind of support 
 
 Having the focus on technology and offering ample resources, DMP was the perfect match for Pei Hwa. Unsurprisingly, Pei Hwa signed up as one of the early adopter schools for DMP in November 2016, months before the official announcement.
 
- 
+ ## "...we want our students to be innovative and to use technology and coding literacy as tools to help the community.”
 
 Miss Lee Wei Ying, Subject Head of Project Work, shared how digital learning is incorporated into the curriculum, “We marry our school’s Applied Learning Programme involving robotics and programming with our Lifelong Learning Programme, which is about building community youth leaders.”
 
@@ -82,8 +82,8 @@ A survey conducted by the school showed that students were highly receptive to t
 
  
 
-If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/0-overview/)
-
+If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)
+       
 
 Useful links:<br>
 https://www.imda.gov.sg/digitalmaker<br>
