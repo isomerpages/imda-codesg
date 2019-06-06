@@ -23,4 +23,4 @@ An IoT competition for DBS' technology group in August, featuring many of our te
 ![getting-singapore-making-with-the-microbit](/images/stories/features/getting-singapore-making-with-the-microbit/getting-singapore-making-with-the-microbit2.jpg)<br>
 
 
-<a href="https://blog.tinkercademy.com/digital-maker-programme-998927090ddc" target="_blank">See full article</a> 
+Click to read the <a href="https://blog.tinkercademy.com/digital-maker-programme-998927090ddc" target="_blank">full article</a> 
