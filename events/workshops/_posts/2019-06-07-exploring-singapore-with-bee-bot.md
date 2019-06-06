@@ -7,7 +7,7 @@ permalink: /events/workshops/exploring-singapore-with-bee-bot-070619
 
 | Date | Time | Venue |
 |--------|---|---|
-| Friday 7 June 2019 | 11:00 AM - 12:00 AM | Bishan Public Library, Programme Zone |
+| Friday 7 June 2019 | 11:00 AM - 12:00 PM | Bishan Public Library, Programme Zone |
 
 Playmaker workshops aim to inspire children to Play and Make with tech toys, sparking imagination and building creative confidence. Bee-Bot is an exciting little robot designed for use by young children. This colourful, easy to operate and friendly little robot is a perfect tool for teaching, counting ,sequencing estimation, problem solving and learning through play!
 
