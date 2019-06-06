@@ -7,7 +7,7 @@ breadcrumb: Meet Singapore's next makers
 ---
 
 ## Meet Singapore's next makers
-#### article by Google
+#### - article by Google
 
 ![meet-singapores-next-makers](/images/stories/features/meet-singapores-next-makers/meet-singapores-next-makers1.jpg)
 
