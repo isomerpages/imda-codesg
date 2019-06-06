@@ -7,15 +7,14 @@ breadcrumb: Maker Faire Singapore 2017
 ---
 
 ## Maker Faire Singapore 2017
-### Maker Faire Singapore 2017
-#### Maker Faire Singapore 2017
+
 Maker enthusiasts all over Singapore had a chance to gather at the inaugural Singapore Maker Extravaganza at the Science Centre Singapore from 20 – 24 July 2017. This annual festival reaches out to professionals, students and the general public to promote the culture of learning through making. Makers can range from tech enthusiasts to crafters to scientists and to garage tinkerers.
 
 In these few years, the Maker Movement has gained popularity in Singapore and redefined the approach towards learning, education, economy and progress. We’re excited to see that to date, there’s been a huge growth of makerspaces, maker fairs and Science, Technology, Engineering and Mathematics (STEM) programmes in schools, industries and the government.
 
 Part of the Singapore Maker Extravaganza was the Maker Faire Singapore event. Held from 22 – 23 July, it featured students demonstrating their maker creations. Minister Vivian Balakrishnan, a maker himself who assembles his own watches component by component, graced the event as the VIP. Through our various showcases, we demonstrated that with just a 5cm by 4cm micro:bit (a simple coding device) and a dose of creativity, anyone can be a maker!
 
-#### Event happenings
+### Event happenings
 Minister Vivian spoke with students from Pei Hwa Secondary School who displayed an easy and convenient food ordering system for hospice patients as well as emergency wristbands alerting nurses should their patients suffer a fall.
 
 ![maker-faire-singapore-2017](/images/stories/features/maker-faire-singapore-2017/maker-faire-singapore-2017-1.jpg)
@@ -25,7 +24,7 @@ An ITE West student demonstrated a micro:bit-controlled drone and spider robots 
 ![maker-faire-singapore-2017](/images/stories/features/maker-faire-singapore-2017/maker-faire-singapore-2017-3.jpg)
 ![maker-faire-singapore-2017](/images/stories/features/maker-faire-singapore-2017/maker-faire-singapore-2017-4.jpg)
 
-#### Exhibits at our Digital Maker booth
+### Exhibits at our Digital Maker booth
 We supported the event by showcasing exhibits from school students that participated in our Digital Maker Programme. Their creative flair was clearly evident and we’re proud to say that they did really well!
 
 **Fire your air cannon!**<br>
@@ -47,7 +46,7 @@ Using robots retrofitted with micro:bits, challengers competed to see who could 
 Participants had fun competing to see who could catapult their angry bird the furthest.
 ![maker-faire-singapore-2017](/images/stories/features/maker-faire-singapore-2017/maker-faire-singapore-2017-11.jpg)
 
-#### Workshops
+### Workshops
 As part of Maker Faire Singapore, we conducted workshops on tea brewing and soil moisture reading to help participants appreciate the use of the micro:bit in their everyday lives.
 
 **Tea brewing workshop**<br>
