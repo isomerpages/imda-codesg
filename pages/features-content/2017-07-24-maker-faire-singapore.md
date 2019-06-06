@@ -7,7 +7,8 @@ breadcrumb: Maker Faire Singapore 2017
 ---
 
 ## Maker Faire Singapore 2017
-
+### Maker Faire Singapore 2017
+#### Maker Faire Singapore 2017
 Maker enthusiasts all over Singapore had a chance to gather at the inaugural Singapore Maker Extravaganza at the Science Centre Singapore from 20 – 24 July 2017. This annual festival reaches out to professionals, students and the general public to promote the culture of learning through making. Makers can range from tech enthusiasts to crafters to scientists and to garage tinkerers.
 
 In these few years, the Maker Movement has gained popularity in Singapore and redefined the approach towards learning, education, economy and progress. We’re excited to see that to date, there’s been a huge growth of makerspaces, maker fairs and Science, Technology, Engineering and Mathematics (STEM) programmes in schools, industries and the government.
