@@ -49,10 +49,10 @@ Participants had fun competing to see who could catapult their angry bird the fu
 #### Workshops
 As part of Maker Faire Singapore, we conducted workshops on tea brewing and soil moisture reading to help participants appreciate the use of the micro:bit in their everyday lives.
 
-**Tea brewing workshop**
+**Tea brewing workshop**<br>
 Participants learnt how to bring tea-making down to a science. Using a micro:bit and some ingenuity, they programmed a tea brewer that could steep a tea bag and remove it at just the right time. That perfect cup of tea isn’t too far from anyone’s reach after all!
 
-**Soil moisture reading workshop**
+**Soil moisture reading workshop**<br>
 A vital ingredient for plants to grow is water but it can be difficult to control how much of it a plant gets. Using a micro:bit and some sensors, participants learnt how they could measure the soil moisture levels more accurately to allow their plant to get the water it requires.
 
 We had such an eventful time at Maker Faire Singapore and we’re looking forward to seeing more innovative creations at Maker Faire 2018 next year!
