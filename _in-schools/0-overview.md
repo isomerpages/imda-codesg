@@ -5,7 +5,6 @@ permalink: /in-schools/overview/
 breadcrumb: In Schools / Overview
 collection_name: in-schools
 ---
-![In Schools Overview](/images/in-schools/overview/In-school-overview-3.jpg){: class="img_crop"}
 
 IMDA supports the development of computational thinking and making in schools by offering programmes for broad-based learning and specialised training at multiple educational levels to encourage students to innovate and build Infocomm and Technology (ICT) solutions, as part of long-term efforts to prepare students for the digital age and future workforce.
 
@@ -13,11 +12,11 @@ IMDA supports the development of computational thinking and making in schools by
 
 
 
-| ![playmaker](/images/in-schools/overview/playmaker-icon.JPG) | PlayMaker, a programme for Pre-Schools. Click [here](/in-schools/playmaker-overview/) |
+| ![playmaker](/images/in-schools/overview/playmaker-icon2.png) | PlayMaker, a programme for Pre-Schools. Click [here](/in-schools/playmaker-overview/) |
 |---||---|
-| ![code for fun](/images/in-schools/overview/code-for-fun-icon.jpeg)  |  **Code For Fun, a programme for Primary and Seconday Schools. Click [here](/in-schools/code-for-fun/overview/)** |
+| ![code for fun](/images/in-schools/overview/code-for-fun-icon2.jpg)  |  **Code For Fun, a programme for Primary and Seconday Schools. Click [here](/in-schools/code-for-fun/overview/)** |
 | ![ICM learning roadmap](/images/in-schools/overview/icm-learning-roadmap-icon.jpg)  | **ICM Learning Roadmap, for Primary and Seconday Schools. Click [here](/in-schools/icm-learning-roadmap/)** |
 |  ![student development](/images/in-schools/overview/student-development-icon.jpg)  |  **Student Development, a programme for Primary and Secondary Schools. Click [here](/in-schools/student-development/)** | 
-|  ![national infocomm competition](/images/in-schools/overview/national-infocomm-competition-icon.jpg) | **National Infocomm Competition, a programme for all ages. Click [here](/in-schools/national-infocomm-competition/)** |
-| ![digital maker](/images/in-schools/overview/digital-maker-overview-icon.JPG)  |  **Digital Maker, a programme for Primary and Secondary Schools. Click [here](/in-schools/digital-maker/overview/)** |
+|  ![national infocomm competition](/images/in-schools/overview/national-infocomm-competition-icon2.jpg) | **National Infocomm Competition, a programme for all ages. Click [here](/in-schools/national-infocomm-competition/)** |
+| ![digital maker](/images/in-schools/overview/digital-maker-overview-icon2.JPG)  |  **Digital Maker, a programme for Primary and Secondary Schools. Click [here](/in-schools/digital-maker/overview/)** |
 
