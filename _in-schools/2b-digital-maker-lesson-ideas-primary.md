@@ -10,9 +10,7 @@ second_nav_title: Digital Maker
 
 | Select a category to view our lesson plans! |
 |---|
-|[**Computer Studies**](/primary-computer-studies/) |
-| [**Design and Technology**](/primary-design-and-technology/) |
-| [**Humanities**](/primary-humanities/) |
+| [**Project-Based**](/primary-project-based/) |
 | [**Math**](/primary-math/) |
 | [**Music and Art**](/primary-music-and-art/) |
 | [**Physical Education**](/primary-physical-education/) |
