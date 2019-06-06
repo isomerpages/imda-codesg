@@ -30,7 +30,7 @@ Ngee Ann Polytechnic students from the School of Engineering course showcased a 
 ![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch5.JPG)<br>
 ![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch6.JPG)<br>
 
-These students have proven that innovation and creativity is indeed boundless! No matter how old or how experienced one is, taking the first step out of his or her comfort zone to explore the wonders of digital making is key! Visit our homepage to find out more on how you, or your child, can make a difference as a digital maker. 
+These students have proven that innovation and creativity is indeed boundless! No matter how old or how experienced one is, taking the first step out of his or her comfort zone to explore the wonders of digital making is key! Visit our homepage at www.digitalmaker.sg. to find out more on how you, or your child, can make a difference as a digital maker. 
 
 ### 2. Coding is not as Daunting as You Think
 There has never been a more diverse age group that is diving into coding and programming than today. Pre-school children are learning basic programming through activities such as ‘Bee-bot’; Primary and Secondary school students are picking up coding; Tertiary students are adopting coding and programming as a core module in their academic curriculum. 
