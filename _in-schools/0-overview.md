@@ -14,12 +14,14 @@ IMDA supports the development of computational thinking and making in schools by
 **PlayMaker**<br>
 ![playmaker](/images/in-schools/overview/playmaker-icon2.png){: class="img_crop"}<br>
 PlayMaker aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
+Click [here](/in-schools/playmaker-overview/) to find out more<br>
 
 ---
 
 **Code For Fun**<br>
 ![code for fun](/images/in-schools/overview/code-for-fun-icon2.jpg){: class="img_crop"}<br>
 Code For Fun Enrichment Programme aims to increase primary and secondary school students' exposure to computational thinking and making <br>
+Click [here](/in-schools/code-for-fun/overview/) to find out more<br>
 
 ---
 
