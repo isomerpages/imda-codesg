@@ -24,24 +24,17 @@ The Digital Garage is a result of extensive partnerships and contributions from 
 
 Mr James Loo, PBM, Chairman of Tanjong Pagar CC Management Committee (CCMC) also added, “Tanjong Pagar CC is very happy to add this new facility as part of our CC transformation. To meet the changing needs of our residents, the CCMC is always looking out for opportunities to offer new and exciting activities and programmes for our residents. Residents and users of Tanjong Pagar CC Digital Garage can share and collaborate on their ideas, projects, exchanging knowledge and combining skills in Digital Making in this communal garage.”
 
-***Resources:**<br>
+***Resources:***<br>
 
-***Annex A:      Digital Garage fact sheet**<br>
-
-***Annex B:      Digital Maker fact sheet**<br>
-
-***Annex C:      About micro:bit**<br>
-
-***Annex D:      micro:bit applications**<br>
-
-***Annex E:       Quotes from industry partners**<br>
-
-***Annex F:       About industry partners**<br>
-
-***Annex G:      Singapore Polytechnic Fact Sheet**<br>
+***Annex A:      Digital Garage fact sheet***<br>
+***Annex B:      Digital Maker fact sheet***<br>
+***Annex C:      About micro:bit***<br>
+***Annex D:      micro:bit applications***<br>
+***Annex E:       Quotes from industry partners***<br>
+***Annex F:       About industry partners***<br>
+***Annex G:      Singapore Polytechnic Fact Sheet***<br>
 
  
-
 <sub>***About Infocomm Media Development Authority (IMDA)***
 
 <sub>*The Infocomm Media Development Authority (IMDA) will develop a vibrant, world-class infocomm media sector that drives the economy, connects people, bonds communities and powers Singapore's Smart Nation vision. IMDA does this by developing talent, strengthening business capabilities, and enhancing Singapore's ICT and media infrastructure. IMDA also regulates the telecommunications and media sectors to safeguard consumer interests while fostering a pro-business environment. IMDA also enhances Singapore’s data protection regime through the Personal Data Protection Commission.*
@@ -68,18 +61,15 @@ Mr James Loo, PBM, Chairman of Tanjong Pagar CC Management Committee (CCMC) also
 
 **For media queries, please contact:**
 
-Christopher Koh
+Christopher Koh<br>
+Senior Manager, Communications & Marketing<br>
+Tel: +65 6211 1709<br>
+Email: christopher_koh@imda.gov.sg<br>
 
-Senior Manager, Communications & Marketing
-Tel: +65 6211 1709
-Email: christopher_koh@imda.gov.sg
+Simon Hoe<br>
+Deputy Consitituency Director<br>
+Tel: +65 93865575<br>
+Email: Simon_hoe@pa.gov.sg<br>
 
- 
-
-Simon Hoe
-
-Deputy Consitituency Director
-Tel: +65 93865575
-Email: Simon_hoe@pa.gov.sg
 
 Download Fact Sheet
