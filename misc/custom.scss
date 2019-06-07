@@ -205,8 +205,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .img_crop{
-  width: 640px!important;
-  height: 320px;
+  width: 300px!important;
+  height: 300px;
   object-fit: cover;
 }
 
