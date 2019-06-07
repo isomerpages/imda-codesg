@@ -19,7 +19,7 @@ Under this programme, we provided interested primary and secondary schools with 
 
 ![diigtal maker overview image 2](/images/in-schools/code-for-fun/code-for-fun.JPG)
 
-Teachers working with the Digital Maker programme created lesson plans to incorporate digital making into their curriculum. Click on the links in the sidebar to view and download the lesson plans for primary and secondary school students.
+Teachers working with the Digital Maker programme created lesson plans to incorporate digital making into their curriculum. Click [here](/in-schools/digital-maker/lesson-ideas-primary/) to view and download Lesson Ideas - Primary Schools primary students and [here](/in-schools/digital-maker/lesson-ideas-secondary/) for Lesson Ideas - Secondary Schools.
 
 
 #### Projects
