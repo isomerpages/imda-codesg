@@ -35,26 +35,20 @@ Mr James Loo, PBM, Chairman of Tanjong Pagar CC Management Committee (CCMC) also
 ***Annex G:      Singapore Polytechnic Fact Sheet***<br>
 
  
-<sub>***About Infocomm Media Development Authority (IMDA)***
-
+<sub>***About Infocomm Media Development Authority (IMDA)***<br>
 <sub>*The Infocomm Media Development Authority (IMDA) will develop a vibrant, world-class infocomm media sector that drives the economy, connects people, bonds communities and powers Singapore's Smart Nation vision. IMDA does this by developing talent, strengthening business capabilities, and enhancing Singapore's ICT and media infrastructure. IMDA also regulates the telecommunications and media sectors to safeguard consumer interests while fostering a pro-business environment. IMDA also enhances Singapore’s data protection regime through the Personal Data Protection Commission.*
-
-<sub>*For more news and information, visit www.imda.gov.sg or follow IMDA on Facebook*
-
-<sub>*IMDAsg and Twitter @IMDAsg.*
+ 
+<sub>*For more news and information, visit www.imda.gov.sg or follow IMDA on Facebook IMDAsg and Twitter @IMDAsg.*
 
 
  
-
-<sub>***About People’s Association***
-
+<sub>***About People’s Association***<br>
 <sub>*The People’s Association (PA) is a statutory board established on 1 July 1960 to promote racial harmony and social cohesion, and to act as a bridge between the Government and the people. We offer a wide range of community programmes and volunteering opportunities for Singaporeans from all walks of life.  Our network includes more than 1,800 grassroots organisations (GROs), over 100 Community Clubs, five Community Development Councils, National Community Leadership Institute and Water-Venture. More information at www.pa.gov.sg.*
 
 
  
 
-<sub>***About Tanjong Pagar Community Club (TPCC)***
-
+<sub>***About Tanjong Pagar Community Club (TPCC)***<br>
 <sub>*Tanjong Pagar CC, established in 1960, is one of the earliest community centres in Singapore. Located at the tranquil Yan Kit Road with Pinnacle@Duxton HDB flats as its backdrop, this CC serves residents around the Tanjong Pagar area, central business district and anyone who is interested to come into the CC.  Other than staple courses in culture, sports and recreational activities, the CC also places a strong emphasis on arts with its Art Gallery, Pottery Club and Photography Club.  Recently, the CC has set up the first community digital garage in Singapore, with the aim of equipping residents of different ages and background with tech making skills.*</sub>
 
  
