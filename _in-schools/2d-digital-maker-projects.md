@@ -6,7 +6,6 @@ breadcrumb: Project Ideas By Community
 collection_name: in-schools
 second_nav_title: Digital Maker
 ---
-![main image](/images/in-schools/digital-maker/projects/cedric-image2.jpg)
 
 | Select a category to view fun projects tutorials! |
 | --- |
