@@ -25,7 +25,6 @@ The Digital Garage is a result of extensive partnerships and contributions from 
 Mr James Loo, PBM, Chairman of Tanjong Pagar CC Management Committee (CCMC) also added, “Tanjong Pagar CC is very happy to add this new facility as part of our CC transformation. To meet the changing needs of our residents, the CCMC is always looking out for opportunities to offer new and exciting activities and programmes for our residents. Residents and users of Tanjong Pagar CC Digital Garage can share and collaborate on their ideas, projects, exchanging knowledge and combining skills in Digital Making in this communal garage.”
 
 ***Resources:***<br>
-
 ***Annex A:      Digital Garage fact sheet***<br>
 ***Annex B:      Digital Maker fact sheet***<br>
 ***Annex C:      About micro:bit***<br>
