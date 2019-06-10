@@ -21,7 +21,6 @@ Features for Digital Maker<br>
 | Date | Title |
 |--|--|
 | **16 February 2019** | **[Students team up with their parents to code at Waterway Primary School!](/students-team-up-with-their-parents-to-code-at-waterway-primary-school/)** |
-
 | **26 January 2019** | **[Never Too Young to Code - Cedric Phua](/never-too-young-to-code-cedric-phua/)** |
 | **22 January 2019** | **[Never too old to code](/never-too-old-to-code/)** |
 | **15 January 2019** | **[Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day](/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/)** |
@@ -40,10 +39,6 @@ Features for Digital Maker<br>
 | **24 July 2017** | **[Maker Faire Singapore 2017](/maker-faire-singapore-2017/)** |
 | **8 July 2017** | **[Top 4 Takeaways from the Digital Garage Launch](/top-4-takeaways-from-the-digital-garage-launch/)** |
 | **8 July 2017** | **[Singapore’s first “Digital Garage” to grow a community of 1000 digital makers](/singapores-first-digital-garage-to-grow-a-community-of-1000-digital-makers/)** |
-
-
-| **date** | **title** |
-| **date** | **title** |
 
 
 <a name="icmroadmap"></a><br>
