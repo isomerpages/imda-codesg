@@ -20,7 +20,7 @@ Features for Digital Maker<br>
 
 | Link | Date | Title |
 |--|--|--|
-| **Click [here](/pages/features-content/edutech-asia-2018.md)** | **9 October 2018** | **Digital Making @EduTECH Asia 2018** |
+| **Click [here](/pages/features-content/edutech-asia-2018.md)** | **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/pages/features-content/edutech-asia-2018.md)** |
 | **Click here** | **date** | **title** |
 | **Click here** | **date** | **title** |
 
