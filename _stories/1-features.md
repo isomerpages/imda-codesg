@@ -18,11 +18,11 @@ Read our features to know what happens at our events and to learn more about how
 
 Features for Digital Maker<br>
 
-| Link | Date | Title |
-|--|--|--|
-| **Click [here](/edutech-asia-2018/)** | **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/edutech-asia-2018/)** |
-| **Click here** | **date** | **title** |
-| **Click here** | **date** | **title** |
+| Date | Title |
+|--|--|
+| **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/edutech-asia-2018/)** |
+| **date** | **title** |
+| **date** | **title** |
 
 
 <a name="icmroadmap"></a><br>
