@@ -8,7 +8,7 @@ collection_name: in-schools
 
 #### The Code for Fun Enrichment Programme's objective is to increase students' exposure to coding and computational thinking. 
 
-![overview image](/images/in-schools/overview/In-school-overview-3.jpg)
+![overview image](/images/in-schools/code-for-fun/code-for-fun-100609.jpg)
 
 The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is being offered to all MOE primary and secondary schools. The programme includes academic learning of related concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create a coding experience for the students.
 
