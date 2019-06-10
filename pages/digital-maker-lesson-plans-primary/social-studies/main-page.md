@@ -7,5 +7,5 @@ breadcrumb: Social Studies Lesson Ideas - Primary
 
 | School Name | Project Name |
 |--|--|
-| **Gongshan Primary** | **[Long Qiam Pass](/gongshan-primary-long-qiam-pass/)** |
+| **Gongshan Primary School** | **[Long Qiam Pass](/gongshan-primary-long-qiam-pass/)** |
 | **stay tuned** | **for more exciting lesson ideas!** |
