@@ -20,6 +20,15 @@ Features for Digital Maker<br>
 
 | Date | Title |
 |--|--|
+| **16 February 2019** | **[Students team up with their parents to code at Waterway Primary School!](/students-team-up-with-their-parents-to-code-at-waterway-primary-school/)** |
+
+| **26 January 2019** | **[Never Too Young to Code - Cedric Phua](/never-too-young-to-code-cedric-phua/)** |
+| **22 January 2019** | **[Never too old to code](/never-too-old-to-code/)** |
+| **15 January 2019** | **[Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day](/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/)** |
+
+
+
+
 | **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/edutech-asia-2018/)** |
 | **date** | **title** |
 | **date** | **title** |
