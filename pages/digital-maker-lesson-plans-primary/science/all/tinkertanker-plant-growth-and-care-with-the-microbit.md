@@ -5,8 +5,6 @@ permalink: /tinkertanker-plant-growth-and-care-with-the-microbit/
 breadcrumb:  Tinkertanker - Plant Growth and Care with the micro:bit
 ---
 
-![stock image/ project photo here](picture link here)
-
 Students will set up experiments to record plant growth / health in the classroom while measuring different variables such as light and water. This allows them to observe the effects of photosynthesis in a tangible way.
 
 Download the lesson plan [here](/files/lesson-plans/primary-schools/science/tinkertanker-plant-growth-and-care-with-the-microbit.pdf)
