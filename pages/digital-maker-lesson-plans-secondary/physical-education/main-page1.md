@@ -5,6 +5,10 @@ permalink: /secondary-physical-education/
 breadcrumb: Physical Education Lesson Ideas - Secondary
 ---
 
-[ACTIVESG – Solving Daily Health Problem](/ahmad-ibrahim-secondary-activesg-solving-daily-health-problem/)<br>
+| School Name | Project Name |
+|--|--|
+| **Ahmad Ibrahim Secondary School** | **[ACTIVESG – Solving Daily Health Problem](/ahmad-ibrahim-secondary-activesg-solving-daily-health-problem/)** |
+| **stay tuned** | **for more exciting lesson ideas!** |
 
-Click [here](/in-schools/digital-maker/lesson-ideas-secondary/) to go back to the Digital Maker Lesson Plans (Secondary) main page.
+[Click here](/in-schools/digital-maker/lesson-ideas-secondary/) to view other Secondary School Lesson Ideas
+
