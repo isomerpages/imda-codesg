@@ -7,5 +7,5 @@ breadcrumb: Social Emotional Learning Lesson Ideas - Primary
 
 | School Name | Project Name |
 |--|--|
-| **Beacon Primary** | **[Emoji](/beacon-primary-emoji/)** |
-| **Beacon Primary** | **[What is My Name](/beacon-primary-what-is-my-name/)** |
+| **Beacon Primary School** | **[Emoji](/beacon-primary-emoji/)** |
+| **Beacon Primary School** | **[What is My Name](/beacon-primary-what-is-my-name/)** |
