@@ -5,23 +5,38 @@ permalink: /in-community/pixel-labs/
 breadcrumb: PIXEL Labs
 collection_name: in-community
 ---
-PIXEL Labs aims to introduce computational thinking and making concepts to the public, raising awareness and generating interest. 
+PIXEL Labs@NLB aims to ignite passion for innovative thinking and experimentation by encouraging passionate individuals to get hands on with technology.
 
 ![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image4.jpg)
 
-#### Workshops and programmes
+PIXEL Labs@NLB is a collaboration between Infocomm Media Development Authority of Singapore and National Library Board. It offers library users a dedicated space with tools, equipment, and hardware kits that enable individuals to learn, create, invent, and share skills. Programmes are jointly arranged by NLB and IMDA, and targeted at the broad spectrum of library users. These activities cover both tech and non-tech areas such as hands-on workshops for students and families, technology talks for general public and crafting sessions for makers.<br>
 
-Introductory workshops are held in community spaces, allowing and encouraging members of the public to explore coding and digital making.
-Various programmes are also conducted to let participants build projects that benefit the community.
+#### Locations of PIXEL Labs @ NLB <br>
+**Jurong Regional Library**<br>
+21 Jurong East Central 1<br>
+Level 2, Singapore 609732<br>
 
-An example would be Meaningful Making whereby various programmes are organized to bring students and families together to build meaningful projects. One such program is Tech Pals, where participants gather over 8 weekly sessions to build tech solutions for a good cause, like tech-enabled toys for disabled children. 
+**Tampines Regional Library**<br>
+1 Tampines Walk, Our Tampines Hub<br>
+Level 4, Singapore 529684<br>
 
-If you are interested to find out what goes on at our workshops and programmes, check out our [stories](/stories/features/) on past events.
+For Programmes & Workshops at PIXEL Labs@NLB, please visit <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/" target="_blank">GoLibrary</a> and do a keyword search for “PIXEL Labs@NLB” for more details on upcoming programmes and workshops.
 
 
-#### Tinkering hours
+#### Operating Hours<br>
+**Jurong Regional Library**<br>
+Wed to Sun from 12pm – 8.30pm<br>
+Closed on Mon & Tue and Public Holidays including eve of Christmas, New Year and Chinese New Year.<br>
 
-Independent makers can register to use PIXEL Labs @ NLB for their tinkering at designated hours. Equipment such as 3D printers and micro controllers will be made available.
+**Tampines Regional Library**<br>
+Mon to Sun from 12pm – 8.30pm<br>
+Closed on Public Holidays including eve of Christmas, New Year and Chinese New Year.<br>
+
+#### Tinkering hours<br>
+
+Besides programmes and workshops, dedicated hours are reserved for registered lab users to tinker in the lab.<br>
+**Tinkering Hours**<br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0; border: 0;}
@@ -64,5 +79,5 @@ Independent makers can register to use PIXEL Labs @ NLB for their tinkering at d
   </tr>
 </table>
 
-Eligible participants can download the Booking Guide [here](/files/code-and-make/Pixel-Lab-Booking-Guide_pdf.pdf) and Lab User Registration Form [here](/files/code-and-make/Lab-User-Registration-Form.docx)
+For more information on tinkering in PIXEL Labs@NLB, please download the *Booking Guide* including the [Lab User Registration Form](/files/code-and-make/Registration Form.docx) if you meet the participation eligibility.
 
