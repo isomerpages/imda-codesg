@@ -7,5 +7,5 @@ breadcrumb: Social Emotional Learning Lesson Ideas - Primary
 
 | School Name | Project Name |
 |--|--|
-| **Gongshan Primary** | **[Long Qiam Pass](/gongshan-primary-long-qiam-pass/)** |
-| **stay tuned** | **for more exciting lesson ideas!** |
+| **Beacon Primary** | **[Emoji](/beacon-primary-emoji/)** |
+| **Beacon Primary** | **[What is My Name](/beacon-primary-what-is-my-name/)** |
