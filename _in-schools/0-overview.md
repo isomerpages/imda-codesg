@@ -11,7 +11,7 @@ IMDA supports the development of computational thinking and making in schools by
 ### Our Programmes
 
 
-**PlayMaker**<br>
+#### **PlayMaker**<br>
 ![playmaker](/images/in-schools/overview/playmaker-icon2.png){: class="img_crop"}<br>
 PlayMaker aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
 Click [here](/in-schools/playmaker-overview/) to find out more<br>
