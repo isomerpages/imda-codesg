@@ -6,10 +6,25 @@ breadcrumb: Features
 collection_name: stories
 ---
 
-Read our features to know what happens at our events and to learn more about how our programmes benefit schools and community. 
+Read our features to know what happens at our events and to learn more about how our programmes benefit schools and community.
+
+[By Community For Community](#bycommunityforcommunity) | [Code For Fun](#codeforfun) | [Digital Maker](#digitalmaker) | [ICM Learning Roadmap](#icmroadmap) | [National Infocomm Competition](#nic) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker) | [Student Development](#studentdevelopment)
 
 | Date | Title | Link |
 |--|--|--|
 | **9 October 2018** | **Digital Making @EduTECH Asia 2018** | **Click [here](/pages/features-content/edutech-asia-2018.md)** |
 | **date** | **loren ipsum** | **Click here** |
 | **date** | **loren ipsum** | **Click here** |
+
+<a name="bycommunityforcommunity"></a><br>
+<a name="codeforfun"></a><br>
+<a name="digitalmaker"></a><br>
+| Date | Title | Link |
+|--|--|--|
+| **9 October 2018** | **Digital Making @EduTECH Asia 2018** | **Click [here](/pages/features-content/edutech-asia-2018.md)** |
+<a name="icmroadmap"></a><br>
+<a name="nic"></a><br>
+<a name="pixellabs"></a><br>
+<a name="playmaker"></a><br>
+<a name="studentdevelopment"></a><br>
+
