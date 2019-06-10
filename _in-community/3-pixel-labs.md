@@ -35,7 +35,7 @@ Closed on Public Holidays including eve of Christmas, New Year and Chinese New Y
 #### Tinkering hours<br>
 
 Besides programmes and workshops, dedicated hours are reserved for registered lab users to tinker in the lab.<br>
-**Tinkering Hours**<br>
+<br>**Tinkering Hours**<br>
 
 
 <style type="text/css">
