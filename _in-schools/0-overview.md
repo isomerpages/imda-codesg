@@ -19,7 +19,7 @@ Click [here](/in-schools/playmaker-overview/) to find out more<br>
 
 ---
 
-#### **Code For Fun**<br>
+#### **<a href="/in-schools/code-for-fun/overview/>Code For Fun</a>**<br>
 <br>
 Code For Fun Enrichment Programme aims to increase primary and secondary school students' exposure to computational thinking and making <br>
 <br>
