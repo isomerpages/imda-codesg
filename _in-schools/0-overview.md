@@ -46,17 +46,6 @@ Click [here](/in-schools/national-infocomm-competition/)to find out more<br>
 ---
 
 **Digital Maker Programme**<br>
-![digital maker](/images/in-schools/overview/digital-maker-overview-icon2.JPG){: class="img_crop"}<br>
+<br>
 The Digital Maker Programme aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. <br>
 Click [here](/in-schools/digital-maker/overview/)to find out more<br>
-
----
-
-| ![playmaker](/images/in-schools/overview/playmaker-icon2.png) | #### PlayMaker, a programme for Pre-Schools. Click [here](/in-schools/playmaker-overview/) |
-|---||---|
-| ![code for fun](/images/in-schools/overview/code-for-fun-icon2.jpg)  |  **Code For Fun, a programme for Primary and Seconday Schools. Click [here](/in-schools/code-for-fun/overview/)** |
-| ![ICM learning roadmap](/images/in-schools/overview/icm-learning-roadmap-icon.jpg)  | **ICM Learning Roadmap, for Primary and Seconday Schools. Click [here](/in-schools/icm-learning-roadmap/)** |
-|  ![student development](/images/in-schools/overview/student-development-icon.jpg)  |  **Student Development, a programme for Primary and Secondary Schools. Click [here](/in-schools/student-development/)** | 
-|  ![national infocomm competition](/images/in-schools/overview/national-infocomm-competition-icon2.jpg) | **National Infocomm Competition, a programme for all ages. Click [here](/in-schools/national-infocomm-competition/)** |
-| ![digital maker](/images/in-schools/overview/digital-maker-overview-icon2.JPG)  |  **Digital Maker, a programme for Primary and Secondary Schools. Click [here](/in-schools/digital-maker/overview/)** |
-
