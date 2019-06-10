@@ -5,8 +5,6 @@ permalink: /yu-neng-primary-learning-of-geometry-area-of-triangle/
 breadcrumb: Yu Neng Primary - Learning of Geometry - Area of Triangle
 ---
 
-![stock image/ project photo here](picture link here)
-
 Students will program how to calculate the area of triangle given the base of a triangle and its corresponding height with speed and accuracy. Conducted over 3x 1hr lessons
 
 Download the lesson plan [here](/files/lesson-plans/primary-schools/math/yu-neng-primary-learning-of-geometry-area-of-triangle.pdf)
