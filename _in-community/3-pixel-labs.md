@@ -5,7 +5,7 @@ permalink: /in-community/pixel-labs/
 breadcrumb: PIXEL Labs
 collection_name: in-community
 ---
-PIXEL Labs@NLB aims to ignite passion for innovative thinking and experimentation by encouraging passionate individuals to get hands on with technology.
+#### PIXEL Labs@NLB aims to ignite passion for innovative thinking and experimentation by encouraging passionate individuals to get hands on with technology.
 
 ![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image4.jpg)
 
