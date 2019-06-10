@@ -6,7 +6,7 @@ breadcrumb: National Infocomm Competition
 collection_name: in-schools
 ---
 
-The National Infocomm Competition (NIC) is a series of infocomm-themed competitions to expose students to areas such as robotics, artificial intelligence, data science and mobile application development. 
+#### The National Infocomm Competition (NIC) is a series of infocomm-themed competitions to expose students to areas such as robotics, artificial intelligence, data science and mobile application development. 
 
 The NIC supports quality and impactful competitions which seeks to deepen students' engagement and infocomm media skills, as well as foster analytical thinking and creativity.  NIC is achieved through partnerships with industry and academia to co-organise / support strategic competitions in strong growth infocomm and media areas.  
 
