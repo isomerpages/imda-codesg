@@ -5,9 +5,8 @@ permalink: /stories/
 breadcrumb: Media
 collection_name: stories
 ---
-![media main image](/images/stories/media/media-main-page-2.jpg)
 
-We have been featured in various media. To read more about us, see below list. 
+We have been featured in various media. To read more about us, check out the list below. 
 
 #### List of media articles
 
