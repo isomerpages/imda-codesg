@@ -14,7 +14,7 @@ second_nav_title: Digital Maker
 | [**Physical Education**](/primary-physical-education/) |
 | [**Project-Based**](/primary-project-based/) |
 | [**Science**](/primary-science/) |
-| [**Social Emotional Learning**](/primary-science/) |
+| [**Social Emotional Learning**](/primary-social-emotional-learning/) |
 | [**Social Studies**](/primary-social-studies/) |
 
 
