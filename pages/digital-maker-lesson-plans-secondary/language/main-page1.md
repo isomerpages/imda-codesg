@@ -5,6 +5,9 @@ permalink: /secondary-language/
 breadcrumb: Language Lesson Ideas - Secondary
 ---
 
-[An Incredible Adventure - Narrative Essays](/juying-secondary-an-incredible-adventure-narrative-essays/)
+| School Name | Project Name |
+|--|--|
+| **Juying Secondary School** | **[An Incredible Adventure - Narrative Essays](/juying-secondary-an-incredible-adventure-narrative-essays/)** |
+| **stay tuned** | **for more exciting lesson ideas!** |
 
-Click [here](/in-schools/digital-maker/lesson-ideas-secondary/) to go back to the Digital Maker Lesson Plans (Secondary) main page.
+[Click here](/in-schools/digital-maker/lesson-ideas-secondary/) to view other Secondary School Lesson Ideas
