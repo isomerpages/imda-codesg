@@ -22,6 +22,9 @@ Features for Digital Maker<br>
 |--|--|--|
 | **9 October 2018** | **Digital Making @EduTECH Asia 2018** | **Click [here](/pages/features-content/edutech-asia-2018.md)** |
 | **date** | **loren ipsum** | **Click here** |
+| **date** | **loren ipsum** | **Click here** |
+
+
 <a name="icmroadmap"></a><br>
 <a name="nic"></a><br>
 <a name="pixellabs"></a><br>
