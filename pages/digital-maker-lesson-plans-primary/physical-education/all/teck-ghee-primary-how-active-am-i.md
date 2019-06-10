@@ -5,8 +5,6 @@ permalink: /teck-ghee-primary-how-active-am-i/
 breadcrumb: Teck Ghee Primary - How Active Am I
 ---
 
-![stock image/ project photo here](picture link here)
-
 
 Pupils will create a stepometer so that they can count how many steps they take during different types of aerobic exercises. They chart the steps taken during each activity and see which activity would require them to cover more steps.
 
