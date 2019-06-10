@@ -38,7 +38,7 @@ Click [here](/in-schools/student-development/)to find out more <br>
 
 ---
 
-**National Infocomm Competition**<br>
+#### **National Infocomm Competition**<br>
 ![national infocomm competition](/images/in-schools/overview/national-infocomm-competition-icon2.jpg){: class="img_crop"}<br>
 The National Infocomm Competition (NIC) is a series of infocomm-themed competitions to expose students to areas such as robotics, artificial intelligence, data science and mobile application development.<br>
 Click [here](/in-schools/national-infocomm-competition/)to find out more<br>
@@ -52,7 +52,7 @@ Click [here](/in-schools/digital-maker/overview/)to find out more<br>
 
 ---
 
-| ![playmaker](/images/in-schools/overview/playmaker-icon2.png) | PlayMaker, a programme for Pre-Schools. Click [here](/in-schools/playmaker-overview/) |
+| ![playmaker](/images/in-schools/overview/playmaker-icon2.png) | #### PlayMaker, a programme for Pre-Schools. Click [here](/in-schools/playmaker-overview/) |
 |---||---|
 | ![code for fun](/images/in-schools/overview/code-for-fun-icon2.jpg)  |  **Code For Fun, a programme for Primary and Seconday Schools. Click [here](/in-schools/code-for-fun/overview/)** |
 | ![ICM learning roadmap](/images/in-schools/overview/icm-learning-roadmap-icon.jpg)  | **ICM Learning Roadmap, for Primary and Seconday Schools. Click [here](/in-schools/icm-learning-roadmap/)** |
