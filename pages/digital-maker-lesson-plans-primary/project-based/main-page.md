@@ -30,3 +30,4 @@ breadcrumb: Project Based - Primary
 | **West Spring Primary School** | **[Moisture Analyzer](/west-spring-primary-moisture-analyzer/)** |
 | **West View Primary School** | **[Water Conservation](/west-view-primary-water-conservation)** |
 
+[Click here](/in-schools/digital-maker/lesson-ideas-primary/) to view other Primary School Lesson Ideas
