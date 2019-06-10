@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Social Emotional Learning Lesson Ideas - Primary
-permalink: /primary-social-studies/
+permalink: /primary-social-emotional-learning/
 breadcrumb: Social Emotional Learning Lesson Ideas - Primary
 ---
 
