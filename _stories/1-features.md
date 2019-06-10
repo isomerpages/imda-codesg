@@ -33,8 +33,13 @@ Features for Digital Maker<br>
 | **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/edutech-asia-2018/)** |
 | **15 September 2018** | **[Community Learning Day @Changi Simei CC](/community-learning-day-at-changi-simei-cc/)** |
 | **7 September 2018** | **[Cluster Friendship Hackathon 2018 @Montfort Junior School](/cluster-friendship-hackathon-2018-at-montfort-junior-school/)** |
-| ** 2018** | **[XXXX](/XXXX/)** |
-| ** 2018** | **[XXXX](/XXXX/)** |
+| **7 August 2018** | **[SP students won a Bronze award in IES innovation Challenge for the Community 2018 using Micro:bit](/sp-students-won-a-bronze-award-in-ies-innovation-challenge-for-the-community-2018/)** |
+| **2 March 2018** | **[Digital Maker at EDUTech Asia 2017 and Global Children's Designathon](/digital-maker-at-edutech-asia-2017-and-global-childrens-designathon/)** |
+| **16 October 2017** | **[Meet Singapore's next makers](/meet-singapores-next-makers/)** |
+| **16 October 2017** | **[Getting Singapore making with the micro:bit](/getting-singapore-making-with-the-microbit/)** |
+| **24 July 2017** | **[Maker Faire Singapore 2017](/maker-faire-singapore-2017/)** |
+| **8 July 2017** | **[Top 4 Takeaways from the Digital Garage Launch](/top-4-takeaways-from-the-digital-garage-launch/)** |
+| **8 July 2017** | **[Singapore’s first “Digital Garage” to grow a community of 1000 digital makers](/singapores-first-digital-garage-to-grow-a-community-of-1000-digital-makers/)** |
 
 
 | **date** | **title** |
