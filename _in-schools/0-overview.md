@@ -16,6 +16,7 @@ IMDA supports the development of computational thinking and making in schools by
 Aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
 
 *For pre-schools*
+
 ---
 
 #### **[Code For Fun](/in-schools/code-for-fun/overview/)**<br>
@@ -23,6 +24,7 @@ Aims to inspire young children to play and make with technology, sparking imagin
 Code For Fun Enrichment Programme aims to increase primary and secondary school students' exposure to computational thinking and making <br>
 
 ---
+
 #### **[ICM Learning Roadmap](/in-schools/icm-learning-roadmap/)**<br>
 <br>
 A structured training framework for Infocomm Media Club members to acquire specialised skills in Tech and Media domains.<br>
