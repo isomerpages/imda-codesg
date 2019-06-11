@@ -5,8 +5,6 @@ permalink: /greenview-secondary-media-computing-and-applications/
 breadcrumb: Secondary School - Computer Studies
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students will learn how to do coding by using block editor in Scratch. Learning new technologies can help to improve our everyday lives. Students will be able to use basic functions in Microbit block editor to do coding and create a music remote control for their phone. 21st Century Competencies Critical and Inventive Thinking.
 
 You Will Need:
