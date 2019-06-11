@@ -22,7 +22,7 @@ We have been featured in various media. To read more about us, check out the lis
 | 20 July 2017 | <a href="https://makezine.com/2017/07/20/singapore-hosts-full-maker-extravaganza/" target="_blank">Singapore Hosts a Full-On Maker Extravaganza</a>| Makezine |
 | 25 June 2017 | <a href="https://blog.tinkercademy.com/digital-maker-programme-998927090ddc" target="_blank">Getting Singapore making with the micro:bit</a> | Tinkercademy |
 | 11 May 2017 | <a href="https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18" target="_blank">Add coding to basic skills taught in schools</a> | The Straits Times  |
-| 14 April 2017 | [<a href="https://www.straitstimes.com/singapore/pocket-size-gadget-for-100000-potential-coders" target="_blank">Pocket-size gadget for 100,000 potential coders</a> | The Straits Times |
+| 14 April 2017 | <a href="https://www.straitstimes.com/singapore/pocket-size-gadget-for-100000-potential-coders" target="_blank">Pocket-size gadget for 100,000 potential coders</a> | The Straits Times |
 | 13 April 2017 | <a href="https://www.straitstimes.com/singapore/microbit-launch-what-you-need-to-know-about-the-coding-gadget-singapore-plans-to-introduce" target="_blank">Micro:bit launch: What you need to know about the coding gadget Singapore plans to introduce | The Straits Times |
 | 13 April 2017 | <a href="https://www.straitstimes.com/singapore/singapore-to-use-microbit-to-teach-coding-nurture-its-own-steve-jobs" target="_blank">Singapore to use micro:bit to teach coding, nurture its own Steve Jobs</a> | The Straits Times |
 
