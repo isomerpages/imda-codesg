@@ -8,7 +8,7 @@ collection_name: in-schools
 
 IMDA supports the development of computational thinking and making in schools by offering programmes for broad-based learning and specialised training at multiple educational levels to encourage students to innovate and build Infocomm and Technology (ICT) solutions, as part of long-term efforts to prepare students for the digital age and future workforce.
 
-### Our Programmes
+### **Our Programmes**
 
 
 #### **[PlayMaker](/in-schools/playmaker-overview/)** <br>
