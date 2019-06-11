@@ -5,7 +5,6 @@ permalink: /kranji-secondary-musical-dustbin /
 breadcrumb: Secondary School - music and art
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
 
 In this lesson, students use the micro:bit to programme a ‘talking/musical’ dustbin. The idea is to encourage everyone to throw their waste into the bins rather than leave it lying around for the cleaners to clean.
 
