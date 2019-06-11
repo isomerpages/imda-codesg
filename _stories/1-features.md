@@ -44,6 +44,12 @@ Features for Digital Maker<br>
 <a name="icmroadmap"></a><br>
 <a name="nic"></a><br>
 <a name="pixellabs"></a><br>
+Features for PIXEL Labs<br>
+
+| Date | Title |
+|--|--|
+| **3 November 2018** | **[Tech Pals 2018](/tech-pals-2018/)** |
+|  |  |
 <a name="playmaker"></a><br>
 <a name="studentdevelopment"></a><br>
 
