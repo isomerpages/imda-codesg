@@ -5,17 +5,15 @@ permalink: /tinkertanker-plant-growth-and-care-with-the-microbit/
 breadcrumb: Secondary School - science
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students will set up experiments to measure plant growth with the micro:bit helping to take readings of variables such as light intensity and soil mositure. Students will understand how light and water affects photosynthesis and the growth of the plant, and the importance of ensuring a fair experiment.
 
-You Will Need:
+**You Will Need:**
 
-1 x micro:bit with battery pack and USB connector and breakout board
+* 1 x micro:bit with battery pack and USB connector and breakout board
 
-2 identical potted plants
+* 2 identical potted plants
 
-1 x Recycled cardboard box 
+* 1 x Recycled cardboard box 
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/P5  6 Science  Energy Forms  UsesPhotosynthesis TinkerTanker.pdf)
 
