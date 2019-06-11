@@ -5,8 +5,6 @@ permalink: /boon-lay-secondary-pick-a-student-to-answer/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students build a prototype to house their microbits using materials such as card board or appropriate recycled materials. Teachers can build a prototype to randomly pick a student in the class to answer a question. 
 
 
