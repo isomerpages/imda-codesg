@@ -5,8 +5,6 @@ permalink: /nus-high-using-the-bbc-microbit-with-the-raspberry-pi/
 breadcrumb: Secondary School - computer studies
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students learn to use Python program to animate LED matrix on BBC microbit with the Raspberry Pi.
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/computer-studies/NUS High School.zip)
