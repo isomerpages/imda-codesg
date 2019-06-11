@@ -7,7 +7,7 @@ breadcrumb: Secondary School - music and art
 
 In this lesson, students use the micro:bit to programme a ‘talking/musical’ dustbin. The idea is to encourage everyone to throw their waste into the bins rather than leave it lying around for the cleaners to clean.
 
-Check out the Msical Dustbin in action [here](/files/lesson-plans/secondary-schools/music-and-art/Musical Dustbin.pptx)
+Check out the Musical Dustbin in action [here](/files/lesson-plans/secondary-schools/music-and-art/Musical Dustbin.pptx)
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/music-and-art/Template B  Project or Programmebased Lesson Plan from Kranji Sec School.docx)
 
