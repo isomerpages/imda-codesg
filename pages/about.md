@@ -21,5 +21,5 @@ Whether or not someone decides to take up an infocomm media career, these are im
 
 ---
 
-Find out more about our programmes In Schools and In Community. [Click here](/in-schools/overview/) for our programmes in school and [click here](/in-community/overview/) for our programmes in community.
+Find out more about our programmes [In Schools](/in-schools/overview/) and [In Community](/in-community/overview/). 
 
