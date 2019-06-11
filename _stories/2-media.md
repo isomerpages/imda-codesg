@@ -12,7 +12,7 @@ We have been featured in various media. To read more about us, check out the lis
 
 | Date | Title | Media |
 |--|--|
-| 14 July 2018) | <a href="https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community" target="_blank">Members of Girls Brigade Singapore pick up technology skills to better serve community</a>  | The Straits Times |
+| 14 July 2018 | <a href="https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community" target="_blank">Members of Girls Brigade Singapore pick up technology skills to better serve community</a>  | The Straits Times |
 | 14 July 2018 | [Amazon Web Services are collaborating with the Girls’ Brigade Singapore](https://www.facebook.com/amazonwebservices/videos/1735724719798219/) | Facebook |
 | 26 February 2018 | [Digital Maker Programme featured on Lian He Zao Bao](https://www.zaobao.com.sg/news/singapore/story20180226-837967) | Lian He Zao Bao  |
 | 29 January 2018 | [Smart students for smart nation](https://www.straitstimes.com/singapore/education/smart-students-for-smart-nation) | The Straits Times |
