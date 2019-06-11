@@ -5,11 +5,6 @@ permalink: /a-better-world/
 breadcrumb: A Better World - Project Ideas
 ---
 
-[Basic Lie Detector](/basic-lie-detector/)<br>
-[Thirsty Plant Auto Watering System](/thirsty-plant-auto-watering-system/)<br>
-[Traffic Light Sensor](/traffic-light-sensor/)<br>
-[Smart Traffic Light](/traffic-light-using-radio-and-ultrasonic-sensor-features/)<br>
-
 | Project Name |
 |--|
 | **[Basic Lie Detector](/basic-lie-detector/)** |
