@@ -5,8 +5,6 @@ permalink: /shuqun-secondary-introduction-to-microbit/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students will be introduced to the microbit and given 6 fun activities to try.
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/2017 ALP microbit Worksheet 1 Introduction (1).docx)
