@@ -49,7 +49,7 @@ Features for PIXEL Labs<br>
 | Date | Title |
 |--|--|
 | **3 November 2018** | **[Tech Pals 2018](/tech-pals-2018/)** |
-|  |  |
+| **placeholder** | **for future articles** |
 <a name="playmaker"></a><br>
 <a name="studentdevelopment"></a><br>
 
