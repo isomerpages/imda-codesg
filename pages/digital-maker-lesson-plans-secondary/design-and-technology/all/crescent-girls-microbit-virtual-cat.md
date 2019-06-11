@@ -5,31 +5,29 @@ permalink: /crescent-girls-microbit-virtual-cat/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students will get to create a fully functional virtual cat in a Microbit device. 
 
 Program virtual cat to have at least 4 different states:
 
-Neutral
+* Neutral<br>
 
-Hungry
+* Hungry<br>
 
-Poop
+* Poop<br>
 
-Happy
+* Happy<br>
 
-Play (Optional)
+* Play (Optional)<br>
 
-You Will Need:
+**You Will Need:**
 
-1 x Micro:bit
+* 1 x Micro:bit
 
-1 x USB Cable with Ziplock
+* 1 x USB Cable with Ziplock
 
-2 x AAA Batteries
+* 2 x AAA Batteries
 
-1 x Battery Casing
+* 1 x Battery Casing
 
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/2017 Sec 1 Post-Exam Lesson - Microbits Virtual Cat.zip)
