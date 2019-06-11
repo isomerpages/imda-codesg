@@ -14,3 +14,5 @@ Playmaker workshops aim to inspire children to Play and Make with tech toys, spa
 In this 1 hour parent-child workshop, (suitable for 2-5 years old), get to learn more about computational thinking concepts with this unique caterpillar learning toy!
 
 To learn more about this event, <a href="https://www.nlb.gov.sg/golibrary2/e/playmaker-learning-with-tech-toys-for-kids-84858375" target="_blank">click here</a> 
+
+test test
