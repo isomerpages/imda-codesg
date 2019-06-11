@@ -5,8 +5,6 @@ permalink: /greenview-secondary-design-light-sensing-circuit/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students will have the opportunity to learn through hands-on activity. They will learn how to recognise various types of components and understand the operation of a simple transistor-based light sensing circuit. At the end of the lesson, students would be able to identify different types of basic electronic components, understand the function of a simple transistor-based light sensing circuit. They would be able to understand that similar function can be obtained by replacing transistor and resistors with simply a microprocessor, and that using a microprocessor can simplify the overall circuit, while reducing the number of electronic components to be used and the ability to add in more features.
 
 You Will Need:
