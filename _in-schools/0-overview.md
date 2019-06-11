@@ -21,7 +21,7 @@ Aims to inspire young children to play and make with technology, sparking imagin
 
 #### **[Code For Fun](/in-schools/code-for-fun/overview/)**<br>
 <br>
-Aims to increase students' exposure to computational thinking and making <br>
+Aims to increase students' exposure to computational thinking and making. <br>
 
 *For primary and secondary schools.*
 
