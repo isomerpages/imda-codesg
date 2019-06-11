@@ -5,7 +5,7 @@
   story: Students team up with their parents to code at Waterway Primary School!
   img: images/home-page/waterway-carousel-image.jpg
   button-text: Read more
-  button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19feb16_waterwayprimary
+  button-url: /students-team-up-with-their-parents-to-code-at-waterway-primary-school/
   
 - title: Stories
   name: Feature
@@ -14,7 +14,7 @@
   story: Cedric Phua may be too young to drive, but he has already made his own micro:bit car at the age of 10!
   img: images/home-page/cedric-phua-carousel-image.JPG
   button-text: Read more
-  button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/04/02/19jan26_cedric-phua
+  button-url: /never-too-young-to-code-cedric-phua/
 
 - title: Stories
   name: Feature
@@ -23,4 +23,4 @@
   story: Taman Jurong seniors show age is no barrier to learning digital making skills!
   img: images/home-page/taman-jurong-carousel-image.jpg
   button-text: Read more
-  button-url: https://www.imda.gov.sg/digitalmaker/media-center/2019/03/26/19jan22_taman-jurong-cc
+  button-url: /never-too-old-to-code/
