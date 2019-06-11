@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Keming Primary - Water-based Craft With Navigation and Capsize Warning System
-permalink: /in-schools/digital-maker/lesson-ideas-primary/primary-science/keming-primary-water-based-craft-with-navigation-and-capsize-warning-system/
+permalink: /keming-primary-water-based-craft-with-navigation-and-capsize-warning-system/
 breadcrumb: Keming Primary - Water-based Craft With Navigation and Capsize Warning System
 ---
 
