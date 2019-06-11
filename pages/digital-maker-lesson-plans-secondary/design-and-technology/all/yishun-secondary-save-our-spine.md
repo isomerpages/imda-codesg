@@ -5,7 +5,7 @@ permalink: /yishun-secondary-save-our-spine/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
+![anything](/images/in-schools/digital-maker/lesson-plans/secondary/yishun-secondary.png)
 
 The students have to work in group to make a weighing machine that helps parent to calculate their children’s backpack as it is recommended that child’s backpack should not weigh more than 20% of the child weight.
 
