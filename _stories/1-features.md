@@ -12,10 +12,22 @@ Read our features to know what happens at our events and to learn more about how
 
 
 <a name="bycommunityforcommunity"></a><br>
+Features for By Community For Community<br>
+
+| Date | Title |
+|--|--|
+| **placeholder** | **for future articles** |
+| **placeholder** | **for future articles** |
+
 <a name="codeforfun"></a><br>
+Features for Code For Fun<br>
+
+| Date | Title |
+|--|--|
+| **placeholder** | **for future articles** |
+| **placeholder** | **for future articles** |
 
 <a name="digitalmaker"></a><br>
-
 Features for Digital Maker<br>
 
 | Date | Title |
@@ -42,7 +54,21 @@ Features for Digital Maker<br>
 
 
 <a name="icmroadmap"></a><br>
+Features for ICM Learning Roadmap<br>
+
+| Date | Title |
+|--|--|
+| **placeholder** | **for future articles** |
+| **placeholder** | **for future articles** |
+
 <a name="nic"></a><br>
+Features for National Infocomm Competition<br>
+
+| Date | Title |
+|--|--|
+| **placeholder** | **for future articles** |
+| **placeholder** | **for future articles** |
+
 <a name="pixellabs"></a><br>
 Features for PIXEL Labs<br>
 
@@ -53,5 +79,17 @@ Features for PIXEL Labs<br>
 
 
 <a name="playmaker"></a><br>
-<a name="studentdevelopment"></a><br>
+Features for PlayMaker<br>
 
+| Date | Title |
+|--|--|
+| **placeholder** | **for future articles** |
+| **placeholder** | **for future articles** |
+
+<a name="studentdevelopment"></a><br>
+Features for Student Development<br>
+
+| Date | Title |
+|--|--|
+| **placeholder** | **for future articles** |
+| **placeholder** | **for future articles** |
