@@ -5,8 +5,6 @@ permalink: /assumption-english-groove-modules/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 To promote computational thinking and provide opportunities for students to learn computer science.
 
 Check out the lesson plan [here](https://sites.google.com/moe.edu.sg/sec-1-ipw-coding/class-11/lesson-1-introduction)
