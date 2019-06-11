@@ -5,25 +5,23 @@ permalink: /tanjong-katong-girls-rate-and-speed/
 breadcrumb: Secondary School - math
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students will be introduced to Micro:bit and step challenge activity to calculate time and speed. They will find the rate of revolution with math formulas and servo, learn about tempo markings and how to calculate beats with given time and rate. 
 
-You Will Need:
+**You Will Need:**
 
-1 x laptop
+* 1 x laptop
 
-1 x micro:bit
+* 1 x micro:bit
 
-3 x male-male wires
+* 3 x male-male wires
 
-3 x screws
+* 3 x screws
 
-1 x 3-coloured wires
+* 1 x 3-coloured wires
 
-1 x buzzer
+* 1 x buzzer
 
-1 x servo
+* 1 x servo
 
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/math/Ch 9_RateSpeedWithMicrobit_final_solution.docx)
