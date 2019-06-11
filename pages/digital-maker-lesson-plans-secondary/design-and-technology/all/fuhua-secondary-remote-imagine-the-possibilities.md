@@ -5,7 +5,7 @@ permalink: /fuhua-secondary-remote-imagine-the-possibilities/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
+![anything](/images/in-schools/digital-maker/lesson-plans/secondary/fuhua-secondary.png)
 
 In this lesson, students are encouraged to use their imagination to integrate functionality of remote (one of the functions of the Micro: bit) into their product design.
 
