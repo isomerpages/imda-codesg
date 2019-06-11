@@ -28,7 +28,7 @@ Features for Digital Maker<br>
 | **19 December 2018** | **[Pei Hwa’s Students Code with A Purpose](/pei-hwa-students-code-with-a-purpose/)** |
 | **7 December 2018** | **[Montfort Junior School](/montfort-junior-school/)** |
 | **3 November 2018** | **[Tech Pals 2018](/tech-pals-2018/)** |
-| **3 November 2018** | **[The 2018 Environment Challenge for Schools saw students using digital making technology to solve climate problems of today](/environment-challenge-for-schools-2018/)** |
+| **3 November 2018** | **[Environment Challenge for Schools - 2018](/environment-challenge-for-schools-2018/)** |
 | **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/edutech-asia-2018/)** |
 | **15 September 2018** | **[Community Learning Day @Changi Simei CC](/community-learning-day-at-changi-simei-cc/)** |
 | **7 September 2018** | **[Cluster Friendship Hackathon 2018 @Montfort Junior School](/cluster-friendship-hackathon-2018-at-montfort-junior-school/)** |
