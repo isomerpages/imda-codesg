@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The 2018 Environment Challenge for Schools saw students using digital making technology to solve climate problems of today"
+title: "Environment Challenge for Schools - 2018"
 date: 2018-11-03
 permalink: /environment-challenge-for-schools-2018/
-breadcrumb: The 2018 Environment Challenge for Schools saw students using digital making technology to solve climate problems of today
+breadcrumb: Environment Challenge for Schools - 2018
 ---
 
 ## Environment Challenge for Schools
