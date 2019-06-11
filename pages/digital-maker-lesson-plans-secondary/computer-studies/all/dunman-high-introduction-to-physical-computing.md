@@ -5,8 +5,6 @@ permalink: /dunman-high-introduction-to-physical-computing/
 breadcrumb: Secondary School - computer studies
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Improving the well-being of students and staff in Dunman High School using micro:bits. 
 
 By the end of the module, students will learn about the basic building blocks of text-based programming and apply these to use software to interface with and control hardware with accessories and sensors. Through working on a team project, they will appreciate applying computational thinking ideas to practical problem solving.
