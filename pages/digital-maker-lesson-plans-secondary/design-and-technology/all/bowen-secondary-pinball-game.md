@@ -5,7 +5,7 @@ permalink: /bowen-secondary-pinball-game/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
+![anything](/images/in-schools/digital-maker/lesson-plans/secondary/bowen-photo.jpg){: class="img_crop"}
 
 Students laern to create a pinball game using the microbit.
 
