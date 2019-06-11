@@ -25,7 +25,7 @@ breadcrumb: Project Based - Primary
 | **Raffles Girls Primary School** | **[Water Saving](/raffles-girls-primary-water-saving/)** |
 | **Rosyth School** | **[microfit Challenge](/roysth-school-microfit-challenge/)** |
 | **Seng Kang Primary School** | **[LED Panel](/sengkang-primary-led-panel/)** |
-| **St. Gabriel's Primary School** | **[micro:bit Car](/st-gabriels-microbit-car/)** |
+| **St. Gabriels' Primary School** | **[micro:bit Car](/st-gabriels-microbit-car/)** |
 | **Temasek Primary School** | **[Creating A Technology Enabled Future](/temasek-primary-creating-a-technology-enabled-future/)** |
 | **West Spring Primary School** | **[Moisture Analyzer](/west-spring-primary-moisture-analyzer/)** |
 | **West View Primary School** | **[Water Conservation](/west-view-primary-water-conservation)** |
