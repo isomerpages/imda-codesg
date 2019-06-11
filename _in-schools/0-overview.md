@@ -15,7 +15,7 @@ IMDA supports the development of computational thinking and making in schools by
 
 Aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
 
-*For pre-schools*
+*For pre-schools.*
 
 ---
 
@@ -23,7 +23,7 @@ Aims to inspire young children to play and make with technology, sparking imagin
 <br>
 Code For Fun Enrichment Programme aims to increase students' exposure to computational thinking and making <br>
 
-*For primary and secondary schools*
+*For primary and secondary schools.*
 
 ---
 
@@ -31,7 +31,7 @@ Code For Fun Enrichment Programme aims to increase students' exposure to computa
 <br>
 A structured training framework for Infocomm Media Club members to acquire specialised skills in Tech and Media domains.<br>
 
-*For primary and secondary schools*
+*For primary and secondary schools.*
 
 ---
 
@@ -39,7 +39,7 @@ A structured training framework for Infocomm Media Club members to acquire speci
 <br>
 The Student Development programme aims to provide opportunities for students with talent and interest to be stretched further in their knowledge and application of infocomm media skills and develop their individual portfolios.<br>
 
-*For primary and secondary schools*
+*For primary and secondary schools.*
 
 ---
 
@@ -47,7 +47,7 @@ The Student Development programme aims to provide opportunities for students wit
 <br>
 The National Infocomm Competition (NIC) is a series of infocomm-themed competitions to expose students to areas such as robotics, artificial intelligence, data science and mobile application development.<br>
 
-*For all age groups*
+*For all age groups.*
 
 ---
 
@@ -55,4 +55,4 @@ The National Infocomm Competition (NIC) is a series of infocomm-themed competiti
 <br>
 The Digital Maker Programme aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. <br>
 
-*For primary and secondary schools*
+*For primary and secondary schools.*
