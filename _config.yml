@@ -1,5 +1,5 @@
 title: Code@SG
-title-abbreviated: Us
+title-abbreviated: us
 description: >- # this means to ignore newlines until "baseurl:"
   Code@SG
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -52,4 +52,4 @@ collections:
 
 resources_name: events
 
-copyright_agency: IMDA, All rights reserved
+copyright_agency: IMDA. All rights reserved
