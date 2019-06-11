@@ -6,8 +6,6 @@ breadcrumb: Secondary School - humanities
 
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 This lesson teaches students a core function of the Micro:bit, inputs and event handlers. Students will learn how to program the Micro:bit to display a different emotion based on which button is pressed (or any other input), and are free to customize and explore the different permutations possible.
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/humanities/Lesson Plan - Nan Hua High School.pdf)
