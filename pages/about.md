@@ -17,7 +17,7 @@ While Computational Thinking focuses on the thought processes involved in formul
 Computational Making involves physical computing, which is the designing and building of interactive systems that use different software and hardware to sense and respond to the physical world around us, integrating the knowledge of electronics, engineering and even craft skills like sewing, drawing or carving.  It helps to develop the additional skills of aesthetics, creativity, constructing, visualizing multiple representations and understanding materials, which are essential in fostering design and inventive thinking skills. <br>
 
 #### Why Computational Thinking and Making?<br>
-Whether or not someone decides to take up an infocomm media career, these are important skills to have as it allows students and adults to develop structured ways to approach and think about problems.   More importantly, as the world becomes more connected and powered by technology, it’s essential to have the knowhow and the creative confidence to use technology to innovate and build solutions to solve real-world problems.<br>
+Whether or not someone decides to take up an infocomm media career, these are important skills to have as it allows students and adults to develop structured ways to approach and think about problems.   More importantly, as the world becomes more connected and powered by technology, it’s essential to have the know-how and the creative confidence to use technology to innovate and build solutions to solve real-world problems.<br>
 
 ---
 
