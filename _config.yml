@@ -51,3 +51,5 @@ collections:
     output: true
 
 resources_name: events
+
+copyright_agency: IMDA
