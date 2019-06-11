@@ -5,8 +5,6 @@ permalink: /hong-kah-secondary-night-lamp/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 By programming the micro:bit, students learn how to make a lamp that turns on automatically when the room gets dark.
 
 
