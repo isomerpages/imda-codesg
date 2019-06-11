@@ -15,7 +15,7 @@ locations:
         time: 8.30am - 6.00pm
       - days: Fri
         time: 8.30am - 5.30pm
-        description: "except public holidays"
+        description: "(except public holidays)"
 
  # Contact Us
 column:
