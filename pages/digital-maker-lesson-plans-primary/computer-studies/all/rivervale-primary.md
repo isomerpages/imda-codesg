@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: CyberWellness with Reaction Game
-permalink: /rivervale-primary/
+permalink: /in-schools/digital-maker/lesson-ideas-primary/primary-computer-studies/rivervale-primary/
 breadcrumb: CyberWellness with Reaction Game
 ---
 
