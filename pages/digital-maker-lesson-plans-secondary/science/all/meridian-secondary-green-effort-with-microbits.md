@@ -5,8 +5,6 @@ permalink: /meridian-secondary-green-effort-with-microbits/
 breadcrumb: Secondary School - science
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Using micro:bits to design and create solutions to do our part to reduce global warming.
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/Lesson Plan - Meridian Secondary School.pdf)
