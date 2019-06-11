@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build On, Singapore 2019 [Institute Category]
+title: Build On, Singapore 2019, Institute Category
 date: 2019-07-01
 permalink: /events/competitions/build-on-singapore-2019
 ---
