@@ -5,8 +5,6 @@ permalink: /ngee-ann-secondary-electrical-system-microbit/
 breadcrumb: Secondary School - design and technology
 ---
 
-![anything](/images/in-schools/digital-maker/lesson-plans/generic-lesson-plan.jpg)
-
 Students learn to use the microbit with electrical systems.
 
 Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/Electrical System Microbit.zip)
