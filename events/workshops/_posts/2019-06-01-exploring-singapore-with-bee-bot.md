@@ -2,12 +2,12 @@
 layout: post
 title: Exploring Singapore with Bee-Bot
 date: 2019-06-01
-permalink: /events/workshops/introduction-to-coding-using-code-a-pillar-040619
+permalink: /events/workshops/2019-06-01-exploring-singapore-with-bee-bot
 ---
 
 | Date | Time | Venue |
 |--------|---|---|
-| Saturday 1 June 2019 | 11:0 AM - 12:00 PM | Tampines Regional Library, PIXEL Labs@NLB, Level 4 |
+| Saturday 1 June 2019 | 11:00 AM - 12:00 PM | Tampines Regional Library, PIXEL Labs@NLB, Level 4 |
 
 Playmaker workshops aim to inspire children to Play and Make with tech toys, sparking imagination and building creative confidence. Bee-Bot is an exciting little robot desgined for use by young children. This colourful, easy to operate and friendly liyttle robot is a perfect tool for teaching, counting, sequencing estimation, problem solving and learning through play!
 
