@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Coding using Code-a-pillar
-date: 2019-06-06
+date: 2019-06-15
 permalink: /events/workshops/introduction-to-coding-using-code-a-pillar-150619
 ---
 
