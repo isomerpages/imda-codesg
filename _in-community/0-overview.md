@@ -11,13 +11,13 @@ IMDA reaches out to the community to introduce coding and making to members of t
 
 ### **Our Programmes** 
 
-#### **[By Community, For Community]**(/in-community/by-community-for-community/)<br>
+#### [**By Community, For Community**](/in-community/by-community-for-community/)<br>
 
 
-#### **[National Infocomm Competition]**(/in-community/national-infocomm-competition/)<br>
+#### [**National Infocomm Competition**](/in-community/national-infocomm-competition/)<br>
 
 
-#### **[PIXEL Labs]**(/in-community/pixel-labs/)<br>
+#### [**PIXEL Labs**](/in-community/pixel-labs/)<br>
 
 
-#### **[PlayMaker]**(/in-community/playmaker-overview/)<br>
+#### [**PlayMaker**](/in-community/playmaker-overview/)<br>
