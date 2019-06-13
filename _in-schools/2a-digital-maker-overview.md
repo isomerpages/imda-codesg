@@ -17,7 +17,7 @@ Under this programme, we provided interested primary and secondary schools with 
 
 #### Lesson Ideas
 
-![digital maker overview image 2](/images/in-schools/digital-maker/overview/Lesson ideas.jpg)
+![digital maker overview image 2](/images/in-schools/digital-maker/overview/Lesson ideas.JPG)
 
 
 Teachers working with the Digital Maker programme created lesson plans to incorporate digital making into their curriculum. Click on the following links to view and download the lesson plans for primary and secondary school students:<br>
