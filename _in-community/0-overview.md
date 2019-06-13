@@ -12,7 +12,6 @@ IMDA reaches out to the community to introduce coding and making to members of t
 ### **Our Programmes** 
 
 #### [**By Community, For Community**](/in-community/by-community-for-community/)<br>
-<br> 
 Various ground-up projects by community to promote computational thinking and making for the community.
 
 
