@@ -14,11 +14,15 @@ IMDA reaches out to the community to introduce coding and making to members of t
 #### **[By Community, For Community](/in-community/by-community-for-community/)** <br>
 Various ground-up projects by community to promote computational thinking and making for the community.
 
+---
 
 #### **[National Infocomm Competition](/in-community/national-infocomm-competition/)** <br>
 A series of infocomm-themed competitions designed to expose students to areas such as robotics, artificial intelligence, data science and mobile application development.
 
+---
+
 #### **[PIXEL Labs](/in-community/pixel-labs/)** <br>
 
+---
 
 #### **[PlayMaker](/in-community/playmaker-overview/)** <br>
