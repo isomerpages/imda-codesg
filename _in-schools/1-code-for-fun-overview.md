@@ -6,7 +6,7 @@ breadcrumb: Code For Fun
 collection_name: in-schools
 ---
 
-#### The Code for Fun Enrichment Programme's objective is to increase students' exposure to coding and computational thinking. 
+#### Code for Fun Enrichment Programme aims to increase primary and secondary school students' exposure to computational thinking and making. 
 
 ![overview image](/images/in-schools/code-for-fun/code-for-fun-100609.jpg)
 
