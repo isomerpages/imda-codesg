@@ -17,4 +17,4 @@ second_nav_title: PlayMaker
 
 The research paper is published in the International Journal of Technology and Design Education and is available for reading [here.](https://www.semanticscholar.org/paper/Dancing-robots%3A-integrating-art%2C-music%2C-and-in-Sullivan-Bers/90249b0f482d889777aacb3b4712394efe3f3f3e) 
 
-Read more about the lesson study developed through the action research by Temasek Polytechnic and 6 pre-school centres by clicking [here](/in-schools/playmaker/lesson-study/)
+Read more about the lesson study developed through the action research by Temasek Polytechnic and 6 pre-school centres by clicking [here.](/in-schools/playmaker/lesson-study/)
