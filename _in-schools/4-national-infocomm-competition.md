@@ -18,7 +18,7 @@ The key competitions supported under NIC include the following:
 
 * 3D-Tronics Digital Making National Infocomm Challenge - <a href="https://www.3d-tronics.com" target="_blank">link</a>
 * AWS Build On Singapore - <a href="https://www.buildonsg-2019.com/" target="_blank">link</a>
-* Code XtremeApps 2019 - <a href="www2.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019" target="_blank">link</a>
+* Code XtremeApps 2019 - <a href="https://www2.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019" target="_blank">link</a>
 * FIRST LEGO League Singapore - <a href="http://www.ducklearning.com/first-lego-league-fll/" target="_blank">link</a>
 * Lockheed Martin Code Quest - <a href="https://www.lockheedmartin.com/en-us/who-we-are/communities/codequest/code-quest-suntec.html" target="_blank">link</a>
 * RoboCup Singapore - <a href="http://robocupsingapore.org/en/singaporeopen/open-2019" target="_blank">link</a>
