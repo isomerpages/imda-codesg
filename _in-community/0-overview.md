@@ -16,7 +16,7 @@ Various ground-up projects by community to promote computational thinking and ma
 
 
 #### **[National Infocomm Competition](/in-community/national-infocomm-competition/)** <br>
-
+A series of infocomm-themed competitions designed to expose students to areas such as robotics, artificial intelligence, data science and mobile application development.
 
 #### **[PIXEL Labs](/in-community/pixel-labs/)** <br>
 
