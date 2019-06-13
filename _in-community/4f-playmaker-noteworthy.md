@@ -21,5 +21,5 @@ second_nav_title: PlayMaker
 **In The News**
 
 PlayMaker has garnered substantial attention from domestic and international news outlets.
-To read or view these features, please visit our Media page by [clicking here](/stories/media/)
+To read or view these features, please visit our Media page by clicking [here.](/stories/)
 
