@@ -7,7 +7,7 @@ collection_name: in-community
 ---
 #### PIXEL Labs@NLB aims to ignite passion for innovative thinking and experimentation by encouraging passionate individuals to get hands on with technology.
 
-![pixel labs image1](/images/in-community/pixel-labs/pixel-labs-image4.jpg)
+![pixel labs image1](/images/in-community/overview/pixel-labs-image2copy.jpg)
 
 PIXEL Labs@NLB is a collaboration between Infocomm Media Development Authority of Singapore and National Library Board. It offers library users a dedicated space with tools, equipment, and hardware kits that enable individuals to learn, create, invent, and share skills. Programmes are jointly arranged by NLB and IMDA, and targeted at the broad spectrum of library users. These activities cover both tech and non-tech areas such as hands-on workshops for students and families, technology talks for general public and crafting sessions for makers.<br>
 
