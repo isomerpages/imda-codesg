@@ -13,7 +13,7 @@ second_nav_title: PlayMaker
 
 Through these workshops, educators will learn how to infuse these technologies into their curriculum. “Tech Toys in Pre-school Classroom” certification course is conducted by the Association for Early Childhood Educators (Singapore) or AECES for short, which has subsidies from SkillsFuture SG (SSG). During the 2.5 days' course over 2 months, educators can also borrow some of these tech toys to incorporate into their lessons back at their pre-school centres. 
 
-For more details on the course fee and dates, please refer to AECES website <a href="http://www.aeces.org" target="_blank">here</a>
+For more details on the course fee and dates, please refer to AECES website <a href="https://www.aeces.org/programmes-project/continuing-education-programme/" target="_blank">here</a>
 
 **Resource Guide Book**
 
