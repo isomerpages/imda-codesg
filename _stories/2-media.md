@@ -13,7 +13,7 @@ We have been featured in various media. To read more about us, check out the lis
 | Date | Title | Media |
 |--|--|
 | 19 May 2019 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
-| 4 Mar 2019 | <a href="https://www.straitstimes.com/politics/parliament-new-funding-for-community-projects-that-boost-public-digital-readiness" target="_blank">New funding for community projects that boost public digital readiness</a> | The Straits Times |
+| 4 March 2019 | <a href="https://www.straitstimes.com/politics/parliament-new-funding-for-community-projects-that-boost-public-digital-readiness" target="_blank">New funding for community projects that boost public digital readiness</a> | The Straits Times |
 | 14 July 2018 | <a href="https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community" target="_blank">Members of Girls Brigade Singapore pick up technology skills to better serve community</a>  | The Straits Times |
 | 14 July 2018 | <a href="https://www.facebook.com/amazonwebservices/videos/1735724719798219/" target="_blank">Amazon Web Services are collaborating with the Girls’ Brigade Singapore</a> | Facebook |
 | 26 February 2018 | <a href="https://www.zaobao.com.sg/news/singapore/story20180226-837967" target="_blank">Digital Maker Programme featured on Lian He Zao Bao</a> | Lian He Zao Bao  |
