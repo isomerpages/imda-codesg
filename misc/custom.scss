@@ -8,6 +8,7 @@
 $primary: #961C56;
 $secondary: #6F358D;
 $tertiary: #7FA344;
+$ahmalikespie: #262420;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #49759a;
@@ -143,7 +144,7 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $primary !important;
 }
 .has-text-secondary {
-	color: $secondary !important;
+	color: $ahmalikespie !important;
 }
 
 // Menu/Left-nav
