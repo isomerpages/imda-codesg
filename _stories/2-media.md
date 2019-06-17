@@ -21,7 +21,6 @@ We have been featured in various media. To read more about us, check out the lis
 | 11 October 2017 | <a href="https://www.element14.com/community/community/stem-academy/microbit/blog/2017/10/10/over-100000-microbits-deployed-in-singapores-digital-maker-programme" target="_blank">Over 100,000 micro:bits deployed in Singapore's Digital Maker Programme</a> | element14 |
 | 7 October 2017 | <a href="https://www.facebook.com/EspaceCW/videos/vb.1185282284824920/1661212403898570/?type=2&theater" target="_blank">ESpace is proud of Taman Jurong Active Aging Committee Seniors</a> | Facebook |
 | 28 July 2017 | <a href="https://vulcanpost.com/617312/code-xtremeapps-2017-hackathon/" target="_blank">As Young As Primary School, These S'poreans Are Coding The Future Of Our Country</a> | Vulcan Post |
-| 20 July 2017 | <a href="https://makezine.com/2017/07/20/singapore-hosts-full-maker-extravaganza/" target="_blank">Singapore Hosts a Full-On Maker Extravaganza</a>| Makezine |
 | 25 June 2017 | <a href="https://blog.tinkercademy.com/digital-maker-programme-998927090ddc" target="_blank">Getting Singapore making with the micro:bit</a> | Tinkercademy |
 | 11 May 2017 | <a href="https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18" target="_blank">Add coding to basic skills taught in schools</a> | The Straits Times  |
 | 14 April 2017 | <a href="https://www.straitstimes.com/singapore/pocket-size-gadget-for-100000-potential-coders" target="_blank">Pocket-size gadget for 100,000 potential coders</a> | The Straits Times |
