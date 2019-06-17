@@ -41,18 +41,18 @@
   sub-links:
   - title: All
     url: /events/
-  - title: Workshops
-    url: /events/workshops/
-  - title: Roadshows and Exhibitions
-    url: /events/roadshows-and-exhibitions/
   - title: Competitions
     url: /events/competitions/
+  - title: Roadshows and Exhibitions
+    url: /events/roadshows-and-exhibitions/
+  - title: Workshops
+    url: /events/workshops/
 - title: Stories 
   url: /stories/
   sub-links:
-  - title: Media
-    url: /stories/
   - title: Features
     url: /stories/features/
+  - title: Media
+    url: /stories/
 - title: Contact Us
   url: /contact-us/
