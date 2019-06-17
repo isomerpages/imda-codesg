@@ -8,7 +8,7 @@ locations:
   # HQ Address [REQUIRED]
   - title:
     address: 10 Pasir Panjang Road<br>#03-01 Mapletree Business City<br>Singapore 117438
-    find-directions: https://www.google.com/maps/place/Government+Technology+Agency+(GovTech)/@1.2742548,103.7977659,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1bc0bcd90b45:0xf191edbdddbc919e!8m2!3d1.2742548!4d103.7999546
+    find-directions: https://www.google.com/maps/place/Infocomm+Media+Development+Authority/@1.2742548,103.7911998,15z/data=!4m8!1m2!2m1!1sINFOCOMM!3m4!1s0x31da1a4ff594fb9b:0xa6f2618e26d150eb!8m2!3d1.2744079!4d103.7992905
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
