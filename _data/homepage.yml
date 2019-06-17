@@ -19,7 +19,19 @@ hero-banner: /images/home-page/080619-banner.jpg
 button:
   - text: Learn More
     url: /about/
-
+    
+key-highlights:
+  - title: In Schools
+    description: Broad-based learning and specialized training in schools
+    url: /in-schools/overview/
+    external: false
+  - title: In Community
+    description: Introducing coding and making to the public
+    url: /in-community/overview/
+  - title: Stories
+    description: Check out our media and feature stories!
+    url: /stories/
+    
 # Info Sections
 info-sections:
   - section-title: 
