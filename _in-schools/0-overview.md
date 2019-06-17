@@ -11,17 +11,17 @@ IMDA supports the development of computational thinking and making in schools by
 ### **Our Programmes**
 
 
-#### **[PlayMaker](/in-schools/playmaker-overview/)** <br>
-
-Aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
-
-*For pre-schools.*
-
----
-
 #### **[Code For Fun](/in-schools/code-for-fun/overview/)**<br>
 <br>
 Aims to increase students' exposure to computational thinking and making. <br>
+
+*For primary and secondary schools.*
+
+---
+
+#### **[Digital Maker Programme](/in-schools/digital-maker/overview/)**<br>
+<br>
+Aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. <br>
 
 *For primary and secondary schools.*
 
@@ -35,14 +35,6 @@ A structured training framework for Infocomm Media Club members to acquire speci
 
 ---
 
-#### **[Student Development](/in-schools/student-development/)**<br>
-<br>
-Aims to provide opportunities for students with talent and interest to be stretched further in their knowledge and application of infocomm media skills and develop their individual portfolios.<br>
-
-*For primary and secondary schools.*
-
----
-
 #### **[National Infocomm Competition](/in-schools/national-infocomm-competition/)**<br>
 <br>
 A series of infocomm-themed competitions designed to expose students to areas such as robotics, artificial intelligence, data science and mobile application development.<br>
@@ -51,8 +43,19 @@ A series of infocomm-themed competitions designed to expose students to areas su
 
 ---
 
-#### **[Digital Maker Programme](/in-schools/digital-maker/overview/)**<br>
+#### **[PlayMaker](/in-schools/playmaker-overview/)** <br>
+
+Aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
+
+*For pre-schools.*
+
+---
+
+#### **[Student Development](/in-schools/student-development/)**<br>
 <br>
-Aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. <br>
+Aims to provide opportunities for students with talent and interest to be stretched further in their knowledge and application of infocomm media skills and develop their individual portfolios.<br>
 
 *For primary and secondary schools.*
+
+---
+
