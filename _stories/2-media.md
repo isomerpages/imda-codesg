@@ -52,11 +52,11 @@ We have been featured in the media! Check out the links below to read more about
 **PlayMaker**<br>
 | Date | Title | Media |
 |--|--|
-| 10 October 2018 | <a href="https://www.bbc.co.uk/sounds/play/w3csz36y" target="_blank">BBC World Service (Radio) documentary RoboLife  interviews IMDA and PCF Sparkletots Preschool @ Tampines West Blk 942</a> | BBC |
+| 10 October 2018 | <a href="https://www.bbc.co.uk/sounds/play/w3csz36y" target="_blank">BBC World Service (Radio) documentary RoboLife interviews IMDA and PCF Sparkletots Preschool @ Tampines West Blk 942</a> | BBC |
 | 15 August 2018 | <a href="https://www.youtube.com/watch?v=2OxGdJImFBs&feature=youtu.be&t=1973" target="_blank">National Geographic-City of Future: Singapore interviews teacher and parents at Skool4Kidz Campus @ Sengkang Riverside Park (video)</a> | National Geographic |
 | 4 July 2018 | <a href="https://apolitical.co/solution_article/meet-the-robots-teaching-singapores-kids-tech/" target="_blank">Meet the robots teaching Singapore’s kids tech</a> | apolitical |
-| 23 August 2017 | <a href="https://blogs.edweek.org/edweek/education_futures/2017/08/how_singapore_is_introducing_coding_to_early_learners.html" target="_blank">How Singapore Is Introducing Coding to Early Learners</a>  | Education Week |
-| 12 July 2017 | <a href="https://www.ft.com/content/f3cbfada-668e-11e7-8526-7b38dcaef614" target="_blank">How robots are teaching Singapore's kids</a>  | Financial Times |
+| 23 August 2017 | <a href="https://blogs.edweek.org/edweek/education_futures/2017/08/how_singapore_is_introducing_coding_to_early_learners.html" target="_blank">How Singapore Is Introducing Coding to Early Learners</a> | Education Week |
+| 12 July 2017 | <a href="https://www.ft.com/content/f3cbfada-668e-11e7-8526-7b38dcaef614" target="_blank">How robots are teaching Singapore's kids</a> | Financial Times |
 | 30 September 2016 | <a href="https://www.information-age.com/singapores-digital-skills-drive-123462400/" target="_blank">The next generation of programmers: Singapore’s digital skills drive</a> | Information Age  |
 | 18 May 2016 | <a href="https://www.todayonline.com/singapore/getting-serious-about-childs-play" target="_blank">Getting serious about child’s play</a> | Today |
 | 24 September 2015 | <a href="https://www.straitstimes.com/singapore/education/tech-toys-to-help-pre-schoolers-learn" target="_blank">Tech toys to help pre-schoolers learn</a> | The Straits Times |
