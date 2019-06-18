@@ -30,4 +30,4 @@ The key competitions supported under NIC include the following:
 
 
 Look out for upcoming competitions [here.](/events/competitions/) <br>
-See coverage on the past competitions [here.](/stories/features/)
+
