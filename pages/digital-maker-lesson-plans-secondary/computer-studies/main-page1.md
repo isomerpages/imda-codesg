@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: Computer Studies Lesson Ideas - Secondary
-permalink: /secondary-computer-studies/
-breadcrumb: Computer Studies Lesson Ideas - Secondary
+title: Project Based Lesson Ideas - Secondary
+permalink: /secondary-project-based/
+breadcrumb: Project Based Lesson Ideas - Secondary
 ---
 
 | School Name | Project Name |
