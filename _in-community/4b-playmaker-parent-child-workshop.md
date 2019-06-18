@@ -8,7 +8,7 @@ second_nav_title: PlayMaker
 ---
 #### Parents of pre-schoolers can bring their children to the PlayMaker workshops at various community locations.
 
-![Parent-child workshop](/images/in-community/playmaker/parent-child-workshop-2.jpg)
+![Parent-child workshop](/images/in-community/playmaker/PM-1.jpg)
 
 At these workshops, you will be able to understand and learn about computational thinking, basic programming and foundational technology and engineering concepts.
 
