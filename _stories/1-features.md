@@ -13,7 +13,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 
 
 <a name="digitalmaker"></a><br>
-Digital Maker<br>
+**Digital Maker**<br>
 
 | Date | Title |
 |--|--|
@@ -39,7 +39,7 @@ Digital Maker<br>
 
 
 <a name="pixellabs"></a><br>
-PIXEL Labs<br>
+**PIXEL Labs**<br>
 
 | Date | Title |
 |--|--|
