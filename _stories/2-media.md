@@ -6,7 +6,7 @@ breadcrumb: Media
 collection_name: stories
 ---
 
-We have been featured in various media. To read more about us, check out the lists below. 
+We have been featured in the media! Check out the links below to read more about our programmes.  
 
 [By Community For Community](#bycommunityforcommunity) | [Digital Maker](#digitalmaker) | [General](#general)
 
