@@ -24,7 +24,7 @@ See how Aspiration Child Care Centre utilised Bee-Bots to grow the motor skills 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NQl05ivwPbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-To learn more, please download their lesson plan [here](/files/playmaker/Aspiration Kindergarten Lesson Plan.pdf)
+To learn more, please download their lesson plan [here.](/files/playmaker/Aspiration Kindergarten Lesson Plan.pdf)
 
 ---
 
@@ -32,7 +32,7 @@ See how students at Sarada Kindergarten learned numeracy and other skills with t
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VfHaMpNCO3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-To learn more, please download their lesson plan [here](/files/playmaker/Sarada Lesson Plan.pdf)
+To learn more, please download their lesson plan [here.](/files/playmaker/Sarada Lesson Plan.pdf)
 
 ### littleBits
 
@@ -40,7 +40,7 @@ Watch how Kids' Kingdom Child Development and Learning Centre used littleBits to
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zOtLjGekb3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-To learn more, please download their lesson plan [here](/files/playmaker/Kids Kingdom Lesson Plan.pdf)
+To learn more, please download their lesson plan [here.](/files/playmaker/Kids Kingdom Lesson Plan.pdf)
 
 ---
 
@@ -48,7 +48,7 @@ Find out how students at New Life Community Services Childcare used littleBits t
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/y6-eBx4hh3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-To learn more, please download their lesson plan [here](/files/playmaker/New Life Lesson Plan.pdf)
+To learn more, please download their lesson plan [here.](/files/playmaker/New Life Lesson Plan.pdf)
 
 ### Circuit Stickers
 
@@ -56,7 +56,7 @@ Students at Little Dolphin Playskool (Clementi) used Circuit Stickers to create 
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Kzk5_HYEruo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-To learn more, please download their lesson plan [here](/files/playmaker/New Life Lesson Plan.pdf)
+To learn more, please download their lesson plan [here.](/files/playmaker/New Life Lesson Plan.pdf)
 
 ---
 
@@ -66,8 +66,8 @@ PLAY@TP Video
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8eS9PNNR5j4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-To learn more, please download their lesson plan [here](/files/playmaker/PLAY@TP Lesson Plan- SED using circuit stickers.pdf)
+To learn more, please download their lesson plan [here.](/files/playmaker/PLAY@TP Lesson Plan- SED using circuit stickers.pdf)
 
 ---
 
-Learn more about the awards and media stories that PlayMaker has garnered by [clicking here](/in-schools/playmaker/noteworthy/)
+Learn more about the awards and media stories that PlayMaker has garnered by clicking [here.](/in-schools/playmaker/noteworthy/)
