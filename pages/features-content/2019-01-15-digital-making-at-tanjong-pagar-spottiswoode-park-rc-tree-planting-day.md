@@ -50,4 +50,4 @@ With 2018 being the Year of Climate Action, the Tree Planting Day showcased how 
 
 The Digital Maker programme aims to encourage kids and adults to create with technology to solve real-life problems and the Garden Gaia gardening interest group and Tanjong Pagar residents have demonstrated it.
 
-
+To watch our post event video, <a href="https://www.youtube.com/watch?v=e8FQhPZpXno" target="_blank">click here</a>
