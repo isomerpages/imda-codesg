@@ -6,7 +6,7 @@ breadcrumb: Noteworthy
 collection_name: in-community
 second_nav_title: PlayMaker
 ---
-#### PlayMaker has received several domestic and international accolades
+#### PlayMaker has received several domestic and international accolades.
 
 ![awards](/images/in-schools/playmaker/noteworthy/awards-images.jpeg)
 
