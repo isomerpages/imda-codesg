@@ -16,6 +16,6 @@ second_nav_title: Digital Maker
 | [**Math**](/secondary-math/) |
 | [**Music and Art**](/secondary-music-and-art/) |
 | [**Physical Education**](/secondary-physical-education/) |
-|[**Project-based Learning**](/secondary-computer-studies/) |
+|[**Project-Based**](/secondary-project-based/) |
 | [**Science**](/secondary-science/) |
 
