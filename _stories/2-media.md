@@ -12,7 +12,7 @@ We have been featured in the media! Check out the links below to read more about
 
 
 <a name="bycommunityforcommunity"></a><br>
-By Community For Community<br>
+**By Community For Community**<br>
 
 | Date | Title | Media |
 |--|--|
