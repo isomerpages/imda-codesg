@@ -24,7 +24,6 @@ Read our feature stories to know what is happening at our events and to learn mo
 | **27 December 2018** | **[Humble Beginnings to Grand Plans – Digital Making at PLMGS](/humble-beginnings-to-grand-plans–digital-making-at-plmgs/)** |
 | **19 December 2018** | **[Pei Hwa’s Students Code with A Purpose](/pei-hwa-students-code-with-a-purpose/)** |
 | **7 December 2018** | **[Montfort Junior School](/montfort-junior-school/)** |
-| **3 November 2018** | **[Tech Pals 2018](/tech-pals-2018/)** |
 | **3 November 2018** | **[Environment Challenge for Schools - 2018](/environment-challenge-for-schools-2018/)** |
 | **9 October 2018** | **[Digital Making @EduTECH Asia 2018](/edutech-asia-2018/)** |
 | **15 September 2018** | **[Community Learning Day @Changi Simei CC](/community-learning-day-at-changi-simei-cc/)** |
