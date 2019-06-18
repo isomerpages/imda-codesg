@@ -30,7 +30,7 @@ We have been featured in the media! Check out the links below to read more about
 | Date | Title | Media |
 |--|--|
 | 14 July 2018 | <a href="https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community" target="_blank">Members of Girls Brigade Singapore pick up technology skills to better serve community</a>  | The Straits Times |
-| 26 February 2018 | <a href="https://www.zaobao.com.sg/news/singapore/story20180226-837967" target="_blank">Digital Maker Programme featured on Lian He Zao Bao</a> | Lian He Zao Bao  |
+| 26 February 2018 | <a href="https://www.zaobao.com.sg/news/singapore/story20180226-837967" target="_blank">鼓励善用科技解决问题 “数码创客”推出一年四成中小学参与</a> | Lian He Zao Bao  |
 | 29 January 2018 | <a href="https://www.straitstimes.com/singapore/education/smart-students-for-smart-nation" target="_blank">Smart students for smart nation</a> | The Straits Times |
 | 11 October 2017 | <a href="https://www.element14.com/community/community/stem-academy/microbit/blog/2017/10/10/over-100000-microbits-deployed-in-singapores-digital-maker-programme" target="_blank">Over 100,000 micro:bits deployed in Singapore's Digital Maker Programme</a> | element14 |
 | 7 October 2017 | <a href="https://www.facebook.com/EspaceCW/videos/vb.1185282284824920/1661212403898570/?type=2&theater" target="_blank">ESpace is proud of Taman Jurong Active Aging Committee Seniors</a> | Facebook |
