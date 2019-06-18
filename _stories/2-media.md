@@ -18,6 +18,8 @@ We have been featured in the media! Check out the links below to read more about
 |--|--|
 | 20 May 2019 | <a href="https://www.channelnewsasia.com/news/singapore/singapore-s-largest-tech-carnival-attracts-nearly-20-000-people-11547308" target="_blank">Singapore's largest tech carnival attracts nearly 20,000 people (video)
 </a> | CNA |
+| 20 May 2019 | <a href="https://www.zaobao.com.sg/znews/singapore/story20190520-957824" target="_blank">“科技行善”创意工作坊和比赛要吸引2万人参加
+</a> | Lianhe Zao Bao |
 | 20 May 2019 | <a href="https://www.facebook.com/174919765892716/posts/2404134952971175?s=677133907&sfns=mo" target="_blank">Sim Ann SG:D Wonderland Facebook post</a> | Facebook |
 | 20 May 2019 | <a href="https://www.facebook.com/145462252193638/posts/2728956570510847?s=677133907&sfns=mo" target="_blank">S Iswaran SG:D Wonderland Facebook post</a> | Facebook |
 | 19 May 2019 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
