@@ -6,7 +6,7 @@ breadcrumb: Features
 collection_name: stories
 ---
 
-Read our features to know what happens at our events and to learn more about how our programmes benefit schools and community.
+Read our feature stories to know what is happening at our events and to learn more about how our programmes benefit schools and community.
 
 [By Community For Community](#bycommunityforcommunity) | [Code For Fun](#codeforfun) | [Digital Maker](#digitalmaker) | [ICM Learning Roadmap](#icmroadmap) | [National Infocomm Competition](#nic) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker) | [Student Development](#studentdevelopment)
 
