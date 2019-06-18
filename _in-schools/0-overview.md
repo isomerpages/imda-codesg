@@ -31,7 +31,7 @@ Aims to cultivate a community of innovators, imbued with the culture of collabor
 <br>
 A structured training framework for Infocomm Media Club members to acquire specialised skills in Tech and Media domains.<br>
 
-*For primary and secondary schools.*
+*For primary and secondary schools, and junior colleges.*
 
 ---
 
@@ -55,7 +55,7 @@ Aims to inspire young children to play and make with technology, sparking imagin
 <br>
 Aims to provide opportunities for students with talent and interest to be stretched further in their knowledge and application of infocomm media skills and develop their individual portfolios.<br>
 
-*For primary and secondary schools.*
+*For secondary schools.*
 
 ---
 
