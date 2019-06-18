@@ -5,7 +5,7 @@ date: 2019-07-12
 permalink: /events/competitions/2019-07-12-code-xtremeapps-2019
 ---
 
-![overview image](/images/in-schools/code-for-fun/code-for-fun-100609.jpg)
+![overview image](/images/CXA-LOGO.PNG)
 
 
 The CXA hackathon is back this year to challenge minds and inspire innovative solutions for current issues that affect us. This year’s theme is “Digital Transformation for a Better World”, and the focus is on improving the sustainability of the world we live in with new innovative and transformative digital solutions.
