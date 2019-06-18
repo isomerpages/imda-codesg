@@ -7,7 +7,7 @@ collection_name: in-schools
 second_nav_title: PlayMaker
 ---
 
-#### Domestic and International Accolades
+#### PlayMaker has received several domestic and international accolades.<br>
 
 ![awards](/images/in-schools/playmaker/noteworthy/awards-images.jpeg)
 
