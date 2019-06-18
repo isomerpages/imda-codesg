@@ -8,7 +8,7 @@ collection_name: stories
 
 We have been featured in the media! Check out the links below to read more about our programmes.  
 
-[By Community For Community](#bycommunityforcommunity) | [Digital Maker](#digitalmaker) | [General](#general)
+[By Community For Community](#bycommunityforcommunity) | [Digital Maker](#digitalmaker) | [General](#general) | [PlayMaker](#playmaker)
 
 
 <a name="bycommunityforcommunity"></a><br>
@@ -43,3 +43,10 @@ General<br>
 | 11 May 2017 | <a href="https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18" target="_blank">Add coding to basic skills taught in schools</a> | The Straits Times  |
 
 
+<a name="playmaker"></a><br>
+PlayMaker<br>
+
+| 23 August 2017 | <a href="https://blogs.edweek.org/edweek/education_futures/2017/08/how_singapore_is_introducing_coding_to_early_learners.html" target="_blank">How Singapore Is Introducing Coding to Early Learners</a>  | Education Week |
+| 30 September 2016 | <a href="https://www.information-age.com/singapores-digital-skills-drive-123462400/" target="_blank">The next generation of programmers: Singapore’s digital skills drive</a> | Information Age  |
+| 18 May 2016 | <a href="https://www.todayonline.com/singapore/getting-serious-about-childs-play" target="_blank">Getting serious about child’s play</a> | Today |
+| 24 September 2015 | <a href="https://www.straitstimes.com/singapore/education/tech-toys-to-help-pre-schoolers-learn" target="_blank">Tech toys to help pre-schoolers learn</a> | The Straits Times |
