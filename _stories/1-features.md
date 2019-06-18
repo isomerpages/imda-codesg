@@ -8,24 +8,9 @@ collection_name: stories
 
 Read our feature stories to know what is happening at our events and to learn more about how our programmes benefit schools and community.
 
-[By Community For Community](#bycommunityforcommunity) | [Code For Fun](#codeforfun) | [Digital Maker](#digitalmaker) | [ICM Learning Roadmap](#icmroadmap) | [National Infocomm Competition](#nic) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker) | [Student Development](#studentdevelopment)
+[Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) 
 
 
-<a name="bycommunityforcommunity"></a><br>
-By Community For Community<br>
-
-| Date | Title |
-|--|--|
-| **placeholder** | **for future articles** |
-| **placeholder** | **for future articles** |
-
-<a name="codeforfun"></a><br>
-Code For Fun<br>
-
-| Date | Title |
-|--|--|
-| **placeholder** | **for future articles** |
-| **placeholder** | **for future articles** |
 
 <a name="digitalmaker"></a><br>
 Digital Maker<br>
@@ -53,22 +38,6 @@ Digital Maker<br>
 | **8 July 2017** | **[Singapore’s first “Digital Garage” to grow a community of 1000 digital makers](/singapores-first-digital-garage-to-grow-a-community-of-1000-digital-makers/)** |
 
 
-<a name="icmroadmap"></a><br>
-ICM Learning Roadmap<br>
-
-| Date | Title |
-|--|--|
-| **placeholder** | **for future articles** |
-| **placeholder** | **for future articles** |
-
-<a name="nic"></a><br>
-National Infocomm Competition<br>
-
-| Date | Title |
-|--|--|
-| **placeholder** | **for future articles** |
-| **placeholder** | **for future articles** |
-
 <a name="pixellabs"></a><br>
 PIXEL Labs<br>
 
@@ -78,18 +47,3 @@ PIXEL Labs<br>
 | **placeholder** | **for future articles** |
 
 
-<a name="playmaker"></a><br>
-PlayMaker<br>
-
-| Date | Title |
-|--|--|
-| **placeholder** | **for future articles** |
-| **placeholder** | **for future articles** |
-
-<a name="studentdevelopment"></a><br>
-Student Development<br>
-
-| Date | Title |
-|--|--|
-| **placeholder** | **for future articles** |
-| **placeholder** | **for future articles** |
