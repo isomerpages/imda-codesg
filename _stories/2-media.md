@@ -20,7 +20,7 @@ We have been featured in the media! Check out the links below to read more about
 | 4 March 2019 | <a href="https://www.straitstimes.com/politics/parliament-new-funding-for-community-projects-that-boost-public-digital-readiness" target="_blank">New funding for community projects that boost public digital readiness</a> | The Straits Times |
 
 <a name="digitalmaker"></a><br>
-Digital Maker<br>
+**Digital Maker**<br>
 
 | Date | Title | Media |
 |--|--|
@@ -36,7 +36,7 @@ Digital Maker<br>
 | 13 April 2017 | <a href="https://www.straitstimes.com/singapore/singapore-to-use-microbit-to-teach-coding-nurture-its-own-steve-jobs" target="_blank">Singapore to use micro:bit to teach coding, nurture its own Steve Jobs</a> | The Straits Times |
 
 <a name="general"></a><br>
-General<br>
+**General**<br>
 
 | Date | Title | Media |
 |--|--|
@@ -44,7 +44,7 @@ General<br>
 
 
 <a name="playmaker"></a><br>
-PlayMaker<br>
+**PlayMaker**<br>
 
 | 23 August 2017 | <a href="https://blogs.edweek.org/edweek/education_futures/2017/08/how_singapore_is_introducing_coding_to_early_learners.html" target="_blank">How Singapore Is Introducing Coding to Early Learners</a>  | Education Week |
 | 30 September 2016 | <a href="https://www.information-age.com/singapores-digital-skills-drive-123462400/" target="_blank">The next generation of programmers: Singapore’s digital skills drive</a> | Information Age  |
