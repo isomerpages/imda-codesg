@@ -16,6 +16,6 @@ CXA has 3 main tracks – 24-hour School and Open Categories, as well as a 3-hou
 
 The venue of the hackathon will be held at Singapore Management University (SMU) at the School of Economics/Social Sciences and it will take place over a period of 2 days from 12-13 July 2019.
 
-For more information on this competition, <a href="https://www2.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019" target="_blank">click here</a>
+For more information on this competition, click <a href="https://www2.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019" target="_blank">here.</a>
 
 
