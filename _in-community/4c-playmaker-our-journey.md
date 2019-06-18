@@ -7,7 +7,7 @@ collection_name: in-community
 second_nav_title: "PlayMaker"
 ---
 
-#### View the PlayMaker journey
+#### The PlayMaker Journey
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/6dPI5A_BSjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
