@@ -2,7 +2,7 @@
 layout: post
 title: Code XtremeApps 2019
 date: 2019-07-12 
-permalink: /events/competitions/build-on-singapore-2019
+permalink: /events/competitions/2019-07-12-code-xtremeapps-2019
 ---
 
 Inspired from Singapore’s Smart Nation initiative, across 3 key pillars:
