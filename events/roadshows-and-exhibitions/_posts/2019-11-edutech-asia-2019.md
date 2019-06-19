@@ -1,0 +1,18 @@
+---
+layout: post
+title:  EduTECH Asia 2019
+date:   2019-11
+permalink: /events/roadshows-and-exhibitions/edutech-asia-2019
+---
+
+| Date | Time | Venue |
+|--------|---|---|
+| 04 November 2019 - 06 November 2019 | 09:00 AM - 06:00 PM | Suntec Singapore International Exhibition & Convention Centre |
+
+Technology is changing the way we live, work and learn. This is having a profound impact on how we teach, where we teach and what we teach. At EduTECH Asia 2019, this is what will be discussed, debated and workshopped. 
+
+Educators from across the entire education spectrum will be brought together: from early years practitioners through to K-12 and tertiary education leaders, and from across Asia!
+
+![edutech-asia-2018](/images/stories/features/edutech-asia-2018/DMP-EduTECH-Asia-Article-Image-7.jpg)
+                      
+Check out the previous year's event's key highlights by clicking [here.](/edutech-asia-2018/)
