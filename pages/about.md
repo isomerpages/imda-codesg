@@ -19,9 +19,10 @@ Computational Making involves physical computing, which is the designing and bui
 #### Why Computational Thinking and Making?<br>
 Whether or not someone decides to take up an infocomm media career, these are important skills to have as it allows students and adults to develop structured ways to approach and think about problems.   More importantly, as the world becomes more connected and powered by technology, it’s essential to have the know-how and the creative confidence to use technology to innovate and build solutions to solve real-world problems.<br>
 
+
+Find out more about our programmes [In Schools](/in-schools/overview/) and [In Community](/in-community/overview/). 
+
 ---
 
 ![codesg is an initiatve by IMDA](/images/about/imda-dlp-v2.jpeg)
-
-Find out more about our programmes [In Schools](/in-schools/overview/) and [In Community](/in-community/overview/). 
 
