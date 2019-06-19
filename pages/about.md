@@ -23,5 +23,5 @@ Whether or not someone decides to take up an infocomm media career, these are im
 
 ![codesg is an initiatve by IMDA](/images/about/imda-dlp-v2.jpeg)
 
-<br>Find out more about our programmes [In Schools](/in-schools/overview/) and [In Community](/in-community/overview/). 
+Find out more about our programmes [In Schools](/in-schools/overview/) and [In Community](/in-community/overview/). 
 
