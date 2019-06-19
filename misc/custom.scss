@@ -5,15 +5,17 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+$primary: #961C56;
+$secondary: #6F358D;
+$tertiary: #7FA344;
+$ahmalikespie: #262420;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+$media-color-two: #00838f;
+$media-color-three: #006666;
+$media-color-four: #46A3A3;
+$media-color-five: #006666;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -197,7 +199,16 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color:#6DA6C3 !important;
+  padding: 0rem!important;
+  padding-top: 0rem!important;
+  padding-bottom: 1rem!important;
+}
+
+.img_crop{
+  width: 300px!important;
+  height: 300px;
+  object-fit: cover;
 }
 
 // Pagination

@@ -5,35 +5,36 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/SGD-logo.png
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/DLP-logo5.png
 
 # Hero Banner
-hero-title: Digital Literacy Programme
-hero-subtitle: Your Subtitle Here
-hero-banner: /images/hero-banner.png
+hero-title: Code@SG  
+hero-subtitle: Developing computational thinking and making as a national capability in Singapore. 
+hero-banner: /images/home-page/new-banner-test1.jpg
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://isomer.gov.sg
-    external: true
-  - title: About
-    description: About is important too
-    url: /about/
+  - title: In Schools
+    description: Broad-based learning and specialized training in schools
+    url: /in-schools/overview/
+    external: false
+  - title: In Community
+    description: Introducing coding and making to the public
+    url: /in-community/overview/
+  - title: Stories
+    description: Check out our media and feature stories!
+    url: /stories/
+     
+# Resources Section 
+resources-subtitle: Events
+resources-title: 
+resources-more-button: Learn more
+resources-more-button-url: /events/
 
-resources-title: Events
-resources-subtitle: Some subtitle for Events
-resources-more-button: More Events
-resources-more-button-url: events/

@@ -1,0 +1,26 @@
+- title: Stories
+  name: Feature
+  position: Waterway Primary School
+  # dept: Government Digital Services, Data Science Division
+  story: Students team up with their parents to code at Waterway Primary School!
+  img: images/home-page/waterway-carousel-image.jpg
+  button-text: Read more
+  button-url: /students-team-up-with-their-parents-to-code-at-waterway-primary-school/
+  
+- title: Stories
+  name: Feature
+  position: Never Too Young To Code
+  # dept: Government Digital Services, Data Science Division
+  story: Cedric Phua may be too young to drive, but he has already made his own micro:bit car at the age of 10!
+  img: images/home-page/cedric-phua-carousel-image.JPG
+  button-text: Read more
+  button-url: /never-too-young-to-code-cedric-phua/
+
+- title: Stories
+  name: Feature
+  position: Never Too Old To Code
+  # dept: Government Digital Services, Data Science Division
+  story: Taman Jurong seniors show age is no barrier to learning digital making skills!
+  img: images/home-page/taman-jurong-carousel-image.jpg
+  button-text: Read more
+  button-url: /never-too-old-to-code/

@@ -11,44 +11,48 @@
   sub-links:
   - title: Overview
     url: /in-schools/overview/
-  - title: PlayMaker
-    url: /in-schools/playmaker/overview/
+  - title: Code For Fun
+    url: /in-schools/code-for-fun/overview/
+  - title: Digital Maker
+    url: /in-schools/digital-maker/overview/
   - title: ICM Learning Roadmap
     url: /in-schools/icm-learning-roadmap/
-  - title: Code For Fun
-    url: /in-schools/code-for-fun/primary/
-  - title: Unstructured Making
-    url: /in-schools/unstructured-making/
-  - title: National Infocomm Competitions
-    url: /in-schools/national-infocomm-competitions/
-  - title: Digital Maker
-    url: /in-schools/digital-maker/lesson-ideas-primary/
+  - title: National Infocomm Competition
+    url: /in-schools/national-infocomm-competition/
+  - title: PlayMaker
+    url: /in-schools/playmaker-overview/
+  - title: Student Development
+    url: /in-schools/student-development/
 - title: In Community
   url: /in-community/overview/
   sub-links:
   - title: Overview
     url: /in-community/overview/
-  - title: PlayMaker
-    url: /in-community/playmaker/overview/
-  - title: Code &amp; Make @ Community
-    url: /in-community/code-and-make-at-community/
   - title: By Community For Community
     url: /in-community/by-community-for-community/
+  - title: National Infocomm Competition
+    url: /in-community/national-infocomm-competition/
+  - title: PIXEL Labs
+    url: /in-community/pixel-labs/
+  - title: PlayMaker
+    url: /in-community/playmaker-overview/
 - title: Events
   url: /events/
   sub-links:
   - title: All
     url: /events/
-  - title: Category One
-    url: /events/category-one/
-  - title: Cateogry Two
-    url: /events/category-two/
-- title: Stories
-  url: /stories/media/
+  - title: Competitions
+    url: /events/competitions/
+  - title: Roadshows and Exhibitions
+    url: /events/roadshows-and-exhibitions/
+  - title: Workshops
+    url: /events/workshops/
+- title: Stories 
+  url: /stories/
   sub-links:
-  - title: Media
-    url: /stories/media/story-one/
   - title: Features
-    url: /stories/features/story-one/
+    url: /stories/features/
+  - title: Media
+    url: /stories/
 - title: Contact Us
   url: /contact-us/
