@@ -20,4 +20,6 @@ For more information on this competition, click <a href="https://www2.imda.gov.s
 
 The following are the list of organizers for this competition. 
 
+![overview image 2](/images/competition/CXA-list-of-organizers.PNG)
+
 
