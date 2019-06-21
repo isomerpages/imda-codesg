@@ -18,4 +18,6 @@ The venue of the hackathon will be held at Singapore Management University (SMU)
 
 For more information on this competition, click <a href="https://www2.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019" target="_blank">here.</a>
 
+The following are the list of organizers for this competition. 
+
 
