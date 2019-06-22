@@ -15,7 +15,7 @@ We have been featured in the media! Check out the links below to read more about
 **By Community For Community**<br>
 
 | Date | Title | Media |
-|--|--|
+|--|--|--|
 | 20 May 2019 | <a href="https://www.channelnewsasia.com/news/singapore/singapore-s-largest-tech-carnival-attracts-nearly-20-000-people-11547308" target="_blank">Singapore's largest tech carnival attracts nearly 20,000 people (video)</a> | CNA |
 | 20 May 2019 | <a href="https://www.zaobao.com.sg/znews/singapore/story20190520-957824" target="_blank">“科技行善”创意工作坊和比赛要吸引2万人参加</a> | Lianhe Zao Bao |
 | 19 May 2019 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
@@ -26,7 +26,7 @@ We have been featured in the media! Check out the links below to read more about
 **Digital Maker**<br>
 
 | Date | Title | Media |
-|--|--|
+|--|--|--|
 | 14 July 2018 | <a href="https://www.straitstimes.com/singapore/members-of-girls-brigade-singapore-pick-up-technology-skills-to-better-serve-community" target="_blank">Members of Girls Brigade Singapore pick up technology skills to better serve community</a>  | The Straits Times |
 | 26 February 2018 | <a href="https://www.zaobao.com.sg/news/singapore/story20180226-837967" target="_blank">鼓励善用科技解决问题 “数码创客”推出一年四成中小学参与</a> | Lian He Zao Bao  |
 | 29 January 2018 | <a href="https://www.straitstimes.com/singapore/education/smart-students-for-smart-nation" target="_blank">Smart students for smart nation</a> | The Straits Times |
@@ -42,7 +42,7 @@ We have been featured in the media! Check out the links below to read more about
 **General**<br>
 
 | Date | Title | Media |
-|--|--|
+|--|--|--|
 | 11 May 2017 | <a href="https://www.straitstimes.com/opinion/add-coding-to-basic-skills-taught-in-schools?xtor=CS3-18" target="_blank">Add coding to basic skills taught in schools</a> | The Straits Times  |
 
 
@@ -50,7 +50,7 @@ We have been featured in the media! Check out the links below to read more about
 **PlayMaker**<br>
 
 | Date | Title | Media |
-|--|--|
+|--|--|--|
 | 10 October 2018 | <a href="https://www.bbc.co.uk/sounds/play/w3csz36y" target="_blank">BBC World Service (Radio) documentary RoboLife</a> | BBC |
 | 15 August 2018 | <a href="https://www.youtube.com/watch?v=2OxGdJImFBs&feature=youtu.be&t=1973" target="_blank">National Geographic-City of Future, Singapore (video)</a> | National Geographic |
 | 4 July 2018 | <a href="https://apolitical.co/solution_article/meet-the-robots-teaching-singapores-kids-tech/" target="_blank">Meet the robots teaching Singapore’s kids tech</a> | apolitical |
