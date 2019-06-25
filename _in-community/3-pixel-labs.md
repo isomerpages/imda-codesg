@@ -79,5 +79,5 @@ Besides programmes and workshops, dedicated hours are reserved for registered la
   </tr>
 </table>
 
-For more information on tinkering in PIXEL Labs@NLB, please download the [Booking Guide](/files/code-and-make/PIXEL-Lab-NLB-Booking-Guide.docx) including the [Lab User Registration Form](/files/code-and-make/Registration Form.docx) if you meet the participation eligibility.
 
+For more information on tinkering in PIXEL Labs@NLB, please download the respective Booking Guides - [Jurong Regional Library](/files/code-and-make/PIXEL-Lab-NLB-Booking-Guide-JRL.docx) & [Tampines Regional Library](/files/code-and-make/PIXEL-Lab-NLB-Booking-Guide.docx), including the [Lab User Registration Form](/files/code-and-make/Registration Form.docx) if you meet the participation eligibility.
