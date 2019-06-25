@@ -20,7 +20,7 @@ Level 2, Singapore 609732<br>
 1 Tampines Walk, Our Tampines Hub<br>
 Level 4, Singapore 529684<br>
 
-For Programmes & Workshops at PIXEL Labs@NLB, please visit <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/" target="_blank">GoLibrary</a> and do a keyword search for “PIXEL Labs@NLB” for more details on upcoming programmes and workshops.
+For Programmes & Workshops at PIXEL Labs@NLB, please visit <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/pixel%20labs" target="_blank">GoLibrary.</a>
 
 
 #### Operating Hours<br>
@@ -79,5 +79,5 @@ Besides programmes and workshops, dedicated hours are reserved for registered la
   </tr>
 </table>
 
-For more information on tinkering in PIXEL Labs@NLB, please download the [Booking Guide](/files/code-and-make/PIXEL-Lab-NLB-Booking-Guide.docx) including the [Lab User Registration Form](/files/code-and-make/Registration Form.docx) if you meet the participation eligibility.
 
+For more information on tinkering in PIXEL Labs@NLB, please download the respective Booking Guides - [Jurong Regional Library](/files/code-and-make/PIXEL-Lab-NLB-Booking-Guide-JRL.docx) & [Tampines Regional Library](/files/code-and-make/PIXEL-Lab-NLB-Booking-Guide.docx), including the [Lab User Registration Form](/files/code-and-make/Registration Form.docx) if you meet the participation eligibility.
