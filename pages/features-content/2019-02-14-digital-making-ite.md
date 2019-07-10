@@ -110,7 +110,7 @@ If you are an educator who would like to learn more about how to make digital ma
 
 #### Useful links:<br>
 
-* https://www.imda.gov.sg/digitalmaker <br>
-* https://www.ite.edu.sg/
+* [Digital maker page](https://www.imda.gov.sg/digitalmaker) <br>
+* [ITE website](https://www.ite.edu.sg/){:target="_blank"}
 
 
