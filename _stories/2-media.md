@@ -28,7 +28,7 @@ We have been featured in the media! Check out the links below to read more about
 | Date | Title | Media |
 |--|--|--|
 | 12 July 2019 | <a href="http://theindependent.sg/our-digital-singapore-primary-students-in-spore-will-begin-learning-how-to-code-in-2020/" target="_blank">Our Digital Singapore: Primary students in S’pore will begin learning how to code in 2020</a> | The Independent |
-| 11 July 2019 | <a href="https://www.tnp.sg/news/singapore/coding-primary-school-important-future" target="_blank">“Coding for primary school important for future</a> | The New Paper |
+| 11 July 2019 | <a href="https://www.tnp.sg/news/singapore/coding-primary-school-important-future" target="_blank">Coding for primary school important for future</a> | The New Paper |
 | 11 July 2019 | <a href="https://www.tnp.sg/news/singapore/coding-enrichment-classes-all-upper-primary-students-next-year" target="_blank">Coding enrichment classes for all upper primary students next year</a> | The New Paper |
 | 11 July 2019 | <a href="https://www.straitstimes.com/tech/coding-classes-for-all-upper-primary-pupils-from-2020" target="_blank">Coding classes for all upper primary pupils from 2020</a> | The Straits Times |
 | 10 July 2019 | <a href="https://www.todayonline.com/singapore/coding-enrichment-classes-upper-primary-school-students-next-year" target="_blank">Coding enrichment classes for all upper primary school students from next year</a> | Today |
