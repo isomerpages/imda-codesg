@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Digital Making at ITE"
+date: 2019-02-14
+permalink: /digital-making-at-ite/
+breadcrumb: Digital Making at ITE
+---
+
+#### Big Plans with a Small Device
+
+Just like the Digital Maker Programme (DMP), the Institute of Technical Education’s (ITE) goal is to ignite students’ creativity with technology, asking them to be bold and creative where others play it safe. As such, it was no surprise when ITE introduced the micro:bit back in 2017. Used as a learning tool to expose its students to Science, Technology, Engineering and Mathematics, (STEM)  in a fun way, ITE encourages students to be creative with the device and create projects with practical applications.
+
+ITE’s commitment to digital making is such that they’ve extended their teaching efforts to beyond their own sizeable student population of 7800, spread across the three campuses - ITE College Central, ITE College East and ITE College West. The institution has and continues to conduct and organise a wide array digital making courses, workshops and activities catering to both students and adult learners, with conservative estimates suggesting that, in just two short years, they’ve reached more than 19, 000 participants through their digital making programme.
+
+As Section Head of Electronics at ITE College Central, Ms. Sim Boh Ngoh shares,  “The micro:bit is user friendly and has many in-built features that allow the user to see the immediate application and effect. It is easy to learn and create projects with, even for non-technical students.” IMDA’s strong support of the programme and its sponsorship of the micro:bit devices helps ITE’s push to cultivate tech-savviness in students, she added.
+
+From ITE’s internal micro:bit orientation programme to workshops available to the public, ITE provides many opportunities for learners to get acquainted with digital making and pursue it further.
+
+#### Exposure For Staff and Students
+
+Since 2018, a micro:bit Orientation Programme has been run at all three ITE campuses. The programme applies to all first year students at College Central and selected courses for the other 2 colleges.
+
+The Orientation Programme begins with a workshop where a Master Trainer trains other teaching staff on the micro:bit hardware, coding language and creating interactive gadgets. The teaching staff will then pair up to guide a class of around 40 students through the orientation.
+
+![1](/images/stories/features/ite-central-2019/ite1.jpg)
+<sub>A student tries his hand at micro:bit coding.</sub>
+
+The Orientation Programme has been a hit with the students, with most of them finding the micro:bit easy to pick up and fun to play with. 
+
+College Central student Xin Wei enjoyed the learning experience and felt that his computer and programming skills had improved. Another student Fanddy Bin Mohamad found the micro:bit easy to programme and relatable to application in daily life.
+
+Held in the first half of the year, the Orientation Programme culminates in the National Day Project Competition. During this time, students apply the skills they picked up to create National Day themed projects. They then present their work to the school during the National Day celebrations.
+
+![2](/images/stories/features/ite-central-2019/ite2.jpg)
+<sub>One of the winning projects from the National Day Project Competition.</sub>
+
+#### Cutting Edge Making Space
+Understanding that digital making requires some specialized facilities, ITE opened its first ‘Espace’ on the College West campus in 2016. An upgraded version of existing Design & Technology labs, the Espace allows students to gather and work on digital making projects outside of curriculum time. The equipment available in the facility also enables students to learn more advanced skills such as Autodesk 3D drawing and printing and coding for Intel.
+
+![3](/images/stories/features/ite-central-2019/ite3.jpg)
+<sub>Mr. William Tan, Head of Technology Projects at ITE College West, shows off a micro:bit claw machine made by students in the Espace. </sub>
+
+#### Teachers Don’t Stop Learning
+Teachers at ITE are also students, constantly looking to improve themselves with new skills. That is why ITE has taken care not to leave non-IT teachers behind, arranging a plethora of activities for them to participate in such as learning festivals and workshops for micro:bit, MicroPython, IoT and other related skills.
+
+![4](/images/stories/features/ite-central-2019/ite4.jpg)
+<sub>Educators tinkering with the micro:bit!</sub>
+
+#### Reaching Out
+ITE’s commitment to digital making is not limited to its students and staff members. Their abundant digital making resources are made available to the wider community through a wide range of courses and activities.
+
+‘Fun with Digital Making’ and ‘Robo-Pet’ are 2 elective modules developed by ITE for MOE secondary students. Aiming to ease students into digital making by using micro:bit, both programmes are highly popular, having had full attendance since their inception.
+
+![5](/images/stories/features/ite-central-2019/ite5.jpg)
+<sub>MOE module participants having fun with digital making!</sub>
+
+Meanwhile, adult learners have 3 short courses to choose from. The Continual Education Training (CET) offers 2 options: ‘Auto-watering plant system programme’ and ‘Digital Making using MicroPython programming’. Also available is the Certificate of Competency (CoC) in micro:bit applications. All 3 courses are affordable too, being eligible for a SkillsFuture Credit claim.
+
+![6](/images/stories/features/ite-central-2019/ite6.jpg)
+<sub>Participants of the ‘Auto-watering plant system programme’.</sub>
+
+Away from the classroom, ITE has organized numerous digital making events and activities since 2017, including the ITE Fiesta, “Let’s Micro:bit” workshops, Global Education Network workshop for overseas students and ITE Innovation Fiesta among many others.
+
+![7](/images/stories/features/ite-central-2019/ite7.png)
+<sub>Members of the public learning the micro:bit during ITE Fiesta.</sub>
+
+![8](/images/stories/features/ite-central-2019/ite8.png)
+<sub>Digital making can be a fun family activity!</sub>
+
+Of the digital making events organised by ITE, two competitions in particular stand out.
+
+The 3D Tronics National Infocomm Competition 2018 was a great opportunity for students of all levels to showcase their making and programming skills. The event was co-organized by ITE College East, Zenitant Pte Ltd, IMDA, Tinkertanker and Micromaker. College East sent 20 students as competitors and provided volunteers during the competition. Providing the venue for the preliminaries and maintaining the competition website, ITE ensured that the competition went on smoothly and successfully.
+
+![9](/images/stories/features/ite-central-2019/ite9.jpg)
+<sub>Young tinkerers checking out the 3D Tronics showcase.</sub>
+
+The other major highlight was the 2018 Environment Challenge for Schools (ECS) Competition, co-organised by ITE College Central, IMDA and NEA. Schools from all over Singapore participated to take up the challenge of creating ‘Sustainable Solutions to Climate Action’ using micro:bit. 
+
+![10](/images/stories/features/ite-central-2019/ite10.jpg)
+<sub>Participants of ECS 2018 receiving guidance during an ITE workshop.</sub>
+
+#### No One Left Behind
+
+ITE’s outreach efforts also extend to segments of the public that are disadvantaged or lagging behind in IT skills. ITE educators and students constantly engage with the community through many digital making events and activities. 
+
+In 2018, ITE College East conducted a 2 hour micro:bit workshop for students at Metta School (Simei). Trainers shared their knowledge of the device and helped students discover the joy of creating through hands of activities.
+
+ITE is also aware that seniors need a little more help in learning digital making, and has put in effort to provide that help. 
+
+![11](/images/stories/features/ite-central-2019/ite11.jpg)
+<sub>ITE student volunteers engaging seniors at Ci Yuan Day digital making workshop.</sub>
+
+The creation of a digital maker group for seniors of Taman Jurong CC’s active aging community was a great way to engage the community.  With the help of ITE College West trainers, seniors in the group pick up new skills and keep themselves active. In fact, when the seniors took their digital making skills and projects to Maker Faire 2018, their theme was aptly inspiring: Seniors can code, so can you!   
+
+![12](/images/stories/features/ite-central-2019/ite12.jpg)
+<sub>Seniors actively learning at Taman Jurong CC’s digital making workshop.</sub>
+
+Another meaningful community event was the Silver Sports Day co-organised by ITE and AWWA. This event was specially designed to engage around 400 seniors, encouraging them to stay active and interact with the rest of the community, including the ITE student volunteers. The students created micro:bit games for the seniors to enjoy, and were present at the game stations to guide and assist the participants.
+
+![13](/images/stories/features/ite-central-2019/ite13.jpg)
+<sub>Seniors having fun at Silver Sports Day 2018!</sub>
+
+#### Conclusion
+
+ITE introduced the micro:bit as a learning tool to expose its students to STEM in a fun way, encouraging them to be creative with technology and create projects that can solve real-world problems. Seeing how the digital making initiative has benefitted so many students since its inauguration, ITE will continue its micro:bit Orientation Programme with plans to lengthen the workshops and classes. Ms. Sim shares, “We will go into more advanced projects that involve IoT. For some of our students that have difficulty finding placement for industrial attachment, we will let them be involved with in-house advanced micro:bit projects as an alternative.”
+
+With such a wide range of digital making activities that reach out to so many, ITE looks poised to drive digital making in Singapore to greater heights in the future.
+
+If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](https://www.imda.gov.sg/digitalmaker/teach).
+
+#### Useful links:<br>
+
+* [Digital maker page](https://www.imda.gov.sg/digitalmaker) <br>
+* [ITE website](https://www.ite.edu.sg/){:target="_blank"}
+
+
