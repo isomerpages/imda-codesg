@@ -20,6 +20,7 @@ breadcrumb: Fun and Games - Project Ideas
 | **[Top Accessories and Add-Ons For The microbit](/top-accessories-and-add-ons/)** |
 | **[Virtual Cat](/virtual-cat/)** |
 | **[Space Shooter](/space-shooter/)** |
+| **[Poké Battle Hand](/poke-battle-hand/)** |
 
 
 Click [here](/in-schools/digital-maker/projects/) to go back to the Digital Maker Projects By Community main page.
