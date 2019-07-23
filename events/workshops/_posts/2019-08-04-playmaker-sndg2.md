@@ -12,4 +12,4 @@ The workshops are available on:
 - 4th August 2019: 10am - 11am
 - 4th August 2019: 11:30am - 12:30pm 
 
-Register here to sign up for a PlayMaker workshop!
+Register <a href="https://form.gov.sg/5d19b2c5e3e78a00119d84f9" target="_blank">here</a> to sign up!
