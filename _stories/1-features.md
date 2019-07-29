@@ -20,6 +20,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 | **16 February 2019** | **[Students team up with their parents to code at Waterway Primary School!](/students-team-up-with-their-parents-to-code-at-waterway-primary-school/)** |
 | **14 February 2019** | **[Passing on the joy of Digital Making – Saral Tayal](/saral-tayal/)** |
 | **10 February 2019** | **[Coding meets Visual Design at Nanyang Polytechnic](/nyp-2019/)** |
+| **6 February 2019** | **[Teachers and Tinkerers – Beatty Secondary School](/beatty-2019/)** |
 | **26 January 2019** | **[Never Too Young to Code - Cedric Phua](/never-too-young-to-code-cedric-phua/)** |
 | **22 January 2019** | **[Never too old to code](/never-too-old-to-code/)** |
 | **15 January 2019** | **[Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day](/digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/)** |
