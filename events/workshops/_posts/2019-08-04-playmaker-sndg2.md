@@ -5,7 +5,7 @@ date: 2019-08-04
 permalink: /events/workshops/2019-08-04-playmaker-at-skillsfuture-festival2
 ---
 
-![overview image](/images/events/workshops-and-exhibitions/SNDG Festival image (1).PNG)
+![overview image](/images/events/workshops-and-exhibitions/SNDG.PNG)
 
 We will be running PlayMaker workshops at this event for young children to play with tech toys and make cool electronic projects! This workshop is suitable for parents with young children from ages 4 to 6.  
 
