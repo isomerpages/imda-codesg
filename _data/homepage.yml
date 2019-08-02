@@ -31,7 +31,25 @@ key-highlights:
   - title: Stories
     description: Check out our media and feature stories!
     url: /stories/
-     
+
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Code For Fun
+    section-description: From next year, all upper primary school students will get to experience our Code For Fun enrichment programme. Curious to know what's in store? Click on the link below to watch a preview video by The Straits Times!
+    section-more-button: Watch now
+    section-more-button-url: https://www.facebook.com/129011692114/posts/10156242873372115/
+    section-image-path: /images/home-page/info-sections/cff-fb-video-screenshot.png
+    
+  - section-title: 
+    section-subtitle: ECDA Early Childhood Conference 2019
+    section-description: On 13th and 14th September, the Early Childhood Development Agency (ECDA) will be holding their annual Early Children Conference and Exhibition at Suntec City. Attendees will learn and experience fresh approaches to early childhood education. Click on the link to find out more!
+    section-more-button: Click here
+    external: true
+    section-more-button-url: /events/roadshows-and-exhibitions/ecda-conference-2019
+    section-image-path: /images/home-page/info-sections/ECC_2019.jpg
+    
+
 # Resources Section 
 resources-subtitle: Events
 resources-title: 
