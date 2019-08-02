@@ -15,5 +15,5 @@ The Early Childhood Conference and Exhibition is an annual event organised by th
 
 A key highlight of the conference is the "Bringing Computational Thinking to PreSchools and Homes" workshop, where parents and educators can learn effective and fun ways to introduce the concepts of coding and computational thinking from a young age.
 
-Educators interested in attending the conference can register their interest at [this link](https://cms.ecda.gov.sg/prweb/sso2/bo8DFqKmGjUL8MYMcBi2VXmAotNfCyvNHCIlASXrZSg%5B*/!STANDARD). For more enquiries about the conference, please contact the organisers via [email]( ecc_enquiries@ecda.gov.sg) or their hotline at 91814701 or 91814751.
+Educators interested in attending the conference can register their interest at [this link](https://cms.ecda.gov.sg/prweb/sso2/bo8DFqKmGjUL8MYMcBi2VXmAotNfCyvNHCIlASXrZSg%5B*/!STANDARD). For more enquiries about the conference, please contact the organisers via [email](mailto:ecc_enquiries@ecda.gov.sg) or their hotline at 91814701 or 91814751.
                       
