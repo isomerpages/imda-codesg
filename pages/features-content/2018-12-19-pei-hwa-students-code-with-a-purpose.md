@@ -83,7 +83,5 @@ A survey conducted by the school showed that students were highly receptive to t
 If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)
        
 
-Useful links:<br>
-https://www.imda.gov.sg/digitalmaker<br>
-https://peihwasec.moe.edu.sg/<br>
+To find out more about Pei Hwa, visit their website [here](https://peihwasec.moe.edu.sg/){:target="_blank"}
 
