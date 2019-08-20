@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Students team up with their parents to code at Waterway Primary School!"
+title: "Students Team Up with their Parents to Code at Waterway Primary School!"
 date: 2019-02-16
 permalink: /students-team-up-with-their-parents-to-code-at-waterway-primary-school/
 breadcrumb: Students team up with their parents to code at Waterway Primary School!
 ---
-
-## Students team up with their parents to code at Waterway Primary School!
 
 
 Waterway Primary School has always strived to prepare its students for the future. Coding and Programming, a distinctive programme of the school since 2017, aims to teach students computational thinking skills. According to Mr. Ben Sim, Head of Department for InfoComm Technology, the reason for implementing the programme was simple, “At Waterway Primary, we foresee that for our students in the future, computational thinking skills and knowledge of digital making will be a valuable part of work and life.”
@@ -34,6 +32,8 @@ Participant turnout and feedback for the Parent-Child micro:bit engagement has b
 
 ![students-team-up-with-their-parents-to-code-at-waterway-primary-school](/images/stories/features/students-team-up-with-their-parents-to-code-at-waterway-primary-school/Students-team-up-with-their-parents-to-code-at-Waterway-Primary-School3.jpg)
 
-With the recurring success of the Parent-Child engagement, what future plans does Waterway have for the event? Regarding this, Mr. Sim’s comments reflect the forward-thinking nature of the school. “At Waterway Primary, the students are already exposed to a range of coding platforms and devices. As we partner IMDA to bring [micro:bit] to both our students and parents, we feel that we can probably plan the same programme regardless of the device.”
+With the recurring success of the Parent-Child engagement, what future plans does Waterway have for the event? Regarding this, Mr. Sim’s comments reflect the forward-thinking nature of the school. “At Waterway Primary, the students are already exposed to a range of coding platforms and devices. As we partner IMDA to bring micro:bit to both our students and parents, we feel that we can probably plan the same programme regardless of the device.”
 
 “The keys are the Computational Thinking and Digital Making skills, which aren’t device specific.”
+
+If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)
