@@ -17,6 +17,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 
 | Date | Title |
 |--|--|
+| **9 April 2019** | **[NorthLight Opens New Possibilities with Digital Making](/northlight-2019/)** |
 | **16 February 2019** | **[Students Team Up with Their Parents to Code at Waterway Primary School!](/students-team-up-with-their-parents-to-code-at-waterway-primary-school/)** |
 | **14 February 2019** | **[Passing on the Joy of Digital Making – Saral Tayal](/saral-tayal/)** |
 | **13 February 2019** | **[Digital Making at ITE](/ite-2019/)** |
