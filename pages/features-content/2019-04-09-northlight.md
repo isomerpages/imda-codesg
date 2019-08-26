@@ -56,3 +56,7 @@ The ICT department is also looking to expand the digital making resources availa
 
 ![7](/images/stories/features/northlight/7.jpg)
 <sub>Digital makers – (left to right) NorthLight students Siti Zubaidah and Avril Yeo with their ICT teachers, Mr. Zulkiffli and Mrs April Tay</sub>
+
+To learn more about how to incorporate digital making into your lessons, click [here](	
+/in-schools/digital-maker/overview/)<br>
+To learn more about NorthLight School, click [here](https://www.nls.edu.sg){:target="_blank"}
