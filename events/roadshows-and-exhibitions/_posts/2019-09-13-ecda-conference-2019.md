@@ -9,7 +9,7 @@ permalink: /events/roadshows-and-exhibitions/ecda-conference-2019
 |--------|---|---|
 | 13 September 2019 - 14 September 2019 | 09:00 AM - 05:30 PM | Suntec City Convention & Exhibition Centre Halls 403 - 404 |
 
-![1](/images/home-page/info-sections/ECC_2019.jpg)
+![1](/images/events/workshops-and-exhibitions/ECC2019 EDM1.jpg)
 
 The Early Childhood Conference and Exhibition (ECC) is an annual signature event organized by the Early Childhood Development Agency (ECDA). Parents can bring your kids and pick up practical tips for outdoor learning and more importantly, your children will have a ball of time in the fun and engaging activities! 
 
