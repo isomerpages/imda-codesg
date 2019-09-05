@@ -9,7 +9,7 @@ permalink: /events/roadshows-and-exhibitions/ecda-conference-2019
 |--------|---|---|
 | 13 September 2019 - 14 September 2019 | 09:00 AM - 05:30 PM | Suntec City Convention & Exhibition Centre Halls 403 - 404 |
 
-![1](/images/events/workshops-and-exhibitions/ECC2019 EDM1.jpg)
+![1](/images/events/workshops-and-exhibitions/ECC2019EDM1.jpg)
 
 The Early Childhood Conference and Exhibition (ECC) is an annual signature event organized by the Early Childhood Development Agency (ECDA). Parents can bring your kids and pick up practical tips for outdoor learning and more importantly, your children will have a ball of time in the fun and engaging activities! 
 
@@ -33,8 +33,7 @@ Sign up for PlayMaker workshops here(http://https://form.gov.sg/5d6381a98d912600
 
 At the Central Stage, there are more interactive, educational and exciting programmes lined up. Catch exciting performances such as healthy lifestyle puppet shows to preschool performances!  
 
-
-
+![2](/images/events/workshops-and-exhibitions/ECC2019EDM2.jpg)
 
 Click [here](http://https://form.gov.sg/5d6381a98d91260012d5cbde "here") to register for the exciting Central Stage Programmes to reserve a seat and receive an exclusive goodie bag! 
 
