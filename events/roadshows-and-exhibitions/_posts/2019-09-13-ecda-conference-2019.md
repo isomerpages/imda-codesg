@@ -28,7 +28,7 @@ To better understand our workshops, check out the descriptions below!
 **Title**: Sequencing with Robots
 **Description**: Learn the building blocks of programming by giving directions to Bee-Bot, Code-a-pillar and Cubetto as they navigate across a jungle mat filled with food and animals!
 
-Sign up for PlayMaker workshops here(http://https://form.gov.sg/5d6381a98d91260012d5cbde "here")!
+Sign up for PlayMaker workshops [here](http://https://form.gov.sg/5d6381a98d91260012d5cbde "here")!
 
 
 At the Central Stage, there are more interactive, educational and exciting programmes lined up. Catch exciting performances such as healthy lifestyle puppet shows to preschool performances!  
