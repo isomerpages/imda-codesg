@@ -7,13 +7,36 @@ permalink: /events/roadshows-and-exhibitions/ecda-conference-2019
 
 | Date | Time | Venue |
 |--------|---|---|
-| 13 September 2019 - 14 September 2019 | 08:00 AM - 05:30 PM | Suntec Singapore International Exhibition & Convention Centre Hall 403 |
+| 13 September 2019 - 14 September 2019 | 09:00 AM - 05:30 PM | Suntec City Convention & Exhibition Centre Halls 403 - 404 |
 
 ![1](/images/home-page/info-sections/ECC_2019.jpg)
 
-The Early Childhood Conference and Exhibition is an annual event organised by the Early Childhood Development Agency (ECDA). Featuring talks and exhibitions that introduce fresh and innovative ways to engage young children in holistic learning, this event is a must attend for parents and early childhood educators alike! 
+The Early Childhood Conference and Exhibition (ECC) is an annual signature event organized by the Early Childhood Development Agency (ECDA). Parents can bring your kids and pick up practical tips for outdoor learning and more importantly, your children will have a ball of time in the fun and engaging activities! 
 
-A key highlight of the conference is the "Bringing Computational Thinking to PreSchools and Homes" workshop, where parents and educators can learn effective and fun ways to introduce the concepts of coding and computational thinking from a young age.
+**PlayMaker**
 
-Educators interested in attending the conference can register their interest at [this link](https://cms.ecda.gov.sg/prweb/sso2/bo8DFqKmGjUL8MYMcBi2VXmAotNfCyvNHCIlASXrZSg%5B*/!STANDARD). For more enquiries about the conference, please contact the organisers via [email](mailto:ecc_enquiries@ecda.gov.sg) or their hotline at 91814701 or 91814751.
+We will be running PlayMaker workshops at this event for young children to play with tech toys and create cool electronic projects! The workshops are suitable for young children from ages 4 to 6. 
+
+To better understand our workshops, check out the descriptions below!
+
+**Title**: Sequencing with Robots
+**Description**: Create and decorate a torchlight or tickle machine using littleBits, magnetically-connected electronic building blocks that empower children to develop creative confidence and curiosity to prototype ideas!
+
+**Title**: Lighting up with Circuit Stickers 
+**Description**: Create and decorate a light-up greeting card to take home and learn the basics of circuitry by pasting conductive stickers to light up an LED!
+
+**Title**: Sequencing with Robots
+**Description**: Learn the building blocks of programming by giving directions to Bee-Bot, Code-a-pillar and Cubetto as they navigate across a jungle mat filled with food and animals!
+
+Sign up for PlayMaker workshops here(http://https://form.gov.sg/5d6381a98d91260012d5cbde "here")!
+
+
+At the Central Stage, there are more interactive, educational and exciting programmes lined up. Catch exciting performances such as healthy lifestyle puppet shows to preschool performances!  
+
+
+
+
+Click [here](http://https://www.eccexhibition2019.sg/registration/ "here") to register for the exciting Central Stage Programmes to reserve a seat and receive an exclusive goodie bag! 
+
+Come down to Suntec City Exhibition Halls 403 and 404! Click [here](http://https://www.eccexhibition2019.sg/wp-content/uploads/2019/08/ECDA2019-MAP.pdf "here") to download the exhibition map containing key highlights taking place in the exhibition hall!
                       
