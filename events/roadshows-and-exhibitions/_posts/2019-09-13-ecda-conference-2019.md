@@ -16,7 +16,7 @@ The Early Childhood Conference and Exhibition (ECC) is an annual signature event
 ------------
 
 
-### **PlayMaker**
+### PlayMaker
 
 
 We will be running PlayMaker workshops at this event for young children to play with tech toys and create cool electronic projects! The workshops are suitable for young children from ages 4 to 6. To better understand our workshops, check out the descriptions below!
