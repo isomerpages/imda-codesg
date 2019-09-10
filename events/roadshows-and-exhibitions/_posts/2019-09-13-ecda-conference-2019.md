@@ -22,12 +22,10 @@ The Early Childhood Conference and Exhibition (ECC) is an annual signature event
 We will be running PlayMaker workshops at this event for young children to play with tech toys and create cool electronic projects! The workshops are suitable for young children from ages 4 to 6. To better understand our workshops, check out the descriptions below!
 
 
-**Title**: Sequencing with Robots
+**Title**: Sequencing with Bee-Bot, Code-a-pillar or Cubetto
 
 
 **Description**: Learn the building blocks of programming by giving directions to Bee-Bot, Code-a-pillar and Cubetto as they navigate across a jungle mat filled with food and animals!
-Create and decorate a torchlight or tickle machine using littleBits, magnetically-connected electronic building blocks that empower children to develop creative confidence and curiosity to prototype ideas!
-
 
 
 **Title**: Lighting up with Circuit Stickers 
@@ -53,7 +51,7 @@ At the Central Stage, there are more interactive, educational and exciting progr
 
 ![2](/images/events/workshops-and-exhibitions/ECC2019EDM2.jpg)
 
-Click [here](https://www.eccexhibition2019.sg/registration/ "here"{:target="_blank"}) to register for the exciting Central Stage Programmes to reserve a seat and receive an exclusive goodie bag! 
+Click [here](https://www.eccexhibition2019.sg/registration/ "here") to register for the exciting Central Stage Programmes to reserve a seat and receive an exclusive goodie bag! 
 
-Come down to Suntec City Exhibition Halls 403 and 404! Click [here](https://www.eccexhibition2019.sg/wp-content/uploads/2019/08/ECDA2019-Map.pdf "here"{:target="_blank"}) to download the exhibition map containing key highlights taking place in the exhibition hall!
+Come down to Suntec City Exhibition Halls 403 and 404! Click [here](https://www.eccexhibition2019.sg/wp-content/uploads/2019/08/ECDA2019-Map.pdf "here") to download the exhibition map containing key highlights taking place in the exhibition hall!
                       
