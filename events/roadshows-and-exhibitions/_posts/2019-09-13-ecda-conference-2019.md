@@ -51,5 +51,4 @@ Click <a href="https://www.eccexhibition2019.sg/registration/" target="_blank">h
 
 Come down to Suntec City Exhibition Halls 403 and 404! Click <a href="https://www.eccexhibition2019.sg/wp-content/uploads/2019/08/ECDA2019-Map.pdf" target="_blank">here</a> to download the exhibition map containing key highlights taking place in the exhibition hall!
 
-
                
