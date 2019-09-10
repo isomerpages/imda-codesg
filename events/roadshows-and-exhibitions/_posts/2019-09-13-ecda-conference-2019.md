@@ -19,29 +19,25 @@ The Early Childhood Conference and Exhibition (ECC) is an annual signature event
 ### PlayMaker
 
 
-We will be running PlayMaker workshops at this event for young children to play with tech toys and create cool electronic projects! The workshops are suitable for young children from ages 4 to 6. To better understand our workshops, check out the descriptions below!
-
-
-**Title**: Sequencing with Bee-Bot, Code-a-pillar or Cubetto
-
-
-**Description**: Learn the building blocks of programming by giving directions to Bee-Bot, Code-a-pillar and Cubetto as they navigate across a jungle mat filled with food and animals!
-
-
-**Title**: Lighting up with Circuit Stickers 
-
-
-**Description**: Create and decorate a light-up greeting card to take home and learn the basics of circuitry by pasting conductive stickers to light up an LED!
-
-
-
-**Title**: Creating Inventions with littleBits
-
-
-**Description**: Create and decorate a torchlight or tickle machine using littleBits, magnetically-connected electronic building blocks that empower children to develop creative confidence and curiosity to prototype ideas!
-
+We will be running PlayMaker workshops at this event for young children to play with tech toys and create cool electronic projects! The workshops are suitable for young children from ages 4 to 6. To better understand our workshops, check out the descriptions below! 
 
 Sign up for PlayMaker workshops [here](https://form.gov.sg/5d6381a98d91260012d5cbde "here")!
+
+
+**Sequencing with Bee-Bot, Code-a-pillar or Cubetto**
+
+Learn the building blocks of programming by giving directions to Bee-Bot, Code-a-pillar and Cubetto as they navigate across a jungle mat filled with food and animals!
+
+
+**Lighting up with Circuit Stickers**
+
+Create and decorate a light-up greeting card to take home and learn the basics of circuitry by pasting conductive stickers to light up an LED!
+
+
+**Creating Inventions with littleBits**
+
+Create and decorate a torchlight or tickle machine using littleBits, magnetically-connected electronic building blocks that empower children to develop creative confidence and curiosity to prototype ideas!
+
 
 
 ------------
