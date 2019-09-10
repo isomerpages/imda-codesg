@@ -38,6 +38,10 @@ Create and decorate a light-up greeting card to take home and learn the basics o
 
 Create and decorate a torchlight or tickle machine using littleBits - magnetically-connected electronic building blocks that empower children to develop creative confidence and curiosity to prototype ideas!
 
+**Tiny Thinkers**
+
+Learn Computational Thinking (CT) through fun activities and get a Tiny Thinkers Junior CT kit for free! 
+
 
 ------------
 
