@@ -47,7 +47,9 @@ At the Central Stage, there are more interactive, educational and exciting progr
 
 ![2](/images/events/workshops-and-exhibitions/ECC2019EDM2.jpg)
 
-Click [here](https://www.eccexhibition2019.sg/registration/ "here") to register for the exciting Central Stage Programmes to reserve a seat and receive an exclusive goodie bag! 
+Click <a href="https://www.eccexhibition2019.sg/registration/" target="_blank">here.</a> to register for the exciting Central Stage Programmes to reserve a seat and receive an exclusive goodie bag! 
 
-Come down to Suntec City Exhibition Halls 403 and 404! Click [here](https://www.eccexhibition2019.sg/wp-content/uploads/2019/08/ECDA2019-Map.pdf "here") to download the exhibition map containing key highlights taking place in the exhibition hall!
-                      
+Come down to Suntec City Exhibition Halls 403 and 404! Click <a href="https://www.eccexhibition2019.sg/wp-content/uploads/2019/08/ECDA2019-Map.pdf" target="_blank">here.</a> to download the exhibition map containing key highlights taking place in the exhibition hall!
+
+
+               
