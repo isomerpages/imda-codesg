@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 breadcrumb: About
 ---
-
+**About**
 Code@SG is an initiative by Infocomm Media Development Authority to develop computational thinking and making as a national capability in Singapore.
 Various programmes are run in schools and community that reach out to pre-schoolers, students and adults.  By providing them with opportunities to try a myriad of coding and making technologies, we are shaping a generation of digital innovators and creators who are passionate in using technology to solve real-world problems.<br>
 
