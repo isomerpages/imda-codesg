@@ -21,10 +21,6 @@ The Early Childhood Conference and Exhibition (ECC) is an annual signature event
 
 We will be running PlayMaker workshops at this event for young children to play with tech toys and create cool electronic projects! The workshops are suitable for young children from ages 4 to 6. To better understand our workshops, check out the descriptions below! 
 
-Sign up for PlayMaker workshops <a href="https://form.gov.sg/5d6381a98d91260012d5cbde" target="_blank">here</a>!
-
-Do take note that online registration will close on 12th Sept, 12pm. However, you will still be able to register for the workshops at our booth on the day of the event!
-
 
 **Sequencing with Bee-Bot, Code-a-pillar or Cubetto**
 
@@ -44,6 +40,7 @@ Create and decorate a torchlight or tickle machine using littleBits - magnetical
 
 Learn Computational Thinking (CT) through fun activities and get a Tiny Thinkers Junior CT kit for free! Engage in 3 exciting activities - Robo-Tibby, Solve the Puzzle and Build a House! 
 
+Online registration is now closed. Do head down early to IMDA booth to register and attend our workshops. As there are limited slots, it will be on a first come first serve basis. See you there!
 
 ------------
 
