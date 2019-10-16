@@ -60,3 +60,5 @@ The ICT department is also looking to expand the digital making resources availa
 To learn more about how to incorporate digital making into your lessons, click [here](	
 /in-schools/digital-maker/overview/)<br>
 To learn more about NorthLight School, click [here](https://www.nls.edu.sg){:target="_blank"}
+
+Join us at <a href="https://codesg.imda.gov.sg/events/roadshows-and-exhibitions/edutech-asia-2019" target="_blank">EduTECH Asia 2019</a> to see the projects developed by the schools!
