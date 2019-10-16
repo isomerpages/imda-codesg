@@ -7,7 +7,7 @@ collection_name: in-schools
 second_nav_title: "PlayMaker"
 ---
 
-#### The PlayMaker Journey<br>
+#### The PlayMaker Journey
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6dPI5A_BSjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

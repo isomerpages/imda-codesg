@@ -16,4 +16,17 @@ By Community, For Community are various ground-up projects by individuals or cor
 | Hatch Immersive | Training youth from low-income, dropout, and at-risk backgrounds to provide them technical skills. |
 | AppiLearn Mobile App | A mobile application and mobile enabled website where learnres from any background can have free and unlimited access to quality education resources and support. |
 | Tiny Thinkers II | An expansion from the Tiny Thinkers project. |
-| Tech@Shopee: Coding for Youths | Shopee wants to provide opportunities for underprivileged youths to pick up coding at zero cost. |
+
+
+### Example
+
+#### **Tiny Thinkers II**
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="images/in-community/playmaker/20190914_0040.jpg" /></td>
+<td>Unfair advantage wants to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking.<br /></td>
+</tr>
+</tbody>
+</table>
