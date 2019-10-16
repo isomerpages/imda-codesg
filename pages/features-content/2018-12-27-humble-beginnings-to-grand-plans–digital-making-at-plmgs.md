@@ -87,4 +87,5 @@ Useful links:<br>
 https://www.imda.gov.sg/digitalmaker<br>
 https://www.plmgss.moe.edu.sg/
 
+Join us at <a href="https://codesg.imda.gov.sg/events/roadshows-and-exhibitions/edutech-asia-2019" target="_blank">EduTECH Asia 2019</a> to see the projects developed by the schools!
 
