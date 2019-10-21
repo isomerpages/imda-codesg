@@ -9,11 +9,6 @@ collection_name: in-community
 By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
 
 
-| Project | Description |
-| --- | --- |
-
-
-| AppiLearn Mobile App | A mobile application and mobile enabled website where learnres from any background can have free and unlimited access to quality education resources and support. |
 | Tiny Thinkers II | An expansion from the Tiny Thinkers project. |
 
 
@@ -54,13 +49,13 @@ By Community, For Community are various ground-up projects by individuals or cor
 </table>
 
 
-#### **AppiLearn Mobile Application**
+#### **AppiLearn Mobile App**
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="font-size: 20px;">Through simple engineering, participants will learn how to DIY low-cost assistive devices and donate the modified devices.<br /></td>
-<td style="width: 250px;"><img src="images/in-community/overview/Engineering-Good-1.png" /></td>
+<td style="font-size: 20px;">A mobile application and mobile enabled website where learners from any background can have free and unlimited access to quality education resources and support.<br /></td>
+<td style="width: 250px;"><img src="images/in-community/overview/AppiLearn.png" /></td>
 </tr>
 </tbody>
 </table>
