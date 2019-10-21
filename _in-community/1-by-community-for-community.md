@@ -47,7 +47,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 300px;"><img src="images/in-community/overview/Hatch-Immersive-1.png" /></td>
+<td style="width: 350px;"><img src="images/in-community/overview/Hatch-Immersive-1.png" /></td>
 <td style="font-size: 20px;">Training youth from low-income, dropout, and at-risk backgrounds to provide them technical skills.<br /></td>
 </tr>
 </tbody>
