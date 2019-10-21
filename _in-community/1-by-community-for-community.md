@@ -57,3 +57,16 @@ By Community, For Community are various ground-up projects by individuals or cor
 </tbody>
 </table>
 
+
+#### **Tiny Thinkers**
+
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 250px;"><img src="images/in-community/overview/Tiny-Thinkers-1.jpg" /></td>
+<td style="font-size: 20px;">Introducing Computational Thinking to preschool children and their parents.<br /></td>
+</tr>
+</tbody>
+</table>
+
