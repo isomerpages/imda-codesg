@@ -18,7 +18,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thinkers II** to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking, conduct workshops to reach out to pre-schoolers from low-income families, and keep the website updated with more activities and resources for anyone to use.
 
-Try out their resources on https://www.tinythinkers.org/ and follow them on their activities at https://www.facebook.com/tinythinkersSG/ 
+Try out their [resources] (https://www.tinythinkers.org/) and follow them on their activities [here](https://www.facebook.com/tinythinkersSG/ )! 
 
 
 #### **Tiny Thinkers II**
