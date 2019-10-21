@@ -9,6 +9,14 @@ collection_name: in-community
 By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br><br>
 
 
+#### **Tiny Thinkers I & II**
+
+
+![overview image](/images/in-community/playmaker/20190914_0040.jpg)
+
+Unfair advantage wants to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking.
+
+
 
 #### **Tiny Thinkers II**
 
