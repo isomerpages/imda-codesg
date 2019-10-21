@@ -25,7 +25,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 <tbody>
 <tr>
 <td style="width: 250px;"><img src="images/in-community/playmaker/20190914_0040.jpg" /></td>
-<td>Unfair advantage wants to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking.<br /></td>
+<td style="font-size: 15px;">Unfair advantage wants to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking.<br /></td>
 </tr>
 </tbody>
 </table>
