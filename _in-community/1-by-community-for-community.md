@@ -16,7 +16,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 **Tiny Thinkers I** was started by a group of NTU students to introduce computational thinking to preschool children and their parents through specially-curated games on a dedicated website, hands-on workshops to guide parents and a Starter Kit filled with materials to kickstart the preschool children’s journey in computational thinking.  
 
-Expanding from the Tiny Thinkers I project, Unfair advantage wants to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking, conduct workshops to reach out to pre-schoolers from low-income families, and keep the website updated with more activities and resources for anyone to use.
+Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thinkers II** to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking, conduct workshops to reach out to pre-schoolers from low-income families, and keep the website updated with more activities and resources for anyone to use.
 
 
 
