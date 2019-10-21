@@ -18,7 +18,6 @@ By Community, For Community are various ground-up projects by individuals or cor
 | Tiny Thinkers II | An expansion from the Tiny Thinkers project. |
 
 
-### Example
 
 #### **Tiny Thinkers II**
 
