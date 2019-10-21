@@ -12,7 +12,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 | Project | Description |
 | --- | --- |
 
-| Hatch Immersive | Training youth from low-income, dropout, and at-risk backgrounds to provide them technical skills. |
+
 | AppiLearn Mobile App | A mobile application and mobile enabled website where learnres from any background can have free and unlimited access to quality education resources and support. |
 | Tiny Thinkers II | An expansion from the Tiny Thinkers project. |
 
@@ -42,5 +42,14 @@ By Community, For Community are various ground-up projects by individuals or cor
 </table>
 
 
+#### **Hatch Immersive**
 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 250px;"><img src="images/in-community/overview/Hatch-Immersive-1.png" /></td>
+<td style="font-size: 20px;">Training youth from low-income, dropout, and at-risk backgrounds to provide them technical skills.<br /></td>
+</tr>
+</tbody>
+</table>
 
