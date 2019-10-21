@@ -33,4 +33,15 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 #### **Engineering Good**
 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 250px;"><img src="images/in-community/overview/Engineering-Good-1.png" /></td>
+<td style="font-size: 20px;">Through simple engineering, participants will learn how to DIY low-cost assistive devices and donate the modified devices.<br /></td>
+</tr>
+</tbody>
+</table>
+
+
+
 
