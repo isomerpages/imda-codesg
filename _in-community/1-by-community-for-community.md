@@ -11,7 +11,8 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 #### **Tiny Thinkers I & II**
 
-<a href=""><img src="/images/in-community/playmaker/20190914_0040.jpg" align="left" height="25" width="25" ></a>
+
+<a href=""><img src="/images/in-community/playmaker/20190914_0040.jpg" align="left" style="height:"200px;width:"100px;" ></a>
 <br><br>
 **Tiny Thinkers I** was started by a group of NTU students to introduce computational thinking to preschool children and their parents through specially-curated games on a dedicated website, hands-on workshops to guide parents and a Starter Kit filled with materials to kickstart the preschool children’s journey in computational thinking.  
 
