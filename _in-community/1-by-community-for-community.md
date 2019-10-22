@@ -24,7 +24,9 @@ Try out their [resources](https://www.tinythinkers.org/) and follow them on thei
 
 #### **AppiLearn Mobile App**
 
-![overview image](/images/in-community/overview/AppiLearn.png)
+<a href=""><img src="/images/in-community/overview/AppiLearn.png" align="left" height="25" width="30" ></a>
+
+<br><br>
 
 AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an online community through a mobile application (app) and mobile-enabled website where learners from any background can have free and unlimited access to quality education resources and support, contributed by volunteers with a passion to share their knowledge and contribute to the society. 
 
@@ -35,7 +37,9 @@ Download Android version [here](https://play.google.com/store/apps/developer?id=
 
 #### **Hatch Immersive**
 
-![overview image](/images/in-community/overview/Hatch-Immersive-2.png)
+<a href=""><img src="/images/in-community/overview/Hatch-Immersive-2.png" align="left" height="25" width="30" ></a>
+
+<br><br>
 
 Hatch Immersive targets youth from low-income, dropout, and at-risk backgrounds and bring them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. Upon successful completion of the training, youth go through a 3-month internship in one of the partner companies. At the end of the internship, the youth would either convert to full-time or pursue further education. 
 
@@ -46,7 +50,9 @@ Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://w
 
 #### **Engineering Good**
 
-![overview image](/images/in-community/overview/Engineering-Good-1.png)
+<a href=""><img src="/images/in-community/overview/Engineering-Good-1.png" align="left" height="25" width="30" ></a>
+
+<br><br>
 
 Engineering Group wants to conduct “We Hack Care!” workshops where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
 
