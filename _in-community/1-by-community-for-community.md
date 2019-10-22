@@ -19,19 +19,19 @@ Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thin
 
 Try out their [resources](https://www.tinythinkers.org/) and follow them on their activities [here](https://www.facebook.com/tinythinkersSG/ )! 
 
-
+<br>
 
 #### **AppiLearn Mobile App**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="font-size: 20px;">A mobile application and mobile enabled website where learners from any background can have free and unlimited access to quality education resources and support.<br /></td>
-<td style="width: 250px;"><img src="images/in-community/overview/AppiLearn.png" /></td>
-</tr>
-</tbody>
-</table>
+![overview image](/images/in-community/overview/AppiLearn.png)
 
+AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an online community through a mobile application (app) and mobile-enabled website where learners from any background can have free and unlimited access to quality education resources and support, contributed by volunteers with a passion to share their knowledge and contribute to the society. 
+
+This platform will enable teachers and volunteer tutors to create and share digital teaching contents which can be accessible by an unlimited number of students anytime and anywhere, allowing learners to learn at their own pace indefinitely.
+
+Download Android version [here](https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US). iOS version releasing in November 2019.
+
+<br>
 
 #### **Hatch Immersive**
 
