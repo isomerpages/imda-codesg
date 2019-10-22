@@ -19,7 +19,6 @@ Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thin
 
 Try out their [resources](https://www.tinythinkers.org/) and follow them on their activities [here](https://www.facebook.com/tinythinkersSG/ )! 
 
-<br>
 
 #### **AppiLearn Mobile App**
 
@@ -31,18 +30,16 @@ This platform will enable teachers and volunteer tutors to create and share digi
 
 Download Android version [here](https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US). iOS version releasing in November 2019.
 
-<br>
 
 #### **Hatch Immersive**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="width: 250px;"><img src="images/in-community/overview/Hatch-Immersive-2.png" /></td>
-<td style="font-size: 20px;">Training youth from low-income, dropout, and at-risk backgrounds to provide them technical skills.<br /></td>
-</tr>
-</tbody>
-</table>
+![overview image](/images/in-community/overview/Hatch-Immersive-2.png)
+
+Hatch Immersive targets youth from low-income, dropout, and at-risk backgrounds and bring them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. Upon successful completion of the training, youth go through a 3-month internship in one of the partner companies. At the end of the internship, the youth would either convert to full-time or pursue further education. 
+
+Hatch Workshops target secondary school students who may not be excelling academically or are identified by the teachers to be “long-term absent”, to provide students with exposure to skills-based jobs and to build their self-confidence to secure these jobs.
+
+Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://www.facebook.com/hatchingnow/)!  
 
 
 #### **Engineering Good**
