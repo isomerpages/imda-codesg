@@ -44,13 +44,9 @@ Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://w
 
 #### **Engineering Good**
 
-<table style="width: 100%;" border="0" cellpadding="10">
-<tbody>
-<tr>
-<td style="font-size: 20px;">Through simple engineering, participants will learn how to DIY low-cost assistive devices and donate the modified devices.<br /></td>
-<td style="width: 250px;"><img src="images/in-community/overview/Engineering-Good-1.png" /></td>
-</tr>
-</tbody>
-</table>
+![overview image](/images/in-community/overview/Engineering-Good-1.png)
 
+Engineering Group wants to conduct “We Hack Care!” workshops where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
+
+There is also a “Tech For Good” (T4G) social innovation challenge that aims to bring together different community segments to help them learn about assistive technology, how it supports persons with disabilities and basic engineering concepts. Competition teams will be paired with social sector organisations to ideate and prototype the solutions with the help of skilled mentors. The teams will then present to a panel of judges and share their prototypes with participants at a one-day Tech For Good Festival Showcase. 
 
