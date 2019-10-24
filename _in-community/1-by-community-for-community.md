@@ -47,7 +47,7 @@ Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://w
 
 #### **Engineering Good**
 
-![Engineering Good](/images/in-community/overview/Engineering-Good-1.png)
+![Engineering Good](/images/in-community/overview/Engineering-Good-2.png)
 
 
 Engineering Group wants to conduct “We Hack Care!” workshops where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
