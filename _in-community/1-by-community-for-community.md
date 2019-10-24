@@ -11,8 +11,10 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 #### **Tiny Thinkers I & II**
 
-<img src="/images/in-community/playmaker/20190914_0040.jpg" align="left">
+<img src="/images/in-community/overview/TinyThinkersII-1-cropped.jpg " align="left">
+
 <br><br>
+
 **Tiny Thinkers I** was started by a group of NTU students to introduce computational thinking to preschool children and their parents through specially-curated games on a dedicated website, hands-on workshops to guide parents and a Starter Kit filled with materials to kickstart the preschool children’s journey in computational thinking.  
 
 Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thinkers II** to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking, conduct workshops to reach out to pre-schoolers from low-income families, and keep the website updated with more activities and resources for anyone to use.
@@ -23,7 +25,9 @@ Try out their [resources](https://www.tinythinkers.org/) and follow them on thei
 #### **AppiLearn Mobile App**
 
 <img src="/images/in-community/overview/AppiLearn-cropped.png" align="left">
+
 <br><br>
+
 AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an online community through a mobile application (app) and mobile-enabled website where learners from any background can have free and unlimited access to quality education resources and support, contributed by volunteers with a passion to share their knowledge and contribute to the society. 
 
 This platform will enable teachers and volunteer tutors to create and share digital teaching contents which can be accessible by an unlimited number of students anytime and anywhere, allowing learners to learn at their own pace indefinitely.
@@ -33,7 +37,7 @@ Download Android version [here](https://play.google.com/store/apps/developer?id=
 
 #### **Hatch Immersive**
 
-<img src="/images/in-community/overview/Hatch-Immersive-2.png" align="left">
+<img src="/images/in-community/overview/Hatch-Immersive-1.png" align="left">
 <br><br>
 Hatch Immersive targets youth from low-income, dropout, and at-risk backgrounds and bring them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. Upon successful completion of the training, youth go through a 3-month internship in one of the partner companies. At the end of the internship, the youth would either convert to full-time or pursue further education. 
 
