@@ -54,7 +54,4 @@ Engineering Group wants to conduct “We Hack Care!” workshops where participa
 
 There is also a “Tech For Good” (T4G) social innovation challenge that aims to bring together different community segments to help them learn about assistive technology, how it supports persons with disabilities and basic engineering concepts. Competition teams will be paired with social sector organisations to ideate and prototype the solutions with the help of skilled mentors. The teams will then present to a panel of judges and share their prototypes with participants at a one-day Tech For Good Festival Showcase. 
 
-
-
-
-<a href="https://www.aeces.org/programmes-project/continuing-education-programme/" target="_blank">here</a>
+Support <a href="http://engineeringgood.org/programmes/we-hack-care-workshops/" target="_blank">Engineering Good</a> or join them <a href="http://engineeringgood.org/tech-for-good-participants/" target="_blank">here!</a>
