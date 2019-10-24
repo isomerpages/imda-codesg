@@ -42,7 +42,7 @@ Hatch Immersive targets youth from low-income, dropout, and at-risk backgrounds 
 
 Hatch Workshops target secondary school students who may not be excelling academically or are identified by the teachers to be “long-term absent”, to provide students with exposure to skills-based jobs and to build their self-confidence to secure these jobs.
 
-Support <a href="https://www.hatch.sg/" target="_blank">Hatch Immersive</a> or follow them <a href="https://www.facebook.com/hatchingnow/" target="_blank">here</a>!
+Support <a href="https://www.hatch.sg/" target="_blank">Hatch Immersive</a> or follow them <a href="https://www.facebook.com/hatchingnow/" target="_blank">here!</a>
 
 
 #### **Engineering Good**
