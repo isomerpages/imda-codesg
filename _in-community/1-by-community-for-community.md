@@ -30,7 +30,7 @@ AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an onli
 
 This platform will enable teachers and volunteer tutors to create and share digital teaching contents which can be accessible by an unlimited number of students anytime and anywhere, allowing learners to learn at their own pace indefinitely.
 
-Download Android version [here](https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US). iOS version releasing in November 2019.
+Download Android version <a href="https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US" target="_blank">here</a>.iOS version releasing in November 2019.
 
 
 #### **Hatch Immersive**
@@ -42,7 +42,7 @@ Hatch Immersive targets youth from low-income, dropout, and at-risk backgrounds 
 
 Hatch Workshops target secondary school students who may not be excelling academically or are identified by the teachers to be “long-term absent”, to provide students with exposure to skills-based jobs and to build their self-confidence to secure these jobs.
 
-Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://www.facebook.com/hatchingnow/)!  
+Support <a href="https://www.hatch.sg/" target="_blank">Hatch Immersive</a> or follow them <a href="https://www.facebook.com/hatchingnow/" target="_blank">here</a>!
 
 
 #### **Engineering Good**
@@ -54,3 +54,7 @@ Engineering Group wants to conduct “We Hack Care!” workshops where participa
 
 There is also a “Tech For Good” (T4G) social innovation challenge that aims to bring together different community segments to help them learn about assistive technology, how it supports persons with disabilities and basic engineering concepts. Competition teams will be paired with social sector organisations to ideate and prototype the solutions with the help of skilled mentors. The teams will then present to a panel of judges and share their prototypes with participants at a one-day Tech For Good Festival Showcase. 
 
+
+
+
+<a href="https://www.aeces.org/programmes-project/continuing-education-programme/" target="_blank">here</a>
