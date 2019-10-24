@@ -22,7 +22,7 @@ Try out their [resources](https://www.tinythinkers.org/) and follow them on thei
 
 #### **AppiLearn Mobile App**
 
-<img src="/images/in-community/overview/AppiLearn.png" align="left">
+<img src="/images/in-community/overview/AppiLearn-cropped.png" align="left">
 <br><br>
 AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an online community through a mobile application (app) and mobile-enabled website where learners from any background can have free and unlimited access to quality education resources and support, contributed by volunteers with a passion to share their knowledge and contribute to the society. 
 
