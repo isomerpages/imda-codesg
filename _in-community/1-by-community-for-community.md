@@ -30,7 +30,7 @@ AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an onli
 
 This platform will enable teachers and volunteer tutors to create and share digital teaching contents which can be accessible by an unlimited number of students anytime and anywhere, allowing learners to learn at their own pace indefinitely.
 
-Download Android version <a href="https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US" target="_blank">here</a>.iOS version releasing in November 2019.
+Download the Android version <a href="https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US" target="_blank">here.</a> iOS version releasing in November 2019.
 
 
 #### **Hatch Immersive**
