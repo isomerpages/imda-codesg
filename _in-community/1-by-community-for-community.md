@@ -18,7 +18,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thinkers II** to include more acitivities in the Junior Computational Thinking kit to kick-start preschool children's journey in computational thinking, conduct workshops to reach out to pre-schoolers from low-income families, and keep the website updated with more activities and resources for anyone to use.
 
-Try out their [resources](https://www.tinythinkers.org/) and follow them on their activities [here](https://www.facebook.com/tinythinkersSG/ )! 
+Try out their <a href="https://www.tinythinkers.org/" target="_blank">resources</a> and follow them on their activities <a href="https://www.facebook.com/tinythinkersSG/" target="_blank">here</a>!
 
 
 #### **AppiLearn Mobile App**
@@ -30,7 +30,7 @@ AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an onli
 
 This platform will enable teachers and volunteer tutors to create and share digital teaching contents which can be accessible by an unlimited number of students anytime and anywhere, allowing learners to learn at their own pace indefinitely.
 
-Download Android version [here](https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US). iOS version releasing in November 2019.
+Download the Android version <a href="https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US" target="_blank">here.</a> iOS version releasing in November 2019.
 
 
 #### **Hatch Immersive**
@@ -42,7 +42,7 @@ Hatch Immersive targets youth from low-income, dropout, and at-risk backgrounds 
 
 Hatch Workshops target secondary school students who may not be excelling academically or are identified by the teachers to be “long-term absent”, to provide students with exposure to skills-based jobs and to build their self-confidence to secure these jobs.
 
-Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://www.facebook.com/hatchingnow/)!  
+Support <a href="https://www.hatch.sg/" target="_blank">Hatch Immersive</a> or follow them <a href="https://www.facebook.com/hatchingnow/" target="_blank">here!</a>
 
 
 #### **Engineering Good**
@@ -50,7 +50,8 @@ Support [Hatch Immersive](https://www.hatch.sg/) or follow them [here](https://w
 ![Engineering Good](/images/in-community/overview/Engineering-Good-2.png)
 
 
-Engineering Group wants to conduct “We Hack Care!” workshops where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
+Engineering Good is conducting a **Tech for Good Festival** on 2nd November 2019 which will celebrate how technology can help make life better for persons with disabilities. Participants can partake in workshops by Engineering Good and our partners, and learn how they can help. Additionally, they can also view a showcase of inventions by the Tech For Good contestants and partners, and attend a panel discussion on Assistive Technology by invited experts!
 
-There is also a “Tech For Good” (T4G) social innovation challenge that aims to bring together different community segments to help them learn about assistive technology, how it supports persons with disabilities and basic engineering concepts. Competition teams will be paired with social sector organisations to ideate and prototype the solutions with the help of skilled mentors. The teams will then present to a panel of judges and share their prototypes with participants at a one-day Tech For Good Festival Showcase. 
+Additionally, Engineering Group wants to conduct **“We Hack Care!” workshops** where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
 
+Support <a href="http://engineeringgood.org/programmes/we-hack-care-workshops/" target="_blank">Engineering Good</a> or join them <a href="http://engineeringgood.org/tech-for-good-participants/" target="_blank">here!</a>
