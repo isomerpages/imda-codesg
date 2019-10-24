@@ -51,6 +51,15 @@ info-sections:
     section-more-button-url: /events/roadshows-and-exhibitions/_posts/2019-11-04-edutech-asia-2019
     section-image-path: /images/home-page/Edutech2018-1.jpg
     
+    
+  - section-title: 
+    section-subtitle: Tiny Thinkers II
+    section-description: Kick-start preschool children's journey in Computational Thinking with an enhanced Junior Computational Thinking Kit and more!
+    section-more-button: Click here
+    external: true
+    section-more-button-url: /in-community/by-community-for-community/
+    section-image-path: /images/home-page/Tiny-Thinkers-II-1.jpg
+    
 
 # Resources Section 
 resources-subtitle: Events
