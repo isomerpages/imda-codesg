@@ -50,8 +50,8 @@ Support <a href="https://www.hatch.sg/" target="_blank">Hatch Immersive</a> or f
 ![Engineering Good](/images/in-community/overview/Engineering-Good-2.png)
 
 
-Engineering Group wants to conduct “We Hack Care!” workshops where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
-
 The **Tech for Good Festival** on 2nd November 2019 celebrates how technology can help make life better for persons with disabilities. Participants can partake in workshops by Engineering Good and our partners, and learn how they can help. Additionally, they can also view a showcase of inventions by the Tech For Good contestants and partners, and attend a panel discussion on Assistive Technology by invited experts!
+
+Engineering Group wants to conduct “We Hack Care!” workshops where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
 
 Support <a href="http://engineeringgood.org/programmes/we-hack-care-workshops/" target="_blank">Engineering Good</a> or join them <a href="http://engineeringgood.org/tech-for-good-participants/" target="_blank">here!</a>
