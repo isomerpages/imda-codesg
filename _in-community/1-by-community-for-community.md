@@ -31,7 +31,7 @@ This platform will enable teachers and volunteer tutors to create and share digi
 
 Download the Android version <a href="https://play.google.com/store/apps/details?id=sg.primary.mcq" target="_blank">here.</a> iOS version releasing in November 2019.
 
-Get updated on <a href="https://www.facebook.com/BigImperfectFamily" target="_blank">Facebook</a> and <a href="https://www.instagram.com/bigimperfectfamily" target="_blank">Instagram</a>!
+Get updated on their <a href="https://www.facebook.com/BigImperfectFamily" target="_blank">Facebook</a> and <a href="https://www.instagram.com/bigimperfectfamily" target="_blank">Instagram</a>!
 
 
 #### **Hatch Immersive**
