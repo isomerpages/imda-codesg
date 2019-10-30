@@ -21,16 +21,17 @@ Expanding from the Tiny Thinkers I project, Unfair advantage started **Tiny Thin
 Try out their <a href="https://www.tinythinkers.org/" target="_blank">resources</a> and follow them on their activities <a href="https://www.facebook.com/tinythinkersSG/" target="_blank">here</a>!
 
 
-#### **AppiLearn Mobile App**
+#### **SG Primary MCQ**
 
 ![AppiLearn image](/images/in-community/overview/AppiLearn-cropped.png)
 
-
-AppiLearn was created by Angeline Teo and Lim Tian Yi who wanted to form an online community through a mobile application (app) and mobile-enabled website where learners from any background can have free and unlimited access to quality education resources and support, contributed by volunteers with a passion to share their knowledge and contribute to the society. 
+**SG Primary MCQ** is a mobile application (app) and mobile-enabled website where learners from any background can have free and unlimited access to quality education resources and support. These resources and support are contributed by volunteers with a passion to share their knowledge and contribute to the society. 
 
 This platform will enable teachers and volunteer tutors to create and share digital teaching contents which can be accessible by an unlimited number of students anytime and anywhere, allowing learners to learn at their own pace indefinitely.
 
-Download the Android version <a href="https://play.google.com/store/apps/developer?id=AppiLearn&hl=en_US" target="_blank">here.</a> iOS version releasing in November 2019.
+Download the Android version <a href="https://play.google.com/store/apps/details?id=sg.primary.mcq" target="_blank">here.</a> iOS version releasing in November 2019.
+
+Get updated on <a href="https://www.facebook.com/BigImperfectFamily" target="_blank">Facebook</a> and <a href="https://www.instagram.com/bigimperfectfamily" target="_blank">Instagram</a>!
 
 
 #### **Hatch Immersive**
