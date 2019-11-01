@@ -9,6 +9,14 @@ collection_name: in-community
 By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
 
 
+#### **Tech@Shopee: Coding for Youths**
+
+**Shopee** provides opportunities for underprivileged youths from low-income families who want to pick up coding at no cost. They believe that the cost of learning should not stop anyone from pursuing knowledge. 
+
+During each 3-hour workshop, volunteer trainers will inspire youths to code and teach them the importance of coding. The workshops are customized to incorporate practical elements where participants get to create and build real-world solutions to real problems as coding is a means to solving problems. 
+
+
+
 #### **Tiny Thinkers I & II**
 
 ![Tiny Thinkers II image](/images/in-community/overview/TinyThinkersII-1-cropped.jpg)
