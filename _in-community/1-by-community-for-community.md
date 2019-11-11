@@ -9,6 +9,15 @@ collection_name: in-community
 By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
 
 
+#### **U Live Symposium 2019**
+
+
+
+The U Live Symposium 2019 is for NTUC members aged 55 years and above to learn how to work smarter, live fuller and play more by reaping the benefits of technology. Participants will be able to engage in experiential hands-on learning and learn how they can utilize technology easily in their daily lives through a series of tech workshops, talks, showcases and demos. A group of 40 U Live Cyber Guides who are trained on government and popular mobile apps, will be available on-site to assist other participants on the day itself. 
+
+Join us on 1 December 2019 at Downtown East and register on this <a href="https://www.ulive.sg/index.php/activities-a-events/1054-u-live-symposium-2019" target="_blank">website</a>!
+
+
 #### **Tech@Shopee: Coding for Youths**
 
 **Shopee** provides opportunities for underprivileged youths from low-income families who want to pick up coding at no cost. They believe that the cost of learning should not stop anyone from pursuing knowledge. 
