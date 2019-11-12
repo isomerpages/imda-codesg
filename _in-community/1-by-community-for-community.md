@@ -68,7 +68,7 @@ Support them at their <a href="https://www.hatch.sg/" target="_blank">website</a
 
 #### **Engineering Good**
 
-![Engineering Good]()
+![Engineering Good](/images/in-community/overview/Engineering-Good-4.png)
 
 
 **Engineering Good** is conducting a **Tech for Good Festival** on 2nd November 2019 which will celebrate how technology can help make life better for persons with disabilities. Participants can partake in workshops by Engineering Good and our partners, and learn how they can help. Additionally, they can also view a showcase of inventions by the Tech For Good contestants and partners, and attend a panel discussion on Assistive Technology by invited experts!
