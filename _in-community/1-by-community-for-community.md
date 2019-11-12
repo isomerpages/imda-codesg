@@ -22,7 +22,7 @@ Join us on 1 December 2019 at Downtown East and register on this <a href="https:
 
 ![Tech@Shopee](/images/in-community/overview/Tech@Shoppee.png)
 
-**Shopee** provides opportunities for underprivileged youths from low-income families who want to pick up coding at no cost. They believe that the cost of learning should not stop anyone from pursuing knowledge. 
+**Shopee** provides opportunities for youths from low-income families who want to pick up coding at no cost. 
 
 During each 3-hour workshop, volunteer trainers will inspire youths to code and teach them the importance of coding. The workshops are customized to incorporate practical elements where participants get to create and build real-world solutions to real problems as coding is a means to solving problems. 
 
