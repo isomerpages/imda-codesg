@@ -29,7 +29,7 @@ During each 3-hour workshop, volunteer trainers will inspire youths to code and 
 
 #### **Tiny Thinkers I & II**
 
-![Tiny Thinkers II image](/images/in-community/overview/TinyThinkersII-1-cropped.jpg)
+![Tiny Thinkers II image](/images/in-community/overview/TinyThinkersII-4.jpg)
 
 
 **Tiny Thinkers I** was started by a group of NTU students to introduce computational thinking to preschool children and their parents through specially-curated games on a dedicated website, hands-on workshops to guide parents and a Starter Kit filled with materials to kickstart the preschool children’s journey in computational thinking.  
