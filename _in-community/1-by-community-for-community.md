@@ -23,9 +23,9 @@ Join us on 1 December 2019 at Downtown East and register on this <a href="https:
 
 **Shopee** provides opportunities for youths from low-income families who are keen on learning coding. 
 
-During the 3-hour workshop, volunteer trainers will inspire and teach youths to code and understand the the importance of coding. The workshop will begin with an introduction to Coding and Python, followed by hands-on acitivities with Python, creating a Chatbot and lastly, a Q&A session. 
+During the 3-hour workshop, volunteer trainers will inspire and teach youths to code and understand the importance of coding. The workshop will begin with an introduction to Coding and Python, followed by hands-on acitivities with Python, creating a Chatbot and lastly, a Q&A session. 
 
-The workshops are customized to incorporate practical elements where participants get to create and build real-world solutions to real problems as coding is a means to solving problems. 
+The workshops are customized to incorporate practical elements whereby participants have the opportunity to create and build real-world solutions to real problems. 
 
 
 
