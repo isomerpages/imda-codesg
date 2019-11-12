@@ -20,7 +20,6 @@ Join us on 1 December 2019 at Downtown East and register on this <a href="https:
 
 #### **Tech@Shopee: Coding for Youths**
 
-![Tech@Shopee](/images/in-community/overview/Tech@Shoppee.png)
 
 **Shopee** provides opportunities for youths from low-income families who want to pick up coding at no cost. 
 
