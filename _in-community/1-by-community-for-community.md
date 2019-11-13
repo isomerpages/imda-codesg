@@ -9,17 +9,23 @@ collection_name: in-community
 By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
 
 
+#### **U Live Symposium 2019**
+
+The **U Live Symposium 2019** is for NTUC members aged 50 years and above to learn how to work smarter, live fuller and play more by reaping the benefits of technology. Participants will be able to engage in experiential hands-on learning and learn how they can utilize technology easily in their daily lives through a series of tech workshops, talks, showcases and demos. A group of 40 U Live Cyber Guides who are trained on government and popular mobile apps, will be available on-site to assist other participants on the day itself. 
+
+Join us on 1 December 2019 at Downtown East and register on this <a href="https://www.ulive.sg/index.php/activities-a-events/1054-u-live-symposium-2019" target="_blank">website</a>!
+
+
 #### **Tech@Shopee: Coding for Youths**
 
-**Shopee** provides opportunities for underprivileged youths from low-income families who want to pick up coding at no cost. They believe that the cost of learning should not stop anyone from pursuing knowledge. 
 
-During each 3-hour workshop, volunteer trainers will inspire youths to code and teach them the importance of coding. The workshops are customized to incorporate practical elements where participants get to create and build real-world solutions to real problems as coding is a means to solving problems. 
+**Shopee** provides opportunities for youths from low-income families who are keen on learning coding. During the 3-hour workshop, volunteer trainers will inspire and teach youths to code and understand the importance of coding. The workshop will begin with an introduction to Coding and Python, followed by hands-on acitivities with Python and creating a Chatbot. These workshops are customized to incorporate practical elements whereby participants have the opportunity to create and build real-world solutions to real problems. 
 
 
 
 #### **Tiny Thinkers I & II**
 
-![Tiny Thinkers II image](/images/in-community/overview/TinyThinkersII-1-cropped.jpg)
+![Tiny Thinkers II image](/images/in-community/overview/TinyThinkersII-6.jpg)
 
 
 **Tiny Thinkers I** was started by a group of NTU students to introduce computational thinking to preschool children and their parents through specially-curated games on a dedicated website, hands-on workshops to guide parents and a Starter Kit filled with materials to kickstart the preschool children’s journey in computational thinking.  
@@ -39,7 +45,7 @@ This platform will enable teachers and volunteer tutors to create and share digi
 
 Download the Android version <a href="https://play.google.com/store/apps/details?id=sg.primary.mcq" target="_blank">here.</a> iOS version releasing in November 2019.
 
-Get updated on their <a href="https://www.facebook.com/BigImperfectFamily" target="_blank">Facebook</a> and <a href="https://www.instagram.com/bigimperfectfamily" target="_blank">Instagram</a>!
+Get updates on their <a href="https://www.facebook.com/BigImperfectFamily" target="_blank">Facebook</a> and <a href="https://www.instagram.com/bigimperfectfamily" target="_blank">Instagram</a>!
 
 
 #### **Hatch Immersive**
@@ -47,7 +53,7 @@ Get updated on their <a href="https://www.facebook.com/BigImperfectFamily" targe
 ![Hatch Immersive image](/images/in-community/overview/Hatch-Immersive-1.png)
 
 
-**Hatch Immersive** targets youth from low-income, dropout, and at-risk backgrounds and brings them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. These provides them with the essential skills to enter the workforce and become independent. Upon successful completion of the training, youth will be given a 3-month internship opportunity in one of the partner companies. At the end of the internship, the youth would either convert to full-time or pursue further education. 
+**Hatch Immersive** targets youths from low-income, dropout, and at-risk backgrounds and brings them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. These provides them with the essential skills to enter the workforce and become independent. Upon successful completion of the training, youths will be given a 3-month internship opportunity in one of the partner companies. At the end of the internship, the youths would either convert to full-time or pursue further education. 
 
 These Hatch Workshops target secondary school students who may not be excelling academically or are identified by the teachers to be “long-term absent”, to provide students with exposure to skills-based jobs and to build their self-confidence to secure these jobs.
 
@@ -56,11 +62,11 @@ Support them at their <a href="https://www.hatch.sg/" target="_blank">website</a
 
 #### **Engineering Good**
 
-![Engineering Good](/images/in-community/overview/Engineering-Good-2.png)
+![Engineering Good](/images/in-community/overview/Engineering-Good-4.png)
 
 
-**Engineering Good** is conducting a **Tech for Good Festival** on 2nd November 2019 which will celebrate how technology can help make life better for persons with disabilities. Participants can partake in workshops by Engineering Good and our partners, and learn how they can help. Additionally, they can also view a showcase of inventions by the Tech For Good contestants and partners, and attend a panel discussion on Assistive Technology by invited experts!
+**Engineering Good** conducted a **Tech for Good Festival** on 2nd November 2019 which celebrated how technology can help make life better for people with disabilities. Participants took part in workshops by Engineering Good and our partners, and learnt how they were able to help. Additionally, they also viewed a showcase of inventions by the Tech For Good contestants and partners. 
 
 Additionally, Engineering Group is also conducting **“We Hack Care!” workshops** where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
 
-Support them on their <a href="http://engineeringgood.org/programmes/we-hack-care-workshops/" target="_blank">website</a> and join them <a href="http://engineeringgood.org/tech-for-good-participants/" target="_blank">here!</a>
+Support them on their <a href="http://engineeringgood.org/programmes/we-hack-care-workshops/" target="_blank">website</a>!
