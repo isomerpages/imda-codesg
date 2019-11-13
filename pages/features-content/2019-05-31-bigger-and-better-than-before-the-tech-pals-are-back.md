@@ -33,6 +33,7 @@ The participants started work by forming small teams. Thereafter they each recei
 Mr. Wee Kit Bian, who participated at the Tampines workshop with his daughter, was one such first-time user. Enthusing about the micro:bit, he said, “It’s fun to work with. With this simple device, you can express your creativity. It has many features like LED lights, sensors and digital display. You can let your imagination go wild!”
 
 ![image](/images/stories/features/bigger-and-better-than-before-the-tech-pals-are-back/image3.jpg)
+
 ![image](/images/stories/features/bigger-and-better-than-before-the-tech-pals-are-back/image4.jpg)
 Different materials and equipment, such as soldering tools and 3D printers, were available to help participants construct their projects
 
@@ -48,6 +49,7 @@ Mr Goh Juay How recounted his experience at the session, “The atmosphere was g
 After 8 weeks of hard work, the Tech Pals’ prototypes were proudly showcased to the public. With Member of Parliament (MP) Ms Jessica Tan observing, the senior-focused projects of the Changi Simei groups were put to the test by caretakers and their wards at Sparkle Care @Changi Simei. 
 
 ![image](/images/stories/features/bigger-and-better-than-before-the-tech-pals-are-back/image5.jpg)
+
 ![image](/images/stories/features/bigger-and-better-than-before-the-tech-pals-are-back/image6.jpg)
 Seniors at Sparkle Care got to try out the projects made by Changi Simei Tech Pals participants
 
@@ -64,6 +66,7 @@ Speaking on the significance of technology, Tan emphasized that the goal of tech
 ### Tech Pals from all walks of life
 
 ![image](/images/stories/features/bigger-and-better-than-before-the-tech-pals-are-back/image8.jpg)
+
 ![image](/images/stories/features/bigger-and-better-than-before-the-tech-pals-are-back/image9.jpg)
 Tech Pals had a display booth at SG:D Wonderland to show off their projects to visitors
 
