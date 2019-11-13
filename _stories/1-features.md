@@ -48,6 +48,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 | Date | Title |
 |--|--|
 | **3 November 2018** | **[Tech Pals 2018](/tech-pals-2018/)** |
+| **13 November 2019** | **[Tech Pals 2](/tech-pals-2/)** |
 
 
 
