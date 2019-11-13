@@ -79,7 +79,7 @@ His teammate Ms. Rachel Tan emphasized this point. “At Tech Pals, I got to mee
 
 For more on Tech Pals, check out our videos here!
 
-To find out more about other events and activities, please click here
+To find out more about other events and activities, please click [here](/events/roadshows-and-exhibitions/).
 
 
 
