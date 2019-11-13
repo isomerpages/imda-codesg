@@ -67,7 +67,7 @@ Support them at their <a href="https://www.hatch.sg/" target="_blank">website</a
 ![Engineering Good](/images/in-community/overview/Engineering-Good-4.png)
 
 
-**Engineering Good** conducted a **Tech for Good Festival** on 2nd November 2019 which celebrated how technology can help make life better for persons with disabilities. Participants took part in workshops by Engineering Good and our partners, and learnt how they were able to help. Additionally, they also viewed a showcase of inventions by the Tech For Good contestants and partners. 
+**Engineering Good** conducted a **Tech for Good Festival** on 2nd November 2019 which celebrated how technology can help make life better for people with disabilities. Participants took part in workshops by Engineering Good and our partners, and learnt how they were able to help. Additionally, they also viewed a showcase of inventions by the Tech For Good contestants and partners. 
 
 Additionally, Engineering Group is also conducting **“We Hack Care!” workshops** where participants will learn how to DIY low-cost assistive devices through simple engineering and donate the modified devices to VWOs and Special education schools (SPEDs) to support them in their training and daily activities.
 
