@@ -47,8 +47,9 @@ Read our feature stories to know what is happening at our events and to learn mo
 
 | Date | Title |
 |--|--|
+| **31 May 2019** | **[Bigger and Better than Before, the Tech Pals are back!](/bigger-and-better-than-before-the-tech-pals-are-back/)** 
 | **3 November 2018** | **[Tech Pals 2018](/tech-pals-2018/)** |
-| **31 May 2019** | **[Bigger and Better than Before, the Tech Pals are back!](/bigger-and-better-than-before-the-tech-pals-are-back/)** |
+| **31 July 2019** | **[Tech Toys in Preschool Classroom Course](tech-toys-in-preschool-classroom-course)** |
 
 
 
