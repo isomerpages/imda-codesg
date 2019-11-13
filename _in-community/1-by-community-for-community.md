@@ -55,7 +55,7 @@ Get updates on their <a href="https://www.facebook.com/BigImperfectFamily" targe
 ![Hatch Immersive image](/images/in-community/overview/Hatch-Immersive-1.png)
 
 
-**Hatch Immersive** targets youth from low-income, dropout, and at-risk backgrounds and brings them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. These provides them with the essential skills to enter the workforce and become independent. Upon successful completion of the training, youth will be given a 3-month internship opportunity in one of the partner companies. At the end of the internship, the youth would either convert to full-time or pursue further education. 
+**Hatch Immersive** targets youths from low-income, dropout, and at-risk backgrounds and brings them through a 1-month comprehensive training that comprise technical skills in either UI,UX Design or Digital Marketing, workplace skills and industry exposure. These provides them with the essential skills to enter the workforce and become independent. Upon successful completion of the training, youths will be given a 3-month internship opportunity in one of the partner companies. At the end of the internship, the youths would either convert to full-time or pursue further education. 
 
 These Hatch Workshops target secondary school students who may not be excelling academically or are identified by the teachers to be “long-term absent”, to provide students with exposure to skills-based jobs and to build their self-confidence to secure these jobs.
 
