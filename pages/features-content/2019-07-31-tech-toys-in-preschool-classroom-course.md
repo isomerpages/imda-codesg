@@ -47,5 +47,5 @@ The interactive approach was very much welcomed as Khaira affirmed, *“I’m so
 
 Meanwhile, Khaira observed, *“There is no fixed way of using tech toys, learners are free to explore during the lesson. It’s interesting that everybody will have his/her own way of integrating these tech toys into their curriculum.”*
 
-Educators who wish to spark imagination and build creative confidence in their young learners should sign up for the certification course as seen on the IMDA PlayMaker programme [page.](/in-schools/playmaker/for-educators/)
+Educators who wish to spark imagination and build creative confidence in their young learners should sign up for the certification course [here.](/in-schools/playmaker/for-educators/)
 
