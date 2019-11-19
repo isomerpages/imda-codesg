@@ -37,5 +37,3 @@ With the recurring success of the Parent-Child engagement, what future plans doe
 “The keys are the Computational Thinking and Digital Making skills, which aren’t device specific.”
 
 If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)
-
-Join us at <a href="https://codesg.imda.gov.sg/events/roadshows-and-exhibitions/edutech-asia-2019" target="_blank">EduTECH Asia 2019</a> to see the projects developed by the schools!
