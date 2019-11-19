@@ -8,7 +8,7 @@ collection_name: stories
 
 Read our feature stories to know what is happening at our events and to learn more about how our programmes benefit schools and community.
 
-[Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) 
+[Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker)
 
 
 
