@@ -31,7 +31,7 @@ For educators who were first-time users, it was an exciting journey as they figu
 
 There is perhaps no better way to learn a tech toy than to create a project with it. That’s exactly what the teachers did during the course. Besides practising on Tech Toys such as LittleBits, Bee-Bot and KIBO, teachers also created project-based lesson plans using the toys together with recycled materials and other components. 
 	
-The role reversal was in full swing as the teachers became students, expressing their creativity and enthusiasm as they worked on their projects. Hope Community Kindergarten (Choa Chu Kang) teacher, Lim Siew Eng was happy to share, “Our project is to create bubble art. The motion and light sensors can activate the toy to start blowing bubbles.”
+The role reversal was in full swing as the teachers became students, expressing their creativity and enthusiasm as they worked on their projects. Hope Community Kindergarten (Choa Chu Kang) teacher, Lim Siew Eng was happy to share, *“Our project is to create bubble art. The motion and light sensors can activate the toy to start blowing bubbles.”*
 
 Meanwhile, road safety was the focus for the project by E-Bridge Pre-school teacher Amreet Khaira. The lesson plan required the learner to make use of the motion sensors and sound alarm in LittleBits to simulate a scenario where two vehicles are too near each other. 
 
@@ -47,4 +47,5 @@ The interactive approach was very much welcomed as Khaira affirmed, *“I’m so
 
 Meanwhile, Khaira observed, *“There is no fixed way of using tech toys, learners are free to explore during the lesson. It’s interesting that everybody will have his/her own way of integrating these tech toys into their curriculum.”*
 
-Educators who wish to spark imagination and build creative confidence in their young learners should sign up for the certification course as seen on the IMDA PlayMaker programme page.
+Educators who wish to spark imagination and build creative confidence in their young learners should sign up for the certification course as seen on the IMDA PlayMaker programme [page.](/in-schools/playmaker/for-educators/)
+
