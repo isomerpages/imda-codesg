@@ -10,14 +10,6 @@ By Community, For Community are various ground-up projects by individuals or cor
 
 Find out what the fund can support and how to apply for it <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
-#### **U Live Symposium 2019**
-
-![U Live Symposium 2019 Image](/images/in-community/overview/U-Live-Symposium-1.jpg)
-
-The **U Live Symposium 2019** is for active-agers aged 50 years and above to learn how to work smarter, live fuller and play more by reaping the benefits of technology. Participants will be able to engage in experiential hands-on learning and learn how they can utilize technology easily in their daily lives through a series of tech workshops, talks, experiential showcases and demos. A group of U Live Cyber Guides who are trained on government and popular mobile apps, will be available on-site to assist other participants on the day itself.
-
-Join us on 1 December 2019 at Downtown East and register on this <a href="https://www.ulive.sg/index.php/activities-a-events/1054-u-live-symposium-2019" target="_blank">website</a>!
-
 
 #### **Tech@Shopee: Coding for Youths**
 
