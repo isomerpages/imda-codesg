@@ -8,6 +8,7 @@ collection_name: in-community
 
 By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
 
+Find out what the fund can support and how to apply for it <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
 #### **U Live Symposium 2019**
 
