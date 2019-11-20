@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Never too old to code
+title: Never Too Old to Code
 date: 2019-01-22
 permalink: /never-too-old-to-code/
-breadcrumb: Never too old to code
+breadcrumb: Never Too Old to Code
 ---
 
-## Never too old to code
+## Never Too Old to Code
 
 While many seniors recognize the need for active aging, most choose to do it by pursuing physical activities such as qigong or line
 dancing. However, what is equally important to successful aging are mentally stimulating activities. A tight knit group of 10 seniors in
@@ -80,4 +80,5 @@ When asked how digital making can be made even more accessible to seniors, Julie
 
 To conclude the interview, Edward had some words of encouragement to other seniors apprehensive about taking the first step. “I believe that we should still learn even if we are seniors. If we put our time and effort into learning digital making, we should be able to do it!”
 
- 
+ Find out more about IMDA Programmes at [PIXEL Lab](/in-community/pixel-labs/)!
+
