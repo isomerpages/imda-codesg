@@ -84,5 +84,5 @@ For more on Tech Pals, check out our videos here!
 
 To find out more about other events and activities, please click [here](/events/).
 
-
+Find out more about IMDA Programmes at [PIXEL Lab](/in-community/pixel-labs/)!
 
