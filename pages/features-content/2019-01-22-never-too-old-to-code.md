@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Never too old to code
+title: Never Too Old to Code
 date: 2019-01-22
 permalink: /never-too-old-to-code/
-breadcrumb: Never too old to code
+breadcrumb: Never Too Old to Code
 ---
 
-## Never too old to code
+## Never Too Old to Code
 
 While many seniors recognize the need for active aging, most choose to do it by pursuing physical activities such as qigong or line
 dancing. However, what is equally important to successful aging are mentally stimulating activities. A tight knit group of 10 seniors in
