@@ -80,4 +80,5 @@ When asked how digital making can be made even more accessible to seniors, Julie
 
 To conclude the interview, Edward had some words of encouragement to other seniors apprehensive about taking the first step. “I believe that we should still learn even if we are seniors. If we put our time and effort into learning digital making, we should be able to do it!”
 
- 
+ Find out more about IMDA Programmes at [PIXEL Lab](/in-community/pixel-labs/)!
+
