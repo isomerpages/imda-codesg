@@ -9,7 +9,7 @@ collection_name: stories
 We have been featured in the media! Check out the links below to read more about our programmes.  
 
 <a name="top"></a>
-[By Community For Community](#bycommunityforcommunity) | [Code For Fun](#codeforfun) | [Digital Maker](#digitalmaker) | [General](#general) | [PlayMaker](#playmaker)
+[By Community For Community](#bycommunityforcommunity) | [Code For Fun](#codeforfun) | [Code In The Community](#codeinthecommunity) | [Digital Maker](#digitalmaker) | [General](#general) | [PlayMaker](#playmaker)
 
 
 <a name="bycommunityforcommunity"></a><br>
