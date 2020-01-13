@@ -80,7 +80,7 @@ Yalkin Yaziciogln, a student and aspiring doctor, participated in Tech Pals to f
 
 His teammate Ms. Rachel Tan emphasized this point. “At Tech Pals, I got to meet like-minded people who want to create things for the community. The community aspect is very important to encourage one another to achieve our goal. I believe technological adoption is possible for everyone regardless of age.”
 
-For more on Tech Pals, check out our videos here!
+For more on Tech Pals, check out our video [here](https://www.youtube.com/watch?v=wvmaup2U9vc){:target="_blank"}!
 
 To find out more about other events and activities, please click [here](/events/).
 
