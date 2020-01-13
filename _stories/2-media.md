@@ -43,8 +43,7 @@ We have been featured in the media! Check out the links below to read more about
 |--|--|--|
 | 4 January 2020 | <a href="https://www.straitstimes.com/tech/google-and-imda-to-expand-free-coding-classes-initiative-to-benefit-more-students" target="_blank">Google and IMDA to expand free coding classes initiative to benefit more students</a> | The Straits Times |
 | 4 January 2020 | <a href="https://www.zaobao.com.sg/realtime/singapore/story20200104-1018383" target="_blank">6700名低收入家庭的儿童下来三年可获免费编码课程</a> | Lian He Zao Bao |
-| 4 January 2020 | <a href="https://berita.mediacorp.sg/mobilem/singapura/lagi-6-700-pelajar-kurang-bernasib-baik-raih-manfaat-kelas-kod/4385236.html" target="_blank>Lagi 6,700 pelajar kurang bernasib baik raih manfaat kelas kod percuma menjelang 2022</a> | Berita Mediacorp |
-
+| 4 January 2020 | <a href="https://berita.mediacorp.sg/mobilem/singapura/lagi-6-700-pelajar-kurang-bernasib-baik-raih-manfaat-kelas-kod/4385236.html" target="_blank">Lagi 6,700 pelajar kurang bernasib baik raih manfaat kelas kod percuma menjelang 2022</a> | Berita Mediacorp |
 
 
 
