@@ -42,6 +42,9 @@ We have been featured in the media! Check out the links below to read more about
 | Date | Title | Media |
 |--|--|--|
 | 4 January 2020 | <a href="https://www.straitstimes.com/tech/google-and-imda-to-expand-free-coding-classes-initiative-to-benefit-more-students" target="_blank">Google and IMDA to expand free coding classes initiative to benefit more students</a> | The Straits Times |
+|4 January 2020 | <a href="https://www.zaobao.com.sg/realtime/singapore/story20200104-1018383" target="_blank">6700名低收入家庭的儿童下来三年可获免费编码课程</a> | Lian He Zao Bao |
+
+
 
 <a name="digitalmaker"></a><br>
 **Digital Maker**<br>
