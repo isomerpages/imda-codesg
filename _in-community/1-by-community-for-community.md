@@ -14,7 +14,7 @@ Find out what the fund can support and how to apply for it <a href="https://www.
 #### **U Live Symposium**
 
 
-The **U Live Symposium** is for active-agers aged 50 years and above to learn how to work smarter, live fuller and play more by reaping the benefits of technology. Participants engaged in experiential hands-on learning and learnt how to utilize technology easily in their daily lives through a series of tech workshops, talks, experiential showcases and demos. A group of U Live Cyber Guides who have been trained on government and popular mobile apps will be on-site to assist other participants. 
+The **U Live Symposium** is for active-agers aged 50 years and above to learn how to work smarter, live fuller and play more by reaping the benefits of technology. Participants engaged in experiential hands-on learning and learnt how to utilize technology easily in their daily lives through a series of tech workshops, talks, experiential showcases and demos. A group of U Live Cyber Guides who have been trained on government and popular mobile apps were also on-site to assist other participants. 
 
 
 #### **Tech@Shopee: Coding for Youths**
