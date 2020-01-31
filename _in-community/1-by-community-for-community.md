@@ -13,7 +13,7 @@ Find out what the fund can support and how to apply for it <a href="https://www.
 
 #### **U Live Symposium**
 
-![Flag, You're It image](/images/in-community/overview/flag-youre-it-1a.png)
+![Flag, You're It image](/images/in-community/overview/flag-youre-it-1.png)
 
 **Flag, You're It: Don't Prey Where We Play** is a ground-up movement started by a group of NTU students to build a holistic ecosystem to combat online child grooming. This movement seeks to empower youths to be a driving force for change by flagging out uncomfortable or predatory conversations online. 
 
