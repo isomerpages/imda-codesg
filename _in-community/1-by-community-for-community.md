@@ -11,7 +11,7 @@ By Community, For Community are various ground-up projects by individuals or cor
 Find out what the fund can support and how to apply for it <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
 
-#### **U Live Symposium**
+#### **Flag, You're It**
 
 ![Flag, You're It image](/images/in-community/overview/flag-youre-it-1.png)
 
