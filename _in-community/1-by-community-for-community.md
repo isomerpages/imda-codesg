@@ -11,6 +11,17 @@ By Community, For Community are various ground-up projects by individuals or cor
 Find out what the fund can support and how to apply for it <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
 
+#### **Flag, You're It**
+
+![Flag, You're It image](/images/in-community/overview/flag-youre-it-1.png)
+
+**Flag, You're It: Don't Prey Where We Play** is a ground-up movement started by a group of NTU students to build a holistic ecosystem to combat online child grooming. This movement seeks to empower youths to be a driving force for change by flagging out uncomfortable or predatory conversations online. 
+
+They will run a campaign to encourage youths to pledge to flag out predatory online conversations on Instagram and Facebook by getting key opinion leaders, secondary school student micro-influencers and community partners to pledge to their movement and share key social posts with their network. This helps to create awareness and build a supportive community for the victims to speak up. An experiential exhibition will be held over 29 days to immerse visitors through the 3 stages of grooming, to create awareness on the susceptibility to falling prey to online child grooming. Lastly, a closed-door youth-led panel discussion will be organized to share experiences and brainstorm ideas on how current measures can be improved with industry partners from social, education, regulatory and technology sectors. 
+
+Follow them on <a href="https://www.facebook.com/pg/flagyoureit/about/?ref=page_internal" target="_blank">Facebook</a> and <a href="https://www.instagram.com/flagyoureit/" target="_blank">Instagram</a>, and get updates on their <a href="https://www.flagyoureit.com/" target="_blank">website</a>! 
+
+
 #### **U Live Symposium**
 
 ![U Live Symposium image](/images/in-community/overview/U-Live-Symposium-2.jpg)
