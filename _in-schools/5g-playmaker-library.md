@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Library
 permalink: /in-schools/playmaker-library/
 breadcrumb: PlayMaker Library (In Schools)
 collection_name: in-schools
