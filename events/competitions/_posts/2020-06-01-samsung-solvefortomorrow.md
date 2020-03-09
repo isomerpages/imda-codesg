@@ -5,7 +5,7 @@ date: 2020-06-01
 permalink: /events/competitions/2020-06-01-samsung-solvefortomorrow
 ---
 
-![overview image]()
+![overview image](/images/events/competitions/Solve-for-Tomorrow-Banner.jpg)
 
 Samsung's global competition, **Solve for Tomorrow**, is back in Singapore for its 4th edition! This competition is supported by the **Infocomm Media Development Authority of Singapore (IMDA)** under the **National Infocomm Competition (NIC)** programme. 
 
