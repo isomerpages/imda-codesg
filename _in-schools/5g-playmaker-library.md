@@ -10,12 +10,11 @@ second_nav_title: "PlayMaker"
 
 #### PlayMaker Library
 
-IMDA is setting up a PlayMaker library for pre-schools to borrow tech toys to support pre-school educators in the use of technology in the classroom. 
+IMDA is setting up a PlayMaker library for pre-schools to borrow tech toys for a short period of time and use them during curriculum hours. 
 
-Pre-schools can borrow the tech toys for a short period of time and use them during their lessons to introduce Computational Thinking to the pre-schoolers. 
+These tech toys will support pre-school educators to put into practice what they have learnt, integrating technology into their lessons and introducing Computational Thinking to their students. 
 
-New and emerging tech toys that are suitable for the pre-schoolers will be continuously curated. 
+New and emerging tech toys that are suitable for the pre-schoolers will be curated and added to the PlayMaker library for pre-schools to borrow. 
 
-Look out for more information on our <a href="https://codesg.imda.gov.sg/in-schools/playmaker-overview/" target ="_blank">website</a> in April 2020! 
-
+Look out for more information on the loan eligibility and details in April 2020.
 
