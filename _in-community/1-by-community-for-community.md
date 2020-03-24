@@ -6,10 +6,17 @@ breadcrumb: By Community, For Community
 collection_name: in-community
 ---
 
-By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
+By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. 
 
-Find out what the fund can support and how to apply for it <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
- 
+One of the projects is **Code in the Community (CiTC)** by IMDA and Google. It is a 3-year initiative offering free coding classes to help underprivileged students become digitally ready for the future. The coding classes will be facilitated by partners such as Saturday Kids and 21C Girls, supported by various self-help groups, community partners such as National Library Board, community centres and family service centres to provide their premises for classes to be held. 
+
+Students from the CiTC's Level 1 Foundational programme aged between 8 and 12 years old will learn the Scratch coding language, while students aged 13 to 16 years old will learn to code in Python. There is also a follow-up Level 2 Applications programme for graduates of the foundational programme. It will incorporate a maker element to encourage students to apply their learnings, and introduce more complex concepts like design thinking to solve defined problems. Both the Level 1 Foundational and Level 2 Application programmes will be structured as a 16-hour curriculum spread across 8 weeks. 
+
+To find out more about the programme, how you can sign up for the classes or to register as a volunteer, please click <a href="https://www.codeinthecommunity.com" target=_blank">here</a>.
+
+Other projects are supported by **Our Singapore Fund for Digital Readiness (OSF-DR)**. It is a fund to spearhead community projects to prepare fellow Singaporeans to seize the benefits of the digital future by individuals or corporates. 
+
+Some of the coding-related projects are shown below. For the full list of projects that are supported by OSF-DR, what the fund can support and how to apply, please click <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
 
 #### **Tech@Shopee: Coding for Youths**
