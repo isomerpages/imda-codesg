@@ -74,7 +74,7 @@ Selected projects from the Tampines and Changi Simei team were also presented at
 
 The message that anybody can learn tech for the good of others is exemplified by the diversity of Tech Pals participants, who ranged widely in age, occupation and even prior coding knowledge. All that is needed is the will to help others. 
 
-Yalkin Yaziciogln, a student and aspiring doctor, participated in Tech Pals to further his interest in helping dementia patients. Sharing the premise behind his groups’ project, he said, “Our project focuses on early dementia patients. The concept is a memory/matching game using cards with graphics of day to day things such as MRT and EZlink card; toothbrush and toothpaste.” 
+Yalkin Yazicioglu, a student and aspiring doctor, participated in Tech Pals to further his interest in helping dementia patients. Sharing the premise behind his groups’ project, he said, “Our project focuses on early dementia patients. The concept is a memory/matching game using cards with graphics of day to day things such as MRT and EZlink card; toothbrush and toothpaste.” 
 
 “Tech Pals is an opportunity for me to expand my skills and help the community,” he reflected.
 
