@@ -14,7 +14,7 @@ Students from the CiTC's Level 1 Foundational programme aged between 8 and 12 ye
 
 To find out more about the programme, how you can sign up for the classes or to register as a volunteer, please click <a href="https://www.codeinthecommunity.com" target="_blank">here</a>.
 
-Other projects are supported by **Our Singapore Fund for Digital Readiness (OSF-DR)**. It is a fund to spearhead community projects to prepare fellow Singaporeans to seize the benefits of the digital future by individuals or corporates. 
+Other projects are supported by **Our Singapore Fund for Digital Readiness (OSF-DR)**. It is a fund to support individuals or corporates spearhead community projects that will benefit fellow Singaporeans to become digitally ready and reap the benefits of a digital future. 
 
 Some of the coding-related projects are shown below. For the full list of projects that are supported by OSF-DR, what the fund can support and how to apply, please click <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
