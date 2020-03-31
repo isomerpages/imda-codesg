@@ -6,27 +6,17 @@ breadcrumb: By Community, For Community
 collection_name: in-community
 ---
 
-By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. These projects are supported by Our Singapore Fund for Digital Readiness. <br>
+By Community, For Community are various ground-up projects by individuals or corporates to promote computational thinking and making for different communities. 
 
-Find out what the fund can support and how to apply for it <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
+One of the projects is **Code in the Community (CiTC)** by IMDA and Google. It is a 3-year initiative offering free coding classes to help underprivileged students become digitally ready for the future. The coding classes will be facilitated by partners such as Saturday Kids and 21C Girls, supported by various self-help groups, community partners such as National Library Board, community centres and family service centres to provide their premises for classes to be held. 
 
+Students from the CiTC's Level 1 Foundational programme aged between 8 and 12 years old will learn the Scratch coding language, while students aged 13 to 16 years old will learn to code in Python. There is also a follow-up Level 2 Applications programme for graduates of the foundational programme. It will incorporate a maker element to encourage students to apply their learnings, and introduce more complex concepts like design thinking to solve defined problems. Both the Level 1 Foundational and Level 2 Application programmes will be structured as a 16-hour curriculum spread across 8 weeks. 
 
-#### **Flag, You're It**
+To find out more about the programme, how you can sign up for the classes or to register as a volunteer, please click <a href="https://www.codeinthecommunity.com" target="_blank">here</a>.
 
-![Flag, You're It image](/images/in-community/overview/flag-youre-it-1.png)
+Other projects are supported by **Our Singapore Fund for Digital Readiness (OSF-DR)**. It is a fund to support individuals or corporates spearhead community projects that will benefit fellow Singaporeans to become digitally ready and reap the benefits of a digital future. 
 
-**Flag, You're It: Don't Prey Where We Play** is a ground-up movement started by a group of NTU students to build a holistic ecosystem to combat online child grooming. This movement seeks to empower youths to be a driving force for change by flagging out uncomfortable or predatory conversations online. 
-
-They will run a campaign to encourage youths to pledge to flag out predatory online conversations on Instagram and Facebook by getting key opinion leaders, secondary school student micro-influencers and community partners to pledge to their movement and share key social posts with their network. This helps to create awareness and build a supportive community for the victims to speak up. An experiential exhibition will be held over 29 days to immerse visitors through the 3 stages of grooming, to create awareness on the susceptibility to falling prey to online child grooming. Lastly, a closed-door youth-led panel discussion will be organized to share experiences and brainstorm ideas on how current measures can be improved with industry partners from social, education, regulatory and technology sectors. 
-
-Follow them on <a href="https://www.facebook.com/pg/flagyoureit/about/?ref=page_internal" target="_blank">Facebook</a> and <a href="https://www.instagram.com/flagyoureit/" target="_blank">Instagram</a>, and get updates on their <a href="https://www.flagyoureit.com/" target="_blank">website</a>! 
-
-
-#### **U Live Symposium**
-
-![U Live Symposium image](/images/in-community/overview/U-Live-Symposium-2.jpg)
-
-The **U Live Symposium** is for active-agers aged 50 years and above to learn how to work smarter, live fuller and play more by reaping the benefits of technology. Participants engaged in experiential hands-on learning and learnt how to utilize technology easily in their daily lives through a series of tech workshops, talks, experiential showcases and demos. A group of U Live Cyber Guides who have been trained on government and popular mobile apps were also on-site to assist other participants. 
+Some of the coding-related projects are shown below. For the full list of projects that are supported by OSF-DR, what the fund can support and how to apply, please click <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
 
 #### **Tech@Shopee: Coding for Youths**
