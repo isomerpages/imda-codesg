@@ -9,9 +9,8 @@ permalink: /events/competitions/2020-06-08-shopee-code-league
 
 Are you ready for the largest code league organised by Shopee?
 
-Here’s what you need to know about Shopee Code League: 
 
-It’s free and open to all undergraduate students and professionals across the region (regardless of background). Exclusive online training workshops will be provided by Shopee’s Tech team and training partners. Simply form a team of 2 to 4 members to join the league!
+The Shopee Code League is free and open to all undergraduate students and professionals across the region (regardless of background). Exclusive online training workshops will be provided by Shopee’s Tech team and training partners. Simply form a team of 2 to 4 members to join the league!
 
 
 Are you up for the challenge to compete against coders across the region? Click <a href="careers.shopee.sg/codeleague" target="_blank">here</a> to sign up!
