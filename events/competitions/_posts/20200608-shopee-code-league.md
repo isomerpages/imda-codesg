@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shopee Code League
-date: 2019-07-12 
+date: 2020-06-08
 permalink: /events/competitions/20200608-shopee-code-league
 ---
 
