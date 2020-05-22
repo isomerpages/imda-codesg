@@ -2,7 +2,7 @@
 layout: post
 title: Shopee Code League
 date: 2020-06-08
-permalink: /events/competitions/20200608-shopee-code-league
+permalink: /events/competitions/2020-06-08-shopee-code-league
 ---
 
 ![overview image](/images/events/competitions/shopee.jpg)
