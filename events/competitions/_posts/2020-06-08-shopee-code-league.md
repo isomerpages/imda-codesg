@@ -5,7 +5,7 @@ date: 2020-06-08
 permalink: /events/competitions/2020-06-08-shopee-code-league
 ---
 
-![overview image](/images/events/competitions/shopee.jpg)
+<a href="https://careers.shopee.sg/codeleague/" target="_blank">![overview image](/images/events/competitions/shopee.jpg)</a>
 
 Are you ready for the largest code league organised by Shopee?
 
