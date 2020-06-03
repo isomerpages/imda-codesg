@@ -24,6 +24,7 @@ The key competitions supported under NIC include the following:
 * RoboCup Singapore - <a href="http://robocupsingapore.org/en/singaporeopen/open-2019" target="_blank">link</a>
 * Samsung Solve for Tomorrow - <a href="https://www.samsung.com/sg/solvefortomorrow/" target="_blank">link</a>
 * SAP ASEAN Data Science Explorers - <a href="https://www.aseandse.org/" target="_blank">link</a>
+* Shopee Code League 2020 - <a href="https://careers.shopee.sg/codeleague/" target="_blank">link</a>
 * Shopee National Data Science Challenge - <a href="https://careers.shopee.sg/ndsc/" target="_blank">link</a>
 * Singapore National Olympiad in Informatics - <a href="https://noisg.comp.nus.edu.sg/noi/" target="_blank">link</a>
 * Singapore Space Challenge - <a href="https://www.space.org.sg/education-and-outreach/singapore-space-challenge" target="_blank">link</a>
