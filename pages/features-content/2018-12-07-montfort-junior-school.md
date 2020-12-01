@@ -89,7 +89,7 @@ For schools that are considering digital making as a curriculum, Mr Wong has gre
 
 If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)<br>
 
-To learn more about how MJS implements computational thinking, visit their website [here](https://montfortjunior.moe.edu.sg/our-programme/computational-thinking-and-makers){:target="_blank"}
+
 
  
 
