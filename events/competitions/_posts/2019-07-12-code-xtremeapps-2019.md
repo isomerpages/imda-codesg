@@ -16,7 +16,6 @@ CXA has 3 main tracks – 24-hour School and Open Categories, as well as a 3-hou
 
 The venue of the hackathon will be held at Singapore Management University (SMU) at the School of Economics/Social Sciences and it will take place over a period of 2 days from 12-13 July 2019.
 
-
 The following are the list of organizers for this competition. 
 
 ![overview image 2](/images/competition/CXA-list-of-organizers.PNG)
