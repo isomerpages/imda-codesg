@@ -5,11 +5,11 @@ permalink: /in-community/pixel-labs/
 breadcrumb: PIXEL Labs
 collection_name: in-community
 ---
-#### Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
+### Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
 
 ![pixel labs image1](/images/in-community/overview/pixel-labs-image2copy.jpg)
 
-**Discover digital making at MakeIT, our library makerspaces.**
+#### Discover digital making at MakeIT, our library makerspaces.
 
 Formerly known as PIXEL Labs@NLB, the renamed MakeIT at Libraries offer library users a dedicated space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker and Create, in both digital and traditional fabrication.<br>
 
@@ -17,16 +17,34 @@ Learn how creativity and innovation is supported by emerging fabrication tech su
 
 Programmes and activities are jointly arranged by NLB and IMDA, covering both tech and non-tech areas such as hands-on workshops across 5 signature areas. The curriculum emphasizes heavy hands-on tinkering and learn-by-doing and is aimed at everyone from Secondary school students to Seniors.<br>
 
-**MakeIT Signature Areas**
+#### MakeIT Signature Areas
 
-MakeIT aims to introduce Making and Innovation to the general public by way of 5 areas:<br><br>
-
+MakeIT aims to introduce Making and Innovation to the general public by way of 5 areas:<br>
 1. 3D Printing
-*Introduces additive manufacturing as a rapid, reliable method to craft, create and prototype. Curriculum covers foundational understanding of this method of fabrication, 3D modelling, and hands-on usage of Printers using PLA filament material.<br>
+  *Introduces additive manufacturing as a rapid, reliable method to craft, create and prototype. Curriculum covers foundational understanding of this method of fabrication, 3D modelling, and hands-on usage of Printers using PLA filament material.<br>
 
-2.
+2. Robotics & Coding
+  *Explore the world of coding for robotics and microcontrollers. Curriculum is available for Micro:bit and Arduino platforms, with supporting robotic kits that allow in-person trial and testing.
+  
+ 3. Upcycling
+   *MakeIT aims to grow awareness of sustainable innovation and creation, and encourages Making with upcycling in mind. Topics available include repair and home-hacks, and lo-fi prototyping.
+   
+ 4. Sewing 
+  *No longer solely the domain of auntie seamstresses, sewing goes back to its roots in material reinforcement and binary weaving, to bring new light to modern day digital fabrication and use of materials. Classes offered include traditional techniques as well as integration of tech, such as wearables and conductive materials. 
+ 
+ 5. Lasercutting (coming soon)
+   *The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering. 
+   
+ #### Services
+ 
+ MakeIT at Libraries offers the following public services:<br>
+ 
+**Workshops and Classes**
+MakeIT offers regular physical workshops at the core makerspaces, as well as pop-ups in various libraries and locations. Please visit this <a href="https://go.gov.sg/nlb-makeit-events" target="_blank">link</a> for the latest listing and registration. NLB library membership is required.<br>
 
 
+
+ 
 #### Locations of PIXEL Labs @ NLB <br>
 **Jurong Regional Library**<br>
 21 Jurong East Central 1<br>
