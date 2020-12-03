@@ -5,11 +5,27 @@ permalink: /in-community/pixel-labs/
 breadcrumb: PIXEL Labs
 collection_name: in-community
 ---
-#### PIXEL Labs@NLB aims to ignite passion for innovative thinking and experimentation by encouraging passionate individuals to get hands on with technology.
+#### Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
 
 ![pixel labs image1](/images/in-community/overview/pixel-labs-image2copy.jpg)
 
-PIXEL Labs@NLB is a collaboration between Infocomm Media Development Authority of Singapore and National Library Board. It offers library users a dedicated space with tools, equipment, and hardware kits that enable individuals to learn, create, invent, and share skills. Programmes are jointly arranged by NLB and IMDA, and targeted at the broad spectrum of library users. These activities cover both tech and non-tech areas such as hands-on workshops for students and families, technology talks for general public and crafting sessions for makers.<br>
+**Discover digital making at MakeIT, our library makerspaces.**
+
+Formerly known as PIXEL Labs@NLB, the renamed MakeIT at Libraries offer library users a dedicated space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker and Create, in both digital and traditional fabrication.<br>
+
+Learn how creativity and innovation is supported by emerging fabrication tech such as 3D printing and Robotics, and why such skills are a key gateway for 21st century skills such as problem solving, and design thinking.<br>
+
+Programmes and activities are jointly arranged by NLB and IMDA, covering both tech and non-tech areas such as hands-on workshops across 5 signature areas. The curriculum emphasizes heavy hands-on tinkering and learn-by-doing and is aimed at everyone from Secondary school students to Seniors.<br>
+
+**MakeIT Signature Areas**
+
+MakeIT aims to introduce Making and Innovation to the general public by way of 5 areas:<br><br>
+
+1. 3D Printing
+*Introduces additive manufacturing as a rapid, reliable method to craft, create and prototype. Curriculum covers foundational understanding of this method of fabrication, 3D modelling, and hands-on usage of Printers using PLA filament material.<br>
+
+2.
+
 
 #### Locations of PIXEL Labs @ NLB <br>
 **Jurong Regional Library**<br>
