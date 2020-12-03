@@ -44,13 +44,9 @@ MakeIT aims to introduce Making and Innovation to the general public by way of 5
 
 MakeIT offers regular physical workshops at the core makerspaces, as well as pop-ups in various libraries and locations. Please visit this <a href="https://go.gov.sg/nlb-makeit-events" target="_blank">link</a> for the latest listing and registration. NLB library membership is required.<br>
 
-![QR Code1]()
-
 **Online Live Sessions**<>
 
 While not everything can be done online due to the hands-on nature of Maker education, MakeIT offers a selection of curated digital workshops on Facebook. For more information, visit the MakeIT Facebook Group at this <a href="https://go.gov.sg/makeit" target="_blank">link</a>.<br>
-
-![QR Code2]()
 
 **Tinkering**
 
