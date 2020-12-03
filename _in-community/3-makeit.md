@@ -36,7 +36,7 @@ MakeIT aims to introduce Making and Innovation to the general public by way of 5
  5. Lasercutting (coming soon)
    * The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering.<br>
    
- #### Services
+#### Services
  
  MakeIT at Libraries offers the following public services:<br>
  
