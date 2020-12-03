@@ -21,19 +21,19 @@ Programmes and activities are jointly arranged by NLB and IMDA, covering both te
 
 MakeIT aims to introduce Making and Innovation to the general public by way of 5 areas:<br>
 1. 3D Printing
-  *Introduces additive manufacturing as a rapid, reliable method to craft, create and prototype. Curriculum covers foundational understanding of this method of fabrication, 3D modelling, and hands-on usage of Printers using PLA filament material.<br>
+  * Introduces additive manufacturing as a rapid, reliable method to craft, create and prototype. Curriculum covers foundational understanding of this method of fabrication, 3D modelling, and hands-on usage of Printers using PLA filament material.<br>
 
 2. Robotics & Coding
-  *Explore the world of coding for robotics and microcontrollers. Curriculum is available for Micro:bit and Arduino platforms, with supporting robotic kits that allow in-person trial and testing.
+  * Explore the world of coding for robotics and microcontrollers. Curriculum is available for Micro:bit and Arduino platforms, with supporting robotic kits that allow in-person trial and testing.
   
  3. Upcycling
-   *MakeIT aims to grow awareness of sustainable innovation and creation, and encourages Making with upcycling in mind. Topics available include repair and home-hacks, and lo-fi prototyping.
+   * MakeIT aims to grow awareness of sustainable innovation and creation, and encourages Making with upcycling in mind. Topics available include repair and home-hacks, and lo-fi prototyping.
    
  4. Sewing 
-  *No longer solely the domain of auntie seamstresses, sewing goes back to its roots in material reinforcement and binary weaving, to bring new light to modern day digital fabrication and use of materials. Classes offered include traditional techniques as well as integration of tech, such as wearables and conductive materials. 
+  * No longer solely the domain of auntie seamstresses, sewing goes back to its roots in material reinforcement and binary weaving, to bring new light to modern day digital fabrication and use of materials. Classes offered include traditional techniques as well as integration of tech, such as wearables and conductive materials. 
  
  5. Lasercutting (coming soon)
-   *The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering. 
+   * The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering. 
    
  #### Services
  
