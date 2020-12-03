@@ -5,6 +5,7 @@ permalink: /in-community/makeit/
 breadcrumb: MakeIT
 collection_name: in-community
 ---
+
 ### Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
 
 ![pixel labs image1](/images/in-community/overview/pixel-labs-image2copy.jpg)
