@@ -61,7 +61,7 @@ For more information on accessing these services, please visit any of the core b
 MakeIT welcomes schools, educators and corporates to come and learn more about Making and Makerspaces. Regular learning journeys are available throughout the year. 
 Parties interested to request for a learning journey for their organization may do so at this <a href="https://go.gov.sg/makeit-learningjourney" target="_blank">link</a>.<br>
 
-*Some services may not be currently available due to COVID safety measures.
+*Some services may not be currently available due to COVID safety measures.*
 
 #### MakeIT at Libraries Venues
 
