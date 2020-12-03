@@ -33,18 +33,19 @@ MakeIT aims to introduce Making and Innovation to the general public by way of 5
   * No longer solely the domain of auntie seamstresses, sewing goes back to its roots in material reinforcement and binary weaving, to bring new light to modern day digital fabrication and use of materials. Classes offered include traditional techniques as well as integration of tech, such as wearables and conductive materials. 
  
  5. Lasercutting (coming soon)
-   * The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering. 
+   * The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering.<br>
    
  #### Services
  
  MakeIT at Libraries offers the following public services:<br>
  
 **Workshops and Classes**
+
 MakeIT offers regular physical workshops at the core makerspaces, as well as pop-ups in various libraries and locations. Please visit this <a href="https://go.gov.sg/nlb-makeit-events" target="_blank">link</a> for the latest listing and registration. NLB library membership is required.<br>
 
 ![QR Code1]()
 
-**Online Live Sessions**
+**Online Live Sessions**<>
 
 While not everything can be done online due to the hands-on nature of Maker education, MakeIT offers a selection of curated digital workshops on Facebook. For more information, visit the MakeIT Facebook Group at this <a href="https://go.gov.sg/makeit" target="_blank">link</a>.<br>
 
