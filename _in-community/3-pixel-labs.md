@@ -42,29 +42,61 @@ MakeIT aims to introduce Making and Innovation to the general public by way of 5
 **Workshops and Classes**
 MakeIT offers regular physical workshops at the core makerspaces, as well as pop-ups in various libraries and locations. Please visit this <a href="https://go.gov.sg/nlb-makeit-events" target="_blank">link</a> for the latest listing and registration. NLB library membership is required.<br>
 
+![QR Code1]()
 
+**Online Live Sessions**
 
- 
-#### Locations of PIXEL Labs @ NLB <br>
-**Jurong Regional Library**<br>
+While not everything can be done online due to the hands-on nature of Maker education, MakeIT offers a selection of curated digital workshops on Facebook. For more information, visit the MakeIT Facebook Group at this <a href="https://go.gov.sg/makeit" target="_blank">link</a>.<br>
+
+![QR Code2]()
+
+**Tinkering**
+
+To promote self-learning and learning-by-doing, MakeIT welcomes members of the public to do on-site tinkering at the makerspaces. Workspace, tools, and equipment such as laptops, 3D printers, robotic kits and sewing machines are available at no cost for use.<br> 
+
+For more information on accessing these services, please visit any of the core branches of MakeIT, and request to speak to the Centre Manager.<br>
+
+**Learning Journeys**
+
+MakeIT welcomes schools, educators and corporates to come and learn more about Making and Makerspaces. Regular learning journeys are available throughout the year. 
+Parties interested to request for a learning journey for their organization may do so at this <a href="https://go.gov.sg/makeit-learningjourney" target="_blank">link</a>.<br>
+
+*Some services may not be currently available due to COVID safety measures.
+
+#### MakeIT at Libraries Venues
+
+**MakeIT at Jurong**
+
+Jurong Regional Library<br> 
+Level 2,<br> 
 21 Jurong East Central 1<br>
-Level 2, Singapore 609732<br>
+Singapore 609732<br>
+<a href="https://go.gov.sg/makeit-jurong" target="_blank">Map</a><br>
 
-**Tampines Regional Library**<br>
+**MakeIT at Tampines**
+
+Tampines Regional Library<br>
+Level 4,<br>
 1 Tampines Walk, Our Tampines Hub<br>
-Level 4, Singapore 529684<br>
+Singapore 529684<br>
+<a href="https://go.gov.sg/makeit-tampines" target="_blank">Map</a><br>
 
-For Programmes & Workshops at PIXEL Labs@NLB, please visit <a href="https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/pixel%20labs" target="_blank">GoLibrary.</a>
+**MakeIT at Woodlands**
+
+Woodlands Regional Library<br>
+Level 3,<br>
+900 South Woodlands Drive,<br> 
+Woodlands Civic Centre,<br>
+Singapore 730900<br>
+<a href="https://go.gov.sg/makeit-woodlands" target="_blank">Map</a><br>
 
 
-#### Operating Hours<br>
-**Jurong Regional Library**<br>
-Wed to Sun from 12pm – 8.30pm<br>
-Closed on Mon & Tue and Public Holidays including eve of Christmas, New Year and Chinese New Year.<br>
+#### Opening Hours
 
-**Tampines Regional Library**<br>
-Mon to Sun from 12pm – 8.30pm<br>
-Closed on Public Holidays including eve of Christmas, New Year and Chinese New Year.<br>
+Wed to Sun : 12.00pm – 8.30pm<br>
+
+Closed to public on Mon and Tue. Closed on Public Holidays, including eve of Christmas, New Year and Chinese New Year.<br>
+
 
 #### Tinkering hours<br>
 
