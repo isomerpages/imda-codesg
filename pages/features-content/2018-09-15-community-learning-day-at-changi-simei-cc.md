@@ -41,4 +41,4 @@ Platforms like Community Learning Day @ Changi Simei and Changi Simei Makerspace
 ![community-learning-day-at-changi-simei-cc](/images/stories/features/community-learning-day-at-changi-simei-cc/community-learning-day-at-changi-simei-cc5.jpg)<br>
 <sub>The full activity lineup for Community Learning Day</sub>
 
-Click <a href="https://codesg.imda.gov.sg/pages/features-content/2017-07-08-singapores-first-digital-garage-to-grow-a-community-of-1000-digital-makers/" target="_blank">here</a> to read about the first “Digital Garage” for the community, a collaboration between IMDA and Tanjong Pagar Community Club, another community initiative aimed at fostering a spirit of innovation, experimentation, creativity and collaboration.
+Click <a href="https://codesg.imda.gov.sg/singapores-first-digital-garage-to-grow-a-community-of-1000-digital-makers/" target="_blank">here</a> to read about the first “Digital Garage” for the community, a collaboration between IMDA and Tanjong Pagar Community Club, another community initiative aimed at fostering a spirit of innovation, experimentation, creativity and collaboration.
