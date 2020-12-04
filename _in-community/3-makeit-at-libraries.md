@@ -16,6 +16,8 @@ collection_name: in-community
 
 Formerly known as PIXEL Labs@NLB, the renamed **MakeIT at Libraries** offer library users a dedicated space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker and Create, in both digital and traditional fabrication.<br>
 
+![Image2](/images/in-community/pixel-labs/image2.jpg)
+
 Learn how creativity and innovation is supported by emerging fabrication tech such as 3D printing and Robotics, and why such skills are a key gateway for 21st century skills such as problem solving, and design thinking.<br>
 
 Programmes and activities are jointly arranged by NLB and IMDA, covering both tech and non-tech areas such as hands-on workshops across 5 signature areas. The curriculum emphasizes heavy hands-on tinkering and learn-by-doing and is aimed at everyone from Secondary school students to Seniors.<br>
