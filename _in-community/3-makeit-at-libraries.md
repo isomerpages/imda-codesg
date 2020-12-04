@@ -58,6 +58,10 @@ While not everything can be done online due to the hands-on nature of Maker educ
 
 To promote self-learning and learning-by-doing, MakeIT welcomes members of the public to do on-site tinkering at the makerspaces. Workspace, tools, and equipment such as laptops, 3D printers, robotic kits and sewing machines are available at no cost for use.<br> 
 
+![Image4](/images/in-community/pixel-labs/image4.jpg)
+
+![Image5](/images/in-community/pixel-labs/image5.jpg)
+
 For more information on accessing these services, please visit any of the core branches of MakeIT, and request to speak to the Centre Manager.<br>
 
 **Learning Journeys**
