@@ -6,9 +6,11 @@ breadcrumb: MakeIT at Libraries
 collection_name: in-community
 ---
 
-### Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
+## MakeIT at Libraries
 
-![pixel labs image1](/images/in-community/overview/pixel-labs-image2copy.jpg)
+![Image1](/images/in-community/pixel-labs/image1.jpg)
+
+### Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
 
 #### Discover digital making at MakeIT, our library makerspaces.
 
