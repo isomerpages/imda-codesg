@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: MakeIT
-permalink: /in-community/makeit/
-breadcrumb: MakeIT
+title: MakeIT at Libraries
+permalink: /in-community/makeit-at-libraries/
+breadcrumb: MakeIT at Libraries
 collection_name: in-community
 ---
 
@@ -12,7 +12,7 @@ collection_name: in-community
 
 #### Discover digital making at MakeIT, our library makerspaces.
 
-Formerly known as PIXEL Labs@NLB, the renamed MakeIT at Libraries offer library users a dedicated space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker and Create, in both digital and traditional fabrication.<br>
+Formerly known as PIXEL Labs@NLB, the renamed **MakeIT at Libraries** offer library users a dedicated space with tools, equipment, and hardware kits that enable individuals to Learn, Tinker and Create, in both digital and traditional fabrication.<br>
 
 Learn how creativity and innovation is supported by emerging fabrication tech such as 3D printing and Robotics, and why such skills are a key gateway for 21st century skills such as problem solving, and design thinking.<br>
 
