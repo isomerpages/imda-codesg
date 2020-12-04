@@ -19,6 +19,18 @@ Other projects are supported by **Our Singapore Fund for Digital Readiness (OSF-
 Some of the coding-related projects are shown below. For the full list of projects that are supported by OSF-DR, what the fund can support and how to apply, please click <a href="https://www.imda.gov.sg/programme-listing/our-singapore-fund-for-digital-readiness" target="_blank">here</a>. 
 
 
+#### **Lighthouse Program**
+
+
+**Vivita Singapore** wants to empower children with digital and making skills to create the future by providing them with an environment and access to proper guidance from industry professionals in order to inspire them, help them ideate and mentor them to co-create solutions.<br>
+
+In the first part of the programme, participants will receive new inspiration from forerunners and change-makers; work with other students across Singapore to brush up their ideas in facilitated ideation workshops.<br>
+
+Participants who are committed and keen to develop their ideas can participate in the second part of the program, where they will make and co-create with the support of industry professionals and mentors, and showcase their prototypes to the community. 
+
+Find out more on their <a href="https://lighthouse.vivita.sg/" target="_blank">website</a>; or follow them on <a href="https://m.facebook.com/vivistop.orchard" target="_blank">Facebook</a>, <a href="https://www.instagram.com/vivistop_orchard/" target="_blank">Instagram</a>, <a href="http://twitter.com/VivistopOrchard" target="_blank">Twitter</a> and <a href="https://www.youtube.com/channel/UCDUi0T9E-V2wdSLeen_3vkQ" target="_blank">Youtube</a> for updates!
+
+
 #### **Tech@Shopee: Coding for Youths**
 
 
