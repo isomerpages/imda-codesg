@@ -22,6 +22,8 @@ Learn how creativity and innovation is supported by emerging fabrication tech su
 
 Programmes and activities are jointly arranged by NLB and IMDA, covering both tech and non-tech areas such as hands-on workshops across 5 signature areas. The curriculum emphasizes heavy hands-on tinkering and learn-by-doing and is aimed at everyone from Secondary school students to Seniors.<br>
 
+![Image3](/images/in-community/pixel-labs/image3.jpg)
+
 #### MakeIT Signature Areas
 
 MakeIT aims to introduce Making and Innovation to the general public by way of 5 areas:<br>
