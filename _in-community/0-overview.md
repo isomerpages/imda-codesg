@@ -23,7 +23,7 @@ A series of infocomm-themed competitions designed to expose students to areas su
 
 ---
 
-#### **[PIXEL Labs](/in-community/pixel-labs/)** <br>
+#### **[MakeIT at Libraries](/in-community/makeit-at-libraries/)** <br>
 
 Aims to ignite passion for innovative thinking and experimentation by encouraging passionate individuals to get hands on with technology. 
 
