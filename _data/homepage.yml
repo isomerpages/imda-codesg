@@ -37,17 +37,17 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: Code For Fun
-    section-description: From next year, all upper primary school students will get to experience our Code For Fun enrichment programme. Curious to know what's in store? Click on the link below to watch a preview video by The Straits Times!
-    section-more-button: Watch now
-    section-more-button-url: https://www.facebook.com/129011692114/posts/10156242873372115/
-    section-image-path: /images/home-page/info-sections/cff-02.png
+    section-subtitle: MakeIT at Libraries
+    section-description: Explore the world of digital fabrication with MakeIT at Libraries, a joint initiative by NLB and IMDA, that aims to encourage Making using Tech.
+    section-more-button: Click here
+    section-more-button-url: https://codesg.imda.gov.sg/in-community/makeit-at-libraries/
+    section-image-path: /images/home-page/image4.jpg
    
     
     
   - section-title: 
     section-subtitle: Lighthouse Program
-    section-description: A program to empower children with digital and making skills to create the future. 
+    section-description: Supported by Our Singapore Fund for Digital Readiness, Vivita Singapore wants to empower children with digital and making skills and providing them with a conducive environment and access to proper guidance from industry professionals.
     section-more-button: Click here
     section-more-button-url: /in-community/by-community-for-community/
     section-image-path: /images/home-page/Vivita-Singapore-1.jpg
