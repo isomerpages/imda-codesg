@@ -23,6 +23,8 @@ Some of the coding-related projects are shown below. For the full list of projec
 
 ![Lighthouse Program](/images/in-community/bycommunity-forcommunity/Vivita-Singapore-1.jpg)
 
+Supported by Our Singapore Fund for Digital Readiness, **Vivita Singapore** wants to empower children with digital and making skills and providing them with a conducive environment and access to proper guidance from industry professionals. 
+
 **Vivita Singapore** wants to empower children with digital and making skills to create the future by providing them with an environment and access to proper guidance from industry professionals in order to inspire them, help them ideate and mentor them to co-create solutions.<br>
 
 In the first part of the programme, participants will receive new inspiration from forerunners and change-makers; work with other students across Singapore to brush up their ideas in facilitated ideation workshops.<br>
