@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Code For Fun Primary
 permalink: /in-schools/code-for-fun/primary/
-breadcrumb: Primary
+breadcrumb: Code For Fun
 collection_name: in-schools
 second_nav_title: Code For Fun
 ---
