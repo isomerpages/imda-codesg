@@ -4,7 +4,6 @@ title: Code For Fun
 permalink: /in-schools/code-for-fun/overview/
 breadcrumb: Code For Fun
 collection_name: in-schools
-second_nav_title: Code For Fun
 ---
 
 #### Code for Fun Enrichment Programme aims to increase primary and secondary school students' exposure to computational thinking and making. 
