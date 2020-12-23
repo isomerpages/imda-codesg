@@ -17,3 +17,5 @@ The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is offer
 * Help build an entire generation of workforce inculcated with basic coding and computational thinking skills. <br>
 
 Click [here](/stories/#codeforfun) to view the media coverage.
+
+For more information, refer to [Code for Fun Primary](/in-schools/code-for-fun/primary/) and [Code for Fun Secondary](/in-schools/code-for-fun/secondary/).
