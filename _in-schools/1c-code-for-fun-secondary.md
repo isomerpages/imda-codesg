@@ -6,3 +6,19 @@ breadcrumb: Secondary
 collection_name: in-schools
 second_nav_title: Code For Fun
 ---
+
+#### Block-based
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+#### Text-based
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
