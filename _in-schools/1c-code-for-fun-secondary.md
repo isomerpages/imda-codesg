@@ -11,7 +11,7 @@ second_nav_title: Code For Fun
 
 Curabitur sem ex, fringilla nec ipsum non, laoreet interdum mauris. In blandit egestas dui non rhoncus. Proin vel nunc tortor. In scelerisque laoreet ullamcorper. Donec dapibus ligula vitae mi blandit interdum. Phasellus bibendum metus massa, ut auctor nulla hendrerit id. Vestibulum purus nulla, rutrum ut accumsan quis, vulputate at sem.
 
-View block-based or [text based training](#text).
+View [block-based](#block) or [text-based](#text) training below.
 
 #### <a name="block"></a> Block-based
 
@@ -21,8 +21,6 @@ View block-based or [text based training](#text).
 |        |      |          |               |                    |         |
 |        |      |          |               |                    |         |
 
-Jump back to [top](#top)
-
 #### <a name="text"></a> Text-based
 
 | Vendor | Kits | Platform | Training Plan | Final Project Work | Contact |
@@ -31,5 +29,4 @@ Jump back to [top](#top)
 |        |      |          |               |                    |         |
 |        |      |          |               |                    |         |
 
-Back to [Block-based](#block)
-Back to [top](#top)
+Go back to [block-based](#block) training or [top](#top)
