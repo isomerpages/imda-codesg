@@ -1,8 +1,6 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Code For Fun Primary
 permalink: /in-schools/code-for-fun/primary/
-breadcrumb: Primary
-collection_name: in-schools
-second_nav_title: Code For Fun
+breadcrumb: Code For Fun Primary
 ---
