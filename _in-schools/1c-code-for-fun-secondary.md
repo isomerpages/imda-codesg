@@ -19,7 +19,8 @@ View [block-based](#block) or [text-based](#text) training below.
 |        |      |          |               |                    |         |
 |        |      |          |               |                    |         |
 
-</details>#### <a name="text"></a> Text-based
+</details>
+#### <a name="text"></a> Text-based
 
 | Vendor | Kits | Platform | Training Plan | Final Project Work | Contact |
 |--------|------|----------|---------------|--------------------|---------|
