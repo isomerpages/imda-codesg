@@ -11,7 +11,7 @@ Curabitur sem ex, fringilla nec ipsum non, laoreet interdum mauris. In blandit e
 
 View [block-based](#block) or [text-based](#text) training below.
 
-#### <a name="block"></a> <details><summary>Block-based</summary>
+<details>#### <a name="block"></a> <summary>Block-based</summary>
 
 | Vendor | Kits and add-ons required | Platform | Training Plan | Final Project Work | Contact |
 |--------|----------|----------|---------------|--------------------|---------|
@@ -20,6 +20,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |        |      |          |               |                    |         |
 
 </details>
+
 #### <a name="text"></a> Text-based
 
 | Vendor | Kits | Platform | Training Plan | Final Project Work | Contact |
