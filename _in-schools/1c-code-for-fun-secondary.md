@@ -2,7 +2,7 @@
 layout: simple-page
 title: Code For Fun Secondary
 permalink: /in-schools/code-for-fun/secondary/
-breadcrumb: Secondary
+breadcrumb: Code For Fun Secondary
 ---
 
 #### <a name="top"></a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultricies sed ligula in sollicitudin. Donec aliquet eros vitae molestie laoreet. Fusce ex nisl, condimentum sed risus quis, sodales commodo urna. Suspendisse nec nisi eget libero semper tempor. 
