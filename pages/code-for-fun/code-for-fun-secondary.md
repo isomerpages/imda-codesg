@@ -28,7 +28,8 @@ View [block-based](#block) or [text-based](#text) training below.
  
 | Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. |
 |---------|
-||</summary>
+||
+</summary>
 
 | Programme Code | Kits | Platform | Training Plan | More Info|
 |----------------|---------------------------|----------|---------|---|
