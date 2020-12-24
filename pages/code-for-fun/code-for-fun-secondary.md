@@ -38,7 +38,8 @@ View [block-based](#block) or [text-based](#text) training below.
 
 <details><summary>EP-TEC
 | Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. |
-|---------|</summary>
+|---------|
+||</summary>
  
 | Programme Code | Kits and add-ons required | Platform | Training Plan | Final Project Work |
 |----------------|---------------------------|----------|---------------|--------------------|
