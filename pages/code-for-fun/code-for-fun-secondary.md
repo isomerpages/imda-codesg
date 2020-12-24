@@ -36,7 +36,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |CAROLINA-B-MB|•Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|\
 </details>
 
-<details><summary>
+<details><summary>t
 | Vendor | Training Plan | 
 |--------|---------------|
 |EP-TEC|This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can automated through the use of a microcontroller and circuitry sensors to capture readings and automate a system flow.|</summary>
