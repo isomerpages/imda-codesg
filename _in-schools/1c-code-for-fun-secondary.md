@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Code For Fun Secondary
-permalink: /in-schools/code-for-fun/secondary/
+permalink: /in-schools/code-for-fun/secondary2/
 breadcrumb: Code For Fun Secondary
 ---
 
