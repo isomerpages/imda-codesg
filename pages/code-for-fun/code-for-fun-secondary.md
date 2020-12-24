@@ -22,10 +22,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 | EP-TEC | Contact | 
 |--------|---------|
-|Name:  Eric Chew
-Designation: GM
-Email: ericchew@epasia.cc
-Contact number: +65 92370851|
+|Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851|
 
 | Programme Code | Kits and add-ons required | Platform | Training Plan | Final Project Work | Contact |
 |----------------|---------------------------|----------|---------------|--------------------|---------|
