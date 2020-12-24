@@ -28,11 +28,11 @@ View [block-based](#block) or [text-based](#text) training below.
 |----------------|---------------------------|----------|---------------|--------------------|
 |EP-B-Sensory|Micro:bit + Add-on Sensory accessories|Makecode|This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can automated through the use of a microcontroller and circuitry sensors to capture readings and automate a system flow.<br><br>Student will be creating mini projects from how our phones can automatically detect our environment, how to finetune the brightness of our screens, how the knob-type switch controls our appliances, creating data logging or sending secret messages through radio function.<br><br>In the process, student will also be acquiring knowledge on design thinking as they plan and try out the mini projects.|The final project for the course involves the use of Design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes through the exhaust emission and factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.|
 
-#### EP-TEC 
+#### 
 
-| Contact | Details | 
-|---------|---------|
-|Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851|
+| EP-TEC  | Details | |
+|---------|---------|---|
+|Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851||
 
 | Programme Code | Kits and add-ons required | Platform | Training Plan | Final Project Work |
 |----------------|---------------------------|----------|---------------|--------------------|
