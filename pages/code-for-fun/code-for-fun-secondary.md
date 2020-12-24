@@ -20,7 +20,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 | Programme Code | Kits and add-ons required | Platform | Contact |
 |----------------|---------------------------|----------|---------|
-|CAROLINA-B-MB|•Micro:bit|**Name:** Kerk Wee Chong<br><br>**Designation:** Programme <wbr>Director<br><br>**Email:** enrichmentprogrammes<wbr>@carolina.com.sg<br><br>**Contact:** 98575875<br><br>**Tel:** 64635312|
+|CAROLINA-B-MB|•Micro:bit|Makecode|**Name:** Kerk Wee Chong<br><br>**Designation:** Programme <wbr>Director<br><br>**Email:** enrichmentprogrammes<wbr>@carolina.com.sg<br><br>**Contact:** 98575875<br><br>**Tel:** 64635312|
 
 | EP-TEC | Contact | 
 |--------|---------|
