@@ -24,7 +24,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 
 #### CAROLINA
-<details><summary><b>CAROLINA-B-MB/b>
+<details><summary><b>CAROLINA-B-MB</b>
  
 | Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. |
 |---------|
