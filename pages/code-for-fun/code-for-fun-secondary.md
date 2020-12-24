@@ -30,9 +30,9 @@ View [block-based](#block) or [text-based](#text) training below.
 
 <details><summary>#### EP-TEC</summary>
 
-| Contact  | Details | |
-|---------|---------|---|
-|Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851||
+| Contact  | Details | | |
+|---------|---------|---|---|
+|Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851|||
 
 | Programme Code | Kits and add-ons required | Platform | Training Plan | Final Project Work |
 |----------------|---------------------------|----------|---------------|--------------------|
