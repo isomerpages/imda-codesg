@@ -71,7 +71,7 @@ View [block-based](#block) or [text-based](#text) training below.
     <tr>
       <td>CAROLINA-B-MB</td>
       <td align="center">Micro:bit</td>
-      <td>Makecode</td>
+      <td align="center">Makecode</td>
       <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> enrichmentprogrammes@carolina.com.sg<br><b>Mobile:</b> 98575875</td>
     </tr>
     <tr>
