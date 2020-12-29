@@ -81,7 +81,8 @@ View [block-based](#block) or [text-based](#text) training below.
       <td>ZENITANT-B-M5StickC</td>
       <td align="center">M5StickC</td>
       <td align="center">UiFlow:Block</td>
-      <td>Philip Kong (Director)<br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711</td>
+       <td><b>Philip Kong (Director)</b><br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br>
+        <b>Muhd Nizam (BD Manager)</b><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
     </tr>
            <tr>
       <th colspan="1">Addons Required</th>
