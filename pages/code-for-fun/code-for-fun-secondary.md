@@ -138,18 +138,18 @@ Go back to [block-based](#block) training or [top](#top)
 <table>
   <thead>
     <tr>
-      <th>Programme Code</th>
       <th>Kits</th>
       <th>Platform</th>
       <th>Contact</th>
+      <th>Return to Carolina</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>CAROLINA-B-MB</td>
       <td align="center">Micro:bit (and other add-ons)</td>
       <td align="center">Makecode</td>
       <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
+      <td>[+](#carolinabmbtop)</td>
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
