@@ -146,10 +146,10 @@ Go back to [block-based](#block) training or [top](#top)
   </thead>
   <tbody>
     <tr>
-      <td align="center">Micro:bit (and other add-ons)</td>
+      <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
       <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
-      <td>[+](#carolinabmbtop)</td>
+      <td><a href="#carolinabmbtop">+</a></td>
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
