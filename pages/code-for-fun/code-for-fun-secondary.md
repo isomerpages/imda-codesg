@@ -40,9 +40,7 @@ View [block-based](#block) or [text-based](#text) training below.
 <td></td>
 </tr>
 </tbody>
-</table>
-<br />
-<table>
+</table><table>
 <tbody>
 <tr>
 <td></td>
