@@ -33,7 +33,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 
 
-### Carolina
+### ZENITANT
 
 <table>
   <thead>
@@ -46,18 +46,18 @@ View [block-based](#block) or [text-based](#text) training below.
   </thead>
   <tbody>
     <tr>
-      <td>CAROLINA-B-MB</td>
-      <td align="center">Micro:bit (and other add-ons)</td>
-      <td align="center">Makecode</td>
-      <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
+      <td>ZENITANT-B-M5GO</td>
+      <td align="center">M5GO Prototyping Kit</td>
+      <td align="center">UiFlow:Block</td>
+      <td>Philip Kong (Director)<br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot</td>
+      <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly.   </td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
   </tr>
   </tbody>
 </table>
