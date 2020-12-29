@@ -11,6 +11,12 @@ Curabitur sem ex, fringilla nec ipsum non, laoreet interdum mauris. In blandit e
 
 View [block-based](#block) or [text-based](#text) training below.
 
+[**Block-based**](#block)
+
+Carolina | EP-TEC | Zenitant
+
+[**Text-based**](#text)
+
 ### <a name="block"></a> Block-based
 
 
