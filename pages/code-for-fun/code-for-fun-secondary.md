@@ -11,7 +11,7 @@ Curabitur sem ex, fringilla nec ipsum non, laoreet interdum mauris. In blandit e
 
 View [block-based](#block) or [text-based](#text) training below.
 
-[**Block-based**](#block): [Carolina](#carolinabmbtop) | EP-TEC | [Zenitant](#zenitantblocktop)
+[**Block-based**](#block): [Carolina](#carolinabmbtop) | [EP-TEC](#eptecblocktop) | [Zenitant](#zenitantblocktop)
 
 [**Text-based**](#text): 
 
@@ -133,7 +133,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 
 
-#### EP-TEC
+#### EP-TEC <a name="eptecblocktop"></a>
 
 | Contact  | Details |
 |---------|---------|
