@@ -29,38 +29,11 @@ View [block-based](#block) or [text-based](#text) training below.
 
 
 
-<table>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table><table>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+#### OPTION TWO
 
+
+
+### Carolina
 
 <table>
   <thead>
@@ -90,25 +63,26 @@ View [block-based](#block) or [text-based](#text) training below.
 </table>
 
 
+
+
+#### OPTION THREE
+
+
 #### CAROLINA
 <details><summary><b>CAROLINA-B-MB</b> Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming.</summary>
-
-| Programme Code | Kits and add-ons required | Platform | Contact |
-|----------------|---------------------------|----------|---------|
-|CAROLINA-B-MB|•Micro:bit<br>•Expansion board<br>•Microusb<br>•Breakboard<br>•2 ports Battery holder<br>•4 ports battery holder<br>•Steering gear module<br>•Buzzer sensor<br>•Photoresistance sensor<br>•Dupont line<br>•Male male connecting wires<br>•Female female connecting wires<br>•Vibrating sensor<br>•Crocodile clips<br>• LEDs<br>•IOT expansion board<br>•IOT Gravity Module<br>•Magnets<br>•Box|Makecode|**Name:** Kerk Wee Chong<br><br>**Designation:** Programme <wbr>Director<br><br>**Email:** enrichmentprogrammes<wbr>@carolina.com.sg<br><br>**Contact:** 98575875<br><br>**Tel:** 64635312|
-
-|Training Plan| Final Project Work |
-|-------------|--------------------|
-|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System|
-</details>
 
 |||
 |---|---|
 |Kits|Micro:bit|
+|Platform|Makecode|
+|Training Plan|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|
+|Project Work|For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System||
+|Contact|**Name:** Kerk Wee Chong<br><br>**Designation:** Programme <wbr>Director<br><br>**Email:** enrichmentprogrammes@carolina.com.sg<br><br>**Contact:** 98575875<br><br>**Tel:** 64635312|
 
-| Programme Code | Kits | Platform | Training Plan |Contact|
-|---------------------------|----------|---------|---|
-|CAROLINA-B-MB|Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|**Name:** Kerk Wee Chong<br><br>**Designation:** Programme <wbr>Director<br><br>**Email:** enrichmentprogrammes@carolina.com.sg<br><br>**Contact:** 98575875<br><br>**Tel:** 64635312|
+
+
+
+#### OPTION FOUR
 
 
 #### EP-TEC
