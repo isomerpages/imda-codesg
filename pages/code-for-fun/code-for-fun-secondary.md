@@ -11,11 +11,9 @@ Curabitur sem ex, fringilla nec ipsum non, laoreet interdum mauris. In blandit e
 
 View [block-based](#block) or [text-based](#text) training below.
 
-[**Block-based**](#block)
+[**Block-based**](#block): [Carolina](#carolinabmbtop) | EP-TEC | [Zenitant](#zenitantblocktop)
 
-Carolina | EP-TEC | Zenitant
-
-[**Text-based**](#text)
+[**Text-based**](#text): 
 
 ### <a name="block"></a> Block-based
 
@@ -39,7 +37,7 @@ Carolina | EP-TEC | Zenitant
 
 
 
-### ZENITANT
+### ZENITANT <a name="zenitantblocktop"></a>
 
 <table>
   <thead>
