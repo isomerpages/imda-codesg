@@ -149,7 +149,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
       <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
-      <td><a href="#carolinabmbtop">+</a></td>
+      <td align="center"><a href="#carolinabmbtop">+</a></td>
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
