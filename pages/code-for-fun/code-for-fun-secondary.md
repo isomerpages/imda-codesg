@@ -61,18 +61,19 @@ View [block-based](#block) or [text-based](#text) training below.
 <table>
   <thead>
     <tr>
-      <th colspan="2">Column one and two</th>
-      <th>Column three</th>
+      <th>Programme Code</th>
+      <th>Kits</th>
+      <th>Platform</th>
+      <th>More Info</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" colspan="2">A large cell</td>
+      <td>
       <td>a smaller cell</td>
     </tr>
     <tr>
-      <!-- note that this row only has _one_ td, since the preceding row
-                     takes up some of this row -->
+      <td>
       <td>Another small cell</td>
     </tr>
   </tbody>
