@@ -22,7 +22,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 ### Carolina <a name="carolinabmbtop"></a>
 
-| Programme Code | Kits | Platform | Training Plan | More Info |
+| Programme Code | Kit | Platform | Training Plan | More Info |
 |:----------------:|:------:|:----------:|---------|:---:|
 |CAROLINA-B-MB|Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|[+](#carolinabmb)|
 
@@ -39,7 +39,7 @@ View [block-based](#block) or [text-based](#text) training below.
   <thead>
     <tr>
       <th>Programme Code</th>
-      <th>Kits</th>
+      <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
     </tr>
@@ -70,7 +70,7 @@ View [block-based](#block) or [text-based](#text) training below.
   <thead>
     <tr>
       <th>Programme Code</th>
-      <th>Kits</th>
+      <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
     </tr>
@@ -110,7 +110,7 @@ View [block-based](#block) or [text-based](#text) training below.
 
 |||
 |---|---|
-|Kits|Micro:bit|
+|Kit|Micro:bit|
 |Platform|Makecode|
 |Training Plan|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|
 |Project Work|For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System||
@@ -133,7 +133,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |---------|---------|
 |Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851|
 
-| Programme Code | Kits and add-ons required | Platform | Training Plan | Final Project Work |
+| Programme Code | Kit and add-ons required | Platform | Training Plan | Final Project Work |
 |----------------|---------------------------|----------|---------------|--------------------|
 |EP-B-Sensory|Micro:bit + Add-on Sensory accessories|Makecode|This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can automated through the use of a microcontroller and circuitry sensors to capture readings and automate a system flow.<br><br>Student will be creating mini projects from how our phones can automatically detect our environment, how to finetune the brightness of our screens, how the knob-type switch controls our appliances, creating data logging or sending secret messages through radio function.<br><br>In the process, student will also be acquiring knowledge on design thinking as they plan and try out the mini projects.|The final project for the course involves the use of Design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes through the exhaust emission and factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.|
 
@@ -153,7 +153,7 @@ Go back to [block-based](#block) training or [top](#top)
 <table>
   <thead>
     <tr>
-      <th>Kits</th>
+      <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
       <th>Return to Carolina</th>
