@@ -135,6 +135,33 @@ Go back to [block-based](#block) training or [top](#top)
 
 <a name="carolinabmb"></a> **CAROLINA-B-MB**
 
+<table>
+  <thead>
+    <tr>
+      <th>Programme Code</th>
+      <th>Kits</th>
+      <th>Platform</th>
+      <th>Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CAROLINA-B-MB</td>
+      <td align="center">Micro:bit (and other add-ons)</td>
+      <td align="center">Makecode</td>
+      <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
+  </tr>
+  </tbody>
+</table>
+
 |Kits | Accessories | Platform | Training Plan | Final Project |
 |:----:|:------:|:----------:|---------|---|
 |Micro:bit|Expansion board, Microusb, Breakboard, 2 ports Battery holder, 4 ports battery holder, Steering gear module, Buzzer sensor, Photoresistance sensor, Dupont line, Male male connecting wires, Female female connecting wires, Vibrating sensor, Crocodile clips,  LEDs, IOT expansion board, IOT Gravity Module, Magnets, Box|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System|
