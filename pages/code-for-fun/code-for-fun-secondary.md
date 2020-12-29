@@ -166,8 +166,4 @@ Go back to [block-based](#block) training or [top](#top)
   </tbody>
 </table>
 
-Back to [Carolina](#carolinabmbtop)
-
-|Training Plan| Final Project Work |
-|-------------|--------------------|
-|
+Return to [Carolina](#carolinabmbtop)
