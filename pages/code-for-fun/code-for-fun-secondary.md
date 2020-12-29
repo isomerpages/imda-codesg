@@ -47,9 +47,13 @@ View [block-based](#block) or [text-based](#text) training below.
   <tbody>
     <tr>
       <td>ZENITANT-B-M5GO</td>
-      <td align="center">M5GO Prototyping Kit</td>
+      <td align="center">M5Go IoT</td>
       <td align="center">UiFlow:Block</td>
       <td>Philip Kong (Director)<br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711</td>
+    </tr>
+               <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), 4xLego Blocks and Connectors, 1xBox</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -74,9 +78,14 @@ View [block-based](#block) or [text-based](#text) training below.
   <tbody>
     <tr>
       <td>ZENITANT-B-M5StickC</td>
-      <td align="center">M5StickC Prototyping Kit</td>
+      <td align="center">M5StickC</td>
       <td align="center">UiFlow:Block</td>
       <td>Philip Kong (Director)<br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711</td>
+    </tr>
+           <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xPIR Motion Sensor, 1xLight Unit with Photo-resistance, 1xRGB LED Unit, 1xM5StickC SERVO HAT, 1xUnbuckled Grove Cable, 10xBlokies (S), 5xBlokies (M), 1xBox
+</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
