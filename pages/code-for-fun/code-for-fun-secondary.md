@@ -135,6 +135,39 @@ View [block-based](#block) or [text-based](#text) training below.
   </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Programme Code</th>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ZENITANT-B-MB Prototyping</td>
+      <td align="center">Micro:bit</td>
+      <td align="center">Makecode</td>
+       <td><b>Philip Kong (Director)</b><br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br>
+        <b>Muhd Nizam (BD Manager)</b><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
+    </tr>
+           <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip, Crocodile Clips, Multiple Pin Jumper Wire
+1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5 x Medium and 10 x Small Cardboard Blokies, 1xBox</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions.  Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits. </td>
+  </tr>
+  </tbody>
+</table>
 <br><br><br><br><br>
 
 #### OPTION THREE
