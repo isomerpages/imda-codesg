@@ -53,7 +53,7 @@ View [block-based](#block) or [text-based](#text) training below.
   </thead>
   <tbody>
     <tr>
-      <td>ZENITANT-B-M5GO</td>
+      <td colspan="2">ZENITANT-B-M5GO</td>
       <td align="center">M5Go IoT</td>
       <td align="center">UiFlow</td>
     </tr>
