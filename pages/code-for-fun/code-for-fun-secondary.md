@@ -52,7 +52,7 @@ View [block-based](#block) or [text-based](#text) training below.
     <tr>
       <td>ZENITANT-B-M5GO</td>
       <td align="center">M5Go IoT</td>
-      <td align="center">UiFlow:Block</td>
+      <td align="center">UiFlow</td>
       <td><b>Philip Kong (Director)</b><br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br>
         <b>Muhd Nizam (BD Manager)</b><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
     </tr>
@@ -84,7 +84,7 @@ View [block-based](#block) or [text-based](#text) training below.
     <tr>
       <td>ZENITANT-B-M5StickC</td>
       <td align="center">M5StickC</td>
-      <td align="center">UiFlow:Block</td>
+      <td align="center">UiFlow</td>
        <td><b>Philip Kong (Director)</b><br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br>
         <b>Muhd Nizam (BD Manager)</b><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
     </tr>
@@ -95,7 +95,7 @@ View [block-based](#block) or [text-based](#text) training below.
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller and bit size sustainability and accessibility themed prototypes that may require wireless connectivity.  Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students can use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow to create different fun and practical prototypes quickly..   </td>
+      <td colspan="3">Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller and bit size sustainability and accessibility themed prototypes that may require wireless connectivity.  Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students can use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
@@ -104,6 +104,37 @@ View [block-based](#block) or [text-based](#text) training below.
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>Programme Code</th>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ZENITANT-B-MBStarter</td>
+      <td align="center">Micro:bit</td>
+      <td align="center">Makecode</td>
+       <td><b>Philip Kong (Director)</b><br><b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br>
+        <b>Muhd Nizam (BD Manager)</b><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
+    </tr>
+           <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1x9PG Micro Servo, 1xLED Module, Crocodile Clips, Multiple Pin Jumper Wire, 1xIO:Bit Basic Breakout Board with Buzzer and Battery Holder, 5 x Medium and 10 x Small Cardboard Blokies, 1xBox</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve real world problems.  Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as security box and servo lock leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
+  </tr>
+  </tbody>
+</table>
 
 
 #### OPTION THREE
