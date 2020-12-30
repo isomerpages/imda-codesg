@@ -46,28 +46,28 @@ View [block-based](#block) or [text-based](#text) training below.
 <table>
   <thead>
     <tr>
-      <th colspan="2">Programme Code</th>
+      <th colspan="1">Programme Code</th>
       <th colspan="1">Kit</th>
       <th colspan="1">Platform</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">ZENITANT-B-M5GO</td>
+      <td align="center">ZENITANT-B-M5GO</td>
       <td align="center">M5Go IoT</td>
       <td align="center">UiFlow</td>
     </tr>
                <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), 4xLego Blocks and Connectors, 1xBox</td>
+      <td colspan="2">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), 4xLego Blocks and Connectors, 1xBox</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly.   </td>
+      <td colspan="2">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly.   </td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
+      <td colspan="2">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
   </tr>
   </tbody>
 </table>
