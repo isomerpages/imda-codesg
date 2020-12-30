@@ -53,9 +53,9 @@ View [block-based](#block) or [text-based](#text) training below.
   </thead>
   <tbody>
     <tr>
-      <td>ZENITANT-B-M5GO</td>
-      <td align="center">M5Go IoT</td>
-      <td align="center">UiFlow</td>
+      <td align="center" colspan="3">ZENITANT-B-M5GO</td>
+      <td align="center" colspan="1">M5Go IoT</td>
+      <td align="center" colspan="1">UiFlow</td>
     </tr>
                <tr>
       <th colspan="2">Addons Required</th>
