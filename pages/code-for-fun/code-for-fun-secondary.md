@@ -46,14 +46,14 @@ View [block-based](#block) or [text-based](#text) training below.
 <table>
   <thead>
     <tr>
-      <th colspan="3">Programme Code</th>
-      <th colspan="1">Kit</th>
-      <th colspan="1">Platform</th>
+      <th width="30%">Programme Code</th>
+      <th>Kit</th>
+      <th>Platform</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" colspan="3">ZENITANT-B-M5GO</td>
+      <td align="center" width="30%">ZENITANT-B-M5GO</td>
       <td align="center">M5Go IoT</td>
       <td align="center">UiFlow</td>
     </tr>
