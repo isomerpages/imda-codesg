@@ -49,7 +49,6 @@ View [block-based](#block) or [text-based](#text) training below.
       <th>Programme Code</th>
       <th>Kit</th>
       <th>Platform</th>
-      <th>Contact</th>
     </tr>
   </thead>
   <tbody>
