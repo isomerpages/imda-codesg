@@ -46,7 +46,7 @@ View [block-based](#block) or [text-based](#text) training below.
 <table>
   <thead>
     <tr>
-      <th rowspan="2" colspan="1">ZENITANT-B-M5GO</th>
+      <th rowspan="2">ZENITANT-B-M5GO</th>
       <th colspan="1">Kit</th>
       <th colspan="1">Platform</th>
     </tr>
