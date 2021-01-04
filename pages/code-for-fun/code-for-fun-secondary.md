@@ -16,7 +16,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |Vendor| Programme Code | Kit | Platform | Training Plan | More Info |
 |:---:|:----------------:|:------:|:----------:|---------|:---:|
 |Carolina|CAROLINA-B-MB|Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|[**+**](#carolinabmb)|
-
+|Duck Learning|DUCK-B-MB+SB|Micro:bit + Strawbees|Makecode|a|a|
 
 
 ### ZENITANT <a name="zenitantblocktop"></a>
