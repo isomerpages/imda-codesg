@@ -43,7 +43,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |---------|---------|
 |<b>Philip Kong (Director)</b><br><br><br><b>Muhd Nizam (BD Manager)</b><br><br>|<b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024|
 
-<table>
+<table border="1">
   <thead>
     <tr>
       <th width="30%">Programme Code</th>
