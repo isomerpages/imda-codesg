@@ -24,7 +24,6 @@ View [block-based](#block) or [text-based](#text) training below.
 
 
 
-### Carolina <a name="carolinabmbtop"></a>
 
 |Vendor| Programme Code | Kit | Platform | Training Plan | More Info |
 |:---:|:----------------:|:------:|:----------:|---------|:---:|
