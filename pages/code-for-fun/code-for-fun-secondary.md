@@ -5,9 +5,15 @@ permalink: /in-schools/code-for-fun/secondary/
 breadcrumb: Code For Fun Secondary
 ---
 
-#### <a name="top"></a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultricies sed ligula in sollicitudin. Donec aliquet eros vitae molestie laoreet. Fusce ex nisl, condimentum sed risus quis, sodales commodo urna. Suspendisse nec nisi eget libero semper tempor. 
+#### <a name="top"></a> The Code for Fun Enrichment Programme for Secondary Schools complements existing MOE Computing Education efforts in secondary schools, such as the Computing-related Applied Learning Programmes (ALP) as well as the O-Level (elective) Computing subjects. The programme offers a 10-hour curriculum which
 
-Curabitur sem ex, fringilla nec ipsum non, laoreet interdum mauris. In blandit egestas dui non rhoncus. Proin vel nunc tortor. In scelerisque laoreet ullamcorper. Donec dapibus ligula vitae mi blandit interdum. Phasellus bibendum metus massa, ut auctor nulla hendrerit id. Vestibulum purus nulla, rutrum ut accumsan quis, vulputate at sem.
+-	focuses on computational thinking concepts including their application in the real world and in coding;
+-	incorporates elements of making and design prototyping through the use of microcontrollers; and
+-	reinforces students’ understanding through exposure to practical project work.
+
+Two programming tracks, namely, Block-based programming and Text-based programming, will be available under the programme.
+
+IMDA and MOE HQ will fully fund the training cost of 1 lower secondary school cohort (i.e. either Secondary 1 or Secondary 2) per year. Participating secondary schools will also be fully funded for the required supporting microcontrollers and accessories, subject to terms and conditions. 
 
 View [block-based](#block) or [text-based](#text) training below.
 
@@ -16,7 +22,9 @@ View [block-based](#block) or [text-based](#text) training below.
 |Vendor| Programme Code | Kit | Platform | Training Plan | More Info |
 |:---:|:----------------:|:------:|:----------:|---------|:---:|
 |Carolina|CAROLINA-B-MB|Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|[**+**](#carolinabmb)|
-|Duck Learning|DUCK-B-MB+SB|Micro:bit + Strawbees|Makecode|a|a|
+|Duck Learning|DUCK-B-MB+SB|Micro:bit +Strawbees|Makecode|a|a|
+|Edublitz|EDUB-B-MB Go|Microbit +Boson|Makecode|a|a|
+
 
 
 ### ZENITANT <a name="zenitantblocktop"></a>
