@@ -67,7 +67,7 @@ Go back to [block-based](#block) training or [top](#top)
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
-        <th rowspan="2"><a href="carolinabtop">(click to go back up)</a></th>
+        <th rowspan="2"><a href="#carolinabtop">(click to go back up)</a></th>
     </tr><tr>
       <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
