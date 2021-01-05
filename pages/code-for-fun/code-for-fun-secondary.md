@@ -44,10 +44,18 @@ View [block-based](#block) or [text-based](#text) training below.
 
 |Vendor| Programme Code | Kit | Platform | Training Plan |Click for more info|
 |:----:|:--------------:|:---:|:--------:|---------------|:-----------------:|
-|CAROLINA|CAROLINA-T-MB|||||
-|EDUBLITZ|EDUB-T-MB Go|||||
-|EP-TEC|EP-T-Boson|||||
-|EP-TEC|EP-T-Qdee|||||
+|CAROLINA|CAROLINA-T-MB|Micro:bit|MU Editor|||
+|EDUBLITZ|EDUB-T-MB Go|Micro:bit Go Kit|Makecode|||
+|EP-TEC|EP-T-Boson|Micro:bit +Boson|Makecode|||
+|EP-TEC|EP-T-Qdee|Micro:bit +Qdee|Makecode|||
+|ROBOTO|ROBOTO-T-Halocode|Halocode Microcontroller|mBlock|||
+|ROBOTO|ROBOTO-T-MB1|Micro:bit|Makecode|||
+|ROBOTO|ROBOTO-T-MB2|Micro:bit|Makecode|||
+|ZENITANT|ZENITANT-T-M5GO|M5GO Prototyping Kit|UiFlow|||
+|ZENITANT|ZENITANT-T-M5StickC|Micro:bit Prototyping Kit|UiFlow|||
+|ZENITANT|ZENITANT-T-MB Prototyping|Micro:bit Prototyping Kit|Makecode|||
+|ZENITANT|ZENITANT-T-MB Starter|Micro:bit Starter Kit|Makecode|||
+
 
 Go back to [block-based](#block) training or [top](#top)
 
