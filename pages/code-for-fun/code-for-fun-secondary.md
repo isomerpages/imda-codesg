@@ -15,6 +15,16 @@ Two programming tracks, namely, Block-based programming and Text-based programmi
 
 IMDA and MOE HQ will fully fund the training cost of 1 lower secondary school cohort (i.e. either Secondary 1 or Secondary 2) per year. Participating secondary schools will also be fully funded for the required supporting microcontrollers and accessories, subject to terms and conditions. 
 
+**Application Details**
+
+1.	Please refer to the details provided in the Programme Booklet disseminated to all MOE Government & Government-Aided Secondary Schools.
+2.	Please select your preferred course and contact the training partner (provided in the list below) to confirm their availability to provide the required training on your scheduled training dates.
+3.	Please submit your school’s application online via Forms.SG during the application period from XX Jan 2021 to 26 Mar 2021.
+4.	IMDA and MOE HQ will review your school’s application and provide an approval notice to commence training.
+5.	Schools can only commence training after receiving the written approval from IMDA and MOE HQ. 
+Please contact IMDA (using your school’s email account) to request for copies of the Programme Booklet and the link to the online application form. 
+The following list of training courses and training providers will be available for registration in January 2021.
+
 View [block-based](#block) or [text-based](#text) training below.
 
 ### <a name="block"></a> Block-based
