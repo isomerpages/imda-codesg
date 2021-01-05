@@ -68,14 +68,14 @@ Go back to [block-based](#block) training or [top](#top)
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
-      <th>Return to Carolina</th>
+      <th>Click here to return to table</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
-      <td>Kerk Wee Chong (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
+      <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
       <td align="center"><a href="#carolinabmbtop">+</a></td>
     </tr>
         <tr>
@@ -92,7 +92,5 @@ Go back to [block-based](#block) training or [top](#top)
   </tr>
   </tbody>
 </table>
-
-Return to [Carolina](#carolinabmbtop)
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
