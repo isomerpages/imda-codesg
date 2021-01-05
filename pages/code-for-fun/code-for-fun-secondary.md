@@ -63,20 +63,15 @@ Go back to [block-based](#block) training or [top](#top)
 <a name="carolinabmb"></a> **CAROLINA-B-MB**
 
 <table>
-  <thead>
     <tr>
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
       <th rowspan="2">Click here to return to table</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+    </tr><tr>
       <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
       <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
-
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
@@ -90,7 +85,6 @@ Go back to [block-based](#block) training or [top](#top)
       <th colspan="1">Final Project</th>
       <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
   </tr>
-  </tbody>
 </table>
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
