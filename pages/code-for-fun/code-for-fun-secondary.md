@@ -68,7 +68,7 @@ Go back to [block-based](#block) training or [top](#top)
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
-      <th>Click here to return to table</th>
+      <th rowspan="2">Click here to return to table</th>
     </tr>
   </thead>
   <tbody>
@@ -76,7 +76,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
       <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
-      <td align="center"><a href="#carolinabmbtop">+</a></td>
+
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
