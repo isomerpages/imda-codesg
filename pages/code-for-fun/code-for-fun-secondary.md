@@ -30,7 +30,7 @@ View [block-based](#block) or [text-based](#text) training below.
 ### <a name="block"></a> Block-based
 
 |Vendor| Programme Code | Kit | Platform | Training Plan |Click for more info|
-|:----:|:--------------:|:---:|:--------:|---------------|:---------:|
+|:----:|:--------------:|:---:|:--------:|---------------|:-----------------:|
 |CAROLINA|CAROLINA-B-MB|Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming.<br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|[**+**](#carolinabmb)|
 |DUCK LEARNING|DUCK-B-MB+SB|Micro:bit +Strawbees|Makecode|In this program, students will learn to solve real-life problems with tangible solutions by developing their 3D prototyping and coding skills. The students will learn to build prototypes with Strawbees (a reusable building kit that consists of colourful building straws and versatile connectors) and program their micro:bit using Makecode’s block-based programming platform.<br><br>All students will also be given an Engineering Notebook where they will document their findings and journal their thoughts and discoveries. The reflection process reinforces their learning as they learn how to make new connections across various ideas.<br><br>Ultimately, the program has been specially designed to develop students’ computational thinking skills in addition to the essential 21 st  century skills - critical thinking, creativity, collaboration and communication.|a|
 |EDUBLITZ|EDUB-B-MB Go|Micro:bit Go Kit|Makecode|This programme aims to introduce problem solving skills using basic block based coding. Students will develop critical and innovative thinking skills as well as computational thinking and algorithmic thinking skills. This will enable students to see relevance of their learning beyond the classroom to solve problems in real world contexts.<br><br>Each lesson will consist of theory into a programming concept followed by activities and challenges where the students will apply the concept learnt, leading up to the final project where students are to apply all concepts to solve the given problem.|a|
@@ -40,161 +40,14 @@ View [block-based](#block) or [text-based](#text) training below.
 |ZENITANT|ZENITANT-B-MB Prototyping|Micro:bit Prototyping Kit|Makecode|Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions. Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.|a|
 |ZENITANT|ZENITANT-B-MBStarter|Micro:bit Starter Kit|Makecode|Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve real world problems. Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.|a|
 
-
-### ZENITANT <a name="zenitantblocktop"></a>
-
-| Contact  | Details |
-|---------|---------|
-|<b>Philip Kong (Director)</b><br><br><br><b>Muhd Nizam (BD Manager)</b><br><br>|<b>Email:</b> <a href="mailto:ephilipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024|
-
-<table border="1">
-  <thead>
-    <tr>
-      <th width="30%">Programme Code</th>
-      <th>Kit</th>
-      <th>Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="30%">ZENITANT-B-M5GO</td>
-      <td align="center">M5Go IoT</td>
-      <td align="center">UiFlow</td>
-    </tr>
-               <tr>
-      <th colspan="1">Addons Required</th>
-      <td colspan="2">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), 4xLego Blocks and Connectors, 1xBox</td>
-    </tr>
-    <tr>
-      <th colspan="1">Training Programe</th>
-      <td colspan="2">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly.   </td>
-    </tr>
-    <tr>
-      <th colspan="1">Final Project</th>
-      <td colspan="2">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
-  </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Programme Code</th>
-      <th>Kit</th>
-      <th>Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="30%">ZENITANT-B-M5StickC</td>
-      <td align="center">M5StickC</td>
-      <td align="center">UiFlow</td>
-    </tr>
-           <tr>
-      <th colspan="1">Addons Required</th>
-      <td colspan="2">1xPIR Motion Sensor, 1xLight Unit with Photo-resistance, 1xRGB LED Unit, 1xM5StickC SERVO HAT, 1xUnbuckled Grove Cable, 10xBlokies (S), 5xBlokies (M), 1xBox
-</td>
-    </tr>
-    <tr>
-      <th colspan="1">Training Programe</th>
-      <td colspan="2">Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller and bit size sustainability and accessibility themed prototypes that may require wireless connectivity.  Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students can use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow to create different fun and practical prototypes quickly.</td>
-    </tr>
-    <tr>
-      <th colspan="1">Final Project</th>
-      <td colspan="2">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
-  </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Programme Code</th>
-      <th>Kit</th>
-      <th>Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="30%">ZENITANT-B-MBStarter</td>
-      <td align="center">Micro:bit</td>
-      <td align="center">Makecode</td>
-    </tr>
-           <tr>
-      <th colspan="1">Addons Required</th>
-      <td colspan="2">1xLight Sensor, 1xPassive Infra-Red Sensor, 1x9PG Micro Servo, 1xLED Module, Crocodile Clips, Multiple Pin Jumper Wire, 1xIO:Bit Basic Breakout Board with Buzzer and Battery Holder, 5 x Medium and 10 x Small Cardboard Blokies, 1xBox</td>
-    </tr>
-    <tr>
-      <th colspan="1">Training Programe</th>
-      <td colspan="2">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve real world problems.  Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
-    </tr>
-    <tr>
-      <th colspan="1">Final Project</th>
-      <td colspan="2">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as security box and servo lock leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
-  </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Programme Code</th>
-      <th>Kit</th>
-      <th>Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="30%">ZENITANT-B-MB Prototyping</td>
-      <td align="center">Micro:bit</td>
-      <td align="center">Makecode</td>
-    </tr>
-           <tr>
-      <th colspan="1">Addons Required</th>
-      <td colspan="2">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip, Crocodile Clips, Multiple Pin Jumper Wire
-1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5 x Medium and 10 x Small Cardboard Blokies, 1xBox</td>
-    </tr>
-    <tr>
-      <th colspan="1">Training Programe</th>
-      <td colspan="2">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions.  Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
-    </tr>
-    <tr>
-      <th colspan="1">Final Project</th>
-      <td colspan="2">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits. </td>
-  </tr>
-  </tbody>
-</table>
-<br><br><br><br><br>
-
-#### EP-TEC <a name="eptecblocktop"></a>
-
-| Contact  | Details |
-|---------|---------|
-|Eric Chew (GM)|Email: ericchew@epasia.cc<br>Contact: 92370851|
-
-| Programme Code | Kit and add-ons required | Platform | 
-|----------------|---------------------------|----------|
-|EP-B-Sensory|Micro:bit + Add-on Sensory accessories|Makecode|
-
-<table>
-    <tr>
-      <th colspan="1">Training Programe</th>
-      <td colspan="3">This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can automated through the use of a microcontroller and circuitry sensors to capture readings and automate a system flow.<br><br>Student will be creating mini projects from how our phones can automatically detect our environment, how to finetune the brightness of our screens, how the knob-type switch controls our appliances, creating data logging or sending secret messages through radio function.<br><br>In the process, student will also be acquiring knowledge on design thinking as they plan and try out the mini projects.</td>
-    </tr>
-    <tr>
-      <th colspan="1">Final Project</th>
-      <td colspan="3">The final project for the course involves the use of Design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes through the exhaust emission and factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.</td>
-  </tr>
-</table>
-
-
 ### <a name="text"></a> Text-based
 
-| Programme Code | Kits and add-ons required | Platform | Training Plan | Final Project Work | Contact |
-|----------------|---------------------------|----------|---------------|--------------------|---------|
-|        |      |          |               |                    |         |
-|        |      |          |               |                    |         |
-|        |      |          |               |                    |         |
+|Vendor| Programme Code | Kit | Platform | Training Plan |Click for more info|
+|:----:|:--------------:|:---:|:--------:|---------------|:-----------------:|
+|CAROLINA|CAROLINA-T-MB|||||
+|EDUBLITZ|EDUB-T-MB Go|||||
+|EP-TEC|EP-T-Boson|||||
+|EP-TEC|EP-T-Qdee|||||
 
 Go back to [block-based](#block) training or [top](#top)
 
