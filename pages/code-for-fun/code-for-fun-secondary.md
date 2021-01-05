@@ -22,7 +22,7 @@ IMDA and MOE HQ will fully fund the training cost of 1 lower secondary school co
 3.	Please submit your school’s application online via Forms.SG during the application period from XX Jan 2021 to 26 Mar 2021.
 4.	IMDA and MOE HQ will review your school’s application and provide an approval notice to commence training.
 5.	Schools can only commence training after receiving the written approval from IMDA and MOE HQ. 
-Please contact IMDA (using your school’s email account) to request for copies of the Programme Booklet and the link to the online application form. 
+Please contact <a href="mailto:bettina_tan_from.tp@imda.gov.sg,sing_yuan_tan_from.tp@imda.gov.sg">IMDA</a> (using your school’s email account) to request for copies of the Programme Booklet and the link to the online application form. 
 The following list of training courses and training providers will be available for registration in January 2021.
 
 View [block-based](#block) or [text-based](#text) training below.
@@ -257,3 +257,4 @@ Go back to [block-based](#block) training or [top](#top)
 
 Return to [Carolina](#carolinabmbtop)
  
+For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
