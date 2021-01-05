@@ -4,8 +4,8 @@ title: Code For Fun Enrichment For Secondary Schools
 permalink: /in-schools/code-for-fun/secondary/
 breadcrumb: Code For Fun Secondary
 ---
-
-<a name="top"></a>The Code for Fun Enrichment Programme for Secondary Schools complements existing MOE Computing Education efforts in secondary schools, such as the Computing-related Applied Learning Programmes (ALP) as well as the O-Level (elective) Computing subjects. The programme offers a 10-hour curriculum which
+<a name="top"></a>
+#### The Code for Fun Enrichment Programme for Secondary Schools complements existing MOE Computing Education efforts in secondary schools, such as the Computing-related Applied Learning Programmes (ALP) as well as the O-Level (elective) Computing subjects. The programme offers a 10-hour curriculum which
 
 -	focuses on computational thinking concepts including their application in the real world and in coding;
 -	incorporates elements of making and design prototyping through the use of microcontrollers; and
