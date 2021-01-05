@@ -32,13 +32,13 @@ View [block-based](#block) or [text-based](#text) training below.
 |Vendor| Programme Code | Kit | Platform | Training Plan | More Info |
 |:---:|:----------------:|:------:|:----------:|---------|:---:|
 |CAROLINA|CAROLINA-B-MB|Micro:bit|Makecode|Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.|[**+**](#carolinabmb)|
-|DUCK LEARNINGDUCK-B-MB+SB|Micro:bit +Strawbees|Makecode|a|a|
+|DUCK LEARNING|DUCK-B-MB+SB|Micro:bit +Strawbees|Makecode|a|a|
 |EDUBLITZ|EDUB-B-MB Go|Micro:bit Go Kit|Makecode|a|a|
 |EP-TEC|EP-B-Boson|Microbit +Boson|Makecode|a|a|
-|ZENITANT||UiFlow|a|a|
-|ZENITANT||UiFlow|a|a|
-|ZENITANT||Makecode|a|a|
-|ZENITANT||Makecode|a|a|
+|ZENITANT|ZENITANT-B-M5GO|M5GO Prototyping Kit|UiFlow|a|a|
+|ZENITANT|ZENITANT-B-M5StickC|M5StickC Prototyping Kit|UiFlow|a|a|
+|ZENITANT|ZENITANT-B-MB Prototyping|Micro:bit Prototyping Kit|Micro:bit Starter Kit|Makecode|a|a|
+|ZENITANT|ZENITANT-B-MBStarter|Micro:bit Starter Kit|Makecode|a|a|
 
 
 ### ZENITANT <a name="zenitantblocktop"></a>
