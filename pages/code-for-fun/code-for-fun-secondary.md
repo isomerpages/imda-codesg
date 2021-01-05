@@ -35,7 +35,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |DUCK LEARNING|DUCK-B-MB+SB|Micro:bit +Strawbees|Makecode|a|a|
 |EDUBLITZ|EDUB-B-MB Go|Micro:bit Go Kit|Makecode|a|a|
 |EP-TEC|EP-B-Boson|Microbit +Boson|Makecode|a|a|
-|ZENITANT|ZENITANT-B-M5GO|M5GO Prototyping Kit|UiFlow|a|a|
+|ZENITANT|ZENITANT-B-M5GO|M5GO Prototyping Kit|UiFlow|This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly. |a|
 |ZENITANT|ZENITANT-B-M5StickC|M5StickC Prototyping Kit|UiFlow|a|a|
 |ZENITANT|ZENITANT-B-MB Prototyping|Micro:bit Prototyping Kit|Makecode|a|a|
 |ZENITANT|ZENITANT-B-MBStarter|Micro:bit Starter Kit|Makecode|a|a|
