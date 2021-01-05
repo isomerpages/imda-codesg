@@ -37,7 +37,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |EP-TEC|EP-B-Boson|Microbit +Boson|Makecode|a|a|
 |ZENITANT|ZENITANT-B-M5GO|M5GO Prototyping Kit|UiFlow|a|a|
 |ZENITANT|ZENITANT-B-M5StickC|M5StickC Prototyping Kit|UiFlow|a|a|
-|ZENITANT|ZENITANT-B-MB Prototyping|Micro:bit Prototyping Kit|Micro:bit Starter Kit|Makecode|a|a|
+|ZENITANT|ZENITANT-B-MB Prototyping|Micro:bit Prototyping Kit|Makecode|a|a|
 |ZENITANT|ZENITANT-B-MBStarter|Micro:bit Starter Kit|Makecode|a|a|
 
 
