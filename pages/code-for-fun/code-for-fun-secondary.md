@@ -407,18 +407,18 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <th>Contact</th>
         <th></th>
     </tr><tr>
-      <td align="center">Microbit +Boson</td>
-      <td align="center">Makecode</td>
+      <td align="center">Halocode Microcontroller</td>
+      <td align="center">mBlock</td>
       <td><b>Brian Lee</b> (Director)<br><b>Email:</b> <a href="mailto:brianlee@roboto.sg">brianlee@roboto.sg</a><br><b>Mobile:</b> 97622239</td>
     <td align="center"><a href="#robotottop1">(click to go back up)</a></td>
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Breakout board (with on-board buzzer) x 1, soil moisture sensor x 1, rain sensor x 1, servo motor x 1, rainbow LED strip, infra-red proximity sensor, PIR motion sensor x 1, fan x 1, connecting wires x 5, enclosure box x 1</td>
+      <td colspan="3">Alligator clip × 4, servo motor x 1, water sensor x 1, infra proximity sensor x 1, connecting jumper wire x 10, buzzer x 1</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">The Digital Automation – Smart Home Programme explores the real-world application of microcontrollers, sensors and actuators through hands-on project making. Students will learn to code with text-based programming language such as Python or JavaScript, further honing their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices, before advancing to final project prototyping where they can unleash their creativity and problem-solving minds. Students will be guided on design thinking process and project planning methodology prior to their prototype building. Training content can be integrated to SLS for further learning.</td>
+      <td colspan="3">The Artificial Intelligence – Smart Home programme explore the application of A.I in smart home automation using Halocode microcontroller, sensors and actuators. The A.I. features includes voice and image recognition functions.<br><br>Students will learn to code with text-based Python programming language, further honing their computational thinking skills and coding fundamentals.<br>The programme will begin with creating mini projects using Halocode device and sensors, before advancing to the A.I. feature integration. Student will learn how to use facial and emotion readings from camera as inputs and feeding images to machine learning model for training. Training content can be integrated to SLS for further learning.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
@@ -426,5 +426,32 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
   </tr>
 </table>
 
+<a name="robototmb1"></a> **ROBOTO-T-MB1**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Microbit</td>
+      <td align="center">Makecode</td>
+      <td><b>Brian Lee</b> (Director)<br><b>Email:</b> <a href="mailto:brianlee@roboto.sg">brianlee@roboto.sg</a><br><b>Mobile:</b> 97622239</td>
+    <td align="center"><a href="#robotottop2">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">Breakout board (with on-board buzzer) x 1, soil moisture sensor x 1, rain sensor x 1, servo motor x 1, rainbow LED strip, infra-red proximity sensor, PIR motion sensor x 1, fan x 1, connecting wires x 5, enclosure box x 1</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">The Artificial Intelligence – Smart Home programme explore the application of A.I in smart home automation using Halocode microcontroller, sensors and actuators. The A.I. features includes voice and image recognition functions.<br><br>Students will learn to code with text-based Python programming language, further honing their computational thinking skills and coding fundamentals.<br>The programme will begin with creating mini projects using Halocode device and sensors, before advancing to the A.I. feature integration. Student will learn how to use facial and emotion readings from camera as inputs and feeding images to machine learning model for training. Training content can be integrated to SLS for further learning.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">Student will embark to work on Smart Home ideas to improve daily lives and a theme to be decided by participating school (e.g. Sustainable Development Goals). Project work ideas includes:<br><br>•	Energy saving fan and lighting with motion detection sensors<br>•	Auto plant watering system to prevent plant failure in home.<br>•	Auto closure of windows in event of rain.<br>•	Shower usage counter to discourage long bath<br>•	Auto pet feeder machine.<br>•	Mailbox Monitoring System</td>
+  </tr>
+</table>
 
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
