@@ -341,5 +341,33 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td colspan="3">For the final project, Students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aims to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatize carnival games and sports as a way to revolutionising them.</td>
   </tr>
 </table>
- 
+
+<a name="eptboson"></a> **EP-T-Boson**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Microbit +Boson</td>
+      <td align="center">Makecode</td>
+      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
+    <td align="center"><a href="#epttop1">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">Rotation sensor, red push button, self-locking switch, light sensor, tilt sensor, sound sensor, motion sensor, bright light LED, multicolor string light, buzzer module, voice recorder module, motor controller module, servo controller module</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">This 10-hour computational thinking workshop enable learners to understand and apply the use of a microcontroller, sensors and coding to facilitate and enhance daily activities.<br><br>Student will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>They will be engaged in projects to create simulations of how the virus is spread, design alert systems for people who are quarantined and prevent contact when calling in patients.<br><br>Through these project works, student will also get to acquire and apply concepts of Design Thinking.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">The final project aims to foster a sense of community through coming together to contribute efforts to support and strengthen the public health care amidst the pandemic situation.<br><br>Using the Design thinking process, students will seek to define an area about public health that needs to be address and help to reduce the spread of the virus.<br><br>Students will then synthesise what they have learnt from creating the wireless communication system to alerting healthcare professionals of suspected carriers and also ensure people who are serving the stay home notice are quarantined at home or at the specified locations.<br><br>Students will develop a solution to the problem defined and create a prototype with the proposed set and present it at the end of the session. </td>
+  </tr>
+</table>
+
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
