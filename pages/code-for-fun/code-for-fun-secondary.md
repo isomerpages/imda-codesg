@@ -133,7 +133,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
+      <td colspan="3">Crocodile clip (5 pcs per kit), buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), aluminum foil (1 roll per kit), masking tape (1 roll per kit)</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
