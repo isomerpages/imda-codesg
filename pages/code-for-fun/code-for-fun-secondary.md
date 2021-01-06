@@ -257,5 +257,33 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as security box and servo lock leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
+
+<a name="zenitantbmbs"></a> **ZENITANT-B-MBStarter**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Micro:bit Starter Kit</td>
+      <td align="center">Makecode</td>
+      <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
+    <td align="center"><a href="#zenitantbtop4">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1x9PG Micro Servo, 1xLED Module, Crocodile Clips, Multiple Pin Jumper Wire, 1xIO:Bit Basic Breakout Board with Buzzer and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve real world problems. Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits.</td>
+  </tr>
+</table>
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
