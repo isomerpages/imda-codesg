@@ -330,7 +330,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Crocodile clip (5 pcs per kit), buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), aluminum foil (1 roll per kit), masking tape (1 roll per kit)</td>
+      <td colspan="3">Crocodile Clip (5 pcs per kit), Buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), Aluminum Foil (1 roll per kit), Masking Tape (1 roll per kit)</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -358,7 +358,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Rotation sensor, red push button, self-locking switch, light sensor, tilt sensor, sound sensor, motion sensor, bright light LED, multicolor string light, buzzer module, voice recorder module, motor controller module, servo controller module</td>
+      <td colspan="3">Rotation Sensor, Red Push Button, Self-Locking Switch, Light Sensor, Tilt Sensor, Sound Sensor, Motion Sensor, Bright Light LED, Multicolor String Light, Buzzer Module, Voice Recorder Module, Motor Controller Module, Servo Controller Module</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -386,7 +386,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Rotation sensor, red push button, self-locking switch, light sensor, tilt sensor, sound sensor, motion sensor, bright light LED, multicolor string light, buzzer module, voice recorder module, motor controller module, servo controller module</td>
+      <td colspan="3">Microcontroller Expansion Board and Casing, Sound Sensor, IR Receiver, IR Emitter, 6 x LEDs, RGB Light, Ultrasonic Sensor, DC Motor (s), Line Follower, Buzzer, Chassis</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -414,7 +414,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Alligator clip × 4, servo motor x 1, water sensor x 1, infra proximity sensor x 1, connecting jumper wire x 10, buzzer x 1</td>
+      <td colspan="3">Alligator Clip × 4, Servo Motor x 1, Water Sensor x 1, Infra Proximity Sensor x 1, Connecting Jumper Wire x 10, Buzzer x 1</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -442,7 +442,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Breakout board (with on-board buzzer) x 1, soil moisture sensor x 1, rain sensor x 1, servo motor x 1, rainbow LED strip, infra-red proximity sensor, PIR motion sensor x 1, fan x 1, connecting wires x 5, enclosure box x 1</td>
+      <td colspan="3">Breakout Board (with on-board buzzer) x 1, Soil Moisture Sensor x 1, Rain Sensor x 1, Servo Motor x 1, Rainbow LED Strip, Infra-Red Proximity Sensor, PIR Motion Sensor x 1, Fan x 1, Connecting Wires x 5, Enclosure Box x 1</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -470,7 +470,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Internet of Things (IoT) breakout board (with on-board buzzer) x 1, soil moisture sensor x 1, rain sensor x 1, servo motor x 1, rainbow LED strip, infra-red proximity sensor, PIR motion sensor x 1, sound sensor x 1, crash Sensor x 1, analogue rotation switch x 1, fan x 1, connecting wires x 5, enclosure box x 1</td>
+      <td colspan="3">Internet of Things (IoT) Breakout Board (with on-board buzzer) x 1, Soil Moisture Sensor x 1, Rain Sensor x 1, Servo Motor x 1, Rainbow LED Strip, Infra-Red Proximity Sensor, PIR Motion Sensor x 1, Sound Sensor x 1, Crash Sensor x 1, Analogue Rotation Switch x 1, Fan x 1, Connecting Wires x 5, Enclosure Box x 1</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
