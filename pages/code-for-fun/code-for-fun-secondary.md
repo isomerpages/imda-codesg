@@ -314,4 +314,32 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
   </tr>
 </table>
  
+ <a name="edubtmb"></a> **EDUB-T-MB Go**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Micro:bit Go Kit</td>
+      <td align="center">Makecode</td>
+      <td><b>Fazmi Mohd</b> (Manager)<br><b>Email:</b> <a href="mailto:fazmi@edublitz.com">fazmi@edublitz.com</a><br><b>Mobile:</b> 97633684</td>
+    <td align="center"><a href="#eduttop">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">Crocodile clip (5 pcs per kit), buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), aluminum foil (1 roll per kit), masking tape (1 roll per kit)</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">This programme aims to introduce problem solving skills using text-based coding. Students will develop critical and innovative thinking skills as well as computational thinking and algorithmic thinking skills. This will enable students to see relevance of their learning beyond the classroom to solve problems in real world contexts.<br><br>Each lesson will consist of theory into a programming concept followed by activities and challenges where the students will apply the concept learnt, leading up to the final project where students are to apply all concepts to solve the given problem.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">For the final project, Students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aims to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatize carnival games and sports as a way to revolutionising them.</td>
+  </tr>
+</table>
+ 
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
