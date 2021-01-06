@@ -583,8 +583,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip
-Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
+      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1x9PG Micro Servo, 1xLED Module, Crocodile Clips, Multiple Pin Jumper Wire, 1xIO:Bit Basic Breakout Board with Buzzer and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
