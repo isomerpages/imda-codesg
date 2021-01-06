@@ -184,7 +184,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr><tr>
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">UiFlow</td>
-      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851</td>
+      <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
     <td align="center"><a href="#zenitantbtop1">(click to go back up)</a></td>
     </tr>
         <tr>
