@@ -200,5 +200,33 @@ Go back to [block-based](#block) training or [top](#top)
       <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
   </tr>
 </table>
+
+<a name="zenitantbm5stick"></a> **ZENITANT-B-M5StickC**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">M5StickC Prototyping Kit</td>
+      <td align="center">UiFlow</td>
+      <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
+    <td align="center"><a href="#zenitantbtop2">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), Lego Blocks and Connectors, 1xBox</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller and bit size sustainability and accessibility themed prototypes that may require wireless connectivity. Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students can use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow to create different fun and practical prototypes quickly.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
+  </tr>
+</table>
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
