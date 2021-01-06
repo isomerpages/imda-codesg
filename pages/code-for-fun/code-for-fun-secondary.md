@@ -538,7 +538,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
   </tr>
 </table>
 
-<a name="zenitantbmbp"></a> **ZENITANT-B-MB Prototyping**
+<a name="zenitanttmbproto"></a> **ZENITANT-T-MB Prototyping**
 
 <table>
     <tr>
@@ -550,7 +550,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">Makecode</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantbtop3">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantttop3">(click to go back up)</a></td>
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
@@ -564,6 +564,35 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <tr>
       <th colspan="1">Final Project</th>
       <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits.</td>
+  </tr>
+</table>
+
+<a name="zenitanttmstarter"></a> **ZENITANT-T-MBStarter**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Micro:bit Starter Kit</td>
+      <td align="center">Makecode</td>
+      <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
+    <td align="center"><a href="#zenitantttop4">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip
+Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve problem posed.  Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as security box and servo lock leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
