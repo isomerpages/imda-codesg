@@ -161,7 +161,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
+      <td colspan="3">Light sensor, potentionmeter, motors (DC 3600) and servo (1800) and motor controller, tilt sensor, recorder. speaker, LED string light, humidity sensor, pH sensor, proximity sensor, battery holder</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -185,19 +185,19 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">UiFlow</td>
       <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851</td>
-    <td align="center"><a href="#epbtop">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantbtop1">(click to go back up)</a></td>
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
+      <td colspan="3">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), Lego Blocks and Connectors, 1xBox</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can automated through the use of a microcontroller and circuitry sensors to capture readings and automate a system flow.<br><br>Student will be creating mini projects from how our phones can automatically detect our environment, how to finetune the brightness of our screens, how the knob-type switch controls our appliances, creating data logging or sending secret messages through radio function.<br><br>In the process, student will also be acquiring knowledge on design thinking as they plan and try out the mini projects.</td>
+      <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems. Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">The final project for the course involves the use of Design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes through the exhaust emission and factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
   </tr>
 </table>
  
