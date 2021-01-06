@@ -285,5 +285,33 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits.</td>
   </tr>
 </table>
+
+<a name="carolinatmb"></a> **CAROLINA-T-MB**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Micro:bit</td>
+      <td align="center">MU Editor</td>
+     <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
+    <td align="center"><a href="#carolinattop">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">Expansion board, base support, breakboard, protective shell, steering gear module, fan module, buzzer sensor, reed switches, u photoelectric sensor, digital display, raindrop sensor, rocker module, sound sensor, temperature sensor, photoresistance sensor, storage box, dupont line, line, relay module, laser sensor module, touch switch module, tilt switch module, vibrating sensor, active buzzer sensor, smog sensor, touch sensor, ultrasonic sensor, DS18B20 temperature sensor, rotation sensor, IR remote control, IR receiving module, double color LED module, 7 colour LED module, flame sensor, RGB colour LED module, potentiometer sensor, magnets, hall switch sensor, ten crocodile clip, ten LED</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects.<br><br>Using Microbit and knowledge learnt in Text Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming.<br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
+  </tr>
+</table>
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
