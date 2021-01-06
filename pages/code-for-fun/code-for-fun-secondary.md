@@ -144,5 +144,33 @@ Go back to [block-based](#block) training or [top](#top)
       <td colspan="3">For the final project, Students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aims to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatize carnival games and sports as a way to revolutionising them.</td>
   </tr>
 </table>
+
+<a name="epbboson"></a> **EP-B-Boson**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Microbit +Boson</td>
+      <td align="center">Makecode</td>
+      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851</td>
+    <td align="center"><a href="#epbtop">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can automated through the use of a microcontroller and circuitry sensors to capture readings and automate a system flow.<br><br>Student will be creating mini projects from how our phones can automatically detect our environment, how to finetune the brightness of our screens, how the knob-type switch controls our appliances, creating data logging or sending secret messages through radio function.<br><br>In the process, student will also be acquiring knowledge on design thinking as they plan and try out the mini projects.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">The final project for the course involves the use of Design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes through the exhaust emission and factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.</td>
+  </tr>
+</table>
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
