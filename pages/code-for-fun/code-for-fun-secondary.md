@@ -52,7 +52,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |ROBOTO|ROBOTO-T-MB1|Micro:bit|Makecode|<a name="robotottop2"></a>The Digital Automation – Smart Home Programme explores the real-world application of microcontrollers, sensors and actuators through hands-on project making. Students will learn to code with text-based programming language such as Python or JavaScript, further honing their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices, before advancing to final project prototyping where they can unleash their creativity and problem-solving minds. Students will be guided on design thinking process and project planning methodology prior to their prototype building. Training content can be integrated to SLS for further learning.|<strong>[+](#robototmb1)</strong>|
 |ROBOTO|ROBOTO-T-MB2|Micro:bit|Makecode|<a name="robotottop3"></a>The Digital Automation – Smart City Programme introduces basic application of IoT (Internet of Things) through usage Micro:Bit microcontrollers, WIFI enabled breakout boards, data sensors, actuators, and display devices.<br><br>Students will learn to code with text-based programming language such as Python or JavaScript, further honing their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices. Students will learn fundamental concept of IoT and how to set up IoT connectivity through ThingSpeak and IFTTT in their final project prototype. Training conent can be integrated to SLS for further learning.|<strong>[+](#robototmb2)</strong>|
 |ZENITANT|ZENITANT-T-M5GO|M5GO Prototyping Kit|UiFlow|<a name="zenitantttop1"></a>This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking, python coding and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the Python programming in the UiFlow web-based platform, students will learn application of computational thinking and create different useful and practical prototypes quickly.|<strong>[+](#zenitanttm5go)</strong>|
-|ZENITANT|ZENITANT-T-M5StickC|Micro:bit Prototyping Kit|UiFlow|<a name="zenitantttop2"></a>Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller sustainability and accessibility themed prototypes that may require wireless connectivity to solve problem posed.  Specially designed for students who are looking for full hands-on experience in applying computational thinking, Python Coding and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python programming on the web-based UiFlow programming platform to create different fun and practical prototypes quickly.|<strong>[+](#zenitanttm5stickc)</strong>|
+|ZENITANT|ZENITANT-T-M5StickC|M5StickC Prototyping Kit|UiFlow|<a name="zenitantttop2"></a>Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller sustainability and accessibility themed prototypes that may require wireless connectivity to solve problem posed.  Specially designed for students who are looking for full hands-on experience in applying computational thinking, Python Coding and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python programming on the web-based UiFlow programming platform to create different fun and practical prototypes quickly.|<strong>[+](#zenitanttm5stickc)</strong>|
 |ZENITANT|ZENITANT-T-MB Prototyping|Micro:bit Prototyping Kit|Makecode|<a name="zenitantttop3"></a>Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions.  Specially designed for students who are looking for full hands-on experience in applying computational thinking, Python or JavaScript programming and STEM concepts to solve real world problems, students will use Cardboard Lego, pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.|<strong>[+](#zenitanttmbproto)</strong>|
 |ZENITANT|ZENITANT-T-MB Starter|Micro:bit Starter Kit|Makecode|<a name="zenitantttop4"></a>Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve problem posed.  Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.|<strong>[+](#zenitanttmstarter)</strong>|
 
@@ -535,6 +535,35 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <tr>
       <th colspan="1">Final Project</th>
       <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+  </tr>
+</table>
+
+<a name="zenitantbmbp"></a> **ZENITANT-B-MB Prototyping**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">M5GO Prototyping Kit</td>
+      <td align="center">Makecode</td>
+      <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
+    <td align="center"><a href="#zenitantbtop3">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip
+Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions. Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits.</td>
   </tr>
 </table>
 
