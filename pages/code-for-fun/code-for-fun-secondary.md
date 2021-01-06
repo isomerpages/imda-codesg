@@ -113,10 +113,35 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For  the  final  project,  students  will  solve  problems  related  to  City  Building.  From  designing 
-environmentally friendly buildings  to tackling rubbish disposal systems, students will have a go at 
-designing solutions aimed at solving real-world problems plaguing city infrastructures. Students will 
-then come together as a class to showcase and discuss their solutions.<br><br>Students are expected to:<br>a)  Program a solution that implements at least 2 different inputs and 2 different outputs (e.g. 1 input and 1 output → a model where when a button is pressed, the servo motor moves)<br>b)  Ensure  that  their  code  is  in  working  order  and  is  well  documented  in  their  Engineering Notebooks<br>c)  Highlight how they applied Computational Thinking principles in designing their solutions </td>
+      <td colspan="3">For  the  final  project,  students  will  solve  problems  related  to  City  Building.  From  designing environmentally friendly buildings  to tackling rubbish disposal systems, students will have a go at designing solutions aimed at solving real-world problems plaguing city infrastructures. Students will then come together as a class to showcase and discuss their solutions.<br><br>Students are expected to:<br>a)  Program a solution that implements at least 2 different inputs and 2 different outputs (e.g. 1 input and 1 output → a model where when a button is pressed, the servo motor moves)<br>b)  Ensure  that  their  code  is  in  working  order  and  is  well  documented  in  their  Engineering Notebooks<br>c)  Highlight how they applied Computational Thinking principles in designing their solutions</td>
+  </tr>
+</table>
+
+<a name="edubbmb"></a> **EDUB-B-MB Go**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Micro:bit Go Kit</td>
+      <td align="center">Makecode</td>
+      <td><b>Fazmi Mohd</b> (Manager)<br><b>Email:</b> <a href="mailto:fazmi@edublitz.com">fazmi@edublitz.com</a><br><b>Mobile:</b> 97633684</td>
+    <td align="center"><a href="#edubtop">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">This programme aims to introduce problem solving skills using basic block based coding. Students will develop critical and innovative thinking skills as well as computational thinking and algorithmic thinking skills. This will enable students to see relevance of their learning beyond the classroom to solve problems in real world contexts.<br><br>Each lesson will consist of theory into a programming concept followed by activities and challenges where the students will apply the concept learnt, leading up to the final project where students are to apply all concepts to solve the given problem.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">For the final project, Students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aims to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatize carnival games and sports as a way to revolutionising them.</td>
   </tr>
 </table>
  
