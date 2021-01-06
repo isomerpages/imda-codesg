@@ -105,7 +105,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Expansion board, Microusb, Breakboard, 2 ports Battery holder, 4 ports battery holder, Steering gear module, Buzzer sensor, Photoresistance sensor, Dupont line, Male male connecting wires, Female female connecting wires, Vibrating sensor, Crocodile clips,  LEDs, IOT expansion board, IOT Gravity Module, Magnets, Box</td>
+      <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
