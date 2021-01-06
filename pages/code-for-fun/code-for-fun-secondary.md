@@ -87,5 +87,34 @@ Go back to [block-based](#block) training or [top](#top)
       <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
   </tr>
 </table>
+
+<a name="duckbmbsb"></a> **DUCK-B-MB+SB**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Micro:bit +Strawbees</td>
+      <td align="center">Makecode</td>
+      <td><b>Murtaza Njmudden</b> (Assistant Sales Manager)<br><b>Email:</b> <a href="mailto:murtaza@ducklearning.com">murtaza@ducklearning.com</a><br><b>Mobile:</b> 97525201<br><br>
+<b>Ivan Lau</b> (Senior Education Executive)<br><b>Email:</b> <a href="mailto:ivan@ducklearning.com">ivan@ducklearning.com</a><br><b>Mobile:</b> 97282981</td>
+    <td align="center"><a href="#duckbtop">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">Expansion board, Microusb, Breakboard, 2 ports Battery holder, 4 ports battery holder, Steering gear module, Buzzer sensor, Photoresistance sensor, Dupont line, Male male connecting wires, Female female connecting wires, Vibrating sensor, Crocodile clips,  LEDs, IOT expansion board, IOT Gravity Module, Magnets, Box</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
+  </tr>
+</table>
  
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
