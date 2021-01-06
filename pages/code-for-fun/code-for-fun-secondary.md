@@ -398,4 +398,33 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
   </tr>
 </table>
 
+<a name="robotothalo"></a> **ROBOTO-T-Halocode**
+
+<table>
+    <tr>
+      <th>Kit</th>
+      <th>Platform</th>
+      <th>Contact</th>
+        <th></th>
+    </tr><tr>
+      <td align="center">Microbit +Boson</td>
+      <td align="center">Makecode</td>
+      <td><b>Brian Lee</b> (Director)<br><b>Email:</b> <a href="mailto:brianlee@roboto.sg">brianlee@roboto.sg</a><br><b>Mobile:</b> 97622239</td>
+    <td align="center"><a href="#robotottop1">(click to go back up)</a></td>
+    </tr>
+        <tr>
+      <th colspan="1">Addons Required</th>
+      <td colspan="3">Breakout board (with on-board buzzer) x 1, soil moisture sensor x 1, rain sensor x 1, servo motor x 1, rainbow LED strip, infra-red proximity sensor, PIR motion sensor x 1, fan x 1, connecting wires x 5, enclosure box x 1</td>
+    </tr>
+    <tr>
+      <th colspan="1">Training Programe</th>
+      <td colspan="3">The Digital Automation – Smart Home Programme explores the real-world application of microcontrollers, sensors and actuators through hands-on project making. Students will learn to code with text-based programming language such as Python or JavaScript, further honing their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices, before advancing to final project prototyping where they can unleash their creativity and problem-solving minds. Students will be guided on design thinking process and project planning methodology prior to their prototype building. Training content can be integrated to SLS for further learning.</td>
+    </tr>
+    <tr>
+      <th colspan="1">Final Project</th>
+      <td colspan="3">Student will embark to work on Smart Home ideas with A.I. features to improve daily lives and a theme to be decided by participating school (e.g. Sustainable Development Goals). Project work ideas includes:<br><br>1.	Smart Bedroom<br>-	Auto lighting<br>-	Blanket warmer<br>-	Remote alarm<br><br>2.	Home with Smart Ramp<br>-	AI powered wheelchair recognition.<br>-	Servo-controlled ramp for the disabled.<br><br>3.	Smart Refrigerator<br>-	Auto lighting<br>-	Closure alarm<br>-	AI Camera to scan for empty fridge</td>
+  </tr>
+</table>
+
+
 For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
