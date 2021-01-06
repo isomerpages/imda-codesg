@@ -76,11 +76,11 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Expansion board, Microusb, Breakboard, 2 ports Battery holder, 4 ports battery holder, Steering gear module, Buzzer sensor, Photoresistance sensor, Dupont line, Male male connecting wires, Female female connecting wires, Vibrating sensor, Crocodile clips,  LEDs, IOT expansion board, IOT Gravity Module, Magnets, Box</td>
+      <td colspan="3">Expansion board, base support, breakboard, protective shell, steering gear module, fan module, buzzer sensor, reed switches, u photoelectric sensor, digital display, raindrop sensor, rocker module, sound sensor , temperature sensor, photoresistance sensor , storage box, dupont line, line, relay module, laser sensor module, touch switch module, tilt switch module, vibrating sensor , active buzzer sensor, smog sensor, touch sensor, ultrasonic sensor, DS18B20 temperature sensor, rotation sensor, IR remote control, IR receiving module, double color LED module, 7 colour LED module, flame sensor, RGB colour LED module, potentiometer sensor, magnets, hall switch sensor, ten crocodile clip, Ten LED, Grabity OBLOQ, IOT expansion board </td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot</td>
+      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
@@ -109,11 +109,14 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises. <br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in Block Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming. <br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people. <br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot</td>
+      <td colspan="3">In this program, students will learn to solve real-life problems with tangible solutions by developing their 3D prototyping and coding skills. The students will learn to build prototypes with Strawbees (a reusable building kit that consists of colourful building straws and versatile connectors) and program their micro:bit using Makecode’s block-based programming platform.<br><br>All students will also be given an Engineering Notebook where they will document their findings and journal their thoughts and discoveries. The reflection process reinforces their learning as they learn how to make new connections across various ideas.<br><br>Ultimately, the program has been specially designed to develop students’ computational thinking skills in addition to the essential 21 st  century skills - critical thinking, creativity, collaboration and communication.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
+      <td colspan="3">For  the  final  project,  students  will  solve  problems  related  to  City  Building.  From  designing 
+environmentally friendly buildings  to tackling rubbish disposal systems, students will have a go at 
+designing solutions aimed at solving real-world problems plaguing city infrastructures. Students will 
+then come together as a class to showcase and discuss their solutions.<br><br>Students are expected to:<br>a)  Program a solution that implements at least 2 different inputs and 2 different outputs (e.g. 1 input and 1 output → a model where when a button is pressed, the servo motor moves)<br>b)  Ensure  that  their  code  is  in  working  order  and  is  well  documented  in  their  Engineering Notebooks<br>c)  Highlight how they applied Computational Thinking principles in designing their solutions </td>
   </tr>
 </table>
  
