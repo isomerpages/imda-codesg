@@ -197,7 +197,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
@@ -225,7 +225,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/ School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
