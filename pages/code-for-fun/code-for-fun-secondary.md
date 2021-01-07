@@ -76,7 +76,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Expansion board, base support, breakboard, protective shell, steering gear module, fan module, buzzer sensor, reed switches, u photoelectric sensor, digital display, raindrop sensor, rocker module, sound sensor , temperature sensor, photoresistance sensor , storage box, dupont line, line, relay module, laser sensor module, touch switch module, tilt switch module, vibrating sensor , active buzzer sensor, smog sensor, touch sensor, ultrasonic sensor, DS18B20 temperature sensor, rotation sensor, IR remote control, IR receiving module, double color LED module, 7 colour LED module, flame sensor, RGB colour LED module, potentiometer sensor, magnets, hall switch sensor, ten crocodile clip, Ten LED, Grabity OBLOQ, IOT expansion board </td>
+      <td colspan="3">Expansion board, base support, breakboard, protective shell, steering gear module, fan module, buzzer sensor, reed switches, u photoelectric sensor, digital display, raindrop sensor, rocker module, sound sensor, temperature sensor, photoresistance sensor, storage box, dupont line, line, relay module, laser sensor module, touch switch module, tilt switch module, vibrating sensor, active buzzer sensor, smog sensor, touch sensor, ultrasonic sensor, DS18B20 temperature sensor, rotation sensor, IR remote control, IR receiving module, double color LED module, 7 colour LED module, flame sensor, RGB colour LED module, potentiometer sensor, magnets, hall switch sensor, ten crocodile clip, Ten LED, Grabity OBLOQ, IOT expansion board</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -133,7 +133,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Crocodile clip (5 pcs per kit), buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), aluminum foil (1 roll per kit), masking tape (1 roll per kit)</td>
+      <td colspan="3">Crocodile Clip (5 pcs per kit), Buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), Aluminum Foil (1 roll per kit), Masking Tape (1 roll per kit)</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
@@ -161,7 +161,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
         <tr>
       <th colspan="1">Addons Required</th>
-      <td colspan="3">Light sensor, potentionmeter, motors (DC 3600) and servo (1800) and motor controller, tilt sensor, recorder. speaker, LED string light, humidity sensor, pH sensor, proximity sensor, battery holder</td>
+      <td colspan="3">Light Sensor, Potentionmeter, Motors (DC 3600) and Servo (1800) and Motor Controller, Tilt Sensor, Recorder, Speaker, LED String Light, Humidity Sensor, pH Sensor, Proximity Sensor, Battery Holder</td>
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
