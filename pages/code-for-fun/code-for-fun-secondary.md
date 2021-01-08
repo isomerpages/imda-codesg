@@ -63,7 +63,7 @@ Go back to [block-based](#block) training or [top](#top)
 <a name="carolinabmb"></a> **CAROLINA-B-MB**
 
 <table>
-    <tr>
+    <tr style="background-color:#FFFF00">
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
@@ -91,7 +91,7 @@ Go back to [block-based](#block) training or [top](#top)
 <a name="duckbmbsb"></a> **DUCK-B-MB+SB**
 
 <table>
-    <tr bgcolor="blue">
+    <tr>
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
