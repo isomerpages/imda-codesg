@@ -86,7 +86,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1.  A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
+      <td colspan="3">For the final project, students will amalgamate their learning and hand on skills by designing and building a prototype related to climate change and global warming.<br><br>1. A Disaster Warning system<br>2. Light Energy Saving System<br>3. Forest Fire Rescue System</td>
   </tr>
 </table>
 
@@ -115,7 +115,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For the final project, students will solve problems related to City Building. From designing environmentally friendly buildings  to tackling rubbish disposal systems, students will have a go at designing solutions aimed at solving real-world problems plaguing city infrastructures. Students will then come together as a class to showcase and discuss their solutions.<br><br>Students are expected to:<br>a)  Program a solution that implements at least 2 different inputs and 2 different outputs (e.g. 1 input and 1 output → a model where when a button is pressed, the servo motor moves)<br>b)  Ensure  that  their  code  is  in  working  order  and  is  well  documented  in  their  Engineering Notebooks<br>c)  Highlight how they applied Computational Thinking principles in designing their solutions</td>
+      <td colspan="3">For the final project, students will solve problems related to city building. From designing environmentally friendly buildings to tackling rubbish disposal systems, students will have a go at designing solutions aimed at solving real-world problems plaguing city infrastructures. Students will then come together as a class to showcase and discuss their solutions.<br><br>Students are expected to:<br><br>a) Program a solution that implements at least 2 different inputs and 2 different outputs (e.g. 1 input and 1 output -> a model where when a button is pressed, the servo motor moves)<br><br>b) Ensure that their code is in working order and is well documented in their Engineering Notebooks<br><br>c) Highlight how they applied Computational Thinking principles in designing their solutions </td>
   </tr>
 </table>
 
@@ -143,7 +143,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For the final project, students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aims to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatize carnival games and sports as a way to revolutionising them.</td>
+      <td colspan="3">For the final project, students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aim to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatise carnival games and sports as a way to revolutionising them.</td>
   </tr>
 </table>
 
@@ -171,7 +171,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">The final project for the course involves the use of Design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes through the exhaust emission and factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.</td>
+      <td colspan="3">The final project for the course involves the use of design thinking to develop a solution to help ease the situation of air pollution.<br><br>Singapore experiences haze from time to time, especially in June or September. Air pollution is not limited to just haze, but there are also other causes, example through exhaust emissions and emission of factory fumes.<br><br>All these factors have led to climate change and students will need to think of a solution, build and code out a prototype using a proposed set to address the situation and present their solutions to the class at the end of the session.</td>
   </tr>
 </table>
 
@@ -199,7 +199,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, make fun mini-projects such as environmental monitoring kits and intruder alarms leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainable and accessible enhancement prototype such as a Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
@@ -227,7 +227,7 @@ Go back to [block-based](#block) training or [top](#top)
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges and fun mini-projects such building energy saving lamps and smart servo doors before embarking on the final project where they will be posed a real-world problem statement and will need to work together to build a sustainable and accessible enhancement prototype such as a Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
@@ -256,7 +256,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as security box and servo lock leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges and fun mini-projects such as building a steady hands buzzer wire game, servo lock game or wheel of fortune game before embarking on the final project where students will be posed a real-world problem statement and  will need to work together to build a automated carnival game fun themed prototype which they can use for their VIA or school open house exhibits.</td>
   </tr>
 </table>
 
@@ -284,7 +284,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges and fun mini-projects such as building a security box and servo lock before embarking on the final project where they will be posed a real-world problem statement and will need to work together to build a sustainable and accessible enhancement prototype such as a Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
