@@ -69,7 +69,7 @@ Go back to [block-based](#block) training or [top](#top)
       <th>Contact</th>
         <th></th>
     </tr><tr>
-      <td align="center" bgcolor="blue">Micro:bit</td>
+      <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
       <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
     <td align="center"><a href="#carolinabtop">(click to go back up)</a></td>
@@ -91,7 +91,7 @@ Go back to [block-based](#block) training or [top](#top)
 <a name="duckbmbsb"></a> **DUCK-B-MB+SB**
 
 <table>
-    <tr>
+    <tr bgcolor="blue">
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
