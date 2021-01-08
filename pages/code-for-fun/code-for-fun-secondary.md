@@ -63,7 +63,7 @@ Go back to [block-based](#block) training or [top](#top)
 <a name="carolinabmb"></a> **CAROLINA-B-MB**
 
 <table>
-    <tr style="background-color:#FFFF00">
+    <tr>
       <th>Kit</th>
       <th>Platform</th>
       <th>Contact</th>
