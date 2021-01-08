@@ -308,7 +308,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Carolina Code for Fun engages student with Technology to offer solutions related to current Global Crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects.<br><br>Using Microbit and knowledge learnt in Text Base programming, students shall build a prototype that will address a Problem Statement related to Climate Change and Global Warming.<br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.</td>
+      <td colspan="3">Carolina Code for Fun programme equips students with relevant technical knowledge to offer solutions related to current global crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects.<br><br>Using Microbit and knowledge learnt in text based programming, students shall build a prototype that will address a problem statement related to climate change and global warming.<br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
@@ -340,7 +340,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">For the final project, Students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aims to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatize carnival games and sports as a way to revolutionising them.</td>
+      <td colspan="3">For the final project, students are tasked to programme, design and build prototypes of carnival games.<br><br>These prototypes aim to entertain, train dexterity and improve the motor skills of young children, persons with special needs as well as the elderly. They can also be a way to automatise carnival games and sports as a way to revolutionising them.</td>
   </tr>
 </table>
 
@@ -364,11 +364,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">This 10-hour computational thinking workshop enable learners to understand and apply the use of a microcontroller, sensors and coding to facilitate and enhance daily activities.<br><br>Student will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>They will be engaged in projects to create simulations of how the virus is spread, design alert systems for people who are quarantined and prevent contact when calling in patients.<br><br>Through these project works, student will also get to acquire and apply concepts of Design Thinking.</td>
+      <td colspan="3">This 10-hour computational thinking workshop enables learners to understand and apply the use of a microcontroller, sensors and coding to facilitate and enhance daily activities.<br><br>Students will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>They will be engaged in projects to create simulations of how the virus is spread, design alert systems for people who are quarantined and prevent contact when calling in patients.<br><br>Through these project works, students will also get to acquire and apply concepts of design thinking.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">The final project aims to foster a sense of community through coming together to contribute efforts to support and strengthen the public health care amidst the pandemic situation.<br><br>Using the Design thinking process, students will seek to define an area about public health that needs to be address and help to reduce the spread of the virus.<br><br>Students will then synthesise what they have learnt from creating the wireless communication system to alerting healthcare professionals of suspected carriers and also ensure people who are serving the stay home notice are quarantined at home or at the specified locations.<br><br>Students will develop a solution to the problem defined and create a prototype with the proposed set and present it at the end of the session. </td>
+      <td colspan="3">The final project aims to foster a sense of community effort to support and strengthen public health care amidst the pandemic situation.<br><br>Using the design thinking process, students will seek to define an area about public health that needs to be addressed and help to reduce the spread of the virus.<br><br>Students will then synthesise what they have learnt from creating the wireless communication system to alerting healthcare professionals of suspected carriers and also help to alert them of any breaches of stay home notices.<br><br>Students will develop a solution to the problem defined and create a prototype with the proposed set and present it at the end of the session.</td>
   </tr>
 </table>
 
@@ -392,11 +392,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">This 10-hour computational thinking workshop enable learners to understand and apply the use of a microcontroller, sensors, robotic and coding to facilitate and enhance daily activities.<br><br>Student will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>With the Qdee starter kit and expansion board, student will be able to experience the full potential of the Micro:bit.<br><br>Student will apply sensor(s) reading captured from the external sensors to programme text-based solution for problem-based learning and/or applied learning programme(s).<br><br>Student will present, articulate and share their concept and prototype to their peers to gather feedback.</td>
+      <td colspan="3">This 10-hour computational thinking workshop enables learners to understand and apply the use of a microcontroller, sensors, robotic and coding to facilitate and enhance daily activities.<br><br>Student will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>With the Qdee starter kit and expansion board, student will be able to experience the full potential of the Micro:bit.<br><br>Studenta will apply sensor(s) reading(s) captured from external sensors to programme text-based solutions. <br><br>Students will present, articulate and share their concept and prototype to their peers to gather feedback.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">The final project aims to foster a sense of community through coming together to contribute efforts to support and strengthen the public health care amidst the pandemic situation.<br><br>Using the Design thinking process, students will seek to define an area about public health that needs to be address and help to reduce the spread of the virus.<br><br>Students will then synthesise what they have learnt from creating the wireless communication system and robotic rover to alert healthcare professionals of suspected carriers.<br><br>Students will develop a solution to the problem defined and create a prototype with the proposed set and present it at the end of the session. </td>
+      <td colspan="3">The final project aims to foster a sense of community efforts to support and strengthen public health care amidst the pandemic situation.<br><br>Using the design thinking process, students will seek to define an area about public health that needs to be addressed and help to reduce the spread of the virus.<br><br>Students will then synthesise what they have learnt from creating the wireless communication system and robotic rover to alert healthcare professionals of suspected carriers.<br><br>Students will develop a solution to the problem defined and create a prototype with the proposed set and present it at the end of the session.</td>
   </tr>
 </table>
 
@@ -420,11 +420,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">The Artificial Intelligence – Smart Home programme explore the application of A.I in smart home automation using Halocode microcontroller, sensors and actuators. The A.I. features includes voice and image recognition functions.<br><br>Students will learn to code with text-based Python programming language, further honing their computational thinking skills and coding fundamentals.<br>The programme will begin with creating mini projects using Halocode device and sensors, before advancing to the A.I. feature integration. Student will learn how to use facial and emotion readings from camera as inputs and feeding images to machine learning model for training. Training content can be integrated to SLS for further learning.</td>
+      <td colspan="3">The Artificial Intelligence – Smart Home programme explores the application of AI in smart home automation using Halocode microcontrollers, sensors and actuators. The AI features includes voice and image recognition functions.<br><br>Students will learn to code with text-based Python programming language, further honing their computational thinking skills and coding fundamentals. <br><br>The programme will begin with creating mini projects using Halocode device and sensors, before advancing to the AI. feature integration. Students will learn how to use facial and emotion readings from camera as inputs to feed images to a machine learning model for training. Training content can be integrated to SLS for further learning.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">Student will embark to work on Smart Home ideas with A.I. features to improve daily lives and a theme to be decided by participating school (e.g. Sustainable Development Goals). Project work ideas includes:<br><br>1.	Smart Bedroom<br>-	Auto lighting<br>-	Blanket warmer<br>-	Remote alarm<br><br>2.	Home with Smart Ramp<br>-	AI powered wheelchair recognition.<br>-	Servo-controlled ramp for the disabled.<br><br>3.	Smart Refrigerator<br>-	Auto lighting<br>-	Closure alarm<br>-	AI Camera to scan for empty fridge</td>
+      <td colspan="3">Students will embark to work on Smart Home ideas with AI features to improve daily lives.  The theme willbe decided by the participating school (e.g. Sustainable Development Goals). Project work ideas include:<br><br>1.	Smart Bedroom<br>-	Auto lighting<br>-	Blanket warmer<br>-	Remote alarm<br><br>2.	Home with Smart Ramp<br>-	AI powered wheelchair recognition.<br>-	Servo-controlled ramp for the disabled.<br><br>3.	Smart Refrigerator<br>-	Auto lighting<br>-	Closure alarm<br>-	AI Camera to scan for empty fridge</td>
   </tr>
 </table>
 
@@ -452,7 +452,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">Student will embark to work on Smart Home ideas to improve daily lives and a theme to be decided by participating school (e.g. Sustainable Development Goals). Project work ideas includes:<br><br>•	Energy saving fan and lighting with motion detection sensors<br>•	Auto plant watering system to prevent plant failure in home.<br>•	Auto closure of windows in event of rain.<br>•	Shower usage counter to discourage long bath<br>•	Auto pet feeder machine.<br>•	Mailbox Monitoring System</td>
+      <td colspan="3">Students will embark to work on Smart Home ideas to improve daily lives.  The theme will be decided by the participating school (e.g. Sustainable Development Goals). Project work ideas include:<br><br>• Energy saving fan and lighting with motion detection sensors<br>• Auto plant watering system to prevent plant failure in home.<br>• Auto closure of windows in event of rain.<br>• Shower usage counter to discourage long bath<br>• Auto pet feeder machine.<br>• Mailbox Monitoring System</td>
   </tr>
 </table>
 
@@ -476,11 +476,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">The Digital Automation – Smart City Programme introduces basic application of IoT (Internet of Things) through usage Micro:Bit microcontrollers, WIFI enabled breakout boards, data sensors, actuators, and display devices.<br><br>Students will learn to code with text-based programming language such as Python or JavaScript, further honing their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices. Students will learn fundamental concept of IoT and how to set up IoT connectivity through ThingSpeak and IFTTT in their final project prototype. Training conent can be integrated to SLS for further learning.</td>
+      <td colspan="3">The Digital Automation  – Smart City Programme introduces basic application of IoT (Internet of Things) through usage of Micro:Bit microcontrollers, WIFI enabled breakout boards, data sensors, actuators, and display devices.<br><br>Students will learn to code with a text-based programming language such as Python or JavaScript, enabling them  to further hone their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices. Students will learn fundamental concept of IoT and how to set up IoT connectivity through ThingSpeak and IFTTT in their final project prototype. Training conent can be integrated to SLS for further learning.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">Student will embark to work on Smart City ideas to improve daily lives and a theme to be decided by participating school (e.g. Sustainable Development Goals). Project work ideas includes:<br><br>•	Weather logging and information system – Real Time logging of sensor data<br>•	Disaster alert system – Email nearby user when a disaster is detected. (Fire/Tsunami etc.)<br>•	Carpark vacancy counter<br>•	Auto plant watering farming system</td>
+      <td colspan="3">Students will embark to work on Smart City ideas to improve daily lives. The theme will be decided by the participating school (e.g. Sustainable Development Goals). Project work ideas include:<br><br>•	Weather logging and information system – Real Time logging of sensor data<br><br>•	Disaster alert system – Email nearby user when a disaster is detected. (Fire/Tsunami etc.)<br><br>•	Carpark vacancy counter<br><br>• Auto plant watering farming system</td>
   </tr>
 </table>
 
@@ -504,11 +504,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking, python coding and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the Python programming in the UiFlow web-based platform, students will learn application of computational thinking and create different useful and practical prototypes quickly.</td>
+      <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking, python coding and STEM concepts to solve real world problems.  Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problems posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the Python programming in the UiFlow web-based platform, students will learn the application of computational thinking and will be able to create different useful and practical prototypes quickly.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as environmental monitoring kit, intruder alarm leading up to the final project, where they will be posed a real-world problem statement and students will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, making fun mini-projects such as an environmental monitoring kit or anintruder alarm before embarking on a final project, where they will be posed a real-world problem statement and will need to work together to build a sustainable and accessible enhancement prototype such as a Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
@@ -536,7 +536,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such energy saving lamp, smart servo doors leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as building an energy saving lamp orsmart servo doors before embarking on a final project where they will be posed a real-world problem statement and will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
@@ -561,11 +561,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions. Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
+      <td colspan="3">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions.  Specially designed for students who are looking for full hands-on experience in applying computational thinking, Python or JavaScript programming and STEM concepts to solve real world problems, students will use Cardboard Lego, pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as steady hands buzzer wire game, servo lock game, wheel of fortune game before leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a automated carnival game fun themed prototype which students can use for their VIA or school open house exhibits.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as building a steady hands buzzer wire game, servo lock game or wheel of fortune game before embarking on a final project where they will be posed a real-world problem statement and will need to work together to build an automated carnival game fun themed prototype which they can use for their VIA or school open house exhibits. </td>
   </tr>
 </table>
 
@@ -589,11 +589,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr>
     <tr>
       <th colspan="1">Training Programe</th>
-      <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve problem posed.  Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.</td>
+      <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve problems posed.  Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
       <th colspan="1">Final Project</th>
-      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as security box and servo lock leading up to the final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
+      <td colspan="3">To make learning fun and relevant, students will have interactive challenges, fun mini-projects such as building a security box and servo lock before embarking on a  final project where students will be posed a real-world problem statement and they will need to work together to build a sustainability and accessibility enhancement prototype such as Smart Home/School Improvement Gadget.</td>
   </tr>
 </table>
 
