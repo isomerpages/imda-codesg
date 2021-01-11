@@ -77,11 +77,11 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#carolinabtop">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Expansion board, base support, breakboard, protective shell, steering gear module, fan module, buzzer sensor, reed switches, u photoelectric sensor, digital display, raindrop sensor, rocker module, sound sensor, temperature sensor, photoresistance sensor, storage box, dupont line, line, relay module, laser sensor module, touch switch module, tilt switch module, vibrating sensor, active buzzer sensor, smog sensor, touch sensor, ultrasonic sensor, DS18B20 temperature sensor, rotation sensor, IR remote control, IR receiving module, double color LED module, 7 colour LED module, flame sensor, RGB colour LED module, potentiometer sensor, magnets, hall switch sensor, ten crocodile clip, Ten LED, Grabity OBLOQ, IOT expansion board</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Carolina Code for Fun equips students with relevant technical knowledge to offer solutions related to current global crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects. Using Microbit and knowledge learnt in block based programming, students shall build a prototype that will address a problem statement related to climate change and global warming.<br><br>Notably, they are also introduced to IoT (Internet of Things) and how IoT and Microbit can be incorporated together to improve the lives of the people.<br><br>AI (Artificial Intelligence) is also introduced and students learn to build a Chat Bot.</td>
     </tr>
     <tr>
@@ -106,11 +106,11 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#duckbtop">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1 x Strawbees connector board, 1 x Strawbees Micro:bit clip, 1 x Servo motor 120 (SM-S2309S), 2 x Servo motor mount white, 1 x Servo motor arm (2 legs) white, 1 x Servo motor arm (1 leg) white, 1 x Servo motor arm (no legs) white, 3 x Screws for servo mounts and arms, 1 x Mini screwdriver blue, 1 x Servo extension cable, 1 x Alligator clip cable red, 1 x Alligator clip cable black<br>12 x Building straws – 240mm Blue, 12 x Building straws – 240mm Pink, 12 x Building straws – 240mm Green, 12 x Building straws – 240mm Yellow, 12 x Building straws – 240mm Orange, 12 x Building straws – 240mm Gray, 51 x Connectors – 1-leg Blue, 25 x Connectors – 2-leg Yellow, 25 x Connectors – 3-leg Green, 25 x Connectors – 5-leg Red</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">In this program, students will learn to solve real-life problems with tangible solutions by developing their 3D prototyping and coding skills. The students will learn to build prototypes with Strawbees (a reusable building kit that consists of colourful building straws and versatile connectors) and program their micro:bit using Makecode’s block-based programming platform.<br><br>All students will also be given an Engineering Notebook where they will document their findings and journal their thoughts and discoveries. The reflection process reinforces their learning as they learn how to make new connections across various ideas.<br><br>Ultimately, the program has been specially designed to develop students’ computational thinking skills in addition to the essential 21 st  century skills - critical thinking, creativity, collaboration and communication.</td>
     </tr>
     <tr>
@@ -134,11 +134,11 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#edubtop">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Crocodile Clip (5 pcs per kit), Buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), Aluminum Foil (1 roll per kit), Masking Tape (1 roll per kit)</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This programme aims to introduce problem solving skills using basic block based coding. Students will develop critical and innovative thinking skills as well as computational thinking and algorithmic thinking skills. This will enable students to see relevance of their learning beyond the classroom to solve problems in real world contexts.<br><br>Each lesson will consist of theory into a programming concept followed by activities and challenges where the students will apply the concept learnt, leading up to the final project where students are to apply all concepts to solve the given problem.</td>
     </tr>
     <tr>
@@ -162,11 +162,11 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#epbtop">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Light Sensor, Potentionmeter, Motors (DC 3600) and Servo (1800) and Motor Controller, Tilt Sensor, Recorder, Speaker, LED String Light, Humidity Sensor, pH Sensor, Proximity Sensor, Battery Holder</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This 10-hour computational thinking workshop involves the application of computational thinking and electronic sensors to develop prototype/solution based on problem-based learning.<br><br>Through block-based coding, student will be learning how processes can be automated through the use of  microcontrollers and circuitry sensors to capture readings and automate system flows.<br><br>Students will be creating mini projects from how their phones can automatically detect their environment, finetune the brightness of their screens and how knob-type switches can be used to control appliances, create data logs and sending secret messages through radio functions.<br><br> In the process, students will also be acquiring knowledge on design thinking as they plan and try out the mini projects.</td>
     </tr>
     <tr>
@@ -190,11 +190,11 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#zenitantbtop1">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), Lego Blocks and Connectors, 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems. Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problem posed.  Using Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow, students will learn application of computational thinking and create different useful and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -218,11 +218,11 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#zenitantbtop2">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xPIR Motion Sensor, 1xLight Unit with Photo-resistance, 1xRGB LED Unit, 1xM5StickC SERVO HAT, 1xUnbuckled Grove Cable, 10xBlokies (S), 5xBlokies (M), 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller and bit size sustainability and accessibility themed prototypes that may require wireless connectivity. Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students can use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop web-based programming platform UiFlow to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -246,12 +246,12 @@ Go back to [block-based](#block) training or [top](#top)
     <td align="center"><a href="#zenitantbtop3">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip
 Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions. Specially designed for students who are looking for full hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -275,11 +275,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#zenitantbtop4">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1x9PG Micro Servo, 1xLED Module, Crocodile Clips, Multiple Pin Jumper Wire, 1xIO:Bit Basic Breakout Board with Buzzer and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve real world problems. Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and the easy to use drag and drop programming platform MakeCode to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -303,11 +303,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#carolinattop">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Expansion board, base support, breakboard, protective shell, steering gear module, fan module, buzzer sensor, reed switches, u photoelectric sensor, digital display, raindrop sensor, rocker module, sound sensor, temperature sensor, photoresistance sensor, storage box, dupont line, line, relay module, laser sensor module, touch switch module, tilt switch module, vibrating sensor, active buzzer sensor, smog sensor, touch sensor, ultrasonic sensor, DS18B20 temperature sensor, rotation sensor, IR remote control, IR receiving module, double color LED module, 7 colour LED module, flame sensor, RGB colour LED module, potentiometer sensor, magnets, hall switch sensor, ten crocodile clip, ten LED</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Carolina Code for Fun programme equips students with relevant technical knowledge to offer solutions related to current global crises.<br><br>Computational thinking and design thinking concepts are introduced and taught through mini projects.<br><br>Using Microbit and knowledge learnt in text based programming, students shall build a prototype that will address a problem statement related to climate change and global warming.<br><br>AI (Artificial Intelligence) is also introduced whereby students learn to build a Chat Bot.</td>
     </tr>
     <tr>
@@ -331,11 +331,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#eduttop">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Crocodile Clip (5 pcs per kit), Buzzer (1 unit per kit), LED light bulb (5 pcs of different color per kit), Aluminum Foil (1 roll per kit), Masking Tape (1 roll per kit)</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This programme aims to introduce problem solving skills using text-based coding. Students will develop critical and innovative thinking skills as well as computational thinking and algorithmic thinking skills. This will enable students to see relevance of their learning beyond the classroom to solve problems in real world contexts.<br><br>Each lesson will consist of theory into a programming concept followed by activities and challenges where the students will apply the concept learnt, leading up to the final project where students are to apply all concepts to solve the given problem.</td>
     </tr>
     <tr>
@@ -359,11 +359,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#epttop1">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Rotation Sensor, Red Push Button, Self-Locking Switch, Light Sensor, Tilt Sensor, Sound Sensor, Motion Sensor, Bright Light LED, Multicolor String Light, Buzzer Module, Voice Recorder Module, Motor Controller Module, Servo Controller Module</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This 10-hour computational thinking workshop enables learners to understand and apply the use of a microcontroller, sensors and coding to facilitate and enhance daily activities.<br><br>Students will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>They will be engaged in projects to create simulations of how the virus is spread, design alert systems for people who are quarantined and prevent contact when calling in patients.<br><br>Through these project works, students will also get to acquire and apply concepts of design thinking.</td>
     </tr>
     <tr>
@@ -387,11 +387,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#epttop2">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Microcontroller Expansion Board and Casing, Sound Sensor, IR Receiver, IR Emitter, 6 x LEDs, RGB Light, Ultrasonic Sensor, DC Motor (s), Line Follower, Buzzer, Chassis</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This 10-hour computational thinking workshop enables learners to understand and apply the use of a microcontroller, sensors, robotic and coding to facilitate and enhance daily activities.<br><br>Student will be given the opportunity to explore the use of text-based coding to support safety management measures put in place during the pandemic.<br><br>With the Qdee starter kit and expansion board, student will be able to experience the full potential of the Micro:bit.<br><br>Studenta will apply sensor(s) reading(s) captured from external sensors to programme text-based solutions. <br><br>Students will present, articulate and share their concept and prototype to their peers to gather feedback.</td>
     </tr>
     <tr>
@@ -415,11 +415,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#robotottop1">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Alligator Clip × 4, Servo Motor x 1, Water Sensor x 1, Infra Proximity Sensor x 1, Connecting Jumper Wire x 10, Buzzer x 1</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">The Artificial Intelligence – Smart Home programme explores the application of AI in smart home automation using Halocode microcontrollers, sensors and actuators. The AI features includes voice and image recognition functions.<br><br>Students will learn to code with text-based Python programming language, further honing their computational thinking skills and coding fundamentals. <br><br>The programme will begin with creating mini projects using Halocode device and sensors, before advancing to the AI. feature integration. Students will learn how to use facial and emotion readings from camera as inputs to feed images to a machine learning model for training. Training content can be integrated to SLS for further learning.</td>
     </tr>
     <tr>
@@ -443,11 +443,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#robotottop2">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Breakout Board (with on-board buzzer) x 1, Soil Moisture Sensor x 1, Rain Sensor x 1, Servo Motor x 1, Rainbow LED Strip, Infra-Red Proximity Sensor, PIR Motion Sensor x 1, Fan x 1, Connecting Wires x 5, Enclosure Box x 1</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">The Digital Automation – Smart Home Programme explores the real-world application of microcontrollers, sensors and actuators through hands-on project making. Students will learn to code with text-based programming language such as Python or JavaScript, further honing their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices, before advancing to final project prototyping where they can unleash their creativity and problem-solving minds. Students will be guided on design thinking process and project planning methodology prior to their prototype building. Training content can be integrated to SLS for further learning.</td>
     </tr>
     <tr>
@@ -471,11 +471,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#robotottop3">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">Internet of Things (IoT) Breakout Board (with on-board buzzer) x 1, Soil Moisture Sensor x 1, Rain Sensor x 1, Servo Motor x 1, Rainbow LED Strip, Infra-Red Proximity Sensor, PIR Motion Sensor x 1, Sound Sensor x 1, Crash Sensor x 1, Analogue Rotation Switch x 1, Fan x 1, Connecting Wires x 5, Enclosure Box x 1</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">The Digital Automation – Smart City Programme introduces basic application of IoT (Internet of Things) through usage of Micro:Bit microcontrollers, WIFI enabled breakout boards, data sensors, actuators, and display devices.<br><br>Students will learn to code with a text-based programming language such as Python or JavaScript, enabling them  to further hone their computational thinking skills and coding fundamentals.<br><br>The programme will begin with various mini Micro:Bit projects to expose students to different sensory and data collection devices. Students will learn fundamental concept of IoT and how to set up IoT connectivity through ThingSpeak and IFTTT in their final project prototype. Training conent can be integrated to SLS for further learning.</td>
     </tr>
     <tr>
@@ -499,11 +499,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#zenitantttop1">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xENV Unit with Temperature Humidity Pressure Sensor, 1xMini Infrared Emitter & Receiver Unit, 1xPIR Motion Sensor, 1xMini Angle Unit with Potentiometer, 1xRGB LED Unit, 1xUnbuckled Grove Cable, 1x1 to 3 HUB Unit, 10xBlokies (S), 5xBlokies (M), Lego Blocks and Connectors, 1xbox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">This programme is specially designed for students who are looking for full hands-on experience in applying computational thinking, python coding and STEM concepts to solve real world problems. Using the IoT enabled M5Go microcontroller with LCD screen and a variety of sensors and actuators, students get to make environmental and sustainability themed prototypes that may require wireless connectivity to solve problems posed. Using Cardboard Lego pieces known as Blokies, upcycled materials and the Python programming in the UiFlow web-based platform, students will learn the application of computational thinking and will be able to create different useful and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -527,11 +527,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#zenitantttop2">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xPIR Motion Sensor, 1xLight Unit with Photo-resistance, 1xRGB LED Unit, 1xM5StickC SERVO HAT, 1xUnbuckled Grove Cable, 10xBlokies (S), 5xBlokies (M), 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Using the miniature IoT enabled M5StickC microcontroller with a mini-LCD screen and a variety of sensors and actuators, students get to make smaller sustainability and accessibility themed prototypes that may require wireless connectivity to solve problem posed. Specially designed for students who are looking for full hands-on experience in applying computational thinking, Python Coding and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python programming on the web-based UiFlow programming platform to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -555,12 +555,12 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#zenitantttop3">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1xSoil Moisture Sensor, 1x9PG Micro Servo, 1xDC Motor, 1xLED Strip
 Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with LED, Buzzer, Motor Driver and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Using the micro:bit, an advanced breakout board with motor drivers as well as a variety of sensors and actuators, students get to make automated carnival games and fun projects which can be used for VIA or open house exhibitions. Specially designed for students who are looking for full hands-on experience in applying computational thinking, Python or JavaScript programming and STEM concepts to solve real world problems, students will use Cardboard Lego, pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
@@ -584,11 +584,11 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     <td align="center"><a href="#zenitantttop4">(click to go back up)</a></td>
     </tr>
         <tr>
-      <th colspan="1">Addons Required</th>
+      <th colspan="1">Add-ons Required</th>
       <td colspan="3">1xLight Sensor, 1xPassive Infra-Red Sensor, 1x9PG Micro Servo, 1xLED Module, Crocodile Clips, Multiple Pin Jumper Wire, 1xIO:Bit Basic Breakout Board with Buzzer and Battery Holder, 5xMedium and 10xSmall Cardboard Blokies, 1xBox</td>
     </tr>
     <tr>
-      <th colspan="1">Training Programe</th>
+      <th colspan="1">Training Programme</th>
       <td colspan="3">Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve problems posed. Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.</td>
     </tr>
     <tr>
