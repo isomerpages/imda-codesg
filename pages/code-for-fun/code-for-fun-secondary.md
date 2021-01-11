@@ -19,7 +19,7 @@ IMDA and MOE HQ will fully fund the training cost of 1 lower secondary school co
 
 1.	Please refer to the details provided in the Programme Booklet disseminated to all MOE Government & Government-Aided Secondary Schools.
 2.	Please select your preferred course and contact the training partner (provided in the list below) to confirm their availability to provide the required training on your scheduled training dates.
-3.	Please submit your school’s application online via Forms.SG during the application period from XX Jan 2021 to 26 Mar 2021.
+3.	Please submit your school’s application online via Forms.SG during the application period from 11 Jan 2021 to 26 Mar 2021.
 4.	IMDA and MOE HQ will review your school’s application and provide an approval notice to commence training.
 5.	Schools can only commence training after receiving the written approval from IMDA and MOE HQ. 
 
