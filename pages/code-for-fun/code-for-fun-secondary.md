@@ -76,7 +76,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Micro:bit</td>
       <td align="center">Makecode</td>
       <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
-    <td align="center"><a href="#carolinabtop">(click to go back up)</a></td>
+    <td align="center"><a href="#carolinabtop">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -105,7 +105,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Makecode</td>
       <td><b>Murtaza Njmudden</b> (Assistant Sales Manager)<br><b>Email:</b> <a href="mailto:murtaza@ducklearning.com">murtaza@ducklearning.com</a><br><b>Mobile:</b> 97525201<br><br>
 <b>Ivan Lau</b> (Senior Education Executive)<br><b>Email:</b> <a href="mailto:ivan@ducklearning.com">ivan@ducklearning.com</a><br><b>Mobile:</b> 97282981</td>
-    <td align="center"><a href="#duckbtop">(click to go back up)</a></td>
+    <td align="center"><a href="#duckbtop">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -133,7 +133,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Micro:bit Go Kit</td>
       <td align="center">Makecode</td>
       <td><b>Fazmi Mohd</b> (Manager)<br><b>Email:</b> <a href="mailto:fazmi@edublitz.com">fazmi@edublitz.com</a><br><b>Mobile:</b> 97633684</td>
-    <td align="center"><a href="#edubtop">(click to go back up)</a></td>
+    <td align="center"><a href="#edubtop">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -161,7 +161,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Microbit +Boson</td>
       <td align="center">Makecode</td>
       <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
-    <td align="center"><a href="#epbtop">(click to go back up)</a></td>
+    <td align="center"><a href="#epbtop">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -189,7 +189,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">UiFlow</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantbtop1">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantbtop1">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -217,7 +217,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">M5StickC Prototyping Kit</td>
       <td align="center">UiFlow</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantbtop2">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantbtop2">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -245,7 +245,7 @@ Go back to [block-based](#block) training or [top](#top)
       <td align="center">Micro:bit Prototyping Kit</td>
       <td align="center">Makecode</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantbtop3">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantbtop3">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -274,7 +274,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Micro:bit Starter Kit</td>
       <td align="center">Makecode</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantbtop4">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantbtop4">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -302,7 +302,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Micro:bit</td>
       <td align="center">MU Editor</td>
      <td><b>Kerk Wee Chong</b> (Programme Director)<br><b>Email:</b> <a href="mailto:enrichmentprogrammes@carolina.com.sg">enrichmentprogrammes@carolina.com.sg</a><br><b>Mobile:</b> 98575875</td>
-    <td align="center"><a href="#carolinattop">(click to go back up)</a></td>
+    <td align="center"><a href="#carolinattop">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -330,7 +330,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Micro:bit Go Kit</td>
       <td align="center">Makecode</td>
       <td><b>Fazmi Mohd</b> (Manager)<br><b>Email:</b> <a href="mailto:fazmi@edublitz.com">fazmi@edublitz.com</a><br><b>Mobile:</b> 97633684</td>
-    <td align="center"><a href="#eduttop">(click to go back up)</a></td>
+    <td align="center"><a href="#eduttop">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -358,7 +358,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Microbit +Boson</td>
       <td align="center">Makecode</td>
       <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
-    <td align="center"><a href="#epttop1">(click to go back up)</a></td>
+    <td align="center"><a href="#epttop1">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -386,7 +386,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Microbit +Boson</td>
       <td align="center">Makecode</td>
       <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
-    <td align="center"><a href="#epttop2">(click to go back up)</a></td>
+    <td align="center"><a href="#epttop2">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -414,7 +414,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Halocode Microcontroller</td>
       <td align="center">mBlock</td>
       <td><b>Brian Lee</b> (Director)<br><b>Email:</b> <a href="mailto:brianlee@roboto.sg">brianlee@roboto.sg</a><br><b>Mobile:</b> 97622239</td>
-    <td align="center"><a href="#robotottop1">(click to go back up)</a></td>
+    <td align="center"><a href="#robotottop1">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -442,7 +442,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Microbit</td>
       <td align="center">Makecode</td>
       <td><b>Brian Lee</b> (Director)<br><b>Email:</b> <a href="mailto:brianlee@roboto.sg">brianlee@roboto.sg</a><br><b>Mobile:</b> 97622239</td>
-    <td align="center"><a href="#robotottop2">(click to go back up)</a></td>
+    <td align="center"><a href="#robotottop2">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -470,7 +470,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Microbit</td>
       <td align="center">Makecode</td>
       <td><b>Brian Lee</b> (Director)<br><b>Email:</b> <a href="mailto:brianlee@roboto.sg">brianlee@roboto.sg</a><br><b>Mobile:</b> 97622239</td>
-    <td align="center"><a href="#robotottop3">(click to go back up)</a></td>
+    <td align="center"><a href="#robotottop3">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -498,7 +498,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">UiFlow</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantttop1">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantttop1">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -526,7 +526,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">UiFlow</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantttop2">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantttop2">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -554,7 +554,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">M5GO Prototyping Kit</td>
       <td align="center">Makecode</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantttop3">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantttop3">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
@@ -583,7 +583,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
       <td align="center">Micro:bit Starter Kit</td>
       <td align="center">Makecode</td>
       <td><b>Philip Kong</b> (Director)<br><b>Email:</b> <a href="mailto:philipkong@zenitant.com.sg">philipkong@zenitant.com.sg</a><br><b>Mobile:</b> 97440711<br><br><b>Muhd Nizam</b> (BD Manager)<br><b>Email:</b> <a href="mailto:nizam@zenitant.com.sg">nizam@zenitant.com.sg</a><br><b>Mobile:</b> 92325024</td>
-    <td align="center"><a href="#zenitantttop4">(click to go back up)</a></td>
+    <td align="center"><a href="#zenitantttop4">(back)</a></td>
     </tr>
         <tr>
       <th colspan="1">Add-ons Required</th>
