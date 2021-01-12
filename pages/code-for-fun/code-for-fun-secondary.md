@@ -61,7 +61,7 @@ View [block-based](#block) or [text-based](#text) training below.
 |ZENITANT|ZENITANT-T-MB Starter|Micro:bit Starter Kit|Makecode|<a name="zenitantttop4"></a>Using the micro:bit, a basic breakout board, several easy to use sensors and actuators, students get to make basic sustainability and accessibility themed prototypes to solve problems posed. Specially designed to introduce basics of digital making and hands-on experience in applying computational thinking and STEM concepts to solve real world problems, students will use Cardboard Lego pieces known as Blokies, upcycled materials and Python or JavaScript programming in MakeCode to create different fun and practical prototypes quickly.|<strong>[+](#zenitanttmstarter)</strong>|
 
 
-Go back to [block-based](#block) training or [top](#top)
+Back to list of [block-based](#block) training
 
 
 <a name="carolinabmb"></a> **CAROLINA-B-MB**
@@ -599,4 +599,4 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
   </tr>
 </table>
 
-For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact chia_wan_ting@imda.gov.sg 
+For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact <a href="mailto:chia_wan_ting@imda.gov.sg">IMDA</a>.
