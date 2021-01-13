@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Code For Fun For Secondary Schools
 permalink: /in-schools/code-for-fun/secondary/
 breadcrumb: Code For Fun For Secondary Schools
