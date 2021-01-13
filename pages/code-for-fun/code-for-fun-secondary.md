@@ -161,7 +161,7 @@ Back to list of [block-based](#block) training
     </tr><tr>
       <td align="center">Microbit +Boson</td>
       <td align="center">Makecode</td>
-      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
+      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@epasia.cc">cckoh@epasia.cc</a><br><b>Mobile:</b> 91466015</td>
     <td align="center"><a href="#epbtop">(back)</a></td>
     </tr>
         <tr>
@@ -358,7 +358,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr><tr>
       <td align="center">Microbit +Boson</td>
       <td align="center">Makecode</td>
-      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
+      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@epasia.cc">cckoh@epasia.cc</a><br><b>Mobile:</b> 91466015</td>
     <td align="center"><a href="#epttop1">(back)</a></td>
     </tr>
         <tr>
@@ -386,7 +386,7 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
     </tr><tr>
       <td align="center">Microbit +Boson</td>
       <td align="center">Makecode</td>
-      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@ericchew.cc">cckoh@ericchew.cc</a><br><b>Mobile:</b> 91466015</td>
+      <td><b>Eric Chew</b> (GM)<br><b>Email:</b> <a href="mailto:ericchew@epasia.cc">ericchew@epasia.cc</a><br><b>Mobile:</b> 92370851<br><br><b>Koh Choon Chuan</b> (Manager)<br><b>Email:</b> <a href="mailto:cckoh@epasia.cc">cckoh@epasia.cc</a><br><b>Mobile:</b> 91466015</td>
     <td align="center"><a href="#epttop2">(back)</a></td>
     </tr>
         <tr>
