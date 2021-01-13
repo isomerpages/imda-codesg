@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Code For Fun Enrichment For Secondary Schools 
-permalink: /in-schools/code-for-fun/secondary/
+permalink: /in-schools/code-for-fun/secondarya/
 breadcrumb: Code For Fun Secondary
 ---
 <a name="top"></a>
