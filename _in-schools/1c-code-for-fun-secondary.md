@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Code For Fun Enrichment For Secondary Schools 
+title: Secondary
 permalink: /in-schools/code-for-fun/secondary/
 breadcrumb: Code For Fun Secondary
 collection_name: in-schools
