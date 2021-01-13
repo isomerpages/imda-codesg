@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Code For Fun
+title: Overview
 permalink: /in-schools/code-for-fun/overview/
-breadcrumb: Code For Fun
+breadcrumb: Code For Fun Overview
 collection_name: in-schools
+second_nav_title: Code For Fun
 ---
 
 #### Code for Fun Enrichment Programme aims to increase primary and secondary school students' exposure to computational thinking and making. 
@@ -18,4 +19,4 @@ The Code for Fun Enrichment Programme (offered jointly by IMDA and MOE) is offer
 
 Click [here](/stories/#codeforfun) to view the media coverage.
 
-For more information, refer to [Code for Fun Primary](/in-schools/code-for-fun/primary/) and [Code for Fun Secondary](/in-schools/code-for-fun/secondary/).
+For more information, refer to [Code for Fun Secondary](/in-schools/code-for-fun/secondary/).
