@@ -1,5 +1,5 @@
 ---
-layout: resources
+layout: simple-page
 permalink: /resources/
 breadcrumb: Resources
 title: Resources
