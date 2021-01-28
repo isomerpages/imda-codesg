@@ -1,10 +1,6 @@
 ---
-layout: leftnav-page-content
-title: Overview
-permalink: /resources/overview/
-breadcrumb: Resources Overview
-collection_name: resources
+layout: resources
+permalink: /resources/
+breadcrumb: Resources
+title: Resources
 ---
-
-**Hello**
-
