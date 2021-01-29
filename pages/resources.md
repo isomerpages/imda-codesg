@@ -6,4 +6,4 @@ title: Resources
 ---
 
 
-More information will be up soon! 
+More information will be up soon. 
