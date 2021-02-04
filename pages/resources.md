@@ -22,7 +22,7 @@ Go on an adventure with Rolly and Mavie and uncover the wonders of AI in your da
 
 The AI activity book will be made available for students who are going through, or have been through the <a href="https://codesg.imda.gov.sg/in-schools/code-for-fun/overview/" target="_blank">Code For Fun Enrichment Programme</a> in primary schools, where you can continue your AI learning journey at home.
 	
-Download the activity book here.
+Download the [activity book](/files/_resources/IMDA_Ai Activity Book.pdf) here.
 
 **For the Community**
 
