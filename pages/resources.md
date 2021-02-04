@@ -6,8 +6,6 @@ title: Resources
 ---
 
 
-# *Home / Resources*
-
 ## Resources
 
 Want to find out how you can start your tech journey beyond coding? Here are some resources that you may find useful to start with. 
@@ -22,7 +20,7 @@ Go on an adventure with Rolly and Mavie and uncover the wonders of AI in your da
 
 The AI activity book will be made available for students who are going through, or have been through the <a href="https://codesg.imda.gov.sg/in-schools/code-for-fun/overview/" target="_blank">Code For Fun Enrichment Programme</a> in primary schools, where you can continue your AI learning journey at home.
 	
-Download the [activity book](/files/resources/IMDA-Ai-Activity-Book.pdf) here.
+Download the activity book [here](/files/resources/IMDA-Ai-Activity-Book.pdf).
 
 **For the Community**
 
