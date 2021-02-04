@@ -6,7 +6,6 @@ title: Resources
 ---
 
 
-## Resources
 
 Want to find out how you can start your tech journey beyond coding? Here are some resources that you may find useful to start with. 
 
