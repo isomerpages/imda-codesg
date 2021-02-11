@@ -601,4 +601,4 @@ Crocodile Clips, Multiple Pin Jumper Wire, 1xALS Prototyping Breakout Board with
   </tr>
 </table>
 
-For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact <a href="mailto:chia_wan_ting@imda.gov.sg">IMDA</a>.
+For enquires regarding the Code for Fun Enrichment Programme for Secondary School, please contact <a href="mailto:Jadyn_LAU@imda.gov.sg">IMDA</a>.
