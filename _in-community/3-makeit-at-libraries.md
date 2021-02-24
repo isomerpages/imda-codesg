@@ -40,7 +40,7 @@ MakeIT aims to introduce Making and Innovation to the general public by way of 5
   * No longer solely the domain of auntie seamstresses, sewing goes back to its roots in material reinforcement and binary weaving, to bring new light to modern day digital fabrication and use of materials. Classes offered include traditional techniques as well as integration of tech, such as wearables and conductive materials. 
  
  5. Lasercutting (coming soon)
-   * The public will be introduced to the lasercutting machine, which uses compuetrised commands to accurately cut flat materials. Lasercut can be used for prototyping, craft and engineering.<br>
+   * The public will be introduced to the lasercutting machine, which uses computerised commands to accurately cut flat materials. Lasercutting can be used for prototyping, craft and engineering.<br>
    
 #### Services
  
