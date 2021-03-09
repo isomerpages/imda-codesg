@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stay tuned for more information. 
+title: Competitions 
 date: 2021-03-09
 permalink: /events/competitions/
 ---
