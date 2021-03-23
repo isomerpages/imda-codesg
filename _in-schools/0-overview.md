@@ -35,14 +35,6 @@ A structured training framework for Infocomm Media Club members to acquire speci
 
 ---
 
-#### **[National Infocomm Competition](/in-schools/national-infocomm-competition/)**<br>
-<br>
-A series of infocomm-themed competitions designed to expose students to areas such as robotics, artificial intelligence, data science and mobile application development.<br>
-
-*For all age groups.*
-
----
-
 #### **[PlayMaker](/in-schools/playmaker-overview/)** <br>
 
 Aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
