@@ -62,4 +62,4 @@ As for what advice he would give to other aspiring young digital makers, Cedric 
  
 To find out more about Cedric’s digital making projects, please visit his YouTube channel <a href="https://www.youtube.com/watch?v=DjGUEKkP44Y&list=PL_vLP6-nxNrMwhn11R2TP7vhADghNEAC4" target="_blank">here</a> 
 
-Find out more about IMDA Programmes at [PIXEL Lab](/in-community/pixel-labs/)!
+Find out more about IMDA Programmes at [MakeIT at Libraries](/in-community/makeit-at-libraries/)!
