@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Smart Home - Project Ideas
+title: 'Smart Home - Project Ideas'
 permalink: /smart-home/
-breadcrumb: Smart Home - Project Ideas
+breadcrumb: 'Smart Home - Project Ideas'
+
 ---
+
 
 | Project Name |
 |--|
