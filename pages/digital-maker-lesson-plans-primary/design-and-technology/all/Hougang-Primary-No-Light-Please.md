@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: No Light Please
+title: 'No Light Please'
 permalink: /hougang-primary-no-light-please/
-breadcrumb: No Light Please
+breadcrumb: 'No Light Please'
+
 ---
+
 
 The lesson makes use of Problem-Based Learning (PBL) to engage students in making use of micro:bit to investigate the transparency of various materials and use their findings to determine which material is most suited to make curtains for use in the classroom to block out light. 
 
