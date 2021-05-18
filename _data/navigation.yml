@@ -11,6 +11,6 @@ links:
     - title: Stories
       collection: stories
     - title: Resources
-      url: /resources/
+      resource_room: true
     - title: 'Contact Us'
       url: /contact-us/
