@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Using micro:bits to find voltage in a series circuit
+title: 'Using micro:bits to find voltage in a series circuit'
 permalink: /outram-secodary-using-microbits-to-find-voltage-in-a-series-circuit/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 Students will be exposed to the world of programming by using micro:bits in their lesson. Students will set up an electric circuit using electrical components and micro:bits. The micro:bits will be used to read the voltage in the circuit.
 
