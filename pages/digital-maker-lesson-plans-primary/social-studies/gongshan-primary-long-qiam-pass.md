@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Gongshan Primary - Long Qiam Pass
+title: 'Gongshan Primary - Long Qiam Pass'
 permalink: /gongshan-primary-long-qiam-pass/
-breadcrumb: Gongshan Primary Long Qiam Pass
+breadcrumb: 'Gongshan Primary Long Qiam Pass'
+
 ---
+
 
 The pupils had to work in pairs to develop code for the traditional game Long Qiam Pass (Scissors, Paper, Stone). Through the coding of the game and with the use of micro:bits, the pupils may have an understanding of how a traditional game played in the past can take on a new form today.
 
