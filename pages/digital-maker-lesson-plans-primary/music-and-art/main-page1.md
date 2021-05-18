@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Music and Art Lesson Ideas - Primary
+title: 'Music and Art Lesson Ideas - Primary'
 permalink: /primary-music-and-art/
-breadcrumb: Music and Art Lesson Ideas - Primary
+breadcrumb: 'Music and Art Lesson Ideas - Primary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|
