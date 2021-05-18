@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Students Team Up with their Parents to Code at Waterway Primary School!"
-date: 2019-02-16
+title: 'Students Team Up with their Parents to Code at Waterway Primary School!'
+date: 2019-02-16T00:00:00.000Z
 permalink: /students-team-up-with-their-parents-to-code-at-waterway-primary-school/
-breadcrumb: Students team up with their parents to code at Waterway Primary School!
+breadcrumb: 'Students team up with their parents to code at Waterway Primary School!'
+
 ---
+
 
 
 Waterway Primary School has always strived to prepare its students for the future. Coding and Programming, a distinctive programme of the school since 2017, aims to teach students computational thinking skills. According to Mr. Ben Sim, Head of Department for InfoComm Technology, the reason for implementing the programme was simple, “At Waterway Primary, we foresee that for our students in the future, computational thinking skills and knowledge of digital making will be a valuable part of work and life.”
