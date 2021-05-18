@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Humanities Lesson Ideas - Secondary
+title: 'Humanities Lesson Ideas - Secondary'
 permalink: /secondary-humanities/
-breadcrumb: Humanities Lesson Ideas - Secondary
+breadcrumb: 'Humanities Lesson Ideas - Secondary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|
