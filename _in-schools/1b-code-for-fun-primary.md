@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Primary Schools
+title: 'Primary Schools'
 permalink: /in-schools/code-for-fun/primary/
-breadcrumb: Primary Schools
-collection_name: in-schools
-second_nav_title: Code For Fun
+breadcrumb: 'Primary Schools'
+third_nav_title: 'Code For Fun'
+
 ---
+
 #### From 2020, all upper primary pupils will undergo a 10-hour coding enrichment class to expose them to the skills needed to embrace new opportunities in the digital economy.
 
 The Code For Fun Programme allows pupils to:
