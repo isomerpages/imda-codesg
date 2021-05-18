@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Treasure Hunting with Cubetto
-date: 2019-06-08
+title: 'Treasure Hunting with Cubetto'
+date: 2019-06-08T00:00:00.000Z
 permalink: /events/workshops/treasure-hunting-with-cubetto-080619
+
 ---
+
 
 | Date | Time | Venue |
 |--------|---|---|
