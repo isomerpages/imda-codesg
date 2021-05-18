@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-fun-and-games-advanced/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 
