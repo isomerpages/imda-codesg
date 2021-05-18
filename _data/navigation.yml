@@ -7,10 +7,10 @@ links:
     - title: 'In Community'
       collection: in-community
     - title: Events
-      collection: events
+      resource_room: true
     - title: Stories
       collection: stories
     - title: Resources
-      resource_room: true
+      url: /resources/
     - title: 'Contact Us'
       url: /contact-us/
