@@ -1,10 +1,10 @@
 ---
-layout: simple-page
-title: Creating an emotions tracker with the Micro:bit
+title: 'Creating an emotions tracker with the Micro:bit'
 permalink: /nan-hua-high-school-creating-an-emotions-tracker-with-the-microbit/
-breadcrumb: Secondary School - humanities
+breadcrumb: 'Secondary School - humanities'
 
 ---
+
 
 This lesson teaches students a core function of the Micro:bit, inputs and event handlers. Students will learn how to program the Micro:bit to display a different emotion based on which button is pressed (or any other input), and are free to customize and explore the different permutations possible.
 
