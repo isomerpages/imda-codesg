@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Math (Advanced)
+title: 'Math (Advanced)'
 permalink: /secondary-math-advanced/
-breadcrumb: Math (Advanced)
+breadcrumb: 'Math (Advanced)'
+
 ---
+
 
 [test](/placeholder-secondary-math-advanced)
 
