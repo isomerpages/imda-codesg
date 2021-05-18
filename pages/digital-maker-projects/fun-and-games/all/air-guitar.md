@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Air Guitar
+title: 'Air Guitar'
 permalink: /air-guitar/
-breadcrumb: Air Guitar
+breadcrumb: 'Air Guitar'
+
 ---
+
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/air-guitar/air-guitar1.jpg)
 
