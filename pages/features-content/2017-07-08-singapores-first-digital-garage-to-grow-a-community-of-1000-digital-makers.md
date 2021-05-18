@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Singapore’s first “Digital Garage” to grow a community of 1000 digital makers"
-date: 2017-07-08
+title: 'Singapore’s first “Digital Garage” to grow a community of 1000 digital makers'
+date: 2017-07-08T00:00:00.000Z
 permalink: /singapores-first-digital-garage-to-grow-a-community-of-1000-digital-makers/
-breadcrumb: Singapore’s first “Digital Garage” to grow a community of 1000 digital makers
+breadcrumb: 'Singapore’s first “Digital Garage” to grow a community of 1000 digital makers'
+
 ---
+
 
 ## Singapore’s first “Digital Garage” to grow a community of 1000 digital makers
 
