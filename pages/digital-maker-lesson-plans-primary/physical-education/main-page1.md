@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Physical Education Lesson Ideas - Primary
+title: 'Physical Education Lesson Ideas - Primary'
 permalink: /primary-physical-education/
-breadcrumb: Physical Education Lesson Ideas - Primary
+breadcrumb: 'Physical Education Lesson Ideas - Primary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|
