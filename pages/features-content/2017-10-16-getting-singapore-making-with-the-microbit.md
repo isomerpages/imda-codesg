@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Getting Singapore making with the micro:bit"
-date: 2017-10-16
+title: 'Getting Singapore making with the micro:bit'
+date: 2017-10-16T00:00:00.000Z
 permalink: /getting-singapore-making-with-the-microbit/
-breadcrumb: Getting Singapore making with the micro:bit
+breadcrumb: 'Getting Singapore making with the micro:bit'
+
 ---
+
 
 ## Getting Singapore making with the micro:bit
 #### - article by Tinkercademy
