@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /in-community/playmaker-overview/
-breadcrumb: PlayMaker Overview (In Community)
-collection_name: in-community
-second_nav_title: PlayMaker
+breadcrumb: 'PlayMaker Overview (In Community)'
+third_nav_title: PlayMaker
+
 ---
+
 #### PlayMaker aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.
 
 
