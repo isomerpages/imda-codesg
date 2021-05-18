@@ -8,3 +8,50 @@ terms_of_use: /terms-of-use/
 social_media:
     facebook: 'https://www.facebook.com/IMDAsg/'
     linkedin: 'https://sg.linkedin.com/company/imdasg'
+links:
+  - title: In Schools
+    url: /in-schools/overview/
+    sub-links:
+    - title: Overview
+      url: /in-schools/overview/
+    - title: Code For Fun
+      url: /in-schools/code-for-fun/overview/
+    - title: Digital Maker
+      url: /in-schools/digital-maker/overview/
+    - title: ICM Learning Roadmap
+      url: /in-schools/icm-learning-roadmap/
+    - title: PlayMaker
+      url: /in-schools/playmaker-overview/
+    - title: Student Development
+      url: /in-schools/student-development/
+  - title: In Community
+    url: /in-community/overview/
+    sub-links:
+    - title: Overview
+      url: /in-community/overview/
+    - title: By Community For Community
+      url: /in-community/by-community-for-community/
+    - title: MakeIT at Libraries
+      url: /in-community/makeit-at-libraries/
+    - title: PlayMaker
+      url: /in-community/playmaker-overview/
+  - title: Events
+    url: /events/
+    sub-links:
+    - title: All
+      url: /events/
+    - title: Competitions
+      url: /events/competitions/
+    - title: Roadshows and Exhibitions
+      url: /events/roadshows-and-exhibitions/
+    - title: Workshops
+      url: /events/workshops/
+  - title: Stories 
+    url: /stories/
+    sub-links:
+    - title: Features
+      url: /stories/features/
+    - title: Media
+      url: /stories/
+  - title: Contact Us
+    url: /contact-us/
