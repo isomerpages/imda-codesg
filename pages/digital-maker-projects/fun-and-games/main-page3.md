@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Fun and Games (Advanced)
+title: 'Fun and Games (Advanced)'
 permalink: /fun-and-games-advanced/
-breadcrumb: Fun and Games (Advanced)
+breadcrumb: 'Fun and Games (Advanced)'
+
 ---
+
 
 [test](/placeholder-fun-and-games-advanced/)
 
