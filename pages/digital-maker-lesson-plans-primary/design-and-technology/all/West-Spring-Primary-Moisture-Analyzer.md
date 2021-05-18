@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: West Spring Primary Moisture Analyzer
+title: 'West Spring Primary Moisture Analyzer'
 permalink: /west-spring-primary-moisture-analyzer/
-breadcrumb: West Spring Primary Moisture Analyzer
+breadcrumb: 'West Spring Primary Moisture Analyzer'
+
 ---
+
 
 ![moisture analyzer](/images/in-schools/digital-maker/overview/lesson-plans/primary/West-Spring-Primary-Moisture-Analyzer.jpg)
 
