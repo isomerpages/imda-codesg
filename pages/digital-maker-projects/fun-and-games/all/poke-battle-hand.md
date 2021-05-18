@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Poké Battle Hand
+title: 'Poké Battle Hand'
 permalink: /poke-battle-hand/
-breadcrumb: Poké Battle Hand
+breadcrumb: 'Poké Battle Hand'
+
 ---
+
 **Contributed by Cedric Phua**
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/poke-battle-hand.png)
