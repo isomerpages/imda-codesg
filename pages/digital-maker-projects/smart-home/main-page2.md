@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Smart Home (Intermediate)
+title: 'Smart Home (Intermediate)'
 permalink: /smart-home-intermediate/
-breadcrumb: Smart Home (Intermediate)
+breadcrumb: 'Smart Home (Intermediate)'
+
 ---
+
 
 [test](/placeholder-smart-home-intermediate)
 
