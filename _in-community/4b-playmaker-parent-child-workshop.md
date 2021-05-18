@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Parent-Child Workshop
+title: 'Parent-Child Workshop'
 permalink: /in-community/playmaker/parent-child-workshop/
-breadcrumb: Parent-Child Workshop
-collection_name: in-community
-second_nav_title: PlayMaker
+breadcrumb: 'Parent-Child Workshop'
+third_nav_title: PlayMaker
+
 ---
+
 #### Parents of pre-schoolers can bring their children to the PlayMaker workshops at various community locations.
 
 ![Parent-child workshop](/images/in-community/playmaker/PM-3.1.jpg)
