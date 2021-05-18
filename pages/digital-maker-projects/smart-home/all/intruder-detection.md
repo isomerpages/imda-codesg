@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Intruder Detection
+title: 'Intruder Detection'
 permalink: /intruder-detection/
-breadcrumb: Intruder Detection
+breadcrumb: 'Intruder Detection'
+
 ---
+
 **Contributed by Luo Beiyu from the National University of Singapore**
 
 ![1](/images/in-schools/digital-maker/projects/smart-home/intruder-detection.png)
