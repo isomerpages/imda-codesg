@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Horizon Primary - Computational Thinking In P3 Mathematics
+title: 'Horizon Primary - Computational Thinking In P3 Mathematics'
 permalink: /horizon-primary-computational-thinking-in-p3-mathematics/
-breadcrumb: Horizon Primary - Computational Thinking In P3 Mathematics
+breadcrumb: 'Horizon Primary - Computational Thinking In P3 Mathematics'
+
 ---
+
 
 Lesson 1: Intro, coding and computational thinking<br>
 Lesson 2: Whole Numbers – Multiplication algorithm and mental calculation involving multiplication<br>
