@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Virtual Cat
+title: 'Virtual Cat'
 permalink: /virtual-cat/
-breadcrumb: Virtual Cat
+breadcrumb: 'Virtual Cat'
+
 ---
+
 
 Today you are going to program your very own Tamagotchi look-alike cat, or what I call a Virtual Cat (for those of you who are very young and have no idea what a Tamagotchi is :D). Like an actual cat, the Virtual Cat requires you to care for it by feeding, cleaning and walking it. It is an awesome toy for young children to play with, to give them a feel of caring for a pet before handling an actual pet.
 
