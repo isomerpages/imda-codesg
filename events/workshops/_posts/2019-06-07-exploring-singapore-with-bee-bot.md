@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Exploring Singapore with Bee-Bot
-date: 2019-06-07
+title: 'Exploring Singapore with Bee-Bot'
+date: 2019-06-07T00:00:00.000Z
 permalink: /events/workshops/exploring-singapore-with-bee-bot-070619
+
 ---
+
 
 | Date | Time | Venue |
 |--------|---|---|
