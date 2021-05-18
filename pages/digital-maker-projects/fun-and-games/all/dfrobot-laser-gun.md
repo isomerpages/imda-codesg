@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: DFROBOT Laser Gun
+title: 'DFROBOT Laser Gun'
 permalink: /dfrobot-laser-gun/
-breadcrumb: DFROBOT Laser Gun
+breadcrumb: 'DFROBOT Laser Gun'
+
 ---
+
 **Contributed by Maker Coach, Mark Ng from Singapore Polytechnic**
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/laser-gun/laser-gun.jpg)
