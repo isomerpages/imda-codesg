@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Multiplayer Shooting War Game
+title: 'Multiplayer Shooting War Game'
 permalink: /nan-chiau-high-multiplayer-shooting-war-game/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 There is more than what Micro:bits seems it can do. Most of the teenagers like gaming. Building on their prior gaming experience and what they have learnt for the past few Code for fun lessons, this lesson will show students how to incorporate P2P gaming into microcontrollers such as micro:bits. With this lesson as an inspiration, we hope students can unleash their ‘ah ha’ ideas to build similar P2P games using micro:bits.
 

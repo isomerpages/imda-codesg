@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Sengkang Green Primary - Throw-Hit Counter
+title: 'Sengkang Green Primary - Throw-Hit Counter'
 permalink: /sengkang-green-primary-throw-hit-counter/
-breadcrumb: Sengkang Green Primary - Throw-Hit Counter
+breadcrumb: 'Sengkang Green Primary - Throw-Hit Counter'
+
 ---
+
 
 *	Use the microbit as a means to count the number of successful throws
 *	Use the microbit as a self-correcting tool to establish the correct underarm throw

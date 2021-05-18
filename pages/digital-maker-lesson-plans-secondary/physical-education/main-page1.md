@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Physical Education Lesson Ideas - Secondary
+title: 'Physical Education Lesson Ideas - Secondary'
 permalink: /secondary-physical-education/
-breadcrumb: Physical Education Lesson Ideas - Secondary
+breadcrumb: 'Physical Education Lesson Ideas - Secondary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

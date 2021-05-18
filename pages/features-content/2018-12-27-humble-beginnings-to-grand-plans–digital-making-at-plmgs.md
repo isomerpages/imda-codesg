@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Humble Beginnings to Grand Plans – Digital Making at PLMGS
-date: 2018-12-27
+title: 'Humble Beginnings to Grand Plans – Digital Making at PLMGS'
+date: 2018-12-27T00:00:00.000Z
 permalink: /humble-beginnings-to-grand-plans–digital-making-at-plmgs/
-breadcrumb: Humble Beginnings to Grand Plans – Digital Making at PLMGS
+breadcrumb: 'Humble Beginnings to Grand Plans – Digital Making at PLMGS'
+
 ---
+
 
 ## A coffee shop conversation between two teachers kicked off the Digital Making journey for Paya Lebar Methodist Girls' School (Secondary)!
 

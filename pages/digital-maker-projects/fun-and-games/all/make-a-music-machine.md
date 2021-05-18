@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Make a Music Machine
+title: 'Make a Music Machine'
 permalink: /make-a-music-machine/
-breadcrumb: Make a Music Machine
+breadcrumb: 'Make a Music Machine'
+
 ---
+
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/music-machine/make-a-music-machine.jpg)
 

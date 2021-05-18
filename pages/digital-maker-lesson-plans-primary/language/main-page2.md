@@ -1,7 +1,8 @@
 ---
-layout: simple-page
-title: Language (Intermediate)
+title: 'Language (Intermediate)'
 permalink: /primary-language-intermediate/
-breadcrumb: Language (Intermediate)
+breadcrumb: 'Language (Intermediate)'
+
 ---
+
 [test](/placeholder-primary-language-intermediate/)

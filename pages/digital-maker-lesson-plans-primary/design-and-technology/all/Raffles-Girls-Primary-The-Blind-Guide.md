@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Raffles Girls Primary The Blind Guide
+title: 'Raffles Girls Primary The Blind Guide'
 permalink: /raffles-girls-primary-the-blind-guide/
-breadcrumb: Raffles Girls Primary The Blind Guide
+breadcrumb: 'Raffles Girls Primary The Blind Guide'
+
 ---
+
 
 ![the blind guide](/images/in-schools/digital-maker/overview/lesson-plans/primary/Raffles-Girls-Primary-The-Blind-Guide.jpeg)
 

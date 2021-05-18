@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Yio Chu Kang Primary - Recycling Plastic Bottles
+title: 'Yio Chu Kang Primary - Recycling Plastic Bottles'
 permalink: /yio-chu-kang-primary-recycling-plastic-bottles/
-breadcrumb:  Yio Chu Kang Primary - Recycling Plastic Bottles
+breadcrumb: 'Yio Chu Kang Primary - Recycling Plastic Bottles'
+
 ---
+
 
 ![yio chu kang recycling plastic bottles](/images/in-schools/digital-maker/overview/lesson-plans/primary/yio-chu-kang-primary-recycling-plastic-bottles.jpg)
 

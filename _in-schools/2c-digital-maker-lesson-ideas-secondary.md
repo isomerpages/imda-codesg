@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Lesson Ideas - Secondary Schools
+title: 'Lesson Ideas - Secondary Schools'
 permalink: /in-schools/digital-maker/lesson-ideas-secondary/
-breadcrumb: Digital Maker Lesson Ideas (Secondary Schools)
-collection_name: in-schools
-second_nav_title: Digital Maker
+breadcrumb: 'Digital Maker Lesson Ideas (Secondary Schools)'
+third_nav_title: 'Digital Maker'
+
 ---
+
 
 
 | Select a category to view our lesson plans! |

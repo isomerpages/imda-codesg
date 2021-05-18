@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Jump Rope Counter
+title: 'Jump Rope Counter'
 permalink: /jump-rope-counter/
-breadcrumb: Jump Rope Counter
+breadcrumb: 'Jump Rope Counter'
+
 ---
+
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter1.jpg)
 

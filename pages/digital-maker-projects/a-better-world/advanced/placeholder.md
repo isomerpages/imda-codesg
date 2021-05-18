@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-a-better-world-advanced/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Computer Studies (Advanced)
+title: 'Computer Studies (Advanced)'
 permalink: /secondary-computer-studies-advanced/
-breadcrumb: Computer Studies (Advanced)
+breadcrumb: 'Computer Studies (Advanced)'
+
 ---
+
 
 [test](/placeholder-secondary-computer-studies-advanced/)
 

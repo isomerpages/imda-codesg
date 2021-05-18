@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Pasir Ris Primary - Fidget Cube
+title: 'Pasir Ris Primary - Fidget Cube'
 permalink: /pasir-ris-primary-fidget-cube/
-breadcrumb: Pasir Ris Primary - Fidget Cube
+breadcrumb: 'Pasir Ris Primary - Fidget Cube'
+
 ---
+
 
 Pupils to make a fidget cube out of the micro:bit and create a unique output for each of the inputs.
 

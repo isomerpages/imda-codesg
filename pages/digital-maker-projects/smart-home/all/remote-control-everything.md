@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Remote control everything
+title: 'Remote control everything'
 permalink: /remote-control-everything/
-breadcrumb: Remote control everything
+breadcrumb: 'Remote control everything'
+
 ---
+
 **Contributed by Tinkercademy**
 
 ![1](/images/in-schools/digital-maker/projects/smart-home/remote-control-everything.jpg)

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Fu Character
+title: 'Fu Character'
 permalink: /fu-character/
-breadcrumb: Fu Character
+breadcrumb: 'Fu Character'
+
 ---
+
 
 **Contributed by Mark Ng from Singapore Polytechnic**
 

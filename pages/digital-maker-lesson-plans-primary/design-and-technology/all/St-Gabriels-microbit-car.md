@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: St. Gabriels' Primary microbit Car
+title: 'St. Gabriels'' Primary microbit Car'
 permalink: /st-gabriels-microbit-car/
-breadcrumb: St. Gabriels' Primary microbit Car
+breadcrumb: 'St. Gabriels'' Primary microbit Car'
+
 ---
+
 
 
 This is a programme designed for our P4 high progress learners. Our students are tasked to build a micro:bit car. The theme of car was chosen as it is a familiar concept to the students. 

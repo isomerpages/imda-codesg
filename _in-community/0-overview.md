@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /in-community/overview/
-breadcrumb: In Community Overview
-collection_name: in-community
+breadcrumb: 'In Community Overview'
+
 ---
+
 
 
 IMDA reaches out to the community to introduce coding and making to members of the public. To promote innovation and collaboration, our programmes are also offered at community locations to bring the community (from preschoolers to seniors) together to create and make with technology.

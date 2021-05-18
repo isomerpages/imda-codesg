@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Introduction to Micro:bit
+title: 'Introduction to Micro:bit'
 permalink: /shuqun-secondary-introduction-to-microbit/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 Students will be introduced to the microbit and given 6 fun activities to try.
 

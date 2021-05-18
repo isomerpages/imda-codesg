@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Rate and speed
+title: 'Rate and speed'
 permalink: /tanjong-katong-girls-rate-and-speed/
-breadcrumb: Secondary School - math
+breadcrumb: 'Secondary School - math'
+
 ---
+
 
 Students will be introduced to Micro:bit and step challenge activity to calculate time and speed. They will find the rate of revolution with math formulas and servo, learn about tempo markings and how to calculate beats with given time and rate. 
 

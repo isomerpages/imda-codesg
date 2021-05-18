@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Groove Modules
+title: 'Groove Modules'
 permalink: /assumption-english-groove-modules/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 To promote computational thinking and provide opportunities for students to learn computer science.
 

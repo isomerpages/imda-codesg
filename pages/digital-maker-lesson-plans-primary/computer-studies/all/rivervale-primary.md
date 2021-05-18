@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: CyberWellness with Reaction Game
+title: 'CyberWellness with Reaction Game'
 permalink: /rivervale-primary/
-breadcrumb: CyberWellness with Reaction Game
+breadcrumb: 'CyberWellness with Reaction Game'
+
 ---
+
 
 The students have to work in group to complete a reaction game using recycled materials together with topic Cyberwellness to promote understanding of Cyberwellness
 

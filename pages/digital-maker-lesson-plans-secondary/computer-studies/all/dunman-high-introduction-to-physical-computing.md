@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Introduction to Physical Computing
+title: 'Introduction to Physical Computing'
 permalink: /dunman-high-introduction-to-physical-computing/
-breadcrumb: Secondary School - computer studies
+breadcrumb: 'Secondary School - computer studies'
+
 ---
+
 
 Improving the well-being of students and staff in Dunman High School using micro:bits. 
 

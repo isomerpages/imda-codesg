@@ -1,56 +1,48 @@
-title: Infocomm Media Development Authority
+title: 'Infocomm Media Development Authority'
 title-abbreviated: IMDA
-description: >- # this means to ignore newlines until "baseurl:"
-  Code@SG
-url: "https://codesg.imda.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: Code@SG
+url: 'https://codesg.imda.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 kramdown:
-  parse_block_html: true
-  
+    parse_block_html: true
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-homepage_programmes: false
-homepage_careers: false
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/5cf08d852902070010dfbd8a"
-
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  in-schools:
-    output: true
-  in-community:
-    output: true
-  stories:
-    output: true
-
+    in-schools:
+        output: true
+    in-community:
+        output: true
+    stories:
+        output: true
 resources_name: events
-
-copyright_agency: IMDA. All rights reserved
-
+copyright_agency: 'IMDA. All rights reserved'
 future: true
+favicon: /images/SGD-logo.png
+google_analytics: UA-103556192-2
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page

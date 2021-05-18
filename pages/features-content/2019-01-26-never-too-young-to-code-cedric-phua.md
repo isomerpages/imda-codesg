@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Never Too Young to Code - Cedric Phua"
-date: 2019-01-26
+title: 'Never Too Young to Code - Cedric Phua'
+date: 2019-01-26T00:00:00.000Z
 permalink: /never-too-young-to-code-cedric-phua/
-breadcrumb: Never Too Young to Code - Cedric Phua
+breadcrumb: 'Never Too Young to Code - Cedric Phua'
+
 ---
+
 
 ## Never Too Young to Code - Cedric Phua
 

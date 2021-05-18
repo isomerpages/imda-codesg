@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-design-and-technology-easy/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 

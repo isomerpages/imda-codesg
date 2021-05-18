@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Thirsty Plant Auto Watering System
+title: 'Thirsty Plant Auto Watering System'
 permalink: /thirsty-plant-auto-watering-system/
-breadcrumb: Thirsty Plant Auto Watering System
+breadcrumb: 'Thirsty Plant Auto Watering System'
+
 ---
+
 
 **Contributed by Joshua Teo**
 

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Top 4 Takeaways from the Digital Garage Launch
-date: 2017-07-08
+title: 'Top 4 Takeaways from the Digital Garage Launch'
+date: 2017-07-08T00:00:00.000Z
 permalink: /top-4-takeaways-from-the-digital-garage-launch/
-breadcrumb: Top 4 Takeaways from the Digital Garage Launch
+breadcrumb: 'Top 4 Takeaways from the Digital Garage Launch'
+
 ---
+
 
 ## Top 4 Takeaways from the Digital Garage Launch
 

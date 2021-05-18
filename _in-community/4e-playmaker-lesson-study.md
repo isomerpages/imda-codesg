@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Lesson Study
+title: 'Lesson Study'
 permalink: /in-community/playmaker/lesson-study/
-breadcrumb: Lesson Study
-collection_name: in-community
-second_nav_title: PlayMaker
+breadcrumb: 'Lesson Study'
+third_nav_title: PlayMaker
+
 ---
+
 
 #### IMDA commissioned a collaborative action research with Temasek Polytechnic and 6 pre-school centres to develop resources to guide pre-school educators in planning, implementing and reflecting on lessons involving the PlayMaker pedagogy and the use of tech toys in their lessons at the pre-school centres. 
 

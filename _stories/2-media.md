@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Media
 permalink: /stories/
 breadcrumb: Media
-collection_name: stories
+
 ---
+
 
 We have been featured in the media! Check out the links below to read more about our programmes.  
 

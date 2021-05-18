@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Our Journey
+title: 'Our Journey'
 permalink: /in-community/playmaker/our-journey/
-breadcrumb: Our Journey
-collection_name: in-community
-second_nav_title: "PlayMaker"
+breadcrumb: 'Our Journey'
+third_nav_title: PlayMaker
+
 ---
+
 
 #### The PlayMaker Journey
 

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Never Too Old to Code
-date: 2019-01-22
+title: 'Never Too Old to Code'
+date: 2019-01-22T00:00:00.000Z
 permalink: /never-too-old-to-code/
-breadcrumb: Never Too Old to Code
+breadcrumb: 'Never Too Old to Code'
+
 ---
+
 
 ## Never Too Old to Code
 

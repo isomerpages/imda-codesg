@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /in-schools/playmaker-overview/
-breadcrumb: PlayMaker Overview (In Schools)
-collection_name: in-schools
-second_nav_title: "PlayMaker"
+breadcrumb: 'PlayMaker Overview (In Schools)'
+third_nav_title: PlayMaker
+
 ---
+
 
 
 #### PlayMaker aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.

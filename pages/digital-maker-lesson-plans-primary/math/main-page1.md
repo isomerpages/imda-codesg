@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Math Lesson Ideas - Primary
+title: 'Math Lesson Ideas - Primary'
 permalink: /primary-math/
-breadcrumb: Math Lesson Ideas - Primary
+breadcrumb: 'Math Lesson Ideas - Primary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

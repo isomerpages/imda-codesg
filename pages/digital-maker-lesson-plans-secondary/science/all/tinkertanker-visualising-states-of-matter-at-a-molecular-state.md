@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Visualising states of matter at a molecular level
+title: 'Visualising states of matter at a molecular level'
 permalink: /tinkertanker-visualising-states-of-matter-at-a-molecular-state/
-breadcrumb: Secondary School - science
+breadcrumb: 'Secondary School - science'
+
 ---
+
 
 Students will learn about how particles of matter behave differently in terms of speed and movement during different states of matter. They will also be able to visualise the transfer of energy by programming the micro:bit to change the animation of the states of matter upon shaking, thereby helping them better understand the transfer of energy that takes place.
 

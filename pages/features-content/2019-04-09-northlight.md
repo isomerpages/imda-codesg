@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "NorthLight Opens New Possibilities with Digital Making"
-date: 2019-04-09
+title: 'NorthLight Opens New Possibilities with Digital Making'
+date: 2019-04-09T00:00:00.000Z
 permalink: /northlight-2019/
-breadcrumb: NorthLight Opens New Possibilities with Digital Making
+breadcrumb: 'NorthLight Opens New Possibilities with Digital Making'
+
 ---
+
 
 NorthLight School is home to a diverse cohort of learners who each progress at a different pace. A dedicated team of teachers pay special attention to every student, molding them to become confident, motivated and productive members of the community. In line with this vision, NorthLight recognizes the importance of digital skills for her students and has successfully integrated digital making into their Infocomm Technology (ICT) programme.
 

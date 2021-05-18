@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Maker Faire Singapore 2017
-date: 2017-07-24
+title: 'Maker Faire Singapore 2017'
+date: 2017-07-24T00:00:00.000Z
 permalink: /maker-faire-singapore-2017/
-breadcrumb: Maker Faire Singapore 2017
+breadcrumb: 'Maker Faire Singapore 2017'
+
 ---
+
 
 ## Maker Faire Singapore 2017
 

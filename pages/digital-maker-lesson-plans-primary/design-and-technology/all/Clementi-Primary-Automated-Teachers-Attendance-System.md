@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Automated Teachers Attendance System
+title: 'Automated Teachers Attendance System'
 permalink: /clementi-primary-automated-teachers-attendance-system/
-breadcrumb: Automated Teachers Attendance System
+breadcrumb: 'Automated Teachers Attendance System'
+
 ---
+
 
 ![Automated Teachers Attendance System](/images/in-schools/digital-maker/overview/lesson-plans/primary/Clementi-Primary-Automated-Teachers-Attendance-System.png)
 

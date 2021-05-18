@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Beacon Primary What Is My Name
+title: 'Beacon Primary What Is My Name'
 permalink: /beacon-primary-what-is-my-name/
-breadcrumb: Beacon Primary What Is My Name
+breadcrumb: 'Beacon Primary What Is My Name'
+
 ---
+
 
 Students will learn that coding is a form of language that enables devices to communicate with one another. They will programme the micro:bit to scroll simple text and use it to communicate with their classmates.
 

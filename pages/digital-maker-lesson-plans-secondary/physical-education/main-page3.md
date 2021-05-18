@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Physical Education (Advanced)
+title: 'Physical Education (Advanced)'
 permalink: /secondary-physical-education-advanced/
-breadcrumb: Physical Education (Advanced)
+breadcrumb: 'Physical Education (Advanced)'
+
 ---
+
 
 [test](/placeholder-secondary-physical-education-advanced/)
 

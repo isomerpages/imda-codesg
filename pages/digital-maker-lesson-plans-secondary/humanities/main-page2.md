@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Humanities (Intermediate)
+title: 'Humanities (Intermediate)'
 permalink: /secondary-humanities-intermediate/
-breadcrumb: Humanities (Intermediate)
+breadcrumb: 'Humanities (Intermediate)'
+
 ---
+
 
 [test](/placeholder-secondary-humanities-intermediate/)
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: ICM Learning Roadmap
+title: 'ICM Learning Roadmap'
 permalink: /in-schools/icm-learning-roadmap/
-breadcrumb: ICM Learning Roadmap
-collection_name: in-schools
+breadcrumb: 'ICM Learning Roadmap'
+
 ---
+
 
 #### The ICM (Infocomm Media) Learning Roadmap serves as a guide in structuring progressive ICM training in various functional domains. 
 

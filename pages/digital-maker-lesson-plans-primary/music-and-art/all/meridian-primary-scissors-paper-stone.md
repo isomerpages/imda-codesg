@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Meridian Primary - Scissors Paper Stone
+title: 'Meridian Primary - Scissors Paper Stone'
 permalink: /meridian-primary-scissors-paper-stone/
-breadcrumb: Meridian Primary - Scissors Paper Stone
+breadcrumb: 'Meridian Primary - Scissors Paper Stone'
+
 ---
+
 
 After completing the lesson, students will be able to make a scissors, paper, stone game with the ability to tabulate scores using the micro:bit.
 

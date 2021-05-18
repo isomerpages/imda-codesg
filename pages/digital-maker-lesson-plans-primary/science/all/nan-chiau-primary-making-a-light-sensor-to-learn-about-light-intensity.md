@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Nan Chiau Primary - Making a Light Sensor to Learn About Light Intensity
+title: 'Nan Chiau Primary - Making a Light Sensor to Learn About Light Intensity'
 permalink: /nan-chiau-primary-making-a-light-sensor-to-learn-about-light-intensity/
-breadcrumb:  Nan Chiau Primary - Making a Light Sensor to Learn About Light Intensity
+breadcrumb: 'Nan Chiau Primary - Making a Light Sensor to Learn About Light Intensity'
+
 ---
+
 
 Students will be exposed to the world of programming. They will see for themselves how a simple programming device can help them to measure the intensity of light. Through the device, they will be able to decide on the suitable material to make a curtain.
 

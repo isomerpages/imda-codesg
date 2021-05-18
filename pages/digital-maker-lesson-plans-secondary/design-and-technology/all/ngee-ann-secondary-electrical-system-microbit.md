@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Electrical System Microbit
+title: 'Electrical System Microbit'
 permalink: /ngee-ann-secondary-electrical-system-microbit/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 Students learn to use the microbit with electrical systems.
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Music and Art Lesson Ideas - Secondary
+title: 'Music and Art Lesson Ideas - Secondary'
 permalink: /secondary-music-and-art/
-breadcrumb: Music and Art Lesson Ideas - Secondary
+breadcrumb: 'Music and Art Lesson Ideas - Secondary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

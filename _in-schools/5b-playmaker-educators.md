@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: For Educators
+title: 'For Educators'
 permalink: /in-schools/playmaker/for-educators/
-breadcrumb: For Educators
-collection_name: in-schools
-second_nav_title: PlayMaker
+breadcrumb: 'For Educators'
+third_nav_title: PlayMaker
+
 ---
+
 
 #### Early childhood educators can now look forward to educators’ workshops to understand more about age- and developmentally-appropriate technologies for pre-schoolers.
 

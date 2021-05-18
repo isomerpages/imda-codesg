@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Renewable Energy Project
+title: 'Renewable Energy Project'
 permalink: /fajar-secondary-renewable-energy-project/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/secondary/fajar-secondary.jpg)
 

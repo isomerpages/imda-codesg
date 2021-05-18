@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-science-easy/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 

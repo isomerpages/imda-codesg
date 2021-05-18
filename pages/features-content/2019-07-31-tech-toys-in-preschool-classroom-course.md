@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Tech Toys in Pre-School Classroom Course
-date: 2019-07-31
+title: 'Tech Toys in Pre-School Classroom Course'
+date: 2019-07-31T00:00:00.000Z
 permalink: /tech-toys-in-preschool-classroom-course/
-breadcrumb: Tech Toys in Pre-School Classroom Course
+breadcrumb: 'Tech Toys in Pre-School Classroom Course'
+
 ---
+
 
 Are toys going out of fashion? From the classic ABC blocks to Barbie dolls to Avengers action figures, every generation has its favourite toys. In today’s digital world, kids are already furiously tapping and swiping away on smartphones and computer tablets at a tender age. So, are physical toys really still necessary? 
 

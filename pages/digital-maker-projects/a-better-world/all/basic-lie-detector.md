@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Basic Lie Detector
+title: 'Basic Lie Detector'
 permalink: /basic-lie-detector/
-breadcrumb: Basic Lie Detector
+breadcrumb: 'Basic Lie Detector'
+
 ---
+
 **Contributed by Samuel Ong from Raffles Institution**
 
 ![1](/images/in-schools/digital-maker/projects/a-better-world/lie-detector.jpg)

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Community Learning Day @Changi Simei CC"
-date: 2018-09-15
+title: 'Community Learning Day @Changi Simei CC'
+date: 2018-09-15T00:00:00.000Z
 permalink: /community-learning-day-at-changi-simei-cc/
-breadcrumb: Community Learning Day @Changi Simei CC
+breadcrumb: 'Community Learning Day @Changi Simei CC'
+
 ---
+
 
 ## Community Learning Day @Changi Simei CC
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Raffles Girls Primary Water Saving
+title: 'Raffles Girls Primary Water Saving'
 permalink: /raffles-girls-primary-water-saving/
-breadcrumb: Raffles Girls Primary Water Saving
+breadcrumb: 'Raffles Girls Primary Water Saving'
+
 ---
+
 
 ![water saving](/images/in-schools/digital-maker/overview/lesson-plans/primary/Raffles-Girls-Primary-Water-Saving.png)
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: "Posty:bit - Post Box Sensor with micro:bit"
+title: 'Posty:bit - Post Box Sensor with micro:bit'
 permalink: /postybit-post-box-sensor-with-microbit/
-breadcrumb: Posty:bit - Post Box Sensor with micro:bit
+breadcrumb: 'Posty:bit - Post Box Sensor with micro:bit'
+
 ---
+
 **Contributed by Ferry Djaja**
 
 ![1](/images/in-schools/digital-maker/projects/smart-home/postybit-post-box-sensor-with-microbit/postybitmain.jpg)

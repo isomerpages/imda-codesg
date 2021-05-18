@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Pei Hwa’s Students Code with A Purpose"
-date: 2018-12-19
+title: 'Pei Hwa’s Students Code with A Purpose'
+date: 2018-12-19T00:00:00.000Z
 permalink: /pei-hwa-students-code-with-a-purpose/
-breadcrumb: Pei Hwa’s Students Code with A Purpose
+breadcrumb: 'Pei Hwa’s Students Code with A Purpose'
+
 ---
+
 
 In 2016, Pei Hwa Secondary School saw the need to modify their Applied Learning Programme to develop their students into innovative and compassionate citizens, seeing tech-related skills as essential to enable the students to innovate and contribute to the community.
 

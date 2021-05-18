@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Avoid The Asteroids
+title: 'Avoid The Asteroids'
 permalink: /avoid-the-asteroids/
-breadcrumb: Avoid The Asteroids
+breadcrumb: 'Avoid The Asteroids'
+
 ---
+
 **Contributed by Josh Ho from Raffles Institution**
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/avoid-the-asteroids/avoid-the-asteroid.jpg)

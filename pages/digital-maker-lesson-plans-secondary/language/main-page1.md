@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Language Lesson Ideas - Secondary
+title: 'Language Lesson Ideas - Secondary'
 permalink: /secondary-language/
-breadcrumb: Language Lesson Ideas - Secondary
+breadcrumb: 'Language Lesson Ideas - Secondary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|
