@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: micro:bit Telegraph
+title: 'micro:bit Telegraph'
 permalink: /raffles-girls-primary-telegraph/
-breadcrumb: micro:bit Telegraph
+breadcrumb: 'micro:bit Telegraph'
+
 ---
+
 
 Using micro:bit, batteries and crocodile clips, students will create a rudimentary telegram system that allows for simple messages to be sent.
 
