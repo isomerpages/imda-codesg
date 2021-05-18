@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: ASCII Codes
+title: 'ASCII Codes'
 permalink: /st-josephs-institution-ascii-codes/
-breadcrumb: Secondary School - Computer Studies
+breadcrumb: 'Secondary School - Computer Studies'
+
 ---
+
 
 Students learn about ASCII codes and their use in computing. They write a program on the microbit to show uppercase letters of the alphabet when button A of the microbit is pressed and lowercase letters of the alphabet when button B of the microbit is pressed. Buttons A and B will follow their own sequence and start from the letter A and a respectively and move onto the next letter every time the buttons are pressed. 
 
