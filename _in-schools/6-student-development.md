@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title:  Student Development
+title: 'Student Development'
 permalink: /in-schools/student-development/
-breadcrumb: Student Development
-collection_name: in-schools
+breadcrumb: 'Student Development'
+
 ---
+
 
 #### The Student Development Programme aims to provide youths with various opportunities to learn relevant skills to the industry. 
 
