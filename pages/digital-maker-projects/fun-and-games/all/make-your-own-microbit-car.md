@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Make Your Own microbit Car
+title: 'Make Your Own microbit Car'
 permalink: /make-your-own-microbit-car/
-breadcrumb: Make Your Own microbit Car
+breadcrumb: 'Make Your Own microbit Car'
+
 ---
+
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/microbit-car/microbit-car.jpg)
 
