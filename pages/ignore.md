@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /ignore/
 breadcrumb: ignore
 title: ignore
+
 ---
+
 
 ### **FAQ**
 
