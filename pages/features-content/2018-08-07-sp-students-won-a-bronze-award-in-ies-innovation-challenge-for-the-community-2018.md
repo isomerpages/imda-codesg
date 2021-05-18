@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "SP students won a Bronze award in IES innovation Challenge for the Community 2018 using Micro:bit"
-date: 2018-08-07
+title: 'SP students won a Bronze award in IES innovation Challenge for the Community 2018 using Micro:bit'
+date: 2018-08-07T00:00:00.000Z
 permalink: /sp-students-won-a-bronze-award-in-ies-innovation-challenge-for-the-community-2018/
-breadcrumb: SP students won a Bronze award in IES innovation Challenge for the Community 2018 using Micro:bit
+breadcrumb: 'SP students won a Bronze award in IES innovation Challenge for the Community 2018 using Micro:bit'
+
 ---
+
 
 ## SP students won a Bronze award in IES innovation Challenge for the Community 2018 using Micro:bit
 
