@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Beacon Primary Emoji
+title: 'Beacon Primary Emoji'
 permalink: /beacon-primary-emoji/
-breadcrumb: Beacon Primary Emoji
+breadcrumb: 'Beacon Primary Emoji'
+
 ---
+
 
 Students will use the micro:bit to create static images and progress on to making their own animation on the LEDs of the micro:bit. They will learn that animations are a series of images, and the usage of repeating loops to create patterns.
 
