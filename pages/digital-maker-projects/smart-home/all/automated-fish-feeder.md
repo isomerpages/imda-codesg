@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Automated Fish Feeder
+title: 'Automated Fish Feeder'
 permalink: /automated-fish-feeder/
-breadcrumb: Automated Fish Feeder
+breadcrumb: 'Automated Fish Feeder'
+
 ---
+
 **Contributed by Tinkercademy**
 
 ![1](/images/in-schools/digital-maker/projects/smart-home/automated-fish-feeder.jpg)
