@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Greetings Display (CNY)
+title: 'Greetings Display (CNY)'
 permalink: /greeting-display-cny/
-breadcrumb: Greetings Display (CNY)
+breadcrumb: 'Greetings Display (CNY)'
+
 ---
+
 
 **Contributed by Mark Ng from Singapore Polytechnic**
 
