@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  EduTECH Asia 2019
-date:   2019-11-05
+title: 'EduTECH Asia 2019'
+date: 2019-11-05T00:00:00.000Z
 permalink: /events/roadshows-and-exhibitions/edutech-asia-2019
+
 ---
+
 
 | Date | Time | Venue |
 |--------|---|---|
