@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Social Emotional Learning Lesson Ideas - Primary
+title: 'Social Emotional Learning Lesson Ideas - Primary'
 permalink: /primary-social-emotional-learning/
-breadcrumb: Social Emotional Learning Lesson Ideas - Primary
+breadcrumb: 'Social Emotional Learning Lesson Ideas - Primary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|
