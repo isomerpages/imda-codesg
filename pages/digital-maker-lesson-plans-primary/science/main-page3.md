@@ -1,7 +1,8 @@
 ---
-layout: simple-page
-title: Science (Advanced)
+title: 'Science (Advanced)'
 permalink: /primary-science-advanced/
-breadcrumb: Science (Advanced)
+breadcrumb: 'Science (Advanced)'
+
 ---
+
 [test](/placeholder-primary-science-advanced/)
