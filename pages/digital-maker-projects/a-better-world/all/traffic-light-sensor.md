@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Traffic Light Sensor
+title: 'Traffic Light Sensor'
 permalink: /traffic-light-sensor/
-breadcrumb: Traffic Light Sensor
+breadcrumb: 'Traffic Light Sensor'
+
 ---
+
 **Contributed by Ms Chiam Lee Lee (Teacher), Aretha Lee and Pay Xinyi (Students) from Raffles Girls Primary School**
 
 ![1](/images/in-schools/digital-maker/projects/a-better-world/traffic-light-sensor/traffic-light-sensor1.jpg)
