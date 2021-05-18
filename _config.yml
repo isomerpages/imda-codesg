@@ -5,35 +5,23 @@ url: 'https://codesg.imda.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 kramdown:
-    parse_block_html: true
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
+  parse_block_html: true
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
-collections:
-    in-schools:
-        output: true
-    in-community:
-        output: true
-    stories:
-        output: true
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 resources_name: events
 copyright_agency: 'IMDA. All rights reserved'
 future: true
@@ -42,7 +30,15 @@ google_analytics: UA-103556192-2
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://isomer-dlp-staging.netlify.com/,
+prod: https://isomer-dlp-prod.netlify.com/,
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

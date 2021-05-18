@@ -1,0 +1,14 @@
+collections:
+  in-community:
+    output: true
+    order:
+      - overview.md
+      - by-community-for-community.md
+      - makeit-at-libraries.md
+      - playmaker/.keep
+      - playmaker/overview.md
+      - playmaker/parent-child-workshop.md
+      - playmaker/our-journey.md
+      - playmaker/international-research.md
+      - playmaker/lesson-study.md
+      - playmaker/noteworthy.md
