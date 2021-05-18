@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Remote Controlled Robot Car
+title: 'Remote Controlled Robot Car'
 permalink: /remote-controlled-robot-car/
-breadcrumb: Remote Controlled Robot Car
+breadcrumb: 'Remote Controlled Robot Car'
+
 ---
+
 **Contributed by Cedric Phua**
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/remote-control-robot-car/CedricRobotCar1.png)
