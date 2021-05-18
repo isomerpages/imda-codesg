@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Social Innovation Challenge 2018
+title: 'Social Innovation Challenge 2018'
 permalink: /westwood-secondary-social-innovation-challenge-2018/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 Students embarked on a Social Innovation Challenge to devise solutions(through coding) which could help to address an issue faced by our elderly
 
