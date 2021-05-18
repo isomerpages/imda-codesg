@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Design and Technology (Advanced)
+title: 'Design and Technology (Advanced)'
 permalink: /secondary-design-and-technology-advanced/
-breadcrumb: Design and Technology (Advanced)
+breadcrumb: 'Design and Technology (Advanced)'
+
 ---
+
 
 [test](/placeholder-secondary-design-and-technology-advanced/)
 
