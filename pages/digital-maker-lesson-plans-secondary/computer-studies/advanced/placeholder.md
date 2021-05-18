@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-computer-studies-advanced/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 
