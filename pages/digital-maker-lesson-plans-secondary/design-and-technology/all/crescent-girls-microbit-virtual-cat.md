@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Microbit Virtual Cat
+title: 'Microbit Virtual Cat'
 permalink: /crescent-girls-microbit-virtual-cat/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 Students will get to create a fully functional virtual cat in a Microbit device. 
 
