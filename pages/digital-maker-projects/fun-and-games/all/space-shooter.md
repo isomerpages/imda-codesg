@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Space Shooter
+title: 'Space Shooter'
 permalink: /space-shooter/
-breadcrumb: Space Shooter
+breadcrumb: 'Space Shooter'
+
 ---
+
 **Contributed by Luke Tan from Raffles Institution**
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/space-shooter/space-shooter.jpg)
