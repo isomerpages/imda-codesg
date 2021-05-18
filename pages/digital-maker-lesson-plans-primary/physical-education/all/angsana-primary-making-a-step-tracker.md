@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Angsana Primary - Making a Step Tracker
+title: 'Angsana Primary - Making a Step Tracker'
 permalink: /angsana-primary-making-a-step-tracker/
-breadcrumb: Angsana Primary - Making a Step Tracker
+breadcrumb: 'Angsana Primary - Making a Step Tracker'
+
 ---
+
 
 The P6 students designed a step tracker using micro:bits and recyclable materials as part of their post-PSLE activity.
 
