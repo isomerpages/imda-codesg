@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-physical-education-advanced/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 
