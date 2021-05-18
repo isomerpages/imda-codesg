@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Zhonghua Primary - Understanding Angles
+title: 'Zhonghua Primary - Understanding Angles'
 permalink: /zhonghua-primary-understanding-angles/
-breadcrumb: Zhonghua Primary - Understanding Angles
+breadcrumb: 'Zhonghua Primary - Understanding Angles'
+
 ---
+
 
 Students to identify and differentiate between right angles, obtuse angles and acute angles using manipulatives and micro:bits.
 
