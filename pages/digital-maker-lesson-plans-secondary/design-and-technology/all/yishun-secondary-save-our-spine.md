@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Save Our Spine
+title: 'Save Our Spine'
 permalink: /yishun-secondary-save-our-spine/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/secondary/yishun-secondary.png)
 
