@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: bitLocker - microbit Front Door Security System
+title: 'bitLocker - microbit Front Door Security System'
 permalink: /bitlocker-microbit-front-door-security-system/
-breadcrumb: bitLocker - microbit Front Door Security System
+breadcrumb: 'bitLocker - microbit Front Door Security System'
+
 ---
+
 
 **Contributed by Ferry Djaja**
 
