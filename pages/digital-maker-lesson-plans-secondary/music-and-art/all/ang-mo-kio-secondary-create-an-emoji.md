@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Create an Emoji
+title: 'Create an Emoji'
 permalink: /ang-mo-kio-secondary-create-an-emoji/
-breadcrumb: Secondary School - Music & Art
+breadcrumb: 'Secondary School - Music & Art'
+
 ---
+
 
 Students learn how to use the microbit to display information using the LED and create a customised emoji to display on the LED.
 
