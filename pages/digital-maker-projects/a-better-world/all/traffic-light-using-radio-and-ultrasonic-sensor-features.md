@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Traffic Light using Radio and Ultrasonic Sensor features
+title: 'Traffic Light using Radio and Ultrasonic Sensor features'
 permalink: /traffic-light-using-radio-and-ultrasonic-sensor-features/
-breadcrumb: Traffic Light using Radio and Ultrasonic Sensor features
+breadcrumb: 'Traffic Light using Radio and Ultrasonic Sensor features'
+
 ---
+
 **Contributed by Cedric Phua from Seng Kang Primary School**
 
 ![1](/images/in-schools/digital-maker/projects/a-better-world/Traffic-Light-using-Radio-and-Ultrasonic-Sensor-features.jpg)
