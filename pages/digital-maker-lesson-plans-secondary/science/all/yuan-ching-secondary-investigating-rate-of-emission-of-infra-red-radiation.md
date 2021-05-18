@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Investigating rate of emission of infra-red radiation
+title: 'Investigating rate of emission of infra-red radiation'
 permalink: /yuan-ching-secondary-investigating-rate-of-emission-of-infra-red-radiation/
-breadcrumb: Secondary School - science
+breadcrumb: 'Secondary School - science'
+
 ---
+
 
 The aim of the lesson is to investigate how light and dark colors, and surface texture, affect the rate of emission of thermal energy, using microbit as a temperature sensor.  The difference in the temperatures displayed and recorded will allow students to understand how the choice of color affects the rate of emission of infra-red radiation. 
 
