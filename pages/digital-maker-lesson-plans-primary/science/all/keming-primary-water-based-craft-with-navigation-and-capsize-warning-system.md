@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Keming Primary - Water-based Craft With Navigation and Capsize Warning System
+title: 'Keming Primary - Water-based Craft With Navigation and Capsize Warning System'
 permalink: /keming-primary-water-based-craft-with-navigation-and-capsize-warning-system/
-breadcrumb: Keming Primary - Water-based Craft With Navigation and Capsize Warning System
+breadcrumb: 'Keming Primary - Water-based Craft With Navigation and Capsize Warning System'
+
 ---
+
 
 
 Students will incorporate micro:bit coding into a water craft to create a navigation and capsize warning system.
