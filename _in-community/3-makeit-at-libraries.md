@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: MakeIT at Libraries
+title: 'MakeIT at Libraries'
 permalink: /in-community/makeit-at-libraries/
-breadcrumb: MakeIT at Libraries
-collection_name: in-community
+breadcrumb: 'MakeIT at Libraries'
+
 ---
+
 
 ## MakeIT at Libraries
 
