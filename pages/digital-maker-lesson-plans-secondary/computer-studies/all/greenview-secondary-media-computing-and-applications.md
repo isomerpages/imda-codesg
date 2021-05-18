@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Media Computing and Applications
+title: 'Media Computing and Applications'
 permalink: /greenview-secondary-media-computing-and-applications/
-breadcrumb: Secondary School - Computer Studies
+breadcrumb: 'Secondary School - Computer Studies'
+
 ---
+
 
 Students will learn how to do coding by using block editor in Scratch. Learning new technologies can help to improve our everyday lives. Students will be able to use basic functions in Microbit block editor to do coding and create a music remote control for their phone. 21st Century Competencies Critical and Inventive Thinking.
 
