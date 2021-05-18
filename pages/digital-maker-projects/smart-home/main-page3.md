@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Smart Home (Advanced)
+title: 'Smart Home (Advanced)'
 permalink: /ssmart-home-advanced/
-breadcrumb: Smart Home (Advanced)
+breadcrumb: 'Smart Home (Advanced)'
+
 ---
+
 
 [test](/placeholder-smart-home-advanced)
 
