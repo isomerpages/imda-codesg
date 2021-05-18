@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Motion Detector
+title: 'Motion Detector'
 permalink: /motion-detector/
-breadcrumb: Motion Detector
+breadcrumb: 'Motion Detector'
+
 ---
+
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/motion-detector/motion-detector.jpg)
 
