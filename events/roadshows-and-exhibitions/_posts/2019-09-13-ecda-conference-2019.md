@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  ECDA Early Childhood Conference and Exhibition 2019
-date:   2019-09-13
+title: 'ECDA Early Childhood Conference and Exhibition 2019'
+date: 2019-09-13T00:00:00.000Z
 permalink: /events/roadshows-and-exhibitions/ecda-conference-2019
+
 ---
+
 
 | Date | Time | Venue |
 |--------|---|---|
