@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Digital Maker at EDUTech Asia 2017 and Global Children's Designathon"
-date: 2018-03-02
+title: 'Digital Maker at EDUTech Asia 2017 and Global Children''s Designathon'
+date: 2018-03-02T00:00:00.000Z
 permalink: /digital-maker-at-edutech-asia-2017-and-global-childrens-designathon/
-breadcrumb: Digital Maker at EDUTech Asia 2017 and Global Children's Designathon
+breadcrumb: 'Digital Maker at EDUTech Asia 2017 and Global Children''s Designathon'
+
 ---
+
 
 ## Digital Maker at EDUTech Asia 2017 and Global Children's Designathon
 
