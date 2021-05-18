@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Montfort Junior School
-date: 2018-12-07
+title: 'Montfort Junior School'
+date: 2018-12-07T00:00:00.000Z
 permalink: /montfort-junior-school/
-breadcrumb: Montfort Junior School
+breadcrumb: 'Montfort Junior School'
+
 ---
+
 
 ## Montfort Junior School
 
