@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-smart-home-advanced/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 
