@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Roysth School microfit Challenge
+title: 'Roysth School microfit Challenge'
 permalink: /roysth-school-microfit-challenge/
-breadcrumb: Roysth School microfit Challenge
+breadcrumb: 'Roysth School microfit Challenge'
+
 ---
+
 
 ![microfit challenge](/images/in-schools/digital-maker/overview/lesson-plans/primary/Roysth-School-microfit-challenge.jpeg)
 
