@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Remote – Imagine the possibilities
+title: 'Remote – Imagine the possibilities'
 permalink: /fuhua-secondary-remote-imagine-the-possibilities/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/secondary/fuhua-secondary.png)
 
