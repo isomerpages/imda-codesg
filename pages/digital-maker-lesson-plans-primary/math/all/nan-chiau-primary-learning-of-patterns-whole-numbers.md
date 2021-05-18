@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Nan Chiau Primary - Learning Of Patterns - Whole Numbers
+title: 'Nan Chiau Primary - Learning Of Patterns - Whole Numbers'
 permalink: /nan-chiau-primary-learning-of-patterns-whole-numbers/
-breadcrumb: Nan Chiau Primary - Learning Of Patterns - Whole Numbers
+breadcrumb: 'Nan Chiau Primary - Learning Of Patterns - Whole Numbers'
+
 ---
+
 
 Students will observe given patterns and have to guess the next sequence of the given patterns. There will be three levels, i.e. Beginner (Shapes), Intermediate (Objects) and Advanced (Numbers).
 
