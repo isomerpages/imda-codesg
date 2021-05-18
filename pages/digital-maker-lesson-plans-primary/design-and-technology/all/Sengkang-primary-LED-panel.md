@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Sengkang Primary LED Panel
+title: 'Sengkang Primary LED Panel'
 permalink: /sengkang-primary-led-panel/
-breadcrumb: WSengkang Primary LED Panel
+breadcrumb: 'WSengkang Primary LED Panel'
+
 ---
+
 
 ![LED panel](/images/in-schools/digital-maker/overview/lesson-plans/primary/Sengkang-primary-LED-panel.jpg)
 
