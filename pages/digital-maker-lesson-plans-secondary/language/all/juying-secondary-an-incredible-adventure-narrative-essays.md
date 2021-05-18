@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: An Incredible Adventure - Narrative Essays
+title: 'An Incredible Adventure - Narrative Essays'
 permalink: /juying-secondary-an-incredible-adventure-narrative-essays/
-breadcrumb: Secondary School - language
+breadcrumb: 'Secondary School - language'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/JY3 (1).jpg)
 
