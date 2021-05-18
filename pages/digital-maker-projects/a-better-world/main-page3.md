@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: A Better World (Advanced)
+title: 'A Better World (Advanced)'
 permalink: /a-better-world-advanced/
-breadcrumb: A Better World (Advanced)
+breadcrumb: 'A Better World (Advanced)'
+
 ---
+
 
 [test](/placeholder-a-better-world-advanced)
 
