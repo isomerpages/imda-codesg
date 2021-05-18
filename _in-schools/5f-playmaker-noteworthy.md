@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Noteworthy
 permalink: /in-schools/playmaker/noteworthy/
 breadcrumb: Noteworthy
-collection_name: in-schools
-second_nav_title: PlayMaker
+third_nav_title: PlayMaker
+
 ---
+
 
 #### PlayMaker has received several domestic and international accolades.<br>
 
