@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: The Lie Detector and Musical Tune
+title: 'The Lie Detector and Musical Tune'
 permalink: /juying-secondary-the-lie-detector-and-musical-tune/
-breadcrumb: Secondary School - science
+breadcrumb: 'Secondary School - science'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/JYS lie detector (1).jpg)
 
