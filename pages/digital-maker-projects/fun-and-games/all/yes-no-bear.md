@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Space Shooter
+title: 'Space Shooter'
 permalink: /space-shooter/
-breadcrumb: Space Shooter
+breadcrumb: 'Space Shooter'
+
 ---
+
 
 ![1](/images/in-schools/digital-maker/projects/fun-and-games/yes-no-bear/yesnobear.png)
 
