@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-language-intermediate/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 
