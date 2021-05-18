@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: International Research
+title: 'International Research'
 permalink: /in-community/playmaker/international-research/
-breadcrumb: International Research
-collection_name: in-community
-second_nav_title: PlayMaker
+breadcrumb: 'International Research'
+third_nav_title: PlayMaker
+
 ---
+
 #### A research study by DevTech Research Group at Tufts University was conducted with 5 Singapore pre-schools titled “Dancing robots: integrating art, music, and robotics in Singapore’s early childhood centers.”
 
 ![international research infographic](/images/in-schools/playmaker/international-research/Dancing_Robots_Infographic_V5.jpg)
