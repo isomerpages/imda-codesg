@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'PlayMaker at SkillsFuture Festival X Smart Nation'
 date: 2019-08-04T00:00:00.000Z
 permalink: /events/workshops/2019-08-04-playmaker-at-skillsfuture-festival2
