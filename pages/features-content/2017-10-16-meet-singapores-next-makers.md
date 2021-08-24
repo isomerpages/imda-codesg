@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Meet Singapore's next makers"
-date: 2017-10-16
+title: 'Meet Singapore''s next makers'
+date: 2017-10-16T00:00:00.000Z
 permalink: /meet-singapores-next-makers/
-breadcrumb: Meet Singapore's next makers
+breadcrumb: 'Meet Singapore''s next makers'
+
 ---
+
 
 ## Meet Singapore's next makers
 #### - article by Google

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Science (Intermediate)
+title: 'Science (Intermediate)'
 permalink: /secondary-science-intermediate/
-breadcrumb: Science (Intermediate)
+breadcrumb: 'Science (Intermediate)'
+
 ---
+
 
 [test](/placeholder-secondary-science-intermediate/)
 

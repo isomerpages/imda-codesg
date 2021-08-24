@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Introduction to micro:bit Programming
+title: 'Introduction to micro:bit Programming'
 permalink: /changkat-changi-seondary-introduction-to-microbit-programming/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 By the end of the lesson, students should be able to program using Makecode block editor and use basic functions such as “Show String”, “Show LEDs” and etc.
 

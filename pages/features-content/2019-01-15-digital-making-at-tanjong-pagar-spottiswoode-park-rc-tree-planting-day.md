@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day
-date: 2019-01-15
+title: 'Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day'
+date: 2019-01-15T00:00:00.000Z
 permalink: /digital-making-at-tanjong-pagar-spottiswoode-park-rc-tree-planting-day/
-breadcrumb: Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day
+breadcrumb: 'Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day'
+
 ---
+
 
 ## Digital Making at Tanjong Pagar Spottiswoode Park RC Tree Planting Day
 

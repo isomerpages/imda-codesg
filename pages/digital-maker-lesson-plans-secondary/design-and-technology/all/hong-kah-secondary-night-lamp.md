@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Night Lamp
+title: 'Night Lamp'
 permalink: /hong-kah-secondary-night-lamp/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 By programming the micro:bit, students learn how to make a lamp that turns on automatically when the room gets dark.
 

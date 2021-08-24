@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Project Based Lesson Ideas - Secondary
+title: 'Project Based Lesson Ideas - Secondary'
 permalink: /secondary-project-based/
-breadcrumb: Project Based Lesson Ideas - Secondary
+breadcrumb: 'Project Based Lesson Ideas - Secondary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

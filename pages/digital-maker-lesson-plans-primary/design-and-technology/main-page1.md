@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Design and Technology Lesson Ideas - Primary
+title: 'Design and Technology Lesson Ideas - Primary'
 permalink: /primary-design-and-technology/
-breadcrumb: Design and Technology Lesson Ideas - Primary
+breadcrumb: 'Design and Technology Lesson Ideas - Primary'
+
 ---
+
 [Automated Teacher Attendance System](/clementi-primary-automated-teachers-attendance-system/)<br>
 [Bottle Rockets](/eunos-primary-bottle-rockets/)<br>
 [micro:bits and drone](/farrer-park-primary-microbits-and-drone/)<br>

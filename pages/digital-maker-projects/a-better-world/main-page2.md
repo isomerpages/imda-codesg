@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: A Better World (Intermediate)
+title: 'A Better World (Intermediate)'
 permalink: /a-better-world-intermediate/
-breadcrumb: A Better World (Intermediate)
+breadcrumb: 'A Better World (Intermediate)'
+
 ---
+
 
 [test](/placeholder-a-better-world-intermediate)
 

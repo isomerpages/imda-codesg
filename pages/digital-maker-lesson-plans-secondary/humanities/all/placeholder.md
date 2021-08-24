@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Placeholder
 permalink: /placeholder-secondary-humanities-easy/
 breadcrumb: Placeholder
+
 ---
+
 
 loren ipsum
 

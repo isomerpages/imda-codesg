@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Return Tray
+title: 'Return Tray'
 permalink: /raffles-girls-primary-return-tray/
-breadcrumb: Return Tray
+breadcrumb: 'Return Tray'
+
 ---
+
 
 ![return tray](/images/in-schools/digital-maker/overview/lesson-plans/primary/Raffles-Girls-Primary-Return Tray.jpg)
 

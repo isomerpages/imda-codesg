@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Fun and Games - Project Ideas
+title: 'Fun and Games - Project Ideas'
 permalink: /fun-and-games/
-breadcrumb: Fun and Games - Project Ideas
+breadcrumb: 'Fun and Games - Project Ideas'
+
 ---
+
 
 | Project Name |
 |--|

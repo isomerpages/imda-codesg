@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Math Lesson Ideas - Secondary
+title: 'Math Lesson Ideas - Secondary'
 permalink: /secondary-math/
-breadcrumb: Math Lesson Ideas - Secondary)
+breadcrumb: 'Math Lesson Ideas - Secondary)'
+
 ---
+
 | School Name | Project Name |
 |--|--|
 | **Greenview Secondary School** | **[Applications of Trigonometry](/greenview-secondary-applications-of-trigonometry/)** |

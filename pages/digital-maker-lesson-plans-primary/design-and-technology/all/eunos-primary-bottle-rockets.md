@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Bottle Rockets
+title: 'Bottle Rockets'
 permalink: /eunos-primary-bottle-rockets/
-breadcrumb: Bottle Rockets
+breadcrumb: 'Bottle Rockets'
+
 ---
+
 
 
 Primary 5 students will launch water-propelled bottle rockets. Microbits programmed with acceleration measurement function are attached to the rocket. They will determine if greater acceleration force will lead to greater time the rocket stays in the air.

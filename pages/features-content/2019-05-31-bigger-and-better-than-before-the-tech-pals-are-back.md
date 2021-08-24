@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Bigger and Better than Before, the Tech Pals are Back!
-date: 2019-05-31
+title: 'Bigger and Better than Before, the Tech Pals are Back!'
+date: 2019-05-31T00:00:00.000Z
 permalink: /bigger-and-better-than-before-the-tech-pals-are-back/
-breadcrumb: Bigger and Better than Before, the Tech Pals are Back!
+breadcrumb: 'Bigger and Better than Before, the Tech Pals are Back!'
+
 ---
+
 
 
 ### The Tech Pals initiative

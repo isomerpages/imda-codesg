@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Arcade Basketball
+title: 'Arcade Basketball'
 permalink: /arcade-basketball/
-breadcrumb: Arcade Basketball
+breadcrumb: 'Arcade Basketball'
+
 ---
+
 
 Stephen Curry, Kobe Bryant, Lebron James, what do these people have in common? You guessed it, Basketball! In this project, build your very own arcade basketball game with micro:bit! A great game be it with your friends or family, you'll be the life of the party! So let's begin coding and building the arcade basketball game!
 

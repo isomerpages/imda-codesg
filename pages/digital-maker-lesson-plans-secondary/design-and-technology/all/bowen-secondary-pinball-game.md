@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Pinball game
+title: 'Pinball game'
 permalink: /bowen-secondary-pinball-game/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/secondary/bowen-photo.jpg){: class="img_crop"}
 

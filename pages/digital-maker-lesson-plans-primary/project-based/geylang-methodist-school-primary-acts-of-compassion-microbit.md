@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Geylang Methodist School (Primary) Acts Of Compassion - micro:bit
+title: 'Geylang Methodist School (Primary) Acts Of Compassion - micro:bit'
 permalink: /geylang-methodist-school-primary-acts-of-compassion-microbit/
-breadcrumb: Geylang Methodist School (Primary) Acts Of Compassion - micro:bit
+breadcrumb: 'Geylang Methodist School (Primary) Acts Of Compassion - micro:bit'
+
 ---
+
 
 
 * To identify and solve a problem using digital creativity, inventive and critical thinking processes (analysis, evaluation and decision making)

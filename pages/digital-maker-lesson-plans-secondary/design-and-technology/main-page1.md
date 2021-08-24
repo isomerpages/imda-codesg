@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Design and Technology Lesson Ideas - Secondary
+title: 'Design and Technology Lesson Ideas - Secondary'
 permalink: /secondary-design-and-technology/
-breadcrumb: Design and Technology Lesson Ideas - Secondary
+breadcrumb: 'Design and Technology Lesson Ideas - Secondary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

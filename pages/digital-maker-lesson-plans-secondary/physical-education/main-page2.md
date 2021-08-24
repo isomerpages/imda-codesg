@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Physical Education (Intermediate)
+title: 'Physical Education (Intermediate)'
 permalink: /secondary-physical-education-intermediate/
-breadcrumb: Physical Education (Intermediate)
+breadcrumb: 'Physical Education (Intermediate)'
+
 ---
+
 
 [test](/placeholder-secondary-physical-education-intermediate)
 

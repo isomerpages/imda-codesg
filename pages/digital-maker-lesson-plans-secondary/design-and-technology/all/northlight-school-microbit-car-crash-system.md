@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Micro:bit Car Crash System
+title: 'Micro:bit Car Crash System'
 permalink: /northlight-school-microbit-car-crash-system/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 In this session, we are going to create a simple car crash sensor which will alert the owner if the car was hit (front or back) . The red LED will blink when the crash sensor detects a crash. Otherwise, the green LED will light up continuously. The OLED will display the status of the machine.
 

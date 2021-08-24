@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: East Coast Primary - Addition Of Money Decimal
+title: 'East Coast Primary - Addition Of Money Decimal'
 permalink: /east-coast-primary-addition-of-money-decimal/
-breadcrumb: East Coast Primary - Addition Of Money Decimal
+breadcrumb: 'East Coast Primary - Addition Of Money Decimal'
+
 ---
+
 
 Pupils come into contact with money almost everyday of their lives. As pupils deal with daily purchases, especially on their own, it is imperative that they are able to perform basic calculations involving money mentally. Since the concept of decimals will only be taught in Primary 4, the decimal point in money should be presented as a dot separating dollars from cents. In making change for $1 (100¢), pupils can think of 100 as 9 tens and 10 ones.
 

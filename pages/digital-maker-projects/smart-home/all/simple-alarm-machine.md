@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Simple Alarm Machine
+title: 'Simple Alarm Machine'
 permalink: /simple-alarm-machine/
-breadcrumb: Simple Alarm Machine
+breadcrumb: 'Simple Alarm Machine'
+
 ---
+
 **Contributed by Luo Beiyu from the National University of Singapore**
 
 ![1](/images/in-schools/digital-maker/projects/smart-home/simple-alarm-machine.jpg)

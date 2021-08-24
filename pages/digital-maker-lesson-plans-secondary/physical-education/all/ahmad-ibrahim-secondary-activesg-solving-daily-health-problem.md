@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: ACTIVESG – Solving Daily Health Problem
+title: 'ACTIVESG – Solving Daily Health Problem'
 permalink: /ahmad-ibrahim-secondary-activesg-solving-daily-health-problem/
-breadcrumb: Secondary School - Physical Education
+breadcrumb: 'Secondary School - Physical Education'
+
 ---
+
 
 Students design a device using the microbit to encourage people to stay fit.
 

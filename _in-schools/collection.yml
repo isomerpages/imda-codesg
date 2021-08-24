@@ -1,0 +1,24 @@
+collections:
+  in-schools:
+    output: true
+    order:
+      - overview.md
+      - code-for-fun/.keep
+      - code-for-fun/overview.md
+      - code-for-fun/primary-schools.md
+      - code-for-fun/secondary-schools.md
+      - digital-maker/.keep
+      - digital-maker/overview.md
+      - digital-maker/lesson-ideas-primary-schools.md
+      - digital-maker/lesson-ideas-secondary-schools.md
+      - digital-maker/project-ideas-by-community.md
+      - icm-learning-roadmap.md
+      - playmaker/.keep
+      - playmaker/overview.md
+      - playmaker/for-educators.md
+      - playmaker/our-journey.md
+      - playmaker/international-research.md
+      - playmaker/lesson-study.md
+      - playmaker/noteworthy.md
+      - playmaker/library.md
+      - student-development.md

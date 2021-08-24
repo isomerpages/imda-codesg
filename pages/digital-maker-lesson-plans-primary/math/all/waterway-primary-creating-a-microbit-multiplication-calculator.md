@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Waterway Primary - Creating a micro:bit Multiplication Calculator
+title: 'Waterway Primary - Creating a micro:bit Multiplication Calculator'
 permalink: /waterway-primary-creating-a-microbit-multiplication-calculator/
-breadcrumb: Waterway Primary - Creating a micro:bit Multiplication Calculator
+breadcrumb: 'Waterway Primary - Creating a micro:bit Multiplication Calculator'
+
 ---
+
 
 This lesson is the 6th lesson of an 8 lesson package. The first 5 lessons focus on introducing the Micro:bits and the fundamentals of coding to the Primary 2 students. In this 6th lesson, students will use their knowledge acquired in the previous lessons to code their Micro:bit to work as a Multiplication Calculator.<br>
 Lesson 1 – Introduction to Micro:bits<br>

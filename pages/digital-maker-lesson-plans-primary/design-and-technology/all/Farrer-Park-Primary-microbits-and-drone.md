@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: micro:bits and drone
+title: 'micro:bits and drone'
 permalink: /farrer-park-primary-microbits-and-drone/
-breadcrumb: micro:bits and drone
+breadcrumb: 'micro:bits and drone'
+
 ---
+
 
 Using the accelerometer on the mirco:bit to perform a simple indication which direction the drone is flying and how stable the drone is when hovering.
 

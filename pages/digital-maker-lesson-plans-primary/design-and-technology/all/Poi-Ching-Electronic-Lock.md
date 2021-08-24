@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Electronic Lock
+title: 'Electronic Lock'
 permalink: /poi-ching-electronic-lock/
-breadcrumb: Electronic Lock
+breadcrumb: 'Electronic Lock'
+
 ---
+
 
 This project challenges students to create their own password system by turning the micro:bit into an electronic combination lock to alarm a box or any other chosen object.
 

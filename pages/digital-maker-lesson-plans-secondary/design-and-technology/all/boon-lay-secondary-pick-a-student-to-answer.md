@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Pick a student to answer
+title: 'Pick a student to answer'
 permalink: /boon-lay-secondary-pick-a-student-to-answer/
-breadcrumb: Secondary School - design and technology
+breadcrumb: 'Secondary School - design and technology'
+
 ---
+
 
 Students build a prototype to house their microbits using materials such as card board or appropriate recycled materials. Teachers can build a prototype to randomly pick a student in the class to answer a question. 
 

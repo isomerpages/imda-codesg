@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Science Lesson Ideas - Primary
+title: 'Science Lesson Ideas - Primary'
 permalink: /primary-science/
-breadcrumb: Science Lesson Ideas - Primary
+breadcrumb: 'Science Lesson Ideas - Primary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

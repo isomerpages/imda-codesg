@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Applications of Trigonometry
+title: 'Applications of Trigonometry'
 permalink: /greenview-secondary-applications-of-trigonometry/
-breadcrumb: Secondary School - math
+breadcrumb: 'Secondary School - math'
+
 ---
+
 
 ![anything](/images/in-schools/digital-maker/lesson-plans/secondary/greenview-secondary-trigonometry.jpg)
 

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Green Effort with micro:bits
+title: 'Green Effort with micro:bits'
 permalink: /meridian-secondary-green-effort-with-microbits/
-breadcrumb: Secondary School - science
+breadcrumb: 'Secondary School - science'
+
 ---
+
 
 Using micro:bits to design and create solutions to do our part to reduce global warming.
 

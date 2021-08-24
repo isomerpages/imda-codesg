@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Plant growth and care with the micro:bit
+title: 'Plant growth and care with the micro:bit'
 permalink: /tinkertanker-plant-growth-and-care-with-the-microbit/
-breadcrumb: Secondary School - science
+breadcrumb: 'Secondary School - science'
+
 ---
+
 
 Students will set up experiments to measure plant growth with the micro:bit helping to take readings of variables such as light intensity and soil mositure. Students will understand how light and water affects photosynthesis and the growth of the plant, and the importance of ensuring a fair experiment.
 

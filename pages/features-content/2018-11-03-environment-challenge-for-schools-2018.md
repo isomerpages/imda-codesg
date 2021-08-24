@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Environment Challenge for Schools - 2018"
-date: 2018-11-03
+title: 'Environment Challenge for Schools - 2018'
+date: 2018-11-03T00:00:00.000Z
 permalink: /environment-challenge-for-schools-2018/
-breadcrumb: Environment Challenge for Schools - 2018
+breadcrumb: 'Environment Challenge for Schools - 2018'
+
 ---
+
 
 ## Environment Challenge for Schools
 #### A collaboration between NEA with IMDA and ITE College Central

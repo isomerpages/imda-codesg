@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: A Better World - Project Ideas
+title: 'A Better World - Project Ideas'
 permalink: /a-better-world/
-breadcrumb: A Better World - Project Ideas
+breadcrumb: 'A Better World - Project Ideas'
+
 ---
+
 
 | Project Name |
 |--|

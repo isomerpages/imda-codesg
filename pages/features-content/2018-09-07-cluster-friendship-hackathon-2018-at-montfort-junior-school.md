@@ -1,10 +1,11 @@
 ---
-layout: post
-title: "Cluster Friendship Hackathon 2018 @Montfort Junior School"
-date: 2018-09-07
+title: 'Cluster Friendship Hackathon 2018 @Montfort Junior School'
+date: 2018-09-07T00:00:00.000Z
 permalink: /cluster-friendship-hackathon-2018-at-montfort-junior-school/
-breadcrumb: Cluster Friendship Hackathon 2018 @Montfort Junior School
+breadcrumb: 'Cluster Friendship Hackathon 2018 @Montfort Junior School'
+
 ---
+
 
 ## Cluster Friendship Hackathon 2018 @Montfort Junior School
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Placeholder
-date:   2019-01-01
+title: Placeholder
+date: 2019-01-01T00:00:00.000Z
 permalink: /features-content-placeholder/
+
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu turpis vulputate purus vestibulum ultrices ac nec ipsum. Morbi id porta est, faucibus pretium urna. Cras vulputate convallis iaculis. Donec maximus quam eu lorem lobortis, eu fringilla urna euismod. Maecenas mollis, eros quis suscipit ultricies, orci tortor bibendum elit, sit amet rhoncus nulla elit a ex. Sed eu ligula risus. Aenean varius feugiat tincidunt. In vitae turpis venenatis est lobortis semper. Nunc augue neque, vulputate nec nibh dapibus, venenatis malesuada sem. Nam ultricies aliquet risus et gravida.
 

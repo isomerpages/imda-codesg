@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Care For Community
+title: 'Care For Community'
 permalink: /mee-toh-school-care-for-community/
-breadcrumb: Care For Community
+breadcrumb: 'Care For Community'
+
 ---
+
 
 The number of cyclists hurt or killed in traffic accidents has been rising over the past three years. Last year, 17 cyclists or their pillion riders were killed in accidents, up from 15 each in 2014 and 2013, according to the latest statistics from the Traffic Police.
 After going through the micro:bit training, students will have to create a device incorporating micro:bit to help increase the safety of the cyclists or pedestrians.

@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Social Studies Lesson Ideas - Primary
+title: 'Social Studies Lesson Ideas - Primary'
 permalink: /primary-social-studies/
-breadcrumb: Social Studies Lesson Ideas - Primary
+breadcrumb: 'Social Studies Lesson Ideas - Primary'
+
 ---
+
 
 | School Name | Project Name |
 |--|--|

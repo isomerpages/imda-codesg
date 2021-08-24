@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Language (Advanced)
+title: 'Language (Advanced)'
 permalink: /secondary-language-advanced/
-breadcrumb: Language (Advanced)
+breadcrumb: 'Language (Advanced)'
+
 ---
+
 
 [test](/placeholder-secondary-language-advanced/)
 

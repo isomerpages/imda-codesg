@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Best Defence Animal
+title: 'Best Defence Animal'
 permalink: /montfort-junior-best-defence-animal/
-breadcrumb: Best Defence Animal
+breadcrumb: 'Best Defence Animal'
+
 ---
+
 
 Most animals have a defence mechanism to protect themselves and their territory, be it their teeth like a wolf, spikes like a porcupine, or odour like a skunk.
 In the challenge, create an animal that is able to keep themselves in the ring and force it’s opponent out.

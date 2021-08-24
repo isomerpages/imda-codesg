@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Every bit matters (My First Microcontroller)
+title: 'Every bit matters (My First Microcontroller)'
 permalink: /whitley-secondary-every-bit-matters/
-breadcrumb: Secondary School - music and art
+breadcrumb: 'Secondary School - music and art'
+
 ---
+
 
 Use of micro:bits to enhance the teaching and learning of the topic of Sound.
 
