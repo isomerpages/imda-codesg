@@ -1,8 +1,8 @@
 ---
-title: 'Project Ideas By Community'
-permalink: /in-schools/digital-maker/projects/
-breadcrumb: 'Project Ideas By Community'
-third_nav_title: 'Digital Maker'
+title: 
+permalink: 
+breadcrumb: 
+third_nav_title: 
 
 ---
 
