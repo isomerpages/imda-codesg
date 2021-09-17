@@ -19,13 +19,13 @@ Aims to increase students' exposure to computational thinking and making. <br>
 
 ---
 
-#### **[Digital Maker Programme](/in-schools/digital-maker/overview/)**<br>
+<!-- #### **[Digital Maker Programme](/in-schools/digital-maker/overview/)**<br>
 <br>
 Aims to cultivate a community of innovators, imbued with the culture of collaboration and co-creation, to solve real-world problems. <br>
 
 *For primary and secondary schools.*
 
----
+----->
 
 #### **[ICM Learning Roadmap](/in-schools/icm-learning-roadmap/)**<br>
 <br>
@@ -35,13 +35,13 @@ A structured training framework for Infocomm Media Club members to acquire speci
 
 ---
 
-#### **[PlayMaker](/in-schools/playmaker-overview/)** <br>
+<!--#### **[PlayMaker](/in-schools/playmaker-overview/)** <br>
 
 Aims to inspire young children to play and make with technology, sparking imagination and building creative confidence.<br>
 
 *For pre-schools.*
 
----
+----->
 
 #### **[Student Development](/in-schools/student-development/)**<br>
 <br>
