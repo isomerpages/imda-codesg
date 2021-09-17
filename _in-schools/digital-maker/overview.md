@@ -1,8 +1,8 @@
 ---
-title: Overview
-permalink: /in-schools/digital-maker/overview/
-breadcrumb: 'Digital Maker Overview'
-third_nav_title: 'Digital Maker'
+title: 
+permalink: 
+breadcrumb: 
+third_nav_title: 
 
 ---
 
