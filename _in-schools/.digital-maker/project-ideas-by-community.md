@@ -1,5 +1,5 @@
 ---
-title: 'Project Ideas By Community'
+title: 'Project Ideas by Community'
 permalink: /in-schools/digital-maker/projects/
 breadcrumb: 'Project Ideas By Community'
 third_nav_title: 'Digital Maker'
