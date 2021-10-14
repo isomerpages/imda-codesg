@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - features.md
+      - newsletter.md
       - media.md
