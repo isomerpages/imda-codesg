@@ -1,4 +1,5 @@
-
-title: Features
-permalink: /stories/features/
-breadcrumb: Features
+---
+title: Newsletter
+permalink: /newsletter/
+breadcrumb: Newsletter
+---
