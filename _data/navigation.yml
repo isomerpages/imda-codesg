@@ -11,8 +11,6 @@ links:
   - title: Stories
     collection: stories
   - title: Resources
-    url: /resources/
+    collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
-    collection: resources
