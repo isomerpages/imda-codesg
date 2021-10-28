@@ -22,7 +22,7 @@ sections:
           description: Check out our media and feature stories!
           url: /stories/
   - infopic:
-      title: Code For Fun For Secondary School
+      title: Code For Fun
       description: The Code for Fun Enrichment Programme for Secondary Schools
         complements existing MOE Computing Education efforts in secondary
         schools, such as the Computing-related Applied Learning Programmes (ALP)
