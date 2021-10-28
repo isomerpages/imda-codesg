@@ -2,5 +2,12 @@
 title: About
 permalink: /code-for-fun/about
 ---
-#### From 2020, all upper primary students will undergo a 10-hour computational thinking and coding enrichment class to expose them to the skills needed to embrace new opportunities in the digital economy.
+#### Code For Fun Enrichment Programme aims to increase primary and secondary school students’ knowledge of computational thinking, coding and making. 
 
+![overview image](/images/in-schools/code-for-fun/code-for-fun-100609.jpg)
+
+The Code For Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary and secondary schools. Students learn computational thinking and coding concepts though engaging hands-on experiences, robotic kits and/or microcontrollers.
+
+Click [here](/stories/#codeforfun) to view the media coverage.
+
+For more information, refer to [Code for Fun Primary](/code-for-fun/primary/) and [Code for Fun Secondary](/code-for-fun/secondary/).
