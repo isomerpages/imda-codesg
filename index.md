@@ -11,23 +11,15 @@ sections:
       button: Learn More
       url: /about/
       key_highlights:
-        - title: In Schools
-          description: Broad-based learning and specialized training in schools
-          url: /in-schools/overview/
-          external: false
-        - title: In Community
-          description: Introducing coding and making to the public
-          url: /in-community/overview/
         - title: Stories
           description: Check out our media and feature stories!
           url: /stories/
   - infopic:
       title: Code For Fun
-      description: The Code for Fun Enrichment Programme for Secondary Schools
-        complements existing MOE Computing Education efforts in secondary
-        schools, such as the Computing-related Applied Learning Programmes (ALP)
-        as well as the O-Level (elective) Computing subjects.
-      url: https://codesg.imda.gov.sg/in-schools/code-for-fun/secondary/
+      description: Code For Fun Enrichment Programme aims to increase primary and
+        secondary school students’ knowledge of computational thinking, coding
+        and making.
+      url: https://codesg.imda.gov.sg/code-for-fun/about
       image: /images/in-schools/code-for-fun/code-for-fun-100609.jpg
       alt: alt text
       button: Click here
