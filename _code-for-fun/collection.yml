@@ -2,5 +2,5 @@ collections:
   code-for-fun:
     output: true
     order:
-      - CFF Primary.md
       - About.md
+      - CFF Primary.md
