@@ -4,12 +4,8 @@ links:
     url: /about/
   - title: Code For Fun
     collection: code-for-fun
-  - title: In Schools
-    collection: in-schools
-  - title: In Community
-    collection: in-community
-  - title: Events
-    resource_room: true
+  - title: Infocomm Clubs CCA
+    collection: infocomm-clubs-cca
   - title: Events
     collection: events
   - title: Stories
