@@ -2,4 +2,5 @@ collections:
   infocomm-clubs-cca:
     output: true
     order:
+      - Training Domains.md
       - Overview.md
