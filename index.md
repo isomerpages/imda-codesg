@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Infocomm Club CCA
       description: Infocomm CCA placeholder here.
-      url: /infocomm-club-cca/
+      url: /infocomm-clubs/overview
       image: /images/home-page/image4.jpg
       alt: alt text
       button: Click here
