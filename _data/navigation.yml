@@ -2,21 +2,21 @@ logo: /images/DLP-logo5.png
 links:
   - title: About
     url: /about/
+  - title: Code For Fun
+    collection: code-for-fun
+  - title: Infocomm Clubs Cca
+    collection: infocomm-clubs-cca
   - title: In Schools
     collection: in-schools
   - title: In Community
     collection: in-community
   - title: Events
     resource_room: true
+  - title: Events
+    collection: events
   - title: Stories
     collection: stories
   - title: Resources
     collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: Infocomm Clubs Cca
-    collection: infocomm-clubs-cca
-  - title: Events
-    collection: events
-  - title: Code For Fun
-    collection: code-for-fun
