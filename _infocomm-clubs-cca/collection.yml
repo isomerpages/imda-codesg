@@ -2,7 +2,7 @@ collections:
   infocomm-clubs-cca:
     output: true
     order:
-      - Student Development Programme.md
-      - Out Of School Learning.md
-      - Training Domains.md
       - Overview.md
+      - Training Domains.md
+      - Out Of School Learning.md
+      - Student Development Programme.md
