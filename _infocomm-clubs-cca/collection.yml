@@ -1,4 +1,5 @@
 collections:
   infocomm-clubs-cca:
     output: true
-    order: []
+    order:
+      - Overview.md
