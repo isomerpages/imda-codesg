@@ -38,9 +38,5 @@ sections:
       image: /images/home-page/image4.jpg
       alt: alt text
       button: Click here
-  - resources:
-      title: Events
-      button: Learn more
-      url: /events/
 notification: "\n\n"
 ---
