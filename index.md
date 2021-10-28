@@ -16,7 +16,7 @@ sections:
           url: /code-for-fun/about
         - title: Infocomm Club CCA
           description: Programmes for Infocomm Clubs
-          url: /infocomm-club-cca/
+          url: /infocomm-clubs/overview
         - title: Stories
           description: Check out our media and feature stories!
           url: /stories/
