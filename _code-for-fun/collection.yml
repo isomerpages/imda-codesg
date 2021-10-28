@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - CFF Primary.md
+      - Primary Schools.md
       - CFF Secondary.md
