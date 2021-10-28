@@ -2,6 +2,6 @@ collections:
   code-for-fun:
     output: true
     order:
-      - CFF Secondary.md
       - About.md
       - CFF Primary.md
+      - CFF Secondary.md
