@@ -11,6 +11,12 @@ sections:
       button: Learn More
       url: /about/
       key_highlights:
+        - title: Code For Fun
+          description: Coding for school cohorts
+          url: https://codesg.imda.gov.sg/code-for-fun/about
+        - title: Infocomm Club CCA
+          description: Programmes for Infocomm Clubs
+          url: ""
         - title: Stories
           description: Check out our media and feature stories!
           url: /stories/
