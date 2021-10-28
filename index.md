@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Code For Fun
           description: Coding for school cohorts
-          url: https://codesg.imda.gov.sg/code-for-fun/about
+          url: /code-for-fun/about
         - title: Infocomm Club CCA
           description: Programmes for Infocomm Clubs
-          url: ""
+          url: /infocomm-club-cca/
         - title: Stories
           description: Check out our media and feature stories!
           url: /stories/
@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Infocomm Club CCA
       description: Infocomm CCA placeholder here.
-      url: https://codesg.imda.gov.sg/in-community/makeit-at-libraries/
+      url: /infocomm-club-cca/
       image: /images/home-page/image4.jpg
       alt: alt text
       button: Click here
