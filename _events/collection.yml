@@ -1,4 +1,5 @@
 collections:
   events:
     output: true
-    order: []
+    order:
+      - Upcoming Events.md
