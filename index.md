@@ -25,7 +25,7 @@ sections:
       description: Code For Fun Enrichment Programme aims to increase primary and
         secondary school students’ knowledge of computational thinking, coding
         and making.
-      url: https://codesg.imda.gov.sg/code-for-fun/about
+      url: /code-for-fun/overview
       image: /images/in-schools/code-for-fun/code-for-fun-100609.jpg
       alt: alt text
       button: Click here
