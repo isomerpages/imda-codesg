@@ -29,7 +29,7 @@ sections:
   - infopic:
       title: Infocomm Club CCA
       description: Information coming soon.
-      url: /infocomm-clubs/overview
+      url: /infocomm-clubs/
       image: /images/home-page/image4.jpg
       alt: alt text
 notification: "\n\n"
