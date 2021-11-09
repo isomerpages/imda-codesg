@@ -1,0 +1,6 @@
+collections:
+  resources:
+    output: true
+    order:
+      - resources.md
+      - Newsletter.md

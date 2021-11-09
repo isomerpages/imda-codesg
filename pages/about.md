@@ -2,12 +2,9 @@
 title: About
 permalink: /about/
 breadcrumb: About
-
 ---
-
-
 Code@SG is an initiative by Infocomm Media Development Authority to develop computational thinking and making as a national capability in Singapore.
-Various programmes are run in schools and community that reach out to pre-schoolers, students and adults.  By providing them with opportunities to try a myriad of coding and making technologies, we are shaping a generation of digital innovators and creators who are passionate in using technology to solve real-world problems.<br>
+Various programmes are run in schools and community that reach out to students and adults.  By providing them with opportunities to try a myriad of coding and making technologies, we are shaping a generation of digital innovators and creators who are passionate in using technology to solve real-world problems.<br>
 
 #### Understanding Computational Thinking and Making<br>
 Computational thinking describes the processes and approaches we draw on when thinking about how a computer can help us to solve complex problems and create systems.  There are four aspects to computational thinking: <br>
@@ -26,4 +23,3 @@ Find out more about our programmes [In Schools](/in-schools/overview/) and [In C
 ---
 
 ![codesg is an initiatve by IMDA](/images/about/imda-dlp-v2.jpeg)
-
