@@ -14,12 +14,9 @@ sections:
         - title: Code For Fun
           description: Coding for Schools
           url: /code-for-fun/about
-        - title: Infocomm Club CCA
-          description: Programmes for Infocomm Clubs
-          url: /infocomm-clubs/about/
-        - title: Stories
-          description: Check out our media and feature stories!
-          url: /stories/
+        - title: Newsletter
+          description: Check out our newsletter!
+          url: /resources/newsletter
   - infopic:
       title: Code For Fun
       description: Code For Fun Enrichment Programme aims to increase primary and
@@ -31,10 +28,9 @@ sections:
       button: Click here
   - infopic:
       title: Infocomm Club CCA
-      description: Programmes for Infocomm Club CCAs.
+      description: Information coming soon.
       url: /infocomm-clubs/overview
       image: /images/home-page/image4.jpg
       alt: alt text
-      button: Click here
 notification: "\n\n"
 ---
