@@ -16,7 +16,7 @@ sections:
           url: /code-for-fun/about
         - title: Newsletter
           description: Check out our newsletter!
-          url: /resources/newsletter
+          url: /newsletter/
   - infopic:
       title: Code For Fun
       description: Code For Fun Enrichment Programme aims to increase primary and
