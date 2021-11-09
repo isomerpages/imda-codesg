@@ -22,7 +22,7 @@ sections:
       description: Code For Fun Enrichment Programme aims to increase primary and
         secondary school students’ knowledge of computational thinking, coding
         and making.
-      url: /code-for-fun/about
+      url: /code-for-fun/
       image: /images/in-schools/code-for-fun/code-for-fun-100609.jpg
       alt: alt text
       button: Click here
