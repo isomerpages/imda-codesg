@@ -12,7 +12,7 @@ sections:
       url: /about/
       key_highlights:
         - title: Code For Fun
-          description: Coding for school cohorts
+          description: Coding for Schools
           url: /code-for-fun/about
         - title: Infocomm Club CCA
           description: Programmes for Infocomm Clubs
@@ -31,7 +31,7 @@ sections:
       button: Click here
   - infopic:
       title: Infocomm Club CCA
-      description: Infocomm CCA placeholder here.
+      description: Programmes for Infocomm Club CCAs.
       url: /infocomm-clubs/overview
       image: /images/home-page/image4.jpg
       alt: alt text
