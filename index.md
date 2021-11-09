@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Code For Fun
           description: Coding for Schools
-          url: /code-for-fun/about
+          url: /code-for-fun/
         - title: Newsletter
           description: Check out our newsletter!
           url: /newsletter/
