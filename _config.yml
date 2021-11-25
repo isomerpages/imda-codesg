@@ -1,7 +1,7 @@
-title: 'Infocomm Media Development Authority'
+title: Infocomm Media Development Authority
 title-abbreviated: IMDA
 description: Code@SG
-url: 'https://codesg.imda.gov.sg'
+url: https://codesg.imda.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 kramdown:
@@ -23,10 +23,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
 resources_name: events
-copyright_agency: 'IMDA. All rights reserved'
+copyright_agency: IMDA. All rights reserved
 future: true
 favicon: /images/SGD-logo.png
-google_analytics: UA-103556192-2
+google_analytics: UA-213677984-1
 permalink: none
 baseurl: ""
 defaults:
@@ -43,18 +43,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#961C56'
-  secondary-color: '#6F358D'
-  # tertiary: '#7FA344'
-  # ahmalikespie: '#262420'
+  primary-color: "#961C56"
+  secondary-color: "#6F358D"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-three
-      color: '#006666'
+      color: "#006666"
     - title: media-color-four
-      color: '#46A3A3'
+      color: "#46A3A3"
     - title: media-color-five
-      color: '#006666'
+      color: "#006666"
