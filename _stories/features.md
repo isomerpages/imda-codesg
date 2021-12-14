@@ -12,7 +12,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 
 | Date | Title | 
 | -------- | -------- |
-| **22 Dec 2021**     | **[Entering the Code To a Digital Future](/entering-digital-future/)**    |
+| **22 Dec 2021**     | **[Entering the Code To a Digital Future](/features/entering-digital-future/)**    |
 
 
 <a name="digitalmaker"></a><br>
