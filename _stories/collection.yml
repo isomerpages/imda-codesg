@@ -2,7 +2,6 @@ collections:
   stories:
     output: true
     order:
-      - Features/Entering the Code To a Digital Future.md
       - Features/features.md
       - Features/.keep
       - media.md
