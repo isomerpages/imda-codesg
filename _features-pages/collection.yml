@@ -1,0 +1,4 @@
+collections:
+  features-pages:
+    output: true
+    order: []
