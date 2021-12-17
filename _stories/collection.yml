@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - features.md
-      - Features/.keep
       - media.md
