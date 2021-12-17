@@ -1,7 +1,7 @@
 ---
 title: 'Entering the Code To a Digital Future'
 date: 2021-12-22T00:00:00.000Z
-permalink: /entering-digital-future/
+permalink: /features/entering-digital-future/
 breadcrumb: 'Entering the Code To a Digital Future'
 ---
 
