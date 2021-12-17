@@ -1,8 +1,8 @@
 ---
-title: Entering the Code To a Digital Future
-permalink: /entering-digital-future
-description: ""
-third_nav_title: Features
+title: 'Entering the Code To a Digital Future'
+date: 2021-12-22T00:00:00.000Z
+permalink: /entering-digital-future/
+breadcrumb: 'Entering the Code To a Digital Future'
 ---
 
 
