@@ -14,6 +14,7 @@ breadcrumb: Entering the Code To a Digital Future
 
 3.	As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
 
+
 4. “I’ve always liked inventing new things, solving problems, understanding and learning new things,” Ian shares. Coding is a way for him to do this, as with different programming languages in his arsenal, his ideas are now given a voice, enabling him to express himself and contribute to the world around him.
 
 5.	But while Ian’s passion for coding may have stemmed from his own independent experiences, the Infocomm Media Development Authority (IMDA) Code@SG initiatives had a part to play in allowing these skills to flourish.
