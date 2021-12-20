@@ -1,8 +1,8 @@
 ---
-title: 'Entering the Code To a Digital Future'
+title: Entering the Code To a Digital Future
 date: 2021-12-22T00:00:00.000Z
 permalink: /entering-digital-future/
-breadcrumb: 'Entering the Code To a Digital Future'
+breadcrumb: Entering the Code To a Digital Future
 ---
 **Entering the Code To a Digital Future**
 
@@ -33,8 +33,8 @@ breadcrumb: 'Entering the Code To a Digital Future'
 
 12.	“At some point, her knowledge exceeded that of her teacher facilitator, and she became involved in troubleshooting and fixing code for our lessons!”
 
-
-Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.
+![Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.](/images/entering-digital-future-01.jpg)
+*Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.*
 
 **Building Confidence to Code her Own Life Script**
 
