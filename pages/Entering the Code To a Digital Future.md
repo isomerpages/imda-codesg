@@ -6,14 +6,13 @@ breadcrumb: Entering the Code To a Digital Future
 ---
 ### Entering the Code To a Digital Future 
  
-1.	With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
+1. With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
-2.	An app with these scanning capabilities has been developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members at the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
+2. An app with these scanning capabilities has been developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members at the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
 
 **The Language of the Future**
 
-3.	As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
-
+3. As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
 
 4. “I’ve always liked inventing new things, solving problems, understanding and learning new things,” Ian shares. Coding is a way for him to do this, as with different programming languages in his arsenal, his ideas are now given a voice, enabling him to express himself and contribute to the world around him.
 
