@@ -1,7 +1,7 @@
 ---
 title: Entering the Code To a Digital Future
 permalink: /entering-digital-future/
-date: 2021-12-20
+date: 2021-12-22
 layout: post
 description: ""
 ---
