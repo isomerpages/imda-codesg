@@ -45,8 +45,8 @@ Despite only having picked up coding in 2020, when she came across Apple’s [WW
 
 “We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, which earned her first place in the contest, were a remarkable feat for a first timers. 
 
-(photo)
-Wei Xuan’s WWDC21 Swift Student Challenge app on mental health earned her a goodie bag of prizes.
+<img src="/images/entering-digital-future-02.png" width="200"> <img src="/images/entering-digital-future-03.png" width="200"> <img src="/images/entering-digital-future-04.jpg" width="200">
+*Wei Xuan’s WWDC21 Swift Student Challenge app on mental health earned her a goodie bag of prizes.*
 
 Wei Xuan also gained acceptance to the Swift Accelerator Programme, an initiative developed in partnership between IMDA and Apple, supported by Tinkeracademy. Over eight months, participants like Wei Xuan are taught to code in Swift and guided to build and release an iOS app of their own.
 
