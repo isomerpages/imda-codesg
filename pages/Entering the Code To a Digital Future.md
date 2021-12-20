@@ -9,13 +9,13 @@ description: ""
 
 1.	With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
-2.	An app with these scanning capabilities has been developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members  at the 2020 SCSE Computing Challenge.
+2.	An app with these scanning capabilities has been developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members at the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
 
 **The Language of the Future**
 
-3.	As an avid coder, Ian has taken part in various coding contests like the Code XtremeApps 2019 and the 2021 Splash Awards. Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
+3.	As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
 
-4.	“I’ve always liked inventing new things, solving problems, understanding and learning new things,” Ian shares. Coding is a way for him to do this, as with different programming languages in his arsenal, his ideas are now given a voice, enabling him to express himself and contribute to the world around him.
+4. “I’ve always liked inventing new things, solving problems, understanding and learning new things,” Ian shares. Coding is a way for him to do this, as with different programming languages in his arsenal, his ideas are now given a voice, enabling him to express himself and contribute to the world around him.
 
 5.	But while Ian’s passion for coding may have stemmed from his own independent experiences, the Infocomm Media Development Authority (IMDA) Code@SG initiatives had a part to play in allowing these skills to flourish.
 
@@ -41,7 +41,7 @@ Michelle’s guidance in the classroom set Wei Xuan’s passion for programming 
 
 13.	These early classroom experiences paved the way for Wei Xuan to continue her coding journey outside of school.
 
-14.	Despite only having picked up coding in 2020, when she came across Apple’s WWDC21 Swift Student Challenge in 2021, she boldly set out to pick up the new programming language on her own, and within just two weeks, developed an app to educate the public about mental health. 
+14.	Despite only having picked up coding in 2020, when she came across Apple’s [WWDC21 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/) in 2021, she boldly set out to pick up the new programming language on her own, and within just two weeks, developed an app to educate the public about mental health. 
 
 15.	“We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, which earned her first place in the contest, were a remarkable feat for a first timers. 
 
