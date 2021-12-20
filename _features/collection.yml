@@ -1,5 +1,5 @@
 collections:
   features:
-    output: true
+    output: false
     order:
       - Entering the Code To a Digital Future.md
