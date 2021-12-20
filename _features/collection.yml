@@ -1,5 +1,5 @@
 collections:
-  stories-pages:
+  features:
     output: true
     order:
       - Entering the Code To a Digital Future.md
