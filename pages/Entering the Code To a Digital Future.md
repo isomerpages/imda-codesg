@@ -5,13 +5,13 @@ date: 2021-12-20
 layout: post
 description: ""
 ---
-Entering the Code To a Digital Future
+**Entering the Code To a Digital Future**
 
 1.	With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
 2.	An app with these scanning capabilities has been developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members  at the 2020 SCSE Computing Challenge.
 
-The Language of the Future
+**The Language of the Future**
 
 3.	As an avid coder, Ian has taken part in various coding contests like the Code XtremeApps 2019 and the 2021 Splash Awards. Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
 
@@ -23,7 +23,7 @@ The Language of the Future
 
 7.	These initiatives span from primary school to junior college and can range from lessons on coding and computational thinking, to learning about emerging tech such as Artificial Intelligence, specialised training and more.
 
-Sparking A Love for Code
+**Sparking A Love for Code**
 
 8.	For those like Ian, these present opportunities to deepen their existing coding skills. But for others, like 15-year-old Chua Wei Xuan, a student at Presbyterian High School, Code@SG offers exposure they would not otherwise have had.
 9.	“I’ve actually always been interested in coding, but when I was younger, I didn’t have any resources for it,” Wei Xuan shares. As such, it was a “great joy” to have the opportunity to learn about Arduinos and pick up the basics of popular block-based coding programmes like Scratch and Micro: bit as part of the school’s Applied Learning Programme and science lessons, she says.
@@ -34,10 +34,10 @@ Sparking A Love for Code
 
 12.	“At some point, her knowledge exceeded that of her teacher facilitator, and she became involved in troubleshooting and fixing code for our lessons!”
 
- 
+
 Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.
 
-Building Confidence to Code her Own Life Script
+**Building Confidence to Code her Own Life Script**
 
 13.	These early classroom experiences paved the way for Wei Xuan to continue her coding journey outside of school.
 
@@ -77,7 +77,7 @@ Ian guided his Infocomm Club members through various computing projects to see h
 
 26.	Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
 
-An inclusive journey for all
+**An inclusive journey for all**
 
 27.	Ian shares that his experience starting up the club has helped him understand the challenges that people face when they first embark on their own coding journeys.
 
