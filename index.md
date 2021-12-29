@@ -27,7 +27,7 @@ sections:
       alt: alt text
       button: Click here
   - infopic:
-      title: Infocomm Club CCA
+      title: Infocomm Media Club CCA
       description: Information coming soon.
       url: /infocomm-clubs/
       image: /images/home-page/image4.jpg
