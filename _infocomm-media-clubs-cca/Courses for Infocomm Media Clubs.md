@@ -28,6 +28,4 @@ Application closes on 28 February 2022.
 |**Stag Match Private Limited**|Evelyn Wee<br>evelyn.wee@smet.edu.sg<br><br>Thomas Yeo<br>thomas.yeo@smet.edu.sg<br><br>info@stagmatch.com.sg <br>66127165|•	Artificial Intelligence (Primary)<br>•	Game Development (Secondary/JC)<br>•	Robotics (Secondary/JC)|
 
 
-
-
-For enquiries, Schools can contact IMDA at IMDA_Codesg@imda.gov.sg
+For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
