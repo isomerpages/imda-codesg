@@ -30,5 +30,4 @@ Application closes on 28 February 2022.
 
 
 
-For enquiries, Schools can contact IMDA at IMDA_Codesg@imda.gov.sg 
-
+For enquiries, Schools can contact IMDA at IMDA_Codesg@imda.gov.sg
