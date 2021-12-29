@@ -13,7 +13,7 @@ The minimum duration of each course is 24 hours. Schools can refer to the full l
 
 Application closes on 28 February 2022.
 
-![Alt text for image on Isomer site](/images/icmclubprocess.png)
+![Alt text for image on Isomer site](/images/icmprocess.png)
 
 | **Training Provider** | **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
