@@ -14,6 +14,9 @@ sections:
         - title: Code For Fun
           description: Coding for Schools
           url: /code-for-fun/
+        - title: Infocomm Media Club CCA
+          description: Key Highlight description
+          url: /infocomm-clubs/
         - title: Newsletter
           description: Check out our newsletter!
           url: /newsletter/
