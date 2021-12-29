@@ -1,5 +1,5 @@
 collections:
-  infocomm-clubs-cca:
+  infocomm-media-clubs-cca:
     output: true
     order:
       - About.md
