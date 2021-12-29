@@ -22,10 +22,10 @@ Application closes on 28 February 2022.
 |**Make the Change**|Pedro Agurre New<br>pedro@makethechange.sg|New Media Offered in Collaboration with Apple Inc (Secondary/JC)|
 |**Republic Polytechnic**|Ivan Wee<br>ivan_wee@rp.edu.sg|Cybersecurity Offered in Collaboration with CISCO (Secondary/JC)|
 |**ACP Computer Training School**|Poon Kum Seng<br>kum_seng@acpcomputer.edu.sg<br>81022256|•	Cybersecurity (Primary)<br>•	Mobile App Development (Primary)<br>•	Cybersecurity (Secondary/JC)<br>•	Data Analytics (Secondary/JC)<br>•	Mobile App Development (Secondary/JC)|
-|**Duck Learning**|Murtaza Njmudden<br>murtaza@ducklearning.com <br>97525201|•	Game Development (Primary)<br>•	Robotics (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Data Analytics (Secondary/JC)<br>•	Internet of Things (Secondary/JC)<br>•	Robotics (Secondary/JC)|
-|**EP Education Pte Ltd**|Koh Choon Chuan<br>cckoh@epasia.cc<br>91466015<br><br>Chalmers Chin<br>chalmerschin@epasia.cc<br>97585122|•	Artificial Intelligence (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Internet of Things (Secondary/JC)|
-|**Roboto LLP**|Brian Lee<br>brianlee@roboto.sg<br>97678052|•	Game Development (Primary)<br>•	Mobile App Development (Primary)<br>•	Robotics (Primary)<br>•	Game Development (Secondary/JC)|
-|**Stag Match Private Limited**|Evelyn Wee<br>evelyn.wee@smet.edu.sg<br><br>Thomas Yeo<br>thomas.yeo@smet.edu.sg<br><br>info@stagmatch.com.sg <br>66127165|•	Artificial Intelligence (Primary)<br>•	Game Development (Secondary/JC)<br>•	Robotics (Secondary/JC)|
+|**Duck Learning**|Murtaza Njmudden<br>[murtaza@ducklearning.com](murtaza@ducklearning.com) <br>97525201|•	Game Development (Primary)<br>•	Robotics (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Data Analytics (Secondary/JC)<br>•	Internet of Things (Secondary/JC)<br>•	Robotics (Secondary/JC)|
+|**EP Education Pte Ltd**|Koh Choon Chuan<br>[cckoh@epasia.cc](cckoh@epasia.cc)<br>91466015<br><br>Chalmers Chin<br>[chalmerschin@epasia.cc](chalmerschin@epasia.cc)<br>97585122|•	Artificial Intelligence (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Internet of Things (Secondary/JC)|
+|**Roboto LLP**|Brian Lee<br>[brianlee@roboto.sg](brianlee@roboto.sg)<br>97678052|•	Game Development (Primary)<br>•	Mobile App Development (Primary)<br>•	Robotics (Primary)<br>•	Game Development (Secondary/JC)|
+|**Stag Match Private Limited**|Evelyn Wee<br>[evelyn.wee@smet.edu.sg](evelyn.wee@smet.edu.sg)<br><br>Thomas Yeo<br>[thomas.yeo@smet.edu.sg](thomas.yeo@smet.edu.sg)<br><br>[info@stagmatch.com.sg](info@stagmatch.com.sg)<br>66127165|•	Artificial Intelligence (Primary)<br>•	Game Development (Secondary/JC)<br>•	Robotics (Secondary/JC)|
 
 
 For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
