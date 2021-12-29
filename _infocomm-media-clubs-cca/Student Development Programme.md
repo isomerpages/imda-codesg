@@ -10,4 +10,4 @@ Through this programme, students from Infocomm Media Clubs at schools and commun
 
 Information on upcoming Student Development Programmes will be released progressively in our newsletter. Check out our newsletter here  for details.
 
-For enquiries, Schools can contact IMDA at IMDA_Codesg@imda.gov.sg 
+For enquiries, Schools can contact IMDA at IMDA_Codesg@imda.gov.sg
