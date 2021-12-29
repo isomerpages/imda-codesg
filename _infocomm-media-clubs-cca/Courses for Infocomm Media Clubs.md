@@ -17,11 +17,11 @@ Application closes on 28 February 2022.
 
 | **Training Provider** | **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
-| **Sustainable Living Lab** | Weng Wan Ying<br>wanying@sustainablelivinglab.org  | Artificial Intelligence Offered in Collaboration with Intel Corporation (Secondary/JC)  |
-| **Tinker Class Pte Ltd** | Soon Yin Jie<br>yjsoon@tinkertanker.com | •	Game Development Offered in Collaboration with Unity Technologies (Secondary/JC)<br>•	Mobile App Development Offered in Collaboration with Apple Inc (Secondary/JC)|
-|**Make the Change**|Pedro Agurre New<br>pedro@makethechange.sg|New Media Offered in Collaboration with Apple Inc (Secondary/JC)|
-|**Republic Polytechnic**|Ivan Wee<br>ivan_wee@rp.edu.sg|Cybersecurity Offered in Collaboration with CISCO (Secondary/JC)|
-|**ACP Computer Training School**|Poon Kum Seng<br>kum_seng@acpcomputer.edu.sg<br>81022256|•	Cybersecurity (Primary)<br>•	Mobile App Development (Primary)<br>•	Cybersecurity (Secondary/JC)<br>•	Data Analytics (Secondary/JC)<br>•	Mobile App Development (Secondary/JC)|
+| **Sustainable Living Lab** | Weng Wan Ying<br>[wanying@sustainablelivinglab.org](wanying@sustainablelivinglab.org)|Artificial Intelligence Offered in Collaboration with Intel Corporation (Secondary/JC)  |
+| **Tinker Class Pte Ltd** | Soon Yin Jie<br>[yjsoon@tinkertanker.com](yjsoon@tinkertanker.com)| •	Game Development Offered in Collaboration with Unity Technologies (Secondary/JC)<br>•	Mobile App Development Offered in Collaboration with Apple Inc (Secondary/JC)|
+|**Make the Change**|Pedro Agurre New<br>[pedro@makethechange.sg](pedro@makethechange.sg)|New Media Offered in Collaboration with Apple Inc (Secondary/JC)|
+|**Republic Polytechnic**|Ivan Wee<br>[ivan_wee@rp.edu.sg](ivan_wee@rp.edu.sg)|Cybersecurity Offered in Collaboration with CISCO (Secondary/JC)|
+|**ACP Computer Training School**|Poon Kum Seng<br>[kum_seng@acpcomputer.edu.sg](kum_seng@acpcomputer.edu.sg)<br>81022256|•	Cybersecurity (Primary)<br>•	Mobile App Development (Primary)<br>•	Cybersecurity (Secondary/JC)<br>•	Data Analytics (Secondary/JC)<br>•	Mobile App Development (Secondary/JC)|
 |**Duck Learning**|Murtaza Njmudden<br>[murtaza@ducklearning.com](murtaza@ducklearning.com) <br>97525201|•	Game Development (Primary)<br>•	Robotics (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Data Analytics (Secondary/JC)<br>•	Internet of Things (Secondary/JC)<br>•	Robotics (Secondary/JC)|
 |**EP Education Pte Ltd**|Koh Choon Chuan<br>[cckoh@epasia.cc](cckoh@epasia.cc)<br>91466015<br><br>Chalmers Chin<br>[chalmerschin@epasia.cc](chalmerschin@epasia.cc)<br>97585122|•	Artificial Intelligence (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Internet of Things (Secondary/JC)|
 |**Roboto LLP**|Brian Lee<br>[brianlee@roboto.sg](brianlee@roboto.sg)<br>97678052|•	Game Development (Primary)<br>•	Mobile App Development (Primary)<br>•	Robotics (Primary)<br>•	Game Development (Secondary/JC)|
