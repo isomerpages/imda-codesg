@@ -15,6 +15,8 @@ Application closes on 28 February 2022.
 
 ![Alt text for image on Isomer site](/images/icmprocess.png)
 
+[IMDA Courses for Infocomm Media Clubs](/files/icm-learning-roadmap/IMDA%20Courses%20for%20Infocomm%20Media%20Clubs.pdf)
+
 | **Training Provider** | **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
 | **Sustainable Living Lab** | Weng Wan Ying<br>[wanying@sustainablelivinglab.org](wanying@sustainablelivinglab.org)|Artificial Intelligence Offered in Collaboration with Intel Corporation (Secondary/JC)  |
