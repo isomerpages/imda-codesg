@@ -1,8 +1,7 @@
 collections:
-  infocomm-clubs-cca:
+  infocomm-media-clubs-cca:
     output: true
     order:
       - About.md
-      - Training Domains.md
-      - Out Of School Learning.md
+      - Courses for Infocomm Media Clubs.md
       - Student Development Programme.md
