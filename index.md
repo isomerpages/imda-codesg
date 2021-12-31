@@ -15,7 +15,7 @@ sections:
           description: Coding for Schools
           url: /code-for-fun/
         - title: Infocomm Media Club CCA
-          description: Key Highlight description
+          description: Coding for Infocomm Media Clubs
           url: /infocomm-clubs/
         - title: Newsletter
           description: Check out our newsletter!
@@ -31,9 +31,12 @@ sections:
       button: Click here
   - infopic:
       title: Infocomm Media Club CCA
-      description: Information coming soon.
+      description: IMDA will be offering ICM Club members with opportunities to pursue
+        their interest, deepen their learning in emerging tech and gain industry
+        exposure.
       url: /infocomm-clubs/
       image: /images/home-page/image4.jpg
       alt: alt text
+      button: Click here
 notification: "\n\n"
 ---
