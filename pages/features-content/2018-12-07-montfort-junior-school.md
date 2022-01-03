@@ -88,10 +88,4 @@ The goal is to encourage more students to come up with their own ideas and furth
 
 For schools that are considering digital making as a curriculum, Mr Wong has great advice, “Start small and understand your objective clearly. There are many partners like IMDA and MOE that are willing to help and plenty of resources available. We also share our ideas and knowledge with other schools. You will not be alone, there is a lot of support out there for you.”
 
-If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)<br>
-
-
-
  
-
-
