@@ -36,5 +36,3 @@ Participant turnout and feedback for the Parent-Child micro:bit engagement has b
 With the recurring success of the Parent-Child engagement, what future plans does Waterway have for the event? Regarding this, Mr. Sim’s comments reflect the forward-thinking nature of the school. “At Waterway Primary, the students are already exposed to a range of coding platforms and devices. As we partner IMDA to bring micro:bit to both our students and parents, we feel that we can probably plan the same programme regardless of the device.”
 
 “The keys are the Computational Thinking and Digital Making skills, which aren’t device specific.”
-
-If you are an educator who would like to learn more about how to make digital making a part of your school’s learning journey, click [here](/in-schools/digital-maker/overview/)
