@@ -10,10 +10,6 @@ Read our feature stories to know what is happening at our events and to learn mo
 <a name="codeforfun"></a><br>
 **Code For Fun**<br>
 
-| Date | Title | 
-| -------- | -------- |
-| **22 December 2021**     | **[Entering the Code To a Digital Future](/entering-digital-future/)**    |
-
 
 <a name="digitalmaker"></a><br>
 **Digital Maker**<br>
