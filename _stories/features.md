@@ -5,14 +5,7 @@ breadcrumb: Features
 ---
 Read our feature stories to know what is happening at our events and to learn more about how our programmes benefit schools and community.
 
-[Code For Fun](#codeforfun) | [Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker)
-
-<a name="codeforfun"></a><br>
-**Code For Fun**<br>
-
-| Date | Title | 
-| -------- | -------- |
-| **22 December 2021**     | **[Entering the Code To a Digital Future](/entering-digital-future/)**    |
+[Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker)
 
 
 <a name="digitalmaker"></a><br>
