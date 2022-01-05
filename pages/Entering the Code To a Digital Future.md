@@ -11,7 +11,6 @@ description: ""
 With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
 An app with these scanning capabilities was being developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members at the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
-
 #### **The Language of the Future**
 
 As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited at the prospects of continuing his studies in Computer Science after. 
@@ -23,7 +22,6 @@ But while Ian’s passion for coding may have stemmed from his own independent e
 [Code@SG](https://codesg.imda.gov.sg/) was launched to nurture a generation of digital innovators and creators who are passionate about using technology to solve real-world problems. Through a series of school programmes and Infocomm Media Clubs, Code@SG provides students with the opportunity to access exclusive, hands-on industry experiences and pick up the deep tech skills they need for a digital future.
 
 These initiatives span from primary school to junior college and can range from lessons on coding and computational thinking, to learning about emerging tech such as Artificial Intelligence, specialised training and more.
-
 #### **Sparking A Love for Code**
 
 For those like Ian, these present opportunities to deepen their existing coding skills. But for others, like 15-year-old Chua Wei Xuan, a student at Presbyterian High School, Code@SG offers exposure they would not otherwise have had.
@@ -38,7 +36,6 @@ Noticing her enthusiasm and proactiveness, Wei Xuan’s teacher, Michelle Goh, o
 
 ![Alt text for image on Isomer site](/images/digitalfuture01.png)
 *Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.*
-
 #### **Building Confidence to Code her Own Life Script**
 
 These early classroom experiences paved the way for Wei Xuan to continue her coding journey outside of school.
@@ -55,7 +52,6 @@ Wei Xuan had also earlier been accepted to the Swift Accelerator Programme, a ta
 Wei Xuan’s team has developed an app to help users track their budgets and daily spending. Besides honing her coding skills, the experience is giving her valuable knowledge about finance, storytelling, design-thinking and more. 
 
 As a bonus, it has also enabled her to plug into a passionate coding community, she says, adding: “I’ve been able to meet a lot of like-minded individuals and found it really easy to make friends!”
-
 #### **Sharing the Love for Code**
 
 Echoing Wei Xuan’s sentiments on the importance of having a coding community, Ian set out to create his own Infocomm Club at Saint Andrew’s Junior College (SAJC).
@@ -79,7 +75,6 @@ Beyond demonstrating how coding was valuable in real-world situations, these exe
 *Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.*
 
 Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
-
 #### **An inclusive journey for all**
 
 Ian shares that his experience starting up the club has helped him understand the challenges that people face when they first embark on their own coding journeys.
