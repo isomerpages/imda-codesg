@@ -1,68 +1,65 @@
 ---
 title: Entering the Code To a Digital Future
-date: 2021-12-22T00:00:00.000Z
+date: 2022-01-05T00:00:00.000Z
 permalink: /entering-digital-future/
 breadcrumb: Entering the Code To a Digital Future
+layout: post
+description: ""
 ---
 ### Entering the Code To a Digital Future
  
 With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
-An app with these scanning capabilities has been developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members at the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
+An app with these scanning capabilities was being developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members at the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
+#### **The Language of the Future**
 
-**The Language of the Future**
-
-As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited to continue his studies in Computer Science at Nanyang Technological University (NTU). 
+As an avid coder, Ian has taken part in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects he can test his coding skills in and is excited at the prospects of continuing his studies in Computer Science after. 
 
 “I’ve always liked inventing new things, solving problems, understanding and learning new things,” Ian shares. Coding is a way for him to do this, as with different programming languages in his arsenal, his ideas are now given a voice, enabling him to express himself and contribute to the world around him.
 
 But while Ian’s passion for coding may have stemmed from his own independent experiences, the Infocomm Media Development Authority (IMDA) Code@SG initiatives had a part to play in allowing these skills to flourish.
 
-Code@SG was launched to nurture a generation of digital innovators and creators who are passionate about using technology to solve real-world problems. Through a series of school programmes and Infocomm Media Clubs, Code@SG provides students with the opportunity to access exclusive, hands-on industry experiences and pick up the deep tech skills they need for a digital future.
+[Code@SG](https://codesg.imda.gov.sg/) was launched to nurture a generation of digital innovators and creators who are passionate about using technology to solve real-world problems. Through a series of school programmes and Infocomm Media Clubs, Code@SG provides students with the opportunity to access exclusive, hands-on industry experiences and pick up the deep tech skills they need for a digital future.
 
 These initiatives span from primary school to junior college and can range from lessons on coding and computational thinking, to learning about emerging tech such as Artificial Intelligence, specialised training and more.
-
-**Sparking A Love for Code**
+#### **Sparking A Love for Code**
 
 For those like Ian, these present opportunities to deepen their existing coding skills. But for others, like 15-year-old Chua Wei Xuan, a student at Presbyterian High School, Code@SG offers exposure they would not otherwise have had.
 
-“I’ve actually always been interested in coding, but when I was younger, I didn’t have any resources for it,” Wei Xuan shares. As such, it was a “great joy” to have the opportunity to learn about Arduinos and pick up the basics of popular block-based coding programmes like Scratch and Micro: bit as part of the school’s Applied Learning Programme and science lessons, she says.
+“I’ve actually always been interested in coding, but when I was younger, I didn’t have any resources for it,” Wei Xuan shares. As such, it was a “great joy” to have the opportunity to learn about Arduinos and pick up the basics of popular block-based coding programmes like Scratch and micro:bit as part of the school’s Applied Learning Programme and science lessons, she says.
 
-Noticing her enthusiasm and proactiveness, Wei Xuan’s teacher, Michelle Goh, offered her some Arduino kits to tinker with during the school holidays.
+Noticing her enthusiasm and proactiveness, Wei Xuan’s teacher, Michelle Goh, offered her some Arduino and micro:bit kits to tinker with during the school holidays.
 
 “Before long, Wei Xuan was coding extensively and building her self-curated library of projects,” Michelle says.
 
 “At some point, her knowledge exceeded that of her teacher facilitator, and she became involved in troubleshooting and fixing code for our lessons!”
 
-![Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.](/images/entering-digital-future-01.jpg)
+![Alt text for image on Isomer site](/images/digitalfuture01.png)
 *Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.*
-
-**Building Confidence to Code her Own Life Script**
+#### **Building Confidence to Code her Own Life Script**
 
 These early classroom experiences paved the way for Wei Xuan to continue her coding journey outside of school.
 
-Despite only having picked up coding in 2020, when she came across Apple’s [WWDC21 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/) in 2021, she boldly set out to pick up the new programming language on her own, and within just two weeks, developed an app to educate the public about mental health. 
+Despite only having picked up coding in 2020, when she came across [Apple’s WWDC21 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/) in 2021, she boldly set out to pick up the new programming language on her own, and within just two weeks, developed an app to educate the public about mental health. 
 
-“We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, which earned her first place in the contest, were a remarkable feat for a first timers. 
+“We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, which earned her one of just three hundred worldwide awards in the contest, were a remarkable feat for a first timers. 
 
-<img src="/images/entering-digital-future-02.png" max-width="20%"><img src="/images/entering-digital-future-03.png" width="200"><img src="/images/entering-digital-future-04.jpg" width="200">
+![Alt text for image on Isomer site](/images/digitalfuture02.png)
 *Wei Xuan’s WWDC21 Swift Student Challenge app on mental health earned her a goodie bag of prizes.*
 
-Wei Xuan also gained acceptance to the Swift Accelerator Programme, an initiative developed in partnership between IMDA and Apple, supported by Tinkeracademy. Over eight months, participants like Wei Xuan are taught to code in Swift and guided to build and release an iOS app of their own.
+Wei Xuan had also earlier been accepted to the Swift Accelerator Programme, a talent development initiative developed in partnership between IMDA and Apple, supported by Tinkercademy. Over eight months, participants like Wei Xuan are taught to code in Swift and guided to build and release an iOS app of their own.
 
-Wei Xuan’s team is in the process of developing an app to help users track their budgets and daily spending. Besides honing her coding skills, the experience is giving her valuable knowledge about finance, storytelling, design-thinking and more. 
+Wei Xuan’s team has developed an app to help users track their budgets and daily spending. Besides honing her coding skills, the experience is giving her valuable knowledge about finance, storytelling, design-thinking and more. 
 
 As a bonus, it has also enabled her to plug into a passionate coding community, she says, adding: “I’ve been able to meet a lot of like-minded individuals and found it really easy to make friends!”
-
-**Sharing the Love for Code**
+#### **Sharing the Love for Code**
 
 Echoing Wei Xuan’s sentiments on the importance of having a coding community, Ian set out to create his own Infocomm Club at Saint Andrew’s Junior College (SAJC).
 
 He saw this club as important for two reasons: It would be an avenue for those with an interest in tech to connect, and it would help his peers pick up in-demand skills for programming that can help their future careers. 
 
-(photo)
-
-*Ian’s work setting up the first SAJC Infocomm Club earned him recognition from the school and his peers.*
+![Alt text for image on Isomer site](/images/digitalfuture03.png)
+*Ian’s work establishing the new SAJC Infocomm Club earned him recognition from the school and his peers.*
 
 “I think being digitally literate is becoming more relevant as the human race becomes entwined with technology. Being able to deeply understand, troubleshoot and use these tools is something important,” he explains.
 
@@ -74,17 +71,15 @@ He also felt it was important to give members a platform to exercise their creat
 
 Beyond demonstrating how coding was valuable in real-world situations, these exercises also taught values like tenacity and teamwork, he says.
 
-(photo)
-
-*Ian guided his Infocomm Club members through various computing projects to see how their programming skills could help solve real-world problems.*
+![Alt text for image on Isomer site](/images/digitalfuture04.png)
+*Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.*
 
 Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
-
-**An inclusive journey for all**
+#### **An inclusive journey for all**
 
 Ian shares that his experience starting up the club has helped him understand the challenges that people face when they first embark on their own coding journeys.
 
-To those who may be struggling, his advice is this: “Computing is such a broad field, so explore and try different things to see which interests you. Maybe you’ll like learning by doing, or learning by theory—in the spirit of computing thinking, don’t be discouraged, but test and see what is the best learning approach for you and build on it from there.”
+To those who may be struggling, his advice is this: “Computing is such a broad field, so explore and try different things to see which interests you. Maybe you’ll like learning by doing or learning by theory—in the spirit of computing thinking, don’t be discouraged, but test and see what is the best learning approach for you and build on it from there.”
 
 “Start small, seek advice from like-minded individuals and start your own mini-projects,” Wei Xuan chimes in, adding that a nice thing about coding is that it doesn’t matter what age or gender you are. 
 
