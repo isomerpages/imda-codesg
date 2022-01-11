@@ -73,7 +73,7 @@ Beyond demonstrating how coding was valuable in real-world situations, these exe
 *Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.*
 
 Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
-#### **An inclusive journey for all**
+#### **An Inclusive Journey for All**
 
 23.	Ian shares that his experience starting up the club has helped him understand the challenges that people face when they first embark on their own coding journeys.
 
