@@ -12,7 +12,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 
 | Date | Title |
 |--|--|
-| **5 January 2022** | **[Entering the Code To a Digital Future](/entering-digital-future/)** |
+| **11 January 2022** | **[Developing Computation Thinking Skills Among Youths](/developing-computational-thinking/)** |
 
 <a name="digitalmaker"></a><br>
 **Digital Maker**<br>
