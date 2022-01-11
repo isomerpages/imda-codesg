@@ -1,8 +1,8 @@
 ---
 title: Developing Computation Thinking Skills Among Youths
-date: 2022-01-05T00:00:00.000Z
+date: 2022-01-11T00:00:00.000Z
 permalink: /developing-computational-thinking/
-breadcrumb: Entering the Code To a Digital Future
+breadcrumb: Developing Computation Thinking Skills Among Youths
 layout: post
 description: ""
 ---
