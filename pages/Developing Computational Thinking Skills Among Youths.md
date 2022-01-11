@@ -6,7 +6,6 @@ breadcrumb: Developing Computational Thinking Skills Among Youths
 layout: post
 description: ""
 ---
-
 ### Developing Computational Thinking Skills Among Youths
 
 With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
@@ -76,11 +75,11 @@ Beyond demonstrating how coding was valuable in real-world situations, these exe
 Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
 #### **An Inclusive Journey for All**
 
-23.	Ian shares that his experience starting up the club has helped him understand the challenges that people face when they first embark on their own coding journeys.
+Ian shares that his experience starting up the club has helped him understand the challenges that people face when they first embark on their own coding journeys.
 
-24.	To those who may be struggling, his advice is this: “Computing is such a broad field, so explore and try different things to see which interests you. Maybe you’ll like learning by doing or learning by theory—in the spirit of computing thinking, don’t be discouraged, but test and see what is the best learning approach for you and build on it from there.”
+To those who may be struggling, his advice is this: “Computing is such a broad field, so explore and try different things to see which interests you. Maybe you’ll like learning by doing or learning by theory—in the spirit of computing thinking, don’t be discouraged, but test and see what is the best learning approach for you and build on it from there.”
 
-25.	“Start small, seek advice from like-minded individuals and start your own mini-projects,” Wei Xuan chimes in, adding that a nice thing about coding is that it doesn’t matter what age or gender you are.  “As long as you are interested, anyone can code,” she declares.
+“Start small, seek advice from like-minded individuals and start your own mini-projects,” Wei Xuan chimes in, adding that a nice thing about coding is that it doesn’t matter what age or gender you are.  “As long as you are interested, anyone can code,” she declares.
 
-26.	So, what are you waiting for? [Code@SG](https://codesg.imda.gov.sg) offers a range of industry-led programmes like accelerators and bootcamps with tech giants like Apple, Intel and Amazon that demonstrate how we can deliver tech for good. Find out more from your school’s Infocomm Club, and like Wei Xuan and Ian, you can learn the language of the digital world!
+So, what are you waiting for? [Code@SG](https://codesg.imda.gov.sg) offers a range of industry-led programmes like accelerators and bootcamps with tech giants like Apple, Intel and Amazon that demonstrate how we can deliver tech for good. Find out more from your school’s Infocomm Club, and like Wei Xuan and Ian, you can learn the language of the digital world!
 learn the language of the digital world!
