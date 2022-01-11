@@ -6,9 +6,7 @@ breadcrumb: Entering the Code To a Digital Future
 layout: post
 description: ""
 ---
-
-
-### Developing computational thinking skills among youths
+### Developing Computational Thinking Skills Among Youths
 
 With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
