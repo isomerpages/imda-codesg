@@ -32,7 +32,7 @@ These initiatives also provide opportunities for passionate students like Ian to
 
 Noticing her enthusiasm and proactiveness, Wei Xuan’s teacher, Michelle Goh, offered her some Arduino kits to tinker with during the school holidays. “Before long, Wei Xuan was coding extensively and building her self-curated library of projects,” Michelle says. “At some point, her knowledge exceeded that of her teacher facilitator, and she became involved in troubleshooting and fixing code for our lessons!”
 
-![Alt text for image on Isomer site](/images/digitalfuture01.png)
+![Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.](/images/stories/features/developing-computational/developcomputational01.png)
 *Michelle’s guidance in the classroom set Wei Xuan’s passion for programming ablaze.*
 #### **Building Confidence to Code her Own Life Script**
 
@@ -42,7 +42,7 @@ Despite only having picked up coding in 2020, when she came across [Apple’s WW
 
 “We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, where she emerged as one of the top 4 winners from Singapore to clinch an international award, was a remarkable feat for a first timer. 
 
-![Alt text for image on Isomer site](/images/digitalfuture02.png)
+![Wei Xuan’s WWDC21 Swift Student Challenge app on mental health earned her a goodie bag of prizes.](/images/stories/features/developing-computational/developcomputational02.jpg)
 *Wei Xuan’s WWDC21 Swift Student Challenge app on mental health earned her a goodie bag of prizes.*
 
 Wei Xuan had also earlier been accepted to the Swift Accelerator Programme, a student programme to nurture future coders, an initiative developed in partnership between IMDA and Apple, supported by Tinkercademy. Over eight months, participants like Wei Xuan are taught to code in Swift and guided to build and release an iOS app of their own.
@@ -56,7 +56,7 @@ Echoing Wei Xuan’s sentiments on the importance of having a coding community, 
 
 He saw this club as important for two reasons: It would be an avenue for those with an interest in tech to connect, and it would help his peers pick up in-demand skills for programming that can help their future careers. 
  
-![Alt text for image on Isomer site](/images/digitalfuture03.png)
+![Ian’s work establishing the new SAJC Infocomm Club earned him recognition from the school and his peers.](/images/stories/features/developing-computational/developcomputational03.png)
 *Ian’s work establishing the new SAJC Infocomm Club earned him recognition from the school and his peers.*
 
 “I think being digitally literate is becoming more relevant as the human race becomes entwined with technology. Being able to deeply understand, troubleshoot and use these digital tools—like computer programmes and apps—is something important,” he explains.
@@ -69,7 +69,7 @@ He also felt it was important to give members a platform to exercise their creat
 
 Beyond demonstrating how coding was valuable in real-world situations, these exercises also taught values like tenacity and teamwork, he says.
 
-![Alt text for image on Isomer site](/images/digitalfuture04.png)
+![Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.](/images/stories/features/developing-computational/developcomputational04.png)
 *Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.*
 
 Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
