@@ -12,7 +12,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 
 | Date | Title |
 |--|--|
-| **11 January 2022** | **[Developing Computation Thinking Skills Among Youths](/developing-computational-thinking/)** |
+| **11 January 2022** | **[Developing Computational Thinking Skills Among Youths](/developing-computational-thinking/)** |
 
 <a name="digitalmaker"></a><br>
 **Digital Maker**<br>
