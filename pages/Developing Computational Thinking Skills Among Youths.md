@@ -40,7 +40,7 @@ These early classroom experiences paved the way for Wei Xuan to continue her cod
 
 Despite only having picked up coding in 2020, when she came across [Apple’s WWDC21 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/) in 2021, Wei Xuan developed an app to educate the public about mental health in just two weeks
 
-“We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, where she emerged as one of the top 4 winners from Singapore to clinch an international award, a remarkable feat for a first timer. 
+“We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, where she emerged as one of the top 4 winners from Singapore to clinch an international award, was a remarkable feat for a first timer. 
 
 ![Alt text for image on Isomer site](/images/digitalfuture02.png)
 *Wei Xuan’s WWDC21 Swift Student Challenge app on mental health earned her a goodie bag of prizes.*
