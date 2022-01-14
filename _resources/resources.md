@@ -2,13 +2,14 @@
 permalink: /resources/
 breadcrumb: Resources
 title: Resources
-
 ---
-
-
-
-
 Want to find out how you can start your tech journey beyond coding? Here are some resources that you may find useful to start with. 
+
+### Infocomm Media Club Info Kit
+
+This information kit is designed to help teachers plan their school's Infocomm Media Club activites.
+
+[Click here to download a copy!](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
 
 ### Artificial Intelligence (AI)
 

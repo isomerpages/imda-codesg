@@ -15,7 +15,7 @@ Application closes on 28 February 2022.
 
 ![Alt text for image on Isomer site](/images/icmprocess.png)
 
-[IMDA Courses for Infocomm Media Clubs](/files/icm-learning-roadmap/IMDA%20Courses%20for%20Infocomm%20Media%20Clubs.pdf)
+[IMDA ICM Club Info Kit](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
 
 | **Training Provider** | **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
