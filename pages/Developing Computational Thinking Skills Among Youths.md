@@ -52,7 +52,7 @@ Wei Xuan’s team developed an application to help users track their budgets and
 As a bonus, it also enabled her to plug into a passionate coding community which helped her to meet a lot of like-minded individuals who shared her passion for coding.
 #### **Sharing the Love for Code**
 
-Echoing Wei Xuan’s sentiments on the importance of having a coding community, Ian set out to create his own Infocomm Club at Saint Andrew’s Junior College (SAJC).
+Echoing Wei Xuan’s sentiments on the importance of having a coding community, Ian set out to create his own Infocomm Media Club at Saint Andrew’s Junior College (SAJC).
 
 He saw this club as important for two reasons: It would be an avenue for those with an interest in tech to connect, and it would help his peers pick up in-demand skills for programming that can help their future careers. 
  
@@ -61,7 +61,7 @@ He saw this club as important for two reasons: It would be an avenue for those w
 
 “I think being digitally literate is becoming more relevant as the human race becomes entwined with technology. Being able to deeply understand, troubleshoot and use these digital tools—like computer programmes and apps—is something important,” he explains.
 
-Inspired by his own experiences with his secondary school Infocomm Club, and with lessons from his own computer science classes in tow, Ian embarked on a journey to establish a programming curriculum that could cater to students with different coding abilities.
+Inspired by his own experiences with his secondary school Infocomm Media Club, and with lessons from his own computer science classes in tow, Ian embarked on a journey to establish a programming curriculum that could cater to students with different coding abilities.
 
 “I made sure the lessons were understandable and fun enough to stimulate a passion for coding from the get-go for the beginners,” Ian recalls, adding that for more competitive ones, he included homework to let them immerse themselves in the skills. 
 
@@ -81,5 +81,4 @@ To those who may be struggling, his advice is this: “Computing is such a broad
 
 “Start small, seek advice from like-minded individuals and start your own mini-projects,” Wei Xuan chimes in, adding that a nice thing about coding is that it doesn’t matter what age or gender you are.  “As long as you are interested, anyone can code,” she declares.
 
-So, what are you waiting for? [Code@SG](https://codesg.imda.gov.sg) offers a range of industry-led programmes like accelerators and bootcamps with tech giants like Apple, Intel and Amazon that demonstrate how we can deliver tech for good. Find out more from your school’s Infocomm Club, and like Wei Xuan and Ian, you can learn the language of the digital world!
-learn the language of the digital world!
+So, what are you waiting for? [Code@SG](https://codesg.imda.gov.sg) offers a range of industry-led programmes like accelerators and bootcamps with tech giants like Apple, Intel and Amazon that demonstrate how we can deliver tech for good. Find out more from your school’s Infocomm Media Club, and like Wei Xuan and Ian, you can learn the language of the digital world!
