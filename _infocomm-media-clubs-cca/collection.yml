@@ -2,6 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - SERVE.md
       - About.md
       - Courses for Infocomm Media Clubs.md
       - Student Development Programme.md
