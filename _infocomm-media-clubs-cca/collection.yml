@@ -2,7 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - Values In Actions Projects.md
       - About.md
       - Courses for Infocomm Media Clubs.md
       - Student Development Programme.md
+      - Values In Actions Projects.md
