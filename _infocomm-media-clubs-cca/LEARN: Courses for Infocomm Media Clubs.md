@@ -15,6 +15,8 @@ The minimum duration of each course is 24 hours. Schools can refer to the full l
 
 Application closes on 28 February 2022.
 
+[Primary School Application Form](https://go.gov.sg/apply-icmcourses-pri) ｜ [Secondary School/JC Application Form](https://go.gov.sg/apply-icmcourses-sec)
+
 ![ICM CLUB COURSES PROCESS](/images/icmprocess.png)
 
 | **Training Provider** | **Contact Details** | **Courses Offered** |
