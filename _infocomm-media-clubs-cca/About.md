@@ -13,6 +13,6 @@ The curated programmes and activities in the following 5 categories take guidanc
 * **LEAD**: Acquire Leadership Skills <sup>COMING SOON</sup>
 * **EXCEL**: A National Platform to Gain Knowledge, Excel & Receive Recognition <sup>COMING SOON</sup>
 
-Download the information kit for details of our programmes [here](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf).
+Download the information kit for details of our programmes [here](/files/infocomm-media-clubs/IMDA%20ICM%20Club%20Info%20Kit.pdf).
 
 <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/EZg11sd0imk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
