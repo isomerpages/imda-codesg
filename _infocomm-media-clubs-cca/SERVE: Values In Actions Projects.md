@@ -13,6 +13,6 @@ As part of the inaugural run in March, club members will receive complimentary t
 
 Every club member who successfully completes the training and VIA project will receive a certificate and an exclusive enamel pin from IMDA.
 
-Details of the VIA project can be found [here](/files/icm-learning-roadmap/VIA%20EDM%20Attachment.pdf).
+Details of the VIA project can be found [here](/files/infocomm-media-clubs/VIA%20EDM%20Attachment.pdf).
 
 You may register for the VIA projects [here](https://form.gov.sg/#!/61c41737ef72800012a47858).
