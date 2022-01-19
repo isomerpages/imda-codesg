@@ -2,8 +2,8 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - "DISCOVER: Out of Classroom Experiences.md"
       - About.md
       - "LEARN: Courses for Infocomm Media Clubs.md"
       - Student Development Programme.md
+      - "DISCOVER: Out of Classroom Experiences.md"
       - "SERVE: Values In Actions Projects.md"
