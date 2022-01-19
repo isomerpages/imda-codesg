@@ -10,7 +10,7 @@ description: ""
 
 With the conversation about sustainability picking up across the world, many of us are eager to do our part for the planet. But when it comes to sorting out the trash, are you sure you know the difference between what can be recycled, and what can’t? In this case, a scanner capable of detecting items that are not recyclable would be useful!
 
-An app with these scanning capabilities was developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Club members for the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
+An app with these scanning capabilities was developed, and not by any of the expected tech giants, but by 19-year-old Ian Wong and his team of Infocomm Media Club members for the [2020 SCSE Computing Challenge](https://www.ntu.edu.sg/scse/news-events/news/detail/scse-computing-challenge-2020).
 
 #### **The Language of the Future**
 
@@ -52,7 +52,7 @@ Wei Xuan’s team developed an application to help users track their budgets and
 As a bonus, it also enabled her to plug into a passionate coding community which helped her to meet a lot of like-minded individuals who shared her passion for coding.
 #### **Sharing the Love for Code**
 
-Echoing Wei Xuan’s sentiments on the importance of having a coding community, Ian set out to create his own Infocomm Club at Saint Andrew’s Junior College (SAJC).
+Echoing Wei Xuan’s sentiments on the importance of having a coding community, Ian set out to create his own Infocomm Media Club at Saint Andrew’s Junior College (SAJC).
 
 He saw this club as important for two reasons: It would be an avenue for those with an interest in tech to connect, and it would help his peers pick up in-demand skills for programming that can help their future careers. 
  
@@ -61,7 +61,7 @@ He saw this club as important for two reasons: It would be an avenue for those w
 
 “I think being digitally literate is becoming more relevant as the human race becomes entwined with technology. Being able to deeply understand, troubleshoot and use these digital tools—like computer programmes and apps—is something important,” he explains.
 
-Inspired by his own experiences with his secondary school Infocomm Club, and with lessons from his own computer science classes in tow, Ian embarked on a journey to establish a programming curriculum that could cater to students with different coding abilities.
+Inspired by his own experiences with his secondary school Infocomm Media Club, and with lessons from his own computer science classes in tow, Ian embarked on a journey to establish a programming curriculum that could cater to students with different coding abilities.
 
 “I made sure the lessons were understandable and fun enough to stimulate a passion for coding from the get-go for the beginners,” Ian recalls, adding that for more competitive ones, he included homework to let them immerse themselves in the skills. 
 
@@ -70,7 +70,7 @@ He also felt it was important to give members a platform to exercise their creat
 Beyond demonstrating how coding was valuable in real-world situations, these exercises also taught values like tenacity and teamwork, he says.
 
 ![Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.](/images/stories/features/developing-computational/developcomputational04.png)
-*Ian participated in computing projects throughout junior college and guided his Infocomm Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.*
+*Ian participated in computing projects throughout junior college and guided his Infocomm Media Club members to do the same, so they could see how their programming skills were relevant to solving real-world problems.*
 
 Admittedly, it was a challenge to manage the club administrative work, planning and teaching alongside his regular schoolwork, but Ian remained steadfast in his goals, and succeeded in getting the club up and running smoothly by the time he graduated.
 #### **An Inclusive Journey for All**
@@ -81,5 +81,4 @@ To those who may be struggling, his advice is this: “Computing is such a broad
 
 “Start small, seek advice from like-minded individuals and start your own mini-projects,” Wei Xuan chimes in, adding that a nice thing about coding is that it doesn’t matter what age or gender you are.  “As long as you are interested, anyone can code,” she declares.
 
-So, what are you waiting for? [Code@SG](https://codesg.imda.gov.sg) offers a range of industry-led programmes like accelerators and bootcamps with tech giants like Apple, Intel and Amazon that demonstrate how we can deliver tech for good. Find out more from your school’s Infocomm Club, and like Wei Xuan and Ian, you can learn the language of the digital world!
-learn the language of the digital world!
+So, what are you waiting for? [Code@SG](https://codesg.imda.gov.sg) offers a range of industry-led programmes like accelerators and bootcamps with tech giants like Apple, Intel and Amazon that demonstrate how we can deliver tech for good. Find out more from your school’s Infocomm Media Club, and like Wei Xuan and Ian, you can learn the language of the digital world!
