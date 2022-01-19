@@ -7,9 +7,9 @@ description: ""
 
 The curated programmes and activities in the following 5 categories take guidance from MOE’s CCA LEAPS framework and provide more opportunities for club members to obtain CCA points:
 
-* **LEARN**: [Training & Deep Skills Acquisition](/infocomm-clubs-cca/learn/)
-* **DISCOVER**: [Out-of-Classroom Learning Experiences](/infocomm-clubs-cca/discover/)
-* **SERVE**: [Values-in-Action Projects](/infocomm-clubs-cca/serve/)
+* **LEARN**: [Training & Deep Skills Acquisition](/infocomm-media-clubs/learn/)
+* **DISCOVER**: [Out-of-Classroom Learning Experiences](/infocomm-media-clubs/discover/)
+* **SERVE**: [Values-in-Action Projects](/infocomm-media-clubs/serve/)
 * **LEAD**: Acquire Leadership Skills <sup>COMING SOON</sup>
 * **EXCEL**: A National Platform to Gain Knowledge, Excel & Receive Recognition <sup>COMING SOON</sup>
 
