@@ -3,22 +3,19 @@ title: "LEARN: Courses for Infocomm Media Clubs"
 permalink: /infocomm-media-clubs/learn
 description: ""
 ---
-
-
-
-#### Courses for Infocomm Media Clubs (previously known as ICM Learning Roadmaps)
+### LEARN: Courses for Infocomm Media Clubs (previously known as ICM Learning Roadmaps)
 
 Infocomm Media Club members will be provided training in various infocomm and media domains such as Artificial Intelligence, Game Development and Mobile App Development.
 
-IMDA supports each school for up to 2 courses annually. The training cost is fully funded by IMDA, where hardware is required, schools can work with the training providers to procure the hardware at their own expense.  
+IMDA supports each school for up to 2 courses annually. The training cost is fully funded by IMDA. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.  
 
-The minimum duration of each course is 24 hours. Schools can refer to the full listing of courses in the information kit attached below and contact the training providers for more details.
+The minimum duration of each course is 24 hours. Schools can refer to the full listing of courses in the information kit and contact the training providers for more details.
+
+[DOWNLOAD THE INFORMATION KIT HERE.](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
 
 Application closes on 28 February 2022.
 
-![Alt text for image on Isomer site](/images/icmprocess.png)
-
-[IMDA ICM Club Info Kit](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
+![ICM CLUB COURSES PROCESS](/images/icmprocess.png)
 
 | **Training Provider** | **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
@@ -32,5 +29,15 @@ Application closes on 28 February 2022.
 |**Roboto LLP**|Brian Lee<br>[brianlee@roboto.sg](brianlee@roboto.sg)<br>97678052|•	Game Development (Primary)<br>•	Mobile App Development (Primary)<br>•	Robotics (Primary)<br>•	Game Development (Secondary/JC)|
 |**Stag Match Private Limited**|Evelyn Wee<br>[evelyn.wee@smet.edu.sg](evelyn.wee@smet.edu.sg)<br><br>Thomas Yeo<br>[thomas.yeo@smet.edu.sg](thomas.yeo@smet.edu.sg)<br><br>[info@stagmatch.com.sg](info@stagmatch.com.sg)<br>66127165|•	Artificial Intelligence (Primary)<br>•	Game Development (Secondary/JC)<br>•	Robotics (Secondary/JC)|
 
+
+For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
+
+### LEARN: Student Development Programmes <sup>COMING SOON</sup>
+
+The Student Development Programme aims to provide youths with various opportunities to learn relevant skills to the industry.
+
+Through this programme, students from Infocomm Media Clubs at schools and community will be offered opportunities to deepen their technical skills, through partnerships with industry partners. Such opportunities could be in the form of internships/mentorships, accelerated training programmes and boot camps with technology leaders and start-ups.
+
+Information on upcoming Student Development Programmes will be released progressively in our newsletter. Check out our newsletter [here](/newsletter/) for details.
 
 For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
