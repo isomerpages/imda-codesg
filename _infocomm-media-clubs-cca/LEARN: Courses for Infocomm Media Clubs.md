@@ -11,7 +11,7 @@ IMDA supports each school for up to 2 courses annually. The training cost is ful
 
 The minimum duration of each course is 24 hours. Schools can refer to the full listing of courses in the information kit and contact the training providers for more details.
 
-[DOWNLOAD THE INFORMATION KIT HERE.](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
+[DOWNLOAD THE INFORMATION KIT HERE.](/files/infocomm-media-clubs/IMDA%20ICM%20Club%20Info%20Kit.pdf)
 
 Application closes on 28 February 2022.
 
@@ -28,7 +28,6 @@ Application closes on 28 February 2022.
 |**EP Education Pte Ltd**|Koh Choon Chuan<br>[cckoh@epasia.cc](cckoh@epasia.cc)<br>91466015<br><br>Chalmers Chin<br>[chalmerschin@epasia.cc](chalmerschin@epasia.cc)<br>97585122|•	Artificial Intelligence (Primary)<br>•	Artificial Intelligence (Secondary/JC)<br>•	Internet of Things (Secondary/JC)|
 |**Roboto LLP**|Brian Lee<br>[brianlee@roboto.sg](brianlee@roboto.sg)<br>97678052|•	Game Development (Primary)<br>•	Mobile App Development (Primary)<br>•	Robotics (Primary)<br>•	Game Development (Secondary/JC)|
 |**Stag Match Private Limited**|Evelyn Wee<br>[evelyn.wee@smet.edu.sg](evelyn.wee@smet.edu.sg)<br><br>Thomas Yeo<br>[thomas.yeo@smet.edu.sg](thomas.yeo@smet.edu.sg)<br><br>[info@stagmatch.com.sg](info@stagmatch.com.sg)<br>66127165|•	Artificial Intelligence (Primary)<br>•	Game Development (Secondary/JC)<br>•	Robotics (Secondary/JC)|
-
 
 For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
 
