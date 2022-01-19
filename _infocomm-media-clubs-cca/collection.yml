@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About.md
-      - Courses for Infocomm Media Clubs.md
+      - "LEARN: Courses for Infocomm Media Clubs.md"
       - Student Development Programme.md
       - "SERVE: Values In Actions Projects.md"
