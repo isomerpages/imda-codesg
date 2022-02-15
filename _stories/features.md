@@ -8,7 +8,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 [Code For Fun](#cff) | [Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker)
 
 <a name="cff"></a><br>
-**Code For Fun**<br>
+**Code@SG**<br>
 
 | Date | Title |
 |--|--|
