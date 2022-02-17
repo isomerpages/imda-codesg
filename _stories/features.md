@@ -13,7 +13,7 @@ Read our feature stories to know what is happening at our events and to learn mo
 | Date | Title |
 |--|--|
 | **11 January 2022** | **[Developing Computational Thinking Skills Among Youths](/developing-computational-thinking/)** |
-| **1 January 2022** | **[Ian Wong—Meet the student who started SAJC's Infocomm Club](/SAJC-Infocomm-Club/)** |
+| **1 January 2022** | **[Meet the student who started SAJC's Infocomm Club](/SAJC-Infocomm-Club/)** |
 
 <a name="digitalmaker"></a><br>
 **Digital Maker**<br>
