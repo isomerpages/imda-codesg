@@ -5,14 +5,15 @@ breadcrumb: Features
 ---
 Read our feature stories to know what is happening at our events and to learn more about how our programmes benefit schools and community.
 
-[Code For Fun](#cff) | [Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker)
+[Code@SG](#cff) | [Digital Maker](#digitalmaker) | [PIXEL Labs](#pixellabs) | [PlayMaker](#playmaker)
 
 <a name="cff"></a><br>
-**Code For Fun**<br>
+**Code@SG**<br>
 
 | Date | Title |
 |--|--|
 | **11 January 2022** | **[Developing Computational Thinking Skills Among Youths](/developing-computational-thinking/)** |
+| **1 January 2022** | **[Meet the student who started SAJC's Infocomm Club](/SAJC-Infocomm-Club/)** |
 
 <a name="digitalmaker"></a><br>
 **Digital Maker**<br>
