@@ -5,7 +5,6 @@ date: 2022-02-15
 layout: post
 description: ""
 ---
-
 IMAGINE you're a student interested in tech, but you learn that no Infocomm CCA exists in your school—what would you do then? 
 
 While many students may resignedly give up here and join another CCA, relegating their tech interests to outside of school, Ian Wong, now a St Andrew's Junior College (SAJC) alumni, did not.
