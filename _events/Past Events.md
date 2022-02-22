@@ -3,7 +3,7 @@ title: Past Events
 permalink: /events/past
 ---
 ### TEACHERS' SEMINAR
-Date & Time: 14th Jan 2022
+Date & Time: 14th January 2022
 
 ![Highlights from Teachers' Seminar 2022](/images/events/workshops-and-exhibitions/Teachersseminar/ts1.jpg)
 ![About the Seminar](/images/events/workshops-and-exhibitions/Teachersseminar/ts2.jpg)
