@@ -6,6 +6,8 @@ permalink: /events/
 
 #### ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES
 
+![ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES](/images/events/workshops-and-exhibitions/workshop-car.jpg)
+
 Heard about Electric Vehicles (EVs) hitting our shores but don’t know what the big deal is?
 
 
@@ -22,6 +24,8 @@ You will leave with an understanding of how EVs not only transcend current conve
 
 
 #### SENSETIME: ARTIFICIAL INTELLIGENCE TECHNOLOGY AND AI EDUCATION
+
+![SENSETIME: ARTIFICIAL INTELLIGENCE TECHNOLOGY AND AI EDUCATION](/images/events/workshops-and-exhibitions/workshop-ai.jpg)
 
 Artificial Intelligence (AI) has been a mainstay in the news and Hollywood movies in recent years. Do you know what advancements in AI mean for you and your students? How do you go about explaining AI to them?
 
