@@ -6,7 +6,7 @@ permalink: /events/
 [Register here now!](https://go.gov.sg/icm-teachers-workshop)
 
 #### ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES
-**Date & Time:** 17th March 2022, 3-5pm
+**Date:** 17th March 2022<br>**Time:** 3-5pm
 
 ![ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES](/images/events/workshops-and-exhibitions/workshop-car.jpg)
 
@@ -27,7 +27,7 @@ You will leave with an understanding of how EVs not only transcend current conve
 
 #### SENSETIME: ARTIFICIAL INTELLIGENCE TECHNOLOGY AND AI EDUCATION
 
-**Date & Time:** 18th March 2022, 3-5pm
+**Date:** 18th March 2022<br>**Time:** 3-5pm
 
 ![SENSETIME: ARTIFICIAL INTELLIGENCE TECHNOLOGY AND AI EDUCATION](/images/events/workshops-and-exhibitions/workshop-ai.jpg)
 
