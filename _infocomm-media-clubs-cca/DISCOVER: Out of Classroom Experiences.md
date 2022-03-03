@@ -3,7 +3,7 @@ title: "DISCOVER: Out of Classroom Experiences"
 permalink: /infocomm-media-clubs/discover
 description: ""
 ---
-### DISCOVER: Out-of-Classroom Experiences <sup>COMING SOON</sup>
+### DISCOVER: Out-of-Classroom Experiences
 
 #### These experiences will provide members exposure to real-world context and applications and help to augment in-class lessons.
 
