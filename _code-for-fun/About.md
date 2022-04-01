@@ -11,4 +11,3 @@ The Code For Fun Enrichment Programme (offered jointly by IMDA and MOE) is offer
 Click [here](/stories/#codeforfun) to view the media coverage.
 
 For more information, refer to [Code for Fun Primary](/code-for-fun/primary/) and [Code for Fun Secondary](/code-for-fun/secondary/).
-
