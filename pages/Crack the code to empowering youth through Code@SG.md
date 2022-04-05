@@ -28,9 +28,9 @@ It starts from addressing any fear that the students may have. After all, the te
 “But when we understand the process, it’s actually very simple and when we break down the steps, students realise they’ve seen parts of it before,” he adds.
 
 ![Students from Rulang Primary playing with Sphero, an app-enabled robot. ](/images/stories/features/Codesg%20Apr22/01.jpg)
-*Students from Rulang Primary playing with Sphero BOLT, an app-enabled robot. This helps them understand design-thinking concepts and exercise creative problem solving in a simple and fun way.*
+*Students from Rulang Primary playing with [Sphero BOLT](https://sphero.com/products/sphero-bolt), an app-enabled robot. This helps them understand design-thinking concepts and exercise creative problem solving in a simple and fun way.*
 
-When Code For Fun is run at Rulang Primary , students are introduced to computational thinking by proposing the steps to make chicken rice, Gary shares. As the class runs through the instructions, they begin to see what makes sense and what doesn’t, gradually refining their steps in a logical fashion—and in doing so, demonstrating computational thought.
+When [Code For Fun](https://codesg.imda.gov.sg/code-for-fun/) is run at Rulang Primary , students are introduced to computational thinking by proposing the steps to make chicken rice, Gary shares. As the class runs through the instructions, they begin to see what makes sense and what doesn’t, gradually refining their steps in a logical fashion—and in doing so, demonstrating computational thought.
 
 Code for Fun also addresses the stereotype of coding being boring or being hard to understand, Wong Ruting, who oversees Code for Fun at Jurongville Secondary School (JVSS), adds.
 
@@ -53,7 +53,7 @@ Ruting describes it as an all-rounded experience that combined lessons about cod
 
 #### **#3 Provide opportunities for ownership and achievement**
 
-In 2021, Yishun Town Secondary’s Infocomm Media Club students  participated in the inaugural Intel® AI Global Impact Festival 2021. Their AI study buddy project was crowned as one of the winners for the AI Impact Enthusiasts Category, and another project involving  a marine trash solution won the AI Impact Creator Category for Singapore  , alongside 7 other countries such as Japan and South Korea 
+In 2021, Yishun Town Secondary’s Infocomm Media Club students  participated in the [inaugural Intel® AI Global Impact Festival 2021](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/impact-festival.html). Their AI study buddy project was crowned as one of the winners for the AI Impact Enthusiasts Category, and another project involving  a marine trash solution won the AI Impact Creator Category for Singapore  , alongside 7 other countries such as Japan and South Korea 
 
 “The victory certainly brought the Infocomm Club the much-needed boost of positivity,” Rommel Chua, Infocomm Media Club teacher-in-charge at Yishun Town Secondary shares. These accomplishments, he adds, can generate interest by giving students a sense of pride.
 
@@ -79,7 +79,7 @@ At Rulang Primary, the children are introduced to coding in the context of playi
 “The excitement of handling the robots make kids interested and want to do more,” Gary observes. “The fact that they could see the robots move on their command made them really excited, and from there, we were able to teach them the basics of how it worked.”
 
 ![Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. ](/images/stories/features/Codesg%20Apr22/04.jpg)
-*Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. *
+*Learning coding by playing with [Sphero BOLT](https://sphero.com/products/sphero-bolt), an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. *
 
 Older students, on the other hand, are capable of taking on more challenging tasks. Thus, at Jurongville Secondary, when students developed sensors for landslides and alarms for forest fires, they were only given guiding questions to research and had to develop possible solutions themselves, Ruting shares.
 
@@ -104,8 +104,8 @@ In his experience, it is most important to focus on letting children enjoy learn
 
 “When students are hooked on the fun and have the interest, then the scaling up of difficulty levels won’t stop them from wanting to learn more,” he recommends.
 
-For parents hoping to deepen their child’s interest in coding, Gary’s advice is: Do it together! It can be as simple as getting children to guess a number which can be valuable in helping them pick up computational thinking skills. You can refer to resources like CS Unplugged, that provide ideas for simple activities using cards, string, crayons and other items you can find at home. For more advanced coding activities, there are also free websites that teach the skills in a gamified way.  
+For parents hoping to deepen their child’s interest in coding, Gary’s advice is: Do it together! It can be as simple as getting children to guess a number which can be valuable in helping them pick up computational thinking skills. You can refer to resources like [CS Unplugged](https://www.csunplugged.org/en/), that provide ideas for simple activities using cards, string, crayons and other items you can find at home. For more advanced coding activities, there are also [free websites](https://studio.code.org/hoc/1) that teach the skills in a gamified way.  
 
 Ultimately, Gary says, “Learning together as a family will be a great opportunity for your child to learn and bond with you as well. Also, make mistakes together and don’t worry about not getting all the steps right all the time. It is important to enjoy the process and create great memories with your children.” 
 
-So what are you waiting for? Find out more about the variety of Code@SG programmes—from Code for Fun to industry-led accelerators and bootcamps with tech giants like Apple, Intel and Amazon, and see how these can help your child unlock their potential for our digital future  .
+So what are you waiting for? Find out more about the variety of [Code@SG](https://codesg.imda.gov.sg/) programmes—from Code for Fun to industry-led accelerators and bootcamps with tech giants like Apple, Intel and Amazon, and see how these can help your child unlock their potential for our digital future  .
