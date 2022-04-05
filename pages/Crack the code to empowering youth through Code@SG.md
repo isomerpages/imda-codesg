@@ -11,8 +11,7 @@ This process of decision-making—done consciously or otherwise—is an example 
 
 #### **Entering the digital world with Code@SG**
 
-To help students appreciate computational thinking and emerging technologies, and be excited about the possibilities and opportunities brought about by tech, the 
-Infocomm Media Development Authority (IMDA) launched Code@SG.
+To help students appreciate computational thinking and emerging technologies, and be excited about the possibilities and opportunities brought about by tech, the Infocomm Media Development Authority (IMDA) launched Code@SG.
 
 The aim is to build a foundation of computational thinking skills and offer students exclusive hands-on industry experiences and avenues to pick up emerging tech skills such as artificial intelligence and machine learning.Introduction to these skills can start as early as primary school through the Code for Fun Enrichment programme. This is jointly offered by IMDA and the Ministry of Education (MOE) to both MOE primary and secondary schools and is an opportunity for students to learn about computational thinking, coding and digital making.
 
@@ -27,6 +26,9 @@ So, how does Code@SG crack the code to get youth interested in these relevant sk
 It starts from addressing any fear that the students may have. After all, the term computational thinking can be intimidating simply because it sounds like a “big word”, Gary shares.
 
 “But when we understand the process, it’s actually very simple and when we break down the steps, students realise they’ve seen parts of it before,” he adds.
+
+![Students from Rulang Primary playing with Sphero, an app-enabled robot. ](/images/stories/features/Codesg%20Apr22/01.jpg)
+*Students from Rulang Primary playing with Sphero BOLT, an app-enabled robot. This helps them understand design-thinking concepts and exercise creative problem solving in a simple and fun way.*
 
 When Code For Fun is run at Rulang Primary , students are introduced to computational thinking by proposing the steps to make chicken rice, Gary shares. As the class runs through the instructions, they begin to see what makes sense and what doesn’t, gradually refining their steps in a logical fashion—and in doing so, demonstrating computational thought.
 
@@ -46,11 +48,17 @@ To give students a taste of how coding can solve real-world problems, Jurongvill
 
 Ruting describes it as an all-rounded experience that combined lessons about coding with design-thinking and real world issues—ultimately demonstrating how her students’ computing skills, coupled with research and understanding of the user experience can come together to tackle real-life issues.   
 
+![To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides. ](/images/stories/features/Codesg%20Apr22/02.jpg)
+*To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides. *
+
 #### **#3 Provide opportunities for ownership and achievement**
 
 In 2021, Yishun Town Secondary’s Infocomm Media Club students  participated in the inaugural Intel® AI Global Impact Festival 2021. Their AI study buddy project was crowned as one of the winners for the AI Impact Enthusiasts Category, and another project involving  a marine trash solution won the AI Impact Creator Category for Singapore  , alongside 7 other countries such as Japan and South Korea 
 
 “The victory certainly brought the Infocomm Club the much-needed boost of positivity,” Rommel Chua, Infocomm Media Club teacher-in-charge at Yishun Town Secondary shares. These accomplishments, he adds, can generate interest by giving students a sense of pride.
+
+![Jurongville Secondary School students pick up coding skills through bite-sized, manageable activities like how to code a flickering flame.](/images/stories/features/Codesg%20Apr22/03.jpg)
+*Jurongville Secondary School students pick up coding skills through bite-sized, manageable activities like how to code a flickering flame. Activities like this foster a sense of accomplishment and can develop interest in coding.*
 
 Even outside of competitions, small successes go a long way in increasing the confidence of youth and encouraging them to continue coding, Ruting chimes in.
 
@@ -69,6 +77,9 @@ It is also important to be able to cater to the different learning abilities and
 At Rulang Primary, the children are introduced to coding in the context of playing with robots.
 
 “The excitement of handling the robots make kids interested and want to do more,” Gary observes. “The fact that they could see the robots move on their command made them really excited, and from there, we were able to teach them the basics of how it worked.”
+
+![Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. ](/images/stories/features/Codesg%20Apr22/04.jpg)
+*Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. *
 
 Older students, on the other hand, are capable of taking on more challenging tasks. Thus, at Jurongville Secondary, when students developed sensors for landslides and alarms for forest fires, they were only given guiding questions to research and had to develop possible solutions themselves, Ruting shares.
 
