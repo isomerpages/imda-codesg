@@ -11,6 +11,10 @@ This information kit is designed to help teachers plan their school's Infocomm M
 
 [Click here to download a copy!](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
 
+#### Singapore Youth Digital Awards Information Kit
+
+All you need to know about the competition in this handy info kit. Click here to download!
+
 ### Artificial Intelligence (AI)
 
 Get started with AI and explore what AI can do. Discover how AI can help you in your everyday lives! 
