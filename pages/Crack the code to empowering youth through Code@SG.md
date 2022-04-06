@@ -104,7 +104,7 @@ In his experience, it is most important to focus on letting children enjoy learn
 
 “When students are hooked on the fun and have the interest, then the scaling up of difficulty levels won’t stop them from wanting to learn more,” he recommends.
 
-For parents hoping to deepen their child’s interest in coding, Gary’s advice is: Do it together! It can be as simple as getting children to guess a number which can be valuable in helping them pick up computational thinking skills. You can refer to resources like [CS Unplugged](https://www.csunplugged.org/en/), that provide ideas for simple activities using cards, string, crayons and other items you can find at home. For more advanced coding activities, there are also [free websites](https://studio.code.org/hoc/1) that teach the skills in a gamified way.  
+For parents hoping to deepen their child’s interest in coding, Gary’s advice is: Do it together! It can be as simple as getting children to [guess a number](https://www.csunplugged.org/en/at-home/guess-my-number/) which can be valuable in helping them pick up computational thinking skills. You can refer to resources like [CS Unplugged](https://www.csunplugged.org/en/), that provide ideas for simple activities using cards, string, crayons and other items you can find at home. For more advanced coding activities, there are also [free websites](https://studio.code.org/hoc/1) that teach the skills in a gamified way.  
 
 Ultimately, Gary says, “Learning together as a family will be a great opportunity for your child to learn and bond with you as well. Also, make mistakes together and don’t worry about not getting all the steps right all the time. It is important to enjoy the process and create great memories with your children.” 
 
