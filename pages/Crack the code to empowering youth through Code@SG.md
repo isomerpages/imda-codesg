@@ -21,14 +21,14 @@ Thus, computational thinking is a suitable framework for problem-solving across 
 
 So, how does Code@SG crack the code to get youth interested in these relevant skills?
 
-#### **#1 Programme lessons are fun and accessible** 
+#### **#1 Programme lessons to be fun and accessible** 
 
 It starts from addressing any fear that the students may have. After all, the term computational thinking can be intimidating simply because it sounds like a “big word”, Gary shares.
 
 “But when we understand the process, it’s actually very simple and when we break down the steps, students realise they’ve seen parts of it before,” he adds.
 
-![Students from Rulang Primary playing with Sphero, an app-enabled robot. ](/images/stories/features/Codesg%20Apr22/01.jpg)
-*Students from Rulang Primary playing with [Sphero BOLT](https://sphero.com/products/sphero-bolt), an app-enabled robot. This helps them understand design-thinking concepts and exercise creative problem solving in a simple and fun way.*
+![Students from Rulang Primary playing with a STEM assembly kit.](/images/stories/features/Codesg%20Apr22/01.jpg)
+*Students from Rulang Primary playing with a STEM assembly kit. This helps them understand design-thinking concepts and exercise creative problem solving in a simple and fun way.*
 
 When [Code For Fun](https://codesg.imda.gov.sg/code-for-fun/) is run at Rulang Primary , students are introduced to computational thinking by proposing the steps to make chicken rice, Gary shares. As the class runs through the instructions, they begin to see what makes sense and what doesn’t, gradually refining their steps in a logical fashion—and in doing so, demonstrating computational thought.
 
@@ -49,7 +49,7 @@ To give students a taste of how coding can solve real-world problems, Jurongvill
 Ruting describes it as an all-rounded experience that combined lessons about coding with design-thinking and real world issues—ultimately demonstrating how her students’ computing skills, coupled with research and understanding of the user experience can come together to tackle real-life issues.   
 
 ![To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides. ](/images/stories/features/Codesg%20Apr22/02.jpg)
-*To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides. *
+*To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides.*
 
 #### **#3 Provide opportunities for ownership and achievement**
 
@@ -79,7 +79,7 @@ At Rulang Primary, the children are introduced to coding in the context of playi
 “The excitement of handling the robots make kids interested and want to do more,” Gary observes. “The fact that they could see the robots move on their command made them really excited, and from there, we were able to teach them the basics of how it worked.”
 
 ![Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. ](/images/stories/features/Codesg%20Apr22/04.jpg)
-*Learning coding by playing with [Sphero BOLT](https://sphero.com/products/sphero-bolt), an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. *
+*Learning coding by playing with [Sphero BOLT](https://sphero.com/products/sphero-bolt), an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic.*
 
 Older students, on the other hand, are capable of taking on more challenging tasks. Thus, at Jurongville Secondary, when students developed sensors for landslides and alarms for forest fires, they were only given guiding questions to research and had to develop possible solutions themselves, Ruting shares.
 
@@ -91,10 +91,10 @@ With tech talent—especially data scientists, engineers and developers—in hig
 
 #### **#5 Draw emphasis to the human experience**
 
-In fact, he observed that beyond improving a student’s digital skills, the Code@SG programmes also offer an abundance of opportunities to pick up soft skills like resilience, teamwork and communication,    all of which are transferrable across their lives. 
+In fact, he observed that beyond improving a student’s digital skills, the Code@SG programmes also offer an abundance of opportunities to pick up soft skills like resilience, teamwork and communication, all of which are transferrable across their lives. 
 
  
-During the IMDA X Intel AI for Youth   training programme, for example, Yishun Town Secondary seniors were given the opportunity to conduct some segments of the training and explain the coding examples used.
+During the IMDA X Intel AI for Youth training programme, for example, Yishun Town Secondary seniors were given the opportunity to conduct some segments of the training and explain the coding examples used.
 
  “This built their leadership skills and set a good example to other students to show that it is possible for anyone to be an expert.”
 
