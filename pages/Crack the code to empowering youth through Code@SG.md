@@ -38,7 +38,7 @@ For example, using a block-based coding tool, micro:bit, students are given a ch
 
 As the block-based tools are simple to understand, and the tasks allow for individuals to exercise their creativity, students are more likely to be interested, and can see that coding is far less intimidating than they think,   Ruting observes.
 
-#### **#2 Build into the bigger picture will this be more appropriate: “Relevance in daily life?”**
+#### **#2 Relevance in daily life**
 
 Code@SG also helps students see the relevance of coding in their daily lives.
 
