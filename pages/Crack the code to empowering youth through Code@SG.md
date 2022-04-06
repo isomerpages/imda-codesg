@@ -92,7 +92,6 @@ With tech talent—especially data scientists, engineers and developers—in hig
 #### **#5 Draw emphasis to the human experience**
 
 In fact, he observed that beyond improving a student’s digital skills, the Code@SG programmes also offer an abundance of opportunities to pick up soft skills like resilience, teamwork and communication, all of which are transferrable across their lives. 
-
  
 During the IMDA X Intel AI for Youth training programme, for example, Yishun Town Secondary seniors were given the opportunity to conduct some segments of the training and explain the coding examples used.
 
