@@ -35,7 +35,7 @@ sections:
         their interest, deepen their learning in emerging tech and gain industry
         exposure.
       url: /infocomm-media-clubs/
-      image: /images/Homepage ICM Club.jpg
+      image: /images/home-page/Option 1 cropped.jpg
       alt: alt text
       button: Click here
 notification: "\n\n"
