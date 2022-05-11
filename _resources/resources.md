@@ -11,9 +11,9 @@ This information kit is designed to help teachers plan their school's Infocomm M
 
 [Click here to download a copy!](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
 
-#### Singapore Youth Digital Awards Information Kit
+#### Digital for Life Youth Awards 2022
 
-All you need to know about the competition in this handy info kit. Click here to download!
+All you need to know about the competition in this handy info kit. Click [here](/files/resources/Write-up%20Template.pdf) to download!
 
 ### Artificial Intelligence (AI)
 
