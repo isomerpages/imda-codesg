@@ -2,9 +2,9 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - "EXCEL: A National Platform to Gain Knowledge, Excel & Receive
-        Recognition.md"
       - About.md
       - "LEARN: Courses for Infocomm Media Clubs.md"
       - "DISCOVER: Out of Classroom Experiences.md"
       - "SERVE: Values In Actions Projects.md"
+      - "EXCEL: A National Platform to Gain Knowledge, Excel & Receive
+        Recognition.md"
