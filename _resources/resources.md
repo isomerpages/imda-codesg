@@ -13,7 +13,7 @@ This information kit is designed to help teachers plan their school's Infocomm M
 
 #### Digital for Life Youth Awards 2022
 
-All you need to know about the competition in this handy info kit. Click here to download!
+All you need to know about the competition in this handy info kit. Click [here](https://file.go.gov.sg/dflyouthawards.pdf) to download!
 
 ### Artificial Intelligence (AI)
 
