@@ -10,8 +10,8 @@ The curated programmes and activities in the following 5 categories take guidanc
 * **LEARN**: [Training & Deep Skills Acquisition](/infocomm-media-clubs/learn/)
 * **DISCOVER**: [Out-of-Classroom Learning Experiences](/infocomm-media-clubs/discover/)
 * **SERVE**: [Values-in-Action Projects](/infocomm-media-clubs/serve/)
-* **LEAD**: Acquire Leadership Skills <sup>COMING SOON</sup>
-* **EXCEL**: A National Platform to Gain Knowledge, Excel & Receive Recognition <sup>COMING SOON</sup>
+* **EXCEL**: [A National Platform to Gain Knowledge, Excel & Receive Recognition](/infocomm-media-clubs-cca/excel)
+* **LEAD**: Acquire Leadership Skills  <sup>COMING SOON</sup>
 
 Download the information kit for details of our programmes [here](/files/infocomm-media-clubs/IMDA%20ICM%20Club%20Info%20Kit.pdf).
 
