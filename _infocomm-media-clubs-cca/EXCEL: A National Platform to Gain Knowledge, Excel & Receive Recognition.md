@@ -9,4 +9,4 @@ description: ""
 
 The theme for the inaugural award is 'Mental Health & Youths' and IMDA would like to invite your school’s Infocomm and Media Club to take part and develop impactful tech or media solutions to help youths to recognise mental health issues and seek help early. [Download](https://file.go.gov.sg/dflyouthawards.pdf) the awards Information Kit to learn more.
 
-![](/images/Icmclub/IMDA_YouthAwards.jpg)
+![](/images/Icmclub/IMDA_YouthAwards%20revised.jpg)
