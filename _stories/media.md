@@ -2,26 +2,14 @@
 title: Media
 permalink: /stories/
 breadcrumb: Media
-
 ---
-
-
 We have been featured in the media! Check out the links below to read more about our programmes.  
 
 <a name="top"></a>
-[By Community For Community](#bycommunityforcommunity) | [Code For Fun](#codeforfun) | [Code In The Community](#codeinthecommunity) | [Digital Maker](#digitalmaker) | [General](#general) | [PlayMaker](#playmaker)
+ | [Code For Fun](#codeforfun) | 
 
 
-<a name="bycommunityforcommunity"></a><br>
-**By Community For Community**<br>
 
-| Date | Title | Media |
-|--|--|--|
-| 20 May 2019 | <a href="https://www.channelnewsasia.com/news/singapore/singapore-s-largest-tech-carnival-attracts-nearly-20-000-people-11547308" target="_blank">Singapore's largest tech carnival attracts nearly 20,000 people (video)</a> | CNA |
-| 20 May 2019 | <a href="https://www.zaobao.com.sg/znews/singapore/story20190520-957824" target="_blank">“科技行善”创意工作坊和比赛要吸引2万人参加</a> | Lianhe Zao Bao |
-| 19 May 2019 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
-| 4 March 2019 | <a href="https://www.straitstimes.com/politics/parliament-new-funding-for-community-projects-that-boost-public-digital-readiness" target="_blank">New funding for community projects that boost public digital readiness</a> | The Straits Times |
-| 19 May 2019 | <a href="https://www.straitstimes.com/tech/assistive-technologies-for-children-with-disabilities-highlighted-at-sgdigital-wonderland-2019" target="_blank">Assistive technologies for children with disabilities highlighted at SG:Digital Wonderland 2019</a> | The Straits Times |
 
 <a name="codeforfun"></a><br>
 **Code For Fun**<br>
