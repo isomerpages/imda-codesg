@@ -23,5 +23,3 @@ We have been featured in the media! Check out the links below to read more about
 | 10 July 2019 | <a href="https://www.todayonline.com/singapore/coding-enrichment-classes-upper-primary-school-students-next-year" target="_blank">Coding enrichment classes for all upper primary school students from next year</a> | Today |
 | 10 July 2019 | <a href="https://www.straitstimes.com/tech/coding-to-be-made-compulsory-for-all-upper-primary-pupils-next-year" target="_blank">Enrichment classes on coding for all upper primary pupils next year</a> | The Straits Times |
 | 10 July 2019 | <a href="https://www.zaobao.com.sg/realtime/singapore/story20190710-971321?utm_source=ZB_iPhone&utm_medium=share" target="_blank">所有四至六年级小学生明年起须参与编码课程</a> | Lianhe Zao Bao |
-
-
