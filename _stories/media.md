@@ -3,10 +3,6 @@ title: Media
 permalink: /stories/
 breadcrumb: Media
 ---
-We have been featured in the media!   
-
-
-
 
 <a name="codeforfun"></a><br>
 **Code For Fun**<br>
