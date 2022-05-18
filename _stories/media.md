@@ -3,10 +3,7 @@ title: Media
 permalink: /stories/
 breadcrumb: Media
 ---
-We have been featured in the media! Check out the links below to read more about our programmes.  
-
-<a name="top"></a>
- | [Code For Fun](#codeforfun) | 
+We have been featured in the media!   
 
 
 
