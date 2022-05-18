@@ -2,7 +2,6 @@ collections:
   code-for-fun:
     output: true
     order:
-      - Example.md
       - About.md
       - Primary Schools.md
       - Secondary Schools.md
