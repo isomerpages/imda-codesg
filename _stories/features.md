@@ -3,7 +3,7 @@ title: Features
 permalink: /stories/features/
 breadcrumb: Features
 ---
-Read our feature stories to learn about how our programmes benefit schools
+Read our feature stories to learn about how our programmes benefit schools.
 
 
 
