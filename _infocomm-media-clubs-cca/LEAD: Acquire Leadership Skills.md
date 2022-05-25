@@ -23,7 +23,11 @@ Click here for the nomination process.
 Be part of our inaugural student leadership conference where Club leaders can be inspired by industry professionals giving talks on Leadership in Tech and Media, Tech for Good, New Frontiers in Media.
 
 **Eligibility**<br>
-Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. Please refer to <a href="#top">the appointment of the two new roles for more information]</a>
+Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. <br>
+Please refer to <a href="#top">the appointment of the two new roles for more information]</a>
+
+For more information regarding the appointment of the two new roles, please refer to the section <a href="#top">above<a/> (anchor)
 
 **Registration**<br>
-Registration will open at a later date.
+Registration will open at a later date. <br>
+Registration will be announced soon!
