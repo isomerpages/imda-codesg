@@ -2,7 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - LEAD.md
+      - "LEAD: ACQUIRE LEADERSHIP SKILLS.md"
       - About.md
       - "LEARN: Courses for Infocomm Media Clubs.md"
       - "DISCOVER: Out of Classroom Experiences.md"
