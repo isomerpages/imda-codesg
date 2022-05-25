@@ -18,7 +18,7 @@ This student leader will lead his or her peers in the club to educate and excite
 <br>
 This student leader will lead his or her peers to plan and execute a Values-in-Action project which involves infocomm media and technology. He/she will be responsible for liaising with external partners and beneficiaries.
 
-Click here for the nomination process.
+Click [here](/files/infocomm-media-clubs/LEAD%20Selection%20Info%20Kit_Final.pdf) for the nomination process.
 
 #### INFOCOMM MEDIA CLUB STUDENT LEADERSHIP CONFERENCE
 
