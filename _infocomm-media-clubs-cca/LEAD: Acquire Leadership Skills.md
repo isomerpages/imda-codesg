@@ -8,7 +8,7 @@ description: ""
 <a name="top"></a>
 #### APPOINTMENT OF EMERGING TECH SPECIALIST AND TECH FOR GOOD CHAMPION
 
-##### To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
+To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
 
 **Emerging Tech Specialist**
 <br>
