@@ -15,5 +15,14 @@ This student leader will lead his or her peers in the club to educate and excite
 <br>
 This student leader will lead his or her peers to plan and execute a Values-in-Action project which involves infocomm media and technology. He/she will be responsible for liaising with external partners and beneficiaries.
 
-Click here for the nomination process. 
+Click here for the nomination process.
 
+## INFOCOMM MEDIA CLUB STUDENT LEADERSHIP CONFERENCE
+
+Be part of our inaugural student leadership conference where Club leaders can be inspired by industry professionals giving talks on Leadership in Tech and Media, Tech for Good, New Frontiers in Media.
+
+****Eligibility**<br>
+Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. Please refer to [the appointment of the two new roles for more information.] (anchor link to the content above].
+
+**Registration**<br>
+Registration will open at a later date.
