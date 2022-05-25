@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Upcoming Events.md
+      - Past Events/2022.md
       - Past Events/Teacher's Workshop Mar 2022.md
       - Past Events/.keep
       - Past Events/Teacher's Seminar Jan 2022.md
