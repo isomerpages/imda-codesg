@@ -3,7 +3,7 @@ title: Upcoming Events
 permalink: /events/
 description: ""
 ---
-### INFOCOMM MEDIA CLUB STUDENT LEADERSHIP CONFERENCE 2022
+## INFOCOMM MEDIA CLUB STUDENT LEADERSHIP CONFERENCE 2022
 
 ##### Date:  30 Jul 2022, Sat
 
