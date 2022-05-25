@@ -6,7 +6,7 @@ description: ""
 ### LEAD: Acquire Leadership Skills
 
 <a name="top"></a>
-#### APPOINTMENT OF EMERGING TECH SPECIALIST AND TECH FOR GOOD CHAMPION
+#### Appointment of Emerging Tech Specialist and Tech for Good Champion
 
 To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
 
@@ -20,7 +20,7 @@ This student leader will lead his or her peers to plan and execute a Values-in-A
 
 Click [here](/files/infocomm-media-clubs/LEAD%20Selection%20Info%20Kit_Final.pdf) for the nomination process.
 
-#### INFOCOMM MEDIA CLUB STUDENT LEADERSHIP CONFERENCE
+#### Infocomm Media Club Student Leadership Conference
 
 Be part of our inaugural student leadership conference where Club leaders can be inspired by industry professionals giving talks on Leadership in Tech and Media, Tech for Good, New Frontiers in Media.
 
