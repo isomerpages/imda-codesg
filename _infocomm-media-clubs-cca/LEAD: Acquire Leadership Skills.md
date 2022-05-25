@@ -3,8 +3,10 @@ title: "LEAD: Acquire Leadership Skills"
 permalink: /infocomm-media-clubs-cca/lead
 description: ""
 ---
+## LEAD: Acquire Leadership Skills
+
 <a name="top"></a>
-## APPOINTMENT OF EMERGING TECH SPECIALIST AND TECH FOR GOOD CHAMPION
+### APPOINTMENT OF EMERGING TECH SPECIALIST AND TECH FOR GOOD CHAMPION
 
 ##### To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
 
