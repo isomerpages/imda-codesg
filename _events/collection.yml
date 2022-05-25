@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Upcoming Events.md
-      - Teacher's Workshop.md
       - Past Events/.keep
       - Past Events/Teacher's Seminar.md
