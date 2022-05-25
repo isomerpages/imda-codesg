@@ -3,9 +3,10 @@ title: "LEAD: Acquire Leadership Skills"
 permalink: /infocomm-media-clubs-cca/lead
 description: ""
 ---
+<a name="top"></a>
 ## APPOINTMENT OF EMERGING TECH SPECIALIST AND TECH FOR GOOD CHAMPION
 
-To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
+##### To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
 
 **Emerging Tech Specialist**
 <br>
@@ -21,8 +22,8 @@ Click here for the nomination process.
 
 Be part of our inaugural student leadership conference where Club leaders can be inspired by industry professionals giving talks on Leadership in Tech and Media, Tech for Good, New Frontiers in Media.
 
-****Eligibility**<br>
-Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. Please refer to [the appointment of the two new roles for more information](/infocomm-media-clubs-cca/lead).
+**Eligibility**<br>
+Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. Please refer to <a href="#top">the appointment of the two new roles for more information]</a>
 
 **Registration**<br>
 Registration will open at a later date.
