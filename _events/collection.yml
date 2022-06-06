@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - "Upcoming Events/LEARN: Student Development Programmes.md"
-      - Upcoming Events/Student Leadership Conference.md
+      - "Upcoming Events/LEAD: Student Leadership Conference.md"
       - Upcoming Events/.keep
       - Past Events/Teacher's Workshop Mar 2022.md
       - Past Events/.keep
