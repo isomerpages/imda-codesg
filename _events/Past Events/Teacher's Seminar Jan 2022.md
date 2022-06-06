@@ -1,7 +1,16 @@
 ---
-title: Past Events
-permalink: /events/past
+title: Teacher's Seminar Jan 2022
+permalink: /events/teacherseminar
+description: ""
+third_nav_title: Past Events
 ---
+
+
+
+
+
+
+
 ### TEACHERS' SEMINAR
 **Date & Time:** 14th January 2022
 

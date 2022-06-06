@@ -33,12 +33,33 @@ Application closes on 28 February 2022.
 
 For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
 
-### LEARN: Student Development Programmes <sup>COMING SOON</sup>
+### LEARN: Student Development Programmes 
 
 The Student Development Programme aims to provide youths with various opportunities to learn relevant skills to the industry.
 
 Through this programme, students from Infocomm Media Clubs at schools and community will be offered opportunities to deepen their technical skills, through partnerships with industry partners. Such opportunities could be in the form of internships/mentorships, accelerated training programmes and boot camps with technology leaders and start-ups.
 
-Information on upcoming Student Development Programmes will be released progressively in our newsletter. Check out our newsletter [here](/newsletter/) for details.
+**Bootcamps**
+
+**Microsoft Digital Making and Game Development Bootcamp (Pri)**
+<br>
+*  30 May – 3 June
+<br>
+* 20 June – 24 June
+
+In this 5-day hybrid bootcamp, students get to explore the fundamentals of developing digital games and create their own games using Makecode Arcade and Minecraft Education, integrating Micro:bit controls in their digital games.   
+
+**SenseTime AI Bootcamp (Sec/JC)**
+* 30 May – 3 June
+* 20 June – 24 June
+
+This 5-day hybrid bootcamp provides students the opportunity to dive into Artificial Intelligence (AI) through SenseStudy, an online AI learning platform where students can find out about image authentication and filters and see how the technology can be applied in the real world. In addition, students will also get to create projects that solve real-world problems.
+
+**Meta Spark Augmented Reality (AR) Studio Pogramme 2022 (Sec/JC)**
+<br>
+
+* 6 June -13 June
+
+In this bootcamp, students will be introduced to the world of AR, where they can create their own interactive AR filters and effects with Meta’s Spark AR platform, and then publish and share their AR creations through Meta and Instagram.
 
 For enquiries, Schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).

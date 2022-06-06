@@ -1,11 +1,13 @@
 ---
-title: Upcoming Events
-permalink: /events/
+title: Teacher's Workshop Mar 2022
+permalink: /events/teachersworkshopmar22
+description: ""
+third_nav_title: Past Events
 ---
 ### TEACHERS' WORKSHOPS IN MARCH 2022
-[Register here now!](https://go.gov.sg/icm-teachers-workshop)
 
-#### ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES
+
+##### ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES
 **Date:** 17th March 2022<br>**Time:** 3-5pm
 
 ![ADEPT ACADEMY: SMART TECHNOLOGIES IN ELECTRIC VEHICLES](/images/events/workshops-and-exhibitions/workshop-car.jpg)
@@ -25,7 +27,7 @@ The workshop also includes activities revolving around the propulsion system of 
 You will leave with an understanding of how EVs not only transcend current conventional vehicles but also what makes them a part of our collective future.
 
 
-#### SENSETIME: ARTIFICIAL INTELLIGENCE TECHNOLOGY AND AI EDUCATION
+##### SENSETIME: ARTIFICIAL INTELLIGENCE TECHNOLOGY AND AI EDUCATION
 
 **Date:** 18th March 2022<br>**Time:** 3-5pm
 
