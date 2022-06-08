@@ -13,8 +13,7 @@ This July and August, look forward to more than 50 activities across five fun an
 <i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
 
 ### IMMERSIVE MEDIA
-
-* #### Headrock VR 
+#### Headrock VR 
 
 ![](/images/Icmclub/HRVR1.jpg)
 
@@ -24,10 +23,9 @@ Join us at one of Singapore’s largest VR parks and put on virtual reality (VR)
 
 **<u>Learning Journey Details</u>**
 <br> **Dates Available:**     
+* July: 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July / 
 <br>
-July: 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July / 
-<br>
-August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
+* August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
 <br>
 **Open to:** Secondary and JC Students 
 <br>
@@ -36,23 +34,23 @@ August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  
 **Location:**  80 Siloso Road, Southside Blk B, #01-03, 098969 
 
 
-* #### New World Carnival
+#### New World Carnival
  
 ![](/images/Icmclub/New%20World%20Carnival%201.jpg)
 
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
-**<u>Learning Journey Details<u>**
-
+**<u>Learning Journey Details</u>**
+<br>
 **Dates Available** 
 <br>
-July: 18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
+* July: 18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
 <br> 
-August: 3 August / 30 August 
+* August: 3 August / 30 August 
 <br>
 **Open to:** Primary, Secondary and JC Students 
 <br>
-**Capacity:**  15 - 20 students or 30 - 35 students per school for each session*
+**Capacity:** 15 - 20 students or 30 - 35 students per school for each session*
 <br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
 
