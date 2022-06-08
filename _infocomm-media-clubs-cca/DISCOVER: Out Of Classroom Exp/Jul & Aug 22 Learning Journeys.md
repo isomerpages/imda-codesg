@@ -21,10 +21,10 @@ Immersive technology will transform the way we live, work, learn, and experience
 
 Join us at one of Singapore’s largest VR parks and put on virtual reality (VR) headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
 
-<u>**Learning Journey Details**</u>
- **Dates Available:**     
+**<u>Learning Journey Details</u>**
+<br> **Dates Available:**     
  July: 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July / 
- August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
+<br>August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
 <br>**Open to:** Secondary and JC Students 
 <br>**Capacity:**  10 - 20 students per school for each session
 <br>**Location:**  80 Siloso Road, Southside Blk B, #01-03, 098969 
