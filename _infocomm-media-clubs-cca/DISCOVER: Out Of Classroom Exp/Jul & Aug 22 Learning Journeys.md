@@ -43,6 +43,5 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 |**Open to** | Primary, Secondary and JC Students 
 | **Capacity** | 15 - 20 students or 30 - 35 students per school for each session*
 |**Location** | 80 Siloso Road, Southside Blk B, #01-03, 098969 |
-|
 
 <i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</i>
