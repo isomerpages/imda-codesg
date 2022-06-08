@@ -41,9 +41,7 @@ Join us at one of Singapore’s largest VR parks and put on virtual reality (VR)
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
 **<u>Learning Journey Details</u>**
-<br>
-**Dates Available** 
-<br>
+<br>**Dates Available** 
 * July: 18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
 <br> 
 * August: 3 August / 30 August 
