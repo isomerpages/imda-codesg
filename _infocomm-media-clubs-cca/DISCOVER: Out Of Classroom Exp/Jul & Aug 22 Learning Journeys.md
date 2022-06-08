@@ -43,7 +43,7 @@ August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
 **<u>Learning Journey Details<u>**
-<br>
+
 **Dates Available** 
 <br>
 July: 18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
@@ -56,4 +56,4 @@ August: 3 August / 30 August
 <br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
 
-<i><pstyle="font-size:80%;">*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</i></p>
+Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
