@@ -84,6 +84,4 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
 
-Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability. 
-
-
+Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
