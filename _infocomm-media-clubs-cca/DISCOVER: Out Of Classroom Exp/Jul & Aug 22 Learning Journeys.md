@@ -52,4 +52,25 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 <br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
 
-Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
+<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</i>
+
+#### Drones
+<br>
+#### 65 Drones
+
+![](/images/Icmclub/Drone1.png)
+
+<br>
+Experience a multitude of activities at 65Drones’ workshops specially curated for drone’s enthusiasts! Find out first-hand from 65Drones’ drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
+<br>
+ Winners will receive a DJI drone!
+ 
+**<u>Learning Journey Details</u>** 
+<br>**Dates Available:**<br>
+August: 1 August / 2 August / 15 August / 16 August / 17 August / 18 August / 19 August / 26 August / 29 August / 31 August 
+<br>
+**Suitable for:** Primary, Secondary and JC Students <br>
+**Capacity:** 20 students per school for each session <br>
+**Location:** NUS Alumni Shaw Foundation House Auditorium
+11 Kent Ridge Dr, Singapore 119244
+
