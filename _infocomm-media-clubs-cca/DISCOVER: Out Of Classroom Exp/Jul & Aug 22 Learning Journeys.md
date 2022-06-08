@@ -15,7 +15,7 @@ This July and August, look forward to more than 50 activities across five fun an
 ### IMMERSIVE MEDIA
 * Headrock VR
 
-![](/images/Icmclub/HRVR1.jpg)
+![](/images/Icmclub/New%20World%20Carnival%201.jpg)
 
 Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand-new way. 
 
