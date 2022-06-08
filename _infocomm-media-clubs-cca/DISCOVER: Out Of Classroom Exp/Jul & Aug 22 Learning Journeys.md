@@ -42,9 +42,11 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 
 **<u>Learning Journey Details</u>**
 <br>**Dates Available** 
-* July: 18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
+* Month of July: <br>
+18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
 <br> 
-* August: 3 August / 30 August 
+* Month of August: <br>
+3 August / 30 August 
 <br>
 **Open to:** Primary, Secondary and JC Students 
 <br>
@@ -54,23 +56,34 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 
 <i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</i>
 
-#### Drones
-<br>
+### Drones
+
 #### 65 Drones
 
 ![](/images/Icmclub/Drone1.png)
 
-<br>
+
 Experience a multitude of activities at 65Drones’ workshops specially curated for drone’s enthusiasts! Find out first-hand from 65Drones’ drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
-<br>
+
  Winners will receive a DJI drone!
  
 **<u>Learning Journey Details</u>** 
 <br>**Dates Available:**<br>
-August: 1 August / 2 August / 15 August / 16 August / 17 August / 18 August / 19 August / 26 August / 29 August / 31 August 
+* Month of August: <br>1 August / 2 August / 15 August / 16 August / 17 August / 18 August / 19 August / 26 August / 29 August / 31 August 
 <br>
 **Suitable for:** Primary, Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** NUS Alumni Shaw Foundation House Auditorium
 11 Kent Ridge Dr, Singapore 119244
+
+#### 5G Network, Internet-of-Things & Automation 
+
+#### A*STAR
+
+![](/images/Icmclub/Astar%20Robot.jpg)
+
+Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
+
+Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability. 
+
 
