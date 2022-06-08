@@ -2,8 +2,8 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - April' 22 Learning Journeys/April' 22 Learning Journeys.md
-      - April' 22 Learning Journeys/.keep
+      - "DISCOVER: Out Of Classroom Exp/April' 22 Learning Journeys.md"
+      - "DISCOVER: Out Of Classroom Exp/.keep"
       - About.md
       - "EXCEL: A National Platform to Gain Knowledge, Excel & Receive
         Recognition.md"
