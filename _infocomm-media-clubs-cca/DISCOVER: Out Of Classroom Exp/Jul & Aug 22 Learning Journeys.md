@@ -29,3 +29,9 @@ Join us at one of Singapore’s largest VR parks and put on virtual reality (VR)
 | **Capacity** | 10 - 20 students per school for each session
 |**Location** | 80 Siloso Road, Southside Blk B, #01-03, 098969 |
 |
+
+* New World Carnival
+
+![](/images/Icmclub/New%20World%20Carnival%201.jpg)
+
+Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
