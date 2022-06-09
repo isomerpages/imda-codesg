@@ -23,9 +23,11 @@ Join us at one of Singapore’s largest VR parks and put on virtual reality (VR)
 
 **<u>Learning Journey Details</u>**
 <br> **Dates Available:**     
-* Month of July: 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July 
+* Month of July:<br>
+18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July 
 <br>
-* Month of August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
+* Month of August:<br>
+2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
 <br>
 
 **Open to:** Primary, Secondary and JC students 
@@ -71,7 +73,8 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
  
 **<u>Learning Journey Details</u>** 
 <br>**Dates Available:**<br>
-* Month of August: <br>1 August / 2 August / 15 August / 16 August / 17 August / 18 August / 19 August / 26 August / 29 August / 31 August 
+* Month of August: <br>
+1 August / 2 August / 15 August / 16 August / 17 August / 18 August / 19 August / 26 August / 29 August / 31 August 
 <br>
 
 **Open to:** Primary, Secondary and JC Students <br>
@@ -88,6 +91,20 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
 
 Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
+
+**<u>Learning Journey Details</u>** 
+<br> 
+**Dates available:** <br>
+* Month of August: <br>
+1 August / 2 August / 3 August / 4 August / 5 August / 11 August / 12 August / 15 August / 16 August / 22 August 
+<br>
+**Open to:** <br> 
+Secondary and JC Students 
+<br>
+**Capacity:** 
+20 - 25 students per school for each session <br> 
+**Location:** 
+3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143 
 
 #### 5G and AIoT Centre @ Singapore Polytechnic (SP)
 
