@@ -120,8 +120,8 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 **<u>Learning Journeys details</u>** 
 <br>**Dates available:**  
 * Month of August: 25 August / 26 August
-
 <br>
+
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 20 Students per school for each session 
@@ -139,8 +139,8 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 **<u>Learning Journey Details</u>**
 <br> **Dates available:** 
 * Month of August: 12 August / 17 August / 18 August / 19 August / 22 August / 23 August / 24 August / 25 August / 26 August / 29 August 
-
 <br> 
+
 **Open to:** Secondary and JC Students 
 <br> 
 **Capacity:** 12 or 25 students per school for each session*
