@@ -10,7 +10,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 ### [Sign up now!]()
 
-**<i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>**
+<i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
 
 ### IMMERSIVE MEDIA
 #### Headrock VR 
