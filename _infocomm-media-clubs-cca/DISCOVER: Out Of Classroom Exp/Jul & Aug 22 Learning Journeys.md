@@ -118,3 +118,28 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 **Capacity:** 20 Students per school for each session 
 <br>
 **Location:** 316 Jalan Besar, Singapore 208974
+
+#### TheSmartLocal
+
+![](/images/Icmclub/The%20Smart%20Local.jpg)
+
+Wow! Might be your first response when you step into a production studio. Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
+
+TheSmartLocal is a well-known media publisher known for its quality editorial and video content. Learn from the professionals on digital storyboarding techniques and uncover secrets on how to capture and grab attention with fascinating content.
+
+**<u>Learning Journey Details</u>**
+<br> **Dates available:** 
+* Month of August: 12 August / 17 August / 18 August / 19 August / 22 August / 23 August / 24 August / 25 August / 26 August / 29 August 
+<br> 
+**Open to:** Secondary and JC Students 
+<br> 
+**Capacity:** 12 or 25 students per school for each session*
+<br>
+**Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, 
+Singapore 339348
+<br> 
+
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
+
+
+
