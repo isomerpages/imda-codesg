@@ -85,3 +85,22 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
 
 Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
+
+#### 5G and AIoT Centre @ Singapore Polytechnic (SP)
+
+![](/images/Icmclub/5G%20and%20ALOT.jpg)
+
+Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks. 
+
+Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralised real-time monitoring and more with hands-on experiences. 
+
+**<u>Learning Journey Details</u>** 
+	<br> **Dates Available**
+* Month of July: 20 July / 27 July 
+**Open to:** Secondary and JC Students 
+<br>**Capcity:** 20 - 30 students per school each session
+<br>**Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
+
+### Esports, Media and Content Creation 
+#### The Gym
+
