@@ -149,4 +149,4 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 Singapore 339348
 <br> 
 
-*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, <p style="color:Red;"> IMDA reserves the right to make necessary adjustments and will notify the school of such changes..</p>*
