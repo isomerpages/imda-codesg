@@ -58,7 +58,8 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 <br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
 
-<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</i>
+<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date,  
+<p style="color:Red;">IMDA reserves all right to make necessary adjustments and will notify the school of such changes</p>
 
 ### Drones
 
@@ -98,8 +99,7 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 * Month of August: <br>
 1 August / 2 August / 3 August / 4 August / 5 August / 11 August / 12 August / 15 August / 16 August / 22 August 
 <br>
-**Open to:** <br> 
-Secondary and JC Students 
+**Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 
 20 - 25 students per school for each session <br> 
@@ -166,7 +166,8 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 Singapore 339348
 <br> 
 
-*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, <p style="color:Red;"> IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</p>*
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, 
+<p style="color:Red;"> IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</p>
 
 ### Photography 
 #### Canon
@@ -189,3 +190,6 @@ DSLR cameras will be provided to all students during the workshop.
 **Capacity:** 10 - 15 students per school for each session 
 <br> 
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
+	
+#### So what are you waiting for? [Sign up now!]()
+#### 
