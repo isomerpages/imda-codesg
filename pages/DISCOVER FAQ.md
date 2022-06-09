@@ -36,9 +36,3 @@ Will transport to the learning journey venue be provided? <br>
 
 10.	Will photos and videos be taken during the learning journeys? <br>
 * Yes, all photos and videos taken at the event will be used for IMDA’s marketing purposes.
-
-
-
-
-
-	
