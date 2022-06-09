@@ -79,7 +79,7 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 **Location:** NUS Alumni Shaw Foundation House Auditorium
 11 Kent Ridge Dr, Singapore 119244
 
-#### 5G Network, Internet-of-Things & Automation 
+### 5G Network, Internet-of-Things & Automation 
 
 #### A*STAR
 
