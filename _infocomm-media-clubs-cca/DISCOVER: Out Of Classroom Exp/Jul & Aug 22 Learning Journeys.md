@@ -23,12 +23,12 @@ Join us at one of Singapore’s largest VR parks and put on virtual reality (VR)
 
 **<u>Learning Journey Details</u>**
 <br> **Dates Available:**     
-* July: 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July / 
+* July: 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July 
 <br>
 * August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
 <br>
 
-**Open to:** Secondary and JC Students 
+**Open to:** Primary, Secondary and JC students 
 <br>
 **Capacity:**  10 - 20 students per school for each session
 <br>
