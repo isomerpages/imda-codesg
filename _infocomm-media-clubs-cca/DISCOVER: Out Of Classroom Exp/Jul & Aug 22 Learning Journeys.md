@@ -149,4 +149,26 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 Singapore 339348
 <br> 
 
-*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.*
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, <p style="color:Red;"> IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</p>*
+
+### Photography 
+#### Canon
+
+![](/images/Icmclub/Photography.jpg)
+
+Calling all aspiring photographers - Master the art of taking amazing photos and videos at Canon’s Imaging Academy.  
+
+Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos with an outdoor hands-on practice session. 
+
+DSLR cameras will be provided to all students during the workshop.
+
+**<u>Learning Journey Details</u>**
+<br>**Dates available:** 
+* Month of August: 1 August / 5 August / 15 August / 16 August / 19 August / 22 August / 23 August / 29 August / 30 August / 31 August 
+<br>
+
+**Suitable for:** Primary, Secondary and JC Students
+<br> 
+**Capacity:** 10 - 15 students per school for each session 
+<br> 
+**Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
