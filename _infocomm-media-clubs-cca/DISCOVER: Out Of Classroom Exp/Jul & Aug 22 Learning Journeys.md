@@ -27,6 +27,7 @@ Join us at one of Singapore’s largest VR parks and put on virtual reality (VR)
 <br>
 * August: 2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
 <br>
+
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:**  10 - 20 students per school for each session
@@ -48,6 +49,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 * Month of August: <br>
 3 August / 30 August 
 <br>
+
 **Open to:** Primary, Secondary and JC Students 
 <br>
 **Capacity:** 15 - 20 students or 30 - 35 students per school for each session*
@@ -71,7 +73,8 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 <br>**Dates Available:**<br>
 * Month of August: <br>1 August / 2 August / 15 August / 16 August / 17 August / 18 August / 19 August / 26 August / 29 August / 31 August 
 <br>
-**Suitable for:** Primary, Secondary and JC Students <br>
+
+**Open to:** Primary, Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** NUS Alumni Shaw Foundation House Auditorium
 11 Kent Ridge Dr, Singapore 119244
@@ -97,9 +100,13 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 **<u>Learning Journey Details</u>** 
 	<br> **Dates Available**
 * Month of July: 20 July / 27 July 
+<br>
+
 **Open to:** Secondary and JC Students 
-<br>**Capcity:** 20 - 30 students per school each session
-<br>**Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
+<br>
+**Capcity:** 20 - 30 students per school each session
+<br>
+**Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
 
 ### Esports, Media and Content Creation 
 #### The Gym
@@ -113,6 +120,8 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 **<u>Learning Journeys details</u>** 
 <br>**Dates available:**  
 * Month of August: 25 August / 26 August
+
+<br>
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 20 Students per school for each session 
@@ -130,6 +139,7 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 **<u>Learning Journey Details</u>**
 <br> **Dates available:** 
 * Month of August: 12 August / 17 August / 18 August / 19 August / 22 August / 23 August / 24 August / 25 August / 26 August / 29 August 
+
 <br> 
 **Open to:** Secondary and JC Students 
 <br> 
@@ -140,6 +150,3 @@ Singapore 339348
 <br> 
 
 *Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
-
-
-
