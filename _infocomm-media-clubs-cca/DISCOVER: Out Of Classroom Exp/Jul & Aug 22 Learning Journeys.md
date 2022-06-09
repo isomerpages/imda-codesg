@@ -8,7 +8,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 ##### This July and August, look forward to more than **50 activities** across five fun and exciting categories specially curated for Infocomm and Media club members!
 
-### [Sign up now!]()
+### [Sign up now!](https://form.gov.sg/6299ab5e3635bd0012eb5f59)
 
 <i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
 
@@ -58,8 +58,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 <br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
 
-<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date,  
-<p style="color:Red;">IMDA reserves all right to make necessary adjustments and will notify the school of such changes</p>
+<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves all right to make necessary adjustments and will notify the school of such changes </i>
 
 ### Drones
 
@@ -68,7 +67,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 ![](/images/Icmclub/Drone1.png)
 
 
-Experience a multitude of activities at 65Drones’ workshops specially curated for drone’s enthusiasts! Find out first-hand from 65Drones’ drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
+Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from 65Drones’ drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
 
  Winners will receive a DJI drone!
  
@@ -87,7 +86,7 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 #### A*STAR
 
-![](/images/Icmclub/Astar%20Robot.jpg)
+
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
 
@@ -151,7 +150,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 ![](/images/Icmclub/The%20Smart%20Local.jpg)
 
-Wow! Might be your first response when you step into a production studio. Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
+Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
 
 TheSmartLocal is a well-known media publisher known for its quality editorial and video content. Learn from the professionals on digital storyboarding techniques and uncover secrets on how to capture and grab attention with fascinating content.
 
@@ -170,8 +169,7 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 Singapore 339348
 <br> 
 
-*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, 
-<p style="color:Red;"> IMDA reserves the right to make necessary adjustments and will notify the school of such changes.</p>
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
 
 ### Photography 
 #### Canon
