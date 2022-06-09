@@ -116,7 +116,8 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 
 **<u>Learning Journey Details</u>** 
 	<br> **Dates Available** <br>
-* Month of July: 20 July / 27 July 
+* Month of July: 
+<br>20 July / 27 July 
 <br>
 
 **Open to:** Secondary and JC Students 
@@ -135,10 +136,11 @@ Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours
 Experience The Gym’s holistic production studio and hands-on with eSports casting. Step into the shoes of an eSports caster and observer and learn more about what goes behind the scenes of a professional eSports competition.
 
 **<u>Learning Journeys details</u>** 
-<br>**Dates available:** <br>
-* Month of August: 25 August / 26 August
+**Dates available:**<br> 
+* Month of August: <br>
+25 August / 26 August
 <br>
-
+	
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 20 Students per school for each session 
@@ -155,7 +157,8 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 
 **<u>Learning Journey Details</u>**
 <br> **Dates available:** 
-* Month of August: <br>
+* Month of August:
+<br>	
 12 August / 17 August / 18 August / 19 August / 22 August / 23 August / 24 August / 25 August / 26 August / 29 August 
 <br> 
 
