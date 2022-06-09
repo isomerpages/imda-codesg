@@ -6,11 +6,11 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
 ## DISCOVER: Out of Classroom Experiences
 
-This July and August, look forward to more than **50 activities** across five fun and exciting categories specially curated for Infocomm and Media club members!
+##### This July and August, look forward to more than **50 activities** across five fun and exciting categories specially curated for Infocomm and Media club members!
 
-[Sign up now!]()
+### [Sign up now!]()
 
-<i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
+**<i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>**
 
 ### IMMERSIVE MEDIA
 #### Headrock VR 
@@ -115,7 +115,7 @@ Live your digital life in the fast lane and get up to speed with 5G when you vis
 Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralised real-time monitoring and more with hands-on experiences. 
 
 **<u>Learning Journey Details</u>** 
-	<br> **Dates Available**
+	<br> **Dates Available** <br>
 * Month of July: 20 July / 27 July 
 <br>
 
@@ -135,7 +135,7 @@ Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours
 Experience The Gym’s holistic production studio and hands-on with eSports casting. Step into the shoes of an eSports caster and observer and learn more about what goes behind the scenes of a professional eSports competition.
 
 **<u>Learning Journeys details</u>** 
-<br>**Dates available:**  
+<br>**Dates available:** <br>
 * Month of August: 25 August / 26 August
 <br>
 
@@ -155,7 +155,8 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 
 **<u>Learning Journey Details</u>**
 <br> **Dates available:** 
-* Month of August: 12 August / 17 August / 18 August / 19 August / 22 August / 23 August / 24 August / 25 August / 26 August / 29 August 
+* Month of August: <br>
+12 August / 17 August / 18 August / 19 August / 22 August / 23 August / 24 August / 25 August / 26 August / 29 August 
 <br> 
 
 **Open to:** Secondary and JC Students 
@@ -181,8 +182,9 @@ Learn from the experts on the fundamentals to tips and tricks on photography tec
 DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>**
-<br>**Dates available:** 
-* Month of August: 1 August / 5 August / 15 August / 16 August / 19 August / 22 August / 23 August / 29 August / 30 August / 31 August 
+<br>**Dates available:** <br>
+* Month of August: <br>
+1 August / 5 August / 15 August / 16 August / 19 August / 22 August / 23 August / 29 August / 30 August / 31 August 
 <br>
 
 **Suitable for:** Primary, Secondary and JC Students
@@ -192,4 +194,3 @@ DSLR cameras will be provided to all students during the workshop.
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
 	
 #### So what are you waiting for? [Sign up now!]()
-#### 
