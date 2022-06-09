@@ -104,3 +104,17 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 ### Esports, Media and Content Creation 
 #### The Gym
 
+![](/images/Icmclub/E-sports.jpg)
+
+Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours eSports co-working space and production studio for gamers to train, compete and kickstart their professional eSports career.
+
+Experience The Gym’s holistic production studio and hands-on with eSports casting. Step into the shoes of an eSports caster and observer and learn more about what goes behind the scenes of a professional eSports competition.
+
+**<u>Learning Journeys details</u>** 
+<br>**Dates available:**  
+* Month of August: 25 August / 26 August
+**Open to:** Secondary and JC Students 
+<br>
+**Capacity:** 20 Students per school for each session 
+<br>
+**Location:** 316 Jalan Besar, Singapore 208974
