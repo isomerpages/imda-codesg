@@ -85,13 +85,14 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
 
-Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
+Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR (Augmented Reality)/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
 
 **<u>Learning Journey Details</u>** 
-<br> 
-**Dates available:** <br>
+<br>**Dates available:**<br>
 * Month of August: <br>
-1 August / 2 August / 3 August / 4 August / 5 August / 11 August / 12 August / 15 August / 16 August / 22 August <br>
+1 August / 2 August / 3 August / 4 August / 5 August / 11 August / 12 August / 15 August / 16 August / 22 August 
+<br>
+
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 
@@ -108,7 +109,8 @@ Live your digital life in the fast lane and get up to speed with 5G when you vis
 Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralised real-time monitoring and more with hands-on experiences. 
 
 **<u>Learning Journey Details</u>** 
-	<br> **Dates Available** <br>
+<br> 
+**Dates Available**<br>
 * Month of July: 
 <br>20 July / 27 July 
 <br>
