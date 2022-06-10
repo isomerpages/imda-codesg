@@ -189,4 +189,4 @@ DSLR cameras will be provided to all students during the workshop.
 <br> 
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
 	
-So what are you waiting for? [Sign up now!]()
+### What are you waiting for? [Sign up now!]()
