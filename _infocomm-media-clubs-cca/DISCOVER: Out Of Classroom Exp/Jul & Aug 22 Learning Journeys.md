@@ -5,10 +5,7 @@ description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
 ## DISCOVER: Out of Classroom Experiences
-
-##### This July and August, look forward to more than **50 activities** across five fun and exciting categories specially curated for Infocomm and Media club members!
-
-### [Sign up now!](https://form.gov.sg/6299ab5e3635bd0012eb5f59)
+This July and August, look forward to more than **50 fun and exciting activities** across five categories specially curated for Infocomm and Media club members! [Sign up now!](https://form.gov.sg/6299ab5e3635bd0012eb5f59)
 
 <i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
 
@@ -17,9 +14,9 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 ![](/images/Icmclub/HRVR1.jpg)
 
-Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand-new way. 
+Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand new way. 
 
-Join us at one of Singapore’s largest VR parks and put on virtual reality (VR) headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
+Join us at one of Singapore’s largest VR parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
 
 **<u>Learning Journey Details</u>**
 <br> **Dates Available:**     
@@ -67,7 +64,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 ![](/images/Icmclub/Drone1.png)
 
 
-Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from 65Drones’ drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
+Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
 
  Winners will receive a DJI drone!
  
@@ -85,8 +82,6 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 ### 5G Network, Internet-of-Things & Automation 
 
 #### A*STAR
-
-
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech. 
 
