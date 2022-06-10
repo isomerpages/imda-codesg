@@ -91,8 +91,7 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 <br> 
 **Dates available:** <br>
 * Month of August: <br>
-1 August / 2 August / 3 August / 4 August / 5 August / 11 August / 12 August / 15 August / 16 August / 22 August 
-<br>
+1 August / 2 August / 3 August / 4 August / 5 August / 11 August / 12 August / 15 August / 16 August / 22 August <br>
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 
