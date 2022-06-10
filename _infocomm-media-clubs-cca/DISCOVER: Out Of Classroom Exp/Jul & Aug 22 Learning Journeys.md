@@ -130,7 +130,8 @@ Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours
 Experience The Gym’s holistic production studio and hands-on with eSports casting. Step into the shoes of an eSports caster and observer and learn more about what goes behind the scenes of a professional eSports competition.
 
 **<u>Learning Journeys details</u>** 
-**Dates available:**<br> 
+<br>
+**Dates available:**
 * Month of August: <br>
 25 August / 26 August
 <br>
