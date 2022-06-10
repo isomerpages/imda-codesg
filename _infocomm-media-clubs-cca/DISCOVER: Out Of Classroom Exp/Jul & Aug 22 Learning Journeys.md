@@ -41,7 +41,7 @@ Join us at one of Singapore’s largest VR parks and put on VR headsets to embar
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
 **<u>Learning Journey Details</u>**
-<br>**Dates Available** 
+<br>**Dates Available:** 
 * Month of July: <br>
 18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
 <br> 
@@ -110,14 +110,14 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 
 **<u>Learning Journey Details</u>** 
 <br> 
-**Dates Available**<br>
+**Dates Available:**<br>
 * Month of July: 
 <br>20 July / 27 July 
 <br>
 
 **Open to:** Secondary and JC Students 
 <br>
-**Capcity:** 20 - 30 students per school each session
+**Capacity:** 20 - 30 students per school each session
 <br>
 **Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
 
