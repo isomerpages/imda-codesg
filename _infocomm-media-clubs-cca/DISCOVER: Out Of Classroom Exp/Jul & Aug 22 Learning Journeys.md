@@ -12,7 +12,7 @@ This July and August, look forward to more than **50 fun and exciting activities
 ### IMMERSIVE MEDIA
 #### Headrock VR 
 
-![](/images/Icmclub/HRVR1.jpg)
+![](/images/Icmclub/Headrock.jpg)
 
 Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand new way. 
 
@@ -191,4 +191,4 @@ DSLR cameras will be provided to all students during the workshop.
 <br> 
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
 	
-### What are you waiting for? [Sign up now!]()
+### What are you waiting for? 
