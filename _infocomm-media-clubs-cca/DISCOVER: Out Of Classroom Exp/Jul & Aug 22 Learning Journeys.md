@@ -16,7 +16,7 @@ This July and August, look forward to more than **50 fun and exciting activities
 
 Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand new way. 
 
-Join us at one of Singapore’s largest VR parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
+Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
 
 **<u>Learning Journey Details</u>**
 <br> **Dates Available:**     
@@ -55,7 +55,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 <br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
 
-<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves all right to make necessary adjustments and will notify the school of such changes </i>
+<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes </i>
 
 ### Drones
 
@@ -64,9 +64,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 ![](/images/Icmclub/Drone1.png)
 
 
-Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights and take part in a mini challenge to design a light.
-
- Winners will receive a DJI drone!
+Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from a drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights. What's more, take part in a mini challenge to design a light show and stand a stand to win DJI drone!
  
 **<u>Learning Journey Details</u>** 
 <br>**Dates Available:**<br>
