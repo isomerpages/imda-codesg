@@ -102,7 +102,7 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 
 #### 5G and AIoT Centre @ Singapore Polytechnic (SP)
 
-![](/images/Icmclub/5G%20and%20ALOT.jpg)
+![](/images/Icmclub/5G.jpg)
 
 Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks. 
 
