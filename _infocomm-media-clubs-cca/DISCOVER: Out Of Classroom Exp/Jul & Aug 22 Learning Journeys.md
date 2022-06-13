@@ -171,7 +171,7 @@ Singapore 339348
 ### Photography 
 #### Canon
 
-![](/images/Icmclub/Photography.jpg)
+![](/images/Icmclub/Canon%20Imaging%20Academy.jpg)
 
 Calling all aspiring photographers - Master the art of taking amazing photos and videos at Canon’s Imaging Academy.  
 
