@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About.md
+      - "DISCOVER: Out Of Classroom Exp/DISCOVER FAQ.md"
       - "DISCOVER: Out Of Classroom Exp/Jul & Aug 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/.keep"
       - "DISCOVER: Out Of Classroom Exp/April' 22 Learning Journeys.md"
