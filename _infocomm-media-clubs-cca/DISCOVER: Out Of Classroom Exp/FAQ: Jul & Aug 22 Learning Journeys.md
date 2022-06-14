@@ -24,7 +24,7 @@ You can sign up from our registration page [here](https://go.gov.sg/981rxw).    
 
 <br>
 
-6. How will I know if I have successfully booked the learning journey? <br>
+5. How will I know if I have successfully booked the learning journey? <br>
 We will send you a confirmation email within two weeks after you have registered your preference.
 
 <br>
