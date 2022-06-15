@@ -21,6 +21,7 @@ You can sign up from our registration page [here](https://go.gov.sg/981rxw).    
 
 7. How will I know if I have successfully booked the learning journey? <br>
 We will send you a confirmation email within two weeks after you have registered your preference. <br>
+
 6. Will the learning journey details (e.g, venue, meeting point, etc) be sent to us? <br> Yes, learning journey details will be sent to you when you have successfully been allocated a slot. 
 <br>
 
