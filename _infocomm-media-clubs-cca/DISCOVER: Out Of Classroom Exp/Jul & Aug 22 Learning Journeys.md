@@ -57,7 +57,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 <br>
 **Capacity:** 15 - 20 students or 30 - 35 students per school for each session*
 <br>
-**Location:** 80 Siloso Road, Southside Blk B, #01-03, 098969 
+**Location:** 313 Orchard Rd, #03-31, 313@Somerset 238895
 
 <i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes </i>
 
