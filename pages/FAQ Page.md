@@ -4,7 +4,6 @@ permalink: /FAQ-Page/
 description: ""
 ---
 ## FREQUENTLY ASKED QUESTIONS
-<br>
 
 **1. How do I register for IMDA’s DISCOVER learning journey?** <br>
 You can sign up from our registration page [here](https://form.gov.sg/#!/6299ab5e3635bd0012eb5f59).  Availability is on a first-come-first-served basis.
