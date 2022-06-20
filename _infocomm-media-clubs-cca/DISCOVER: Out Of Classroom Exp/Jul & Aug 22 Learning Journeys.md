@@ -8,7 +8,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 This July and August, look forward to more than **50 fun and exciting activities** across five categories specially curated for Infocomm and Media club members! [Sign up now!](https://go.gov.sg/981rxw)
 <br>
 <br>
-For FAQs, please view [here](/FAQ-Page/) 
+For FAQs, please view [here](/Learning-Journey-FAQs)
 
 
 <i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
@@ -196,7 +196,7 @@ DSLR cameras will be provided to all students during the workshop.
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
 
 
-For FAQs, please view [here](/FAQ-Page/) 
+For FAQs, please view [here](/Learning-Journey-FAQs)
 <br>
 <br>
 What are you waiting for? [Sign up now!](https://go.gov.sg/981rxw)
