@@ -194,4 +194,5 @@ DSLR cameras will be provided to all students during the workshop.
 
 For FAQs, please view [here](/FAQ-Page/) 
 <br>
+<br>
 What are you waiting for? [Sign up now!](https://go.gov.sg/981rxw)
