@@ -3,9 +3,7 @@ title: FAQ Page
 permalink: /FAQ-Page/
 description: ""
 ---
-
 ## FREQUENTLY ASKED QUESTIONS
-<br>
 <br>
 
 **1. How do I register for IMDA’s DISCOVER learning journey?** <br>
