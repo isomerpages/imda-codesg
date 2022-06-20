@@ -7,6 +7,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ## DISCOVER: Out of Classroom Experiences
 This July and August, look forward to more than **50 fun and exciting activities** across five categories specially curated for Infocomm and Media club members! [Sign up now!](https://go.gov.sg/981rxw)
 <br>
+<br>
 For FAQs, please view [here](/FAQ-Page/) 
 
 
