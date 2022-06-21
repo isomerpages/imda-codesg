@@ -53,7 +53,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 3 August / 30 August 
 <br>
 
-**Open to:** Primary, Secondary and JC Students 
+**Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 15 - 20 students or 30 - 35 students per school for each session*
 <br>
