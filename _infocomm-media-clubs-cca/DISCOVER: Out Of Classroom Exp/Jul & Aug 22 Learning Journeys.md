@@ -28,7 +28,7 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July 
 <br>
 * Month of August:<br>
-2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  22 August
+2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  23 August
 <br>
 
 **Open to:** Primary, Secondary and JC students 
