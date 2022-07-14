@@ -2,7 +2,6 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - "EXCEL: DfL Youth Awards Webinar 22.md"
       - About.md
       - "DISCOVER: Out Of Classroom Exp/.keep"
       - "DISCOVER: Out Of Classroom Exp/Jul & Aug 22 Learning Journeys.md"
