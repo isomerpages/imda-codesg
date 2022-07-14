@@ -10,3 +10,9 @@ Don’t miss this edition of Teachers’ Workshop this July & August covering to
 
 Limited slots are available for each workshop. See below mailer for more details and sign up now! 
 https://go.gov.sg/teachersworkshop2022
+
+![](/images/events/workshops-and-exhibitions/Discover%20Teachers'%20Workshop/Discover1.jpg)
+
+![](/images/events/workshops-and-exhibitions/Discover%20Teachers'%20Workshop/Teachers%20Seminar%202.jpg)
+
+![](/images/Teachers%20Seminar%203.jpg)
