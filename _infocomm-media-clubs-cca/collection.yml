@@ -2,6 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - "EXCEL: A Platform to Excel/Mental Health & Youths Webinar.md"
       - "EXCEL: A Platform to Excel/EXCEL: A National Platform to Gain
         Knowledge, Excel & Receive Recognition.md"
       - "EXCEL: A Platform to Excel/.keep"
