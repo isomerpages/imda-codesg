@@ -2,9 +2,7 @@
 title: "EXCEL: A National Platform to Gain Knowledge, Excel & Receive Recognition"
 permalink: /infocomm-media-clubs-cca/excel
 description: ""
-third_nav_title: "EXCEL: A Platform to Excel"
 ---
-
 
 ### EXCEL: A National Platform to Gain Knowledge, Excel & Receive Recognition
 
