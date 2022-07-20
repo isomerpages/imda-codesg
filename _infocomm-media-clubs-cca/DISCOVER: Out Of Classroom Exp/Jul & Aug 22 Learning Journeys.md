@@ -47,7 +47,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 29 July 
 <br> 
 * Month of August: <br>
-3 August / 5 August / 15 August / 16 August / 17 August / 18 August / 19 August / 24 August / 30 August / 31 August
+3 August / 15 August / 16 August / 17 August / 18 August / 19 August / 24 August / 30 August / 31 August
 <br>
 
 **Open to:** Secondary and JC Students 
