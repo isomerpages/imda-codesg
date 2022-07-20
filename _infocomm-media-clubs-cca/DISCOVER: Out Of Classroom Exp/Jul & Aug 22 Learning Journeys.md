@@ -24,11 +24,8 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 
 **<u>Learning Journey Details</u>**
 <br> **Dates Available:**     
-* Month of July:<br>
-18 July / 19 July /  21 July /22 July / 25 July / 26 July / 28 July / 29 July 
-<br>
 * Month of August:<br>
-2 August / 4 August / 5 August /   11 August / 12 August / 18 August /  23 August
+1 August / 2 August / 4 August / 5 August /  11 August / 12 August / 18 August / 22 August / 23 August / 25 August / 26 August / 29 August
 <br>
 
 **Open to:** Primary, Secondary and JC students 
@@ -47,10 +44,10 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 **<u>Learning Journey Details</u>**
 <br>**Dates Available:** 
 * Month of July: <br>
-18 July / 20 July /  22 July / 25 July / 26 July / 27 July / 28 July / 29 July 
+29 July 
 <br> 
 * Month of August: <br>
-3 August / 30 August 
+3 August / 15 August / 16 August / 17 August / 18 August / 19 August / 24 August / 30 August / 31 August
 <br>
 
 **Open to:** Secondary and JC Students 
