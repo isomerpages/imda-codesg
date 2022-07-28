@@ -3,7 +3,8 @@ title: "Photo Essay by St Joseph's Institution: AI in the Community"
 permalink: /Photoessay-StJosephInstitution
 description: ""
 ---
-### Photo Essay Competition: AI IN THE COMMUNITY - A VIA PROJECT by Jeremiah Siah ###
+### Photo Essay Competition
+#### Title: AI IN THE COMMUNITY - A VIA PROJECT by Jeremiah Siah 
 
 With Artificial Intelligence (AI) becoming increasingly present and important in our daily lives, it is our goal as members of St. Joseph’s Institution’s Design and Innovation Club (DI Club) CCA to raise awareness about AI and its capabilities. After attending an online sharing session by Sustainable Living Lab on AI, we memorised what we had learnt and got down to work. We decided to translate what we had learned about AI in terms of its capabilities and applications into a showcase booth featuring the Alpha Mini robot. 
 
