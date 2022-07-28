@@ -3,7 +3,8 @@ title: Photo Essay by Dunman Secondary School
 permalink: /Photo-Essay-Dunman-Sec
 description: ""
 ---
-## Journey of Ultron-Sentries VS Gideon 
+### Photo Essay Competition
+#### Title: Journey of Ultron-Sentries VS Gideon 
 
 The whole experience of carrying out this Values-in-Action (VIA) project has been an enjoyable experience for us as we got to know each other better. It provided us with an avenue for club members from different age groups to come together and work as a team
 
