@@ -24,7 +24,7 @@ Joy Sim shared, “While we were managing the booth, we encountered issues such 
 data that we humans train it with.” said Rebecca Sim.
 
 ![](/images/events/competitions/RGS%204.png)*
-*Our members learning to connect and programme the Alpha Mini during the workshop*
-
+*Our members learning to connect and programme the Alpha Mini during the workshop
+*
 
 In conclusion, this VIA project has been a meaningful experience where we got to know more about artificial intelligence and introduced it to our fellow schoolmates. We hope that this VIA has helped students learn more about the ever-evolving field of technology and artificial intelligence.
