@@ -53,4 +53,4 @@ Alpha Mini Robot: Star of the day
 
 ![](/images/events/competitions/JV%209.jpg)
 ![](/images/events/competitions/JV%2010.jpg)
-Pictoblox program guessing Jv-nites, gender, age and feelings 
+Pictoblox program guessing Jv-nites, gender, age and feelings
