@@ -71,3 +71,5 @@ The students presented via Zoom to their peers during curriculum time. Videos of
 
 Saving the best for the last! All the teams had the opportunity to meet with the NAOv6 robot during one of their CCA sessions. The teams interacted with the robot to test out their proposed solutions. They played the role of the end user to test the effectiveness of the social robot in tackling the problems they came up with.
 
+![](/images/events/competitions/Canberra%207.jpg)
+![](/images/events/competitions/Canberra%208.jpg)
