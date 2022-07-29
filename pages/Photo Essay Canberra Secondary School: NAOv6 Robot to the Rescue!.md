@@ -16,16 +16,28 @@ The students were extremely excited to embark on the project.
 
 The project started off with a virtual workshop by the instructor on Social Robotics. The students were exposed to how Artificial Intelligence (AI) can be applied in a variety of settings to engage with people and impact their lives.
 
+![](/images/events/competitions/Canberra%201.jpg)
+
 *"I enjoyed this VIA project. I like how I can make use of Social Robots to engage autistic children and help humans with communications." - P6 CCA LEADER
 *
 
-##### **What's next?**
+#### **What's next?**
 
-Brainstorming session
-The students came together as a team and brainstormed possible problems that could be solved with social robots. 
+**Brainstorming session**
 
-They assigned roles to one another such as Group Leader, Editor, Designer and Presenter. The discussion points were recorded on the Google Jamboard. It was their first time using the platform!
-Gearing up!
+The students came together as a team and brainstormed possible problems that could be solved with social robots. They assigned roles to one another such as Group Leader, Editor, Designer and Presenter. The discussion points were recorded on the Google Jamboard. It was their first time using the platform!
+
+![](/images/events/competitions/Canberra%202.jpg)
+
+The above team decided to focus on helping children with autism. The NAOv6 robot would be programmed to interact with children with autism and teach them social skills.
+
+![](/images/events/competitions/Canberra%203.jpg)
+
+The other team chose to focus on tackling the issue of language barriers between grandparents and their grandchildren.
+
+NAOv6 robot would help to bridge the divide by translating from one language to another.
+
+**Gearing up!**
 
 Everyone was motivated and excited to get started on their projects. They managed to fine-tune their problem statements and discussed probable solutions to their problems using the NAOv6 robot
 
