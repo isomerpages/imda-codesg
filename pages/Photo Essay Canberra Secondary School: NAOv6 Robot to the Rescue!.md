@@ -47,3 +47,27 @@ NAOv6 robot would help to bridge the divide by translating from one language to 
 
 *"Social robots can improve people's life through helping them with everyday tasks. I am empowered to learn more about social robotics." – P6 CCA Leader 
 *
+
+**Preparation**
+
+The students spent weeks fine-tuning the contents of their sharing or video presentation. They were so tech-savvy! They leveraged Google Slides to work on the presentation collaboratively in real time with their team members. Their video editing skills were put to the test as they experimented with using a green screen and other video effects.
+
+![](/images/events/competitions/Canberra%204.jpg)
+
+Using their Personal Learning Devices (PLD), all team members worked concurrently to edit their presentations.
+
+**Adding the fun element**
+
+What's a presentation without gamification? The students who shared with their peers collectively agreed to include the Kahoot component to check on their peers' understanding. The team even tried it amongst themselves and had a fun time. They even tried troubleshooting when they encountered a technical issue with their Kahoot quiz.
+
+![](/images/events/competitions/Canberra%206.jpg)
+Teamwork really makes a dream team!
+
+**Show Time!**
+
+The students presented via Zoom to their peers during curriculum time. Videos of their interaction with the NAOv6 robot were shown during recess time. An SLS learning package was also created to allow their peers to continue with their learning online.
+
+**Interacting with NAOv6 robot**
+
+Saving the best for the last! All the teams had the opportunity to meet with the NAOv6 robot during one of their CCA sessions. The teams interacted with the robot to test out their proposed solutions. They played the role of the end user to test the effectiveness of the social robot in tackling the problems they came up with.
+
