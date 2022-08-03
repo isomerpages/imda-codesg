@@ -45,9 +45,6 @@ Their Personal Learning Devices (PLD) enabled the students to carry out research
 
 NAOv6 robot would help to bridge the divide by translating from one language to another.
 
-*"Social robots can improve people's life through helping them with everyday tasks. I am empowered to learn more about social robotics." – P6 CCA Leader 
-*
-
 **Preparation**
 
 The students spent weeks fine-tuning the contents of their sharing or video presentation. They were so tech-savvy! They leveraged Google Slides to work on the presentation collaboratively in real time with their team members. Their video editing skills were put to the test as they experimented with using a green screen and other video effects.
@@ -73,3 +70,7 @@ Saving the best for the last! All the teams had the opportunity to meet with the
 
 ![](/images/events/competitions/Canberra%207.jpg)
 ![](/images/events/competitions/Canberra%208.jpg)
+![](/images/events/competitions/Canberra%2010.jpg)
+![](/images/events/competitions/Canberra%2011.jpg)
+
+\*"Social robots can improve people's life through helping them with everyday tasks. I am empowered to learn more about social robotics." – P6 CCA Leader \*
