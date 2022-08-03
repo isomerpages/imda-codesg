@@ -25,3 +25,9 @@ CCA members were amused by the amazing capabilities of the robot
 
 Some CCA members at the booth during their shift
 ![](/images/events/competitions/SJI%204.png)
+
+Booth packed with intrigued students
+![](/images/events/competitions/SJI%205.png)
+
+Gifts like these were handed out to students who visited the booth
+![](/images/events/competitions/SJI%206.png)
