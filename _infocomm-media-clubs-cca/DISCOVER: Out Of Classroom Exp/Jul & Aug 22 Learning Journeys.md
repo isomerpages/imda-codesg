@@ -61,7 +61,8 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 ![](/images/Icmclub/Drone1.png)
 
-**Learning Journey Details**  
+**<u>Learning Journey Details</u>**
+<br>
 **Dates Available:**  <br>
 
 *   Month of August:  
@@ -81,9 +82,8 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 
 ![](/images/Icmclub/ASTAR.jpg)
 
-**Learning Journey Details**  
-**Dates available:**  
-**Session have been cancelled** 
+**<u>Learning Journey Details (Cancelled)</u>**
+<br>
 
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 25 students per school for each session  
@@ -96,9 +96,7 @@ Live your digital life in the fast lane and get up to speed with 5G when you vis
 Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralised real-time monitoring and more with hands-on experiences.
 ![](/images/Icmclub/5G%20and%20ALOT.jpg)
 
-**Learning Journey Details**  
-**Dates Available:**  
-**Session have been cancelled**
+**<u>Learning Journey Details (Cancelled)</u>**
 
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 30 students per school each session  
