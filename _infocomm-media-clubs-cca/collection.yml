@@ -2,6 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - "SERVE: VIA Projects/VIA Projects Photo Essay Competition.md"
       - "SERVE: VIA Projects/.keep"
       - "SERVE: VIA Projects/SERVE: Values In Actions Projects.md"
       - About.md
