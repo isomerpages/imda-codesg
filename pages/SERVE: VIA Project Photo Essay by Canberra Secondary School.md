@@ -3,7 +3,7 @@ title: "SERVE: VIA Project Photo Essay by Canberra Secondary School"
 permalink: /Photo-Essay-Canberra-Sec
 description: ""
 ---
-### Title: NAOv6 Robot to the Rescue! submitted by Digital Artisans Club ### 
+### Title: NAOv6 Robot to the Rescue! by Digital Artisans Club ### 
 
 ##### **The Journey** 
 Our group of Primary 6 students embarked on the Emerging Tech X VIA project.
