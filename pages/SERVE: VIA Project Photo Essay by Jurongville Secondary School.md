@@ -3,8 +3,7 @@ title: "SERVE: VIA Project Photo Essay by Jurongville Secondary School"
 permalink: /Photo-Essay-Jurongville-Sec
 description: ""
 ---
-
-#### The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" [name]
+#### The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" by Ker Beng Yang
 
 I would like to share my experience in leading and running the Infocomm Media Club Values-In-Action (VIA) Project. With the help of the Exco members, we were able to raise awareness of Artificial Intelligence (AI) in my school. 
 
@@ -22,15 +21,13 @@ Our members were divided into four teams to get the preparations underway. Team 
 ![](/images/events/competitions/JV%202.png)
 
 **The AI Showcase**<br>
-The Artificial Intelligence showcase was then carried out on 25th March at the school canteen during recess. We used a portable projector to display our slides and had two interactive stations where Jv-nites could play and interact with the Alpha Mini as well as an AI Pictoblox program. The program was designed to guess the gender, age and feelings of the participants by scanning their faces using computer vision. The team also was present across the different recesses to engage Jv-nites in different 
-levels. 
+The Artificial Intelligence showcase was then carried out on 25th March at the school canteen during recess. We used a portable projector to display our slides and had two interactive stations where Jv-nites could play and interact with the Alpha Mini as well as an AI Pictoblox program. The program was designed to guess the gender, age and feelings of the participants by scanning their faces using computer vision. The team also was present across the different recesses to engage Jv-nites in different levels. 
 
 While we were initially worried about the booth’s ability to engage our audience, we were immensely thankful for and overwhelmed by the support shown by Jv-nites and teachers alike. The showcase was a success through and through and as a club we could take pride in it as we witnessed our fellow Jv-nites enjoying themselves, exploring and learning about AI.  
 
 **Infocomm Club Member’s Quotes** <br>
 *“Through this VIA project, we have learnt a lot of things besides artificial intelligence, such as time management, working well under pressure, coping with deadlines and developing interpersonal skills. With resilience and confidence, we realised we can achieve more than what we expected. We are thankful to Infocomm Media Development Authority Singapore for their generosity to lend us the Alphamini robot as well as the providing the training to carry out this VIA project.” 
 <br>- Ker Beng Yang, Sec 4, VIA Team Leader*
-
 
 “The VIA project had its challenges especially when it came to brainstorming interesting activities to engage and entice our schoolmates to participate. However, these challenges provided valuable learning for my team and I as we learned how to manage others.”
 <br>- Japer Leow Seow Chuan, Sec 4, Exco of ICC
