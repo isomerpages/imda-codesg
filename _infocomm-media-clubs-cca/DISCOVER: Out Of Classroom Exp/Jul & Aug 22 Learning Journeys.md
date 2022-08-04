@@ -53,6 +53,57 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 
 <i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes </i>
 
+### Drones
+
+#### 65 Drones
+
+Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from a drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights. What’s more, take part in a mini challenge to design a light show and stand a stand to win DJI drone!
+
+![](/images/Icmclub/Drone1.png)
+
+**Learning Journey Details**  
+**Dates Available:**  <br>
+
+*   Month of August:  
+18 August / 29 August <br>
+
+**Open to:** Primary, Secondary and JC Students <br>
+**Capacity:** 20 students per school for each session <br>
+**Location:** NUS Alumni Shaw Foundation House Auditorium 11 Kent Ridge Dr, Singapore 119244
+
+### 5G Network, Internet-of-Things & Automation
+
+#### A\*STAR
+
+Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech.
+
+Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR (Augmented Reality)/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
+
+![](/images/Icmclub/ASTAR.jpg)
+
+**Learning Journey Details**  
+**Dates available:**  
+Session have been cancelled 
+
+**Open to:** Secondary and JC Students  
+**Capacity:** 20 - 25 students per school for each session  
+**Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
+
+#### 5G and AIoT Centre @ Singapore Polytechnic (SP)
+
+Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks.
+
+Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralised real-time monitoring and more with hands-on experiences.
+![](/images/Icmclub/5G%20and%20ALOT.jpg)
+
+**Learning Journey Details**  
+**Dates Available:**  
+Session have been cancelled
+
+**Open to:** Secondary and JC Students  
+**Capacity:** 20 - 30 students per school each session  
+**Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
+
 ### Esports, Media and Content Creation 
 #### The Gym
 
@@ -64,7 +115,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journeys details</u>** 
 <br>
-**Registration is now closed**
+Fully booked
 <br>
 	
 **Open to:** Secondary and JC Students 
