@@ -6,8 +6,12 @@ third_nav_title: "SERVE: VIA Projects"
 ---
 In our inaugural Emerging Tech × Values-in-Action (VIA) Project held in March, 38 schools participated in various training programmes that taught the Club members different fun and interesting tech aspects. 
 
-The students devised creative ways to reach out to their school community and documenting the process in their photo essay to showcase their learning about Artificial Intelligence. 
+Despite the challenges of reaching out to the community, the students devised creative ways to reach out to their school community and documenting the process in these photo essays to showcase what they have learnt about Artificial Intelligence. 
 
-**Curious to find out more? Read the photo essay winning entries below!**
+**Read the photo essay winning entries below!**
 
 * Canberra Secondary School: [Click here](/Photo-Essay-Canberra-Sec)
+* Dunman Secondary School: [Click here](/Photo-Essay-Dunman-Sec)
+* Jurongville Secondary School: [Click here](/Photo-Essay-Jurongville-Sec)
+* Raffles Girls' School: [Click here](/Photo-Essay-Raffles-Girls-Sch)
+* St Joseph's Institution: [Click here ](/Photo-Essay-SJI)
