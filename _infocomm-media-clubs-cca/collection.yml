@@ -2,6 +2,8 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - "SERVE: VIA Projects/SERVE: VIA Project Photo Essay by Canberra
+        Secondary School.md"
       - "SERVE: VIA Projects/.keep"
       - "SERVE: VIA Projects/SERVE: Values In Actions Projects.md"
       - "SERVE: VIA Projects/VIA Projects Photo Essay Competition.md"
