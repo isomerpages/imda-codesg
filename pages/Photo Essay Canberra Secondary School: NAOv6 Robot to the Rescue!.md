@@ -3,13 +3,9 @@ title: "Photo Essay Canberra Secondary School: NAOv6 Robot to the Rescue!"
 permalink: /Photo-Essay-Canberra-Sec
 description: ""
 ---
+###Title: NAOv6 Robot to the Rescue! submitted by Digital Artisans Club 
 
-### Photo Essay Competition 
-
-#### Title: NAOv6 Robot to the Rescue! submitted by Digital Artisans Club 
-
-##### **The Journey**
-##### 
+##### **The Journey** 
 Our group of Primary 6 students embarked on the Emerging Tech X VIA project.
 
 Through the completion of this project, they would become the tech ambassadors for emerging technologies.
@@ -20,7 +16,6 @@ The project started off with a virtual workshop by the instructor on Social Robo
 ![](/images/events/competitions/Canberra%201.jpg)
 
 *"I enjoyed this VIA project. I like how I can make use of Social Robots to engage autistic children and help humans with communications." - P6 CCA LEADER
-*
 
 #### **What's next?**
 
@@ -67,11 +62,15 @@ The students presented via Zoom to their peers during curriculum time. Videos of
 
 **Interacting with NAOv6 robot**
 
-Saving the best for the last! All the teams had the opportunity to meet with the NAOv6 robot during one of their CCA sessions. The teams interacted with the robot to test out their proposed solutions. They played the role of the end user to test the effectiveness of the social robot in tackling the problems they came up with.
 
 ![](/images/events/competitions/Canberra%207.jpg)
+
 ![](/images/events/competitions/Canberra%208.jpg)
+
 ![](/images/events/competitions/Canberra%2010.jpg)
+
 ![](/images/events/competitions/Canberra%2011.jpg)
 
-\*"Social robots can improve people's life through helping them with everyday tasks. I am empowered to learn more about social robotics." – P6 CCA Leader \*
+Saving the best for the last! All the teams had the opportunity to meet with the NAOv6 robot during one of their CCA sessions. The teams interacted with the robot to test out their proposed solutions. They played the role of the end user to test the effectiveness of the social robot in tackling the problems they came up with.
+
+\"Social robots can improve people's life through helping them with everyday tasks. I am empowered to learn more about social robotics." – P6 CCA Leader.
