@@ -15,7 +15,7 @@ The project started off with a virtual workshop by the instructor on Social Robo
 
 ![](/images/events/competitions/Canberra%201.jpg)
 
-*"I enjoyed this VIA project. I like how I can make use of Social Robots to engage autistic children and help humans with communications." - P6 CCA LEADER
+"I enjoyed this VIA project. I like how I can make use of Social Robots to engage autistic children and help humans with communications." - P6 CCA LEADER
 
 #### **What's next?**
 
