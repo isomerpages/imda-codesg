@@ -29,9 +29,7 @@ The above team decided to focus on helping children with autism. The NAOv6 robot
 
 ![](/images/events/competitions/Canberra%203.jpg)
 
-The other team chose to focus on tackling the issue of language barriers between grandparents and their grandchildren.
-
-NAOv6 robot would help to bridge the divide by translating from one language to another.
+The other team chose to focus on tackling the issue of language barriers between grandparents and their grandchildren. NAOv6 robot would help to bridge the divide by translating from one language to another.
 
 **Gearing up!**
 
