@@ -3,10 +3,6 @@ title: "Photo Essay by Raffles Girls School: Recaptcha the moment"
 permalink: /Photo-Essay-Raffles-Girls-Sch
 description: ""
 ---
-
-
-
-### Photo Essay Competition
 #### Title: Recaptcha the moment
 
 
@@ -17,7 +13,7 @@ RGS students learning more about Artificial Intelligence and participating in ou
 Earlier in April, RGS Robotics carried out its CCA Values-In-Action (VIA) project during the school’s HUSH-STEM week — a special week dedicated to appreciating humanities and STEM subjects. As part of the project, we set up a booth on the topic of Artificial Intelligence (AI) with the aim of educating the general school population on the applications and implications of AI. We put up posters with information about AI detailing what constitutes AI, its limitations (e.g. the potential for AI bias) and the potential AI has to revolutionise the way we do things now. 
 
 ![](/images/events/competitions/RGS%203.png)
-RGS students watching a demonstration of the Alpha Mini doing push-ups
+RGS students watching a demonstration of the Alpha Mini doing push-up
 
 Reflecting on this event, the booth was successful in gaining the interest of the student body as many visiting students were engaged, asking questions about AI and were especially interested in the games that harnessed AI to run. 
 
