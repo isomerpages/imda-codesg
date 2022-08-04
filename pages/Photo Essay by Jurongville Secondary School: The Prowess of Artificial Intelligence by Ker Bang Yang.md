@@ -4,9 +4,7 @@ title: "Photo Essay by Jurongville Secondary School: The Prowess of Artificial
 permalink: /Photo-Essay-Jurongville-Sec
 description: ""
 ---
-
-### Photo Essay Competition 
-#### The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" 
+#### The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" [name]
 
 I would like to share my experience in leading and running the Infocomm Media Club Values-In-Action (VIA) Project. With the help of the Exco members, we were able to raise awareness of Artificial Intelligence (AI) in my school. 
 
@@ -46,11 +44,8 @@ Jv-Nites doing the quizzes
 ![](/images/events/competitions/JV%205.jpg)
 Emcee engaging Jv-nites 
 
-![](/images/events/competitions/JV%206.jpg)
-![](/images/events/competitions/JV%207.jpg)
 ![](/images/events/competitions/JV%208.jpg)
 Alpha Mini Robot: Star of the day 
 
-![](/images/events/competitions/JV%209.jpg)
 ![](/images/events/competitions/JV%2010.jpg)
 Pictoblox program guessing Jv-nites, gender, age and feelings
