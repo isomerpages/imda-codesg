@@ -3,8 +3,7 @@ title: "SERVE: VIA Project Photo Essay by Jurongville Secondary School"
 permalink: /Photo-Essay-Jurongville-Sec
 description: ""
 ---
-
-#### The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" by Ker Beng Yang
+#### Title: The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" by Ker Beng Yang
 
 I would like to share my experience in leading and running the Infocomm Media Club Values-In-Action (VIA) Project. With the help of the Exco members, we were able to raise awareness of Artificial Intelligence (AI) in my school. 
 
