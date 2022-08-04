@@ -162,6 +162,7 @@ DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>**
 <br>**Dates available:** <br>
+
 * Month of August: <br>
 16 August / 19 August / 22 August / 23 August / 29 August
 <br>
