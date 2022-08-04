@@ -2,9 +2,9 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - "SERVE: VIA Projects/VIA Projects Photo Essay Competition.md"
-      - "SERVE: VIA Projects/SERVE: Values In Actions Projects.md"
       - "SERVE: VIA Projects/.keep"
+      - "SERVE: VIA Projects/SERVE: Values In Actions Projects.md"
+      - "SERVE: VIA Projects/VIA Projects Photo Essay Competition.md"
       - About.md
       - "DISCOVER: Out Of Classroom Exp/.keep"
       - "DISCOVER: Out Of Classroom Exp/Jul & Aug 22 Learning Journeys.md"
