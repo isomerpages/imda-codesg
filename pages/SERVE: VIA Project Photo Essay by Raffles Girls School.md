@@ -3,7 +3,6 @@ title: "SERVE: VIA Project Photo Essay by Raffles Girls School"
 permalink: /Photo-Essay-Raffles-Girls-Sch
 description: ""
 ---
-
 #### Title: Recaptcha the moment
 
 
