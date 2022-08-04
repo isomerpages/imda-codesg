@@ -2,6 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - "SERVE: VIA Projects/.keep"
       - About.md
       - "DISCOVER: Out Of Classroom Exp/.keep"
       - "DISCOVER: Out Of Classroom Exp/Jul & Aug 22 Learning Journeys.md"
