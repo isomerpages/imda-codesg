@@ -83,7 +83,7 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 
 **Learning Journey Details**  
 **Dates available:**  
-Session have been cancelled 
+**Session have been cancelled** 
 
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 25 students per school for each session  
@@ -98,7 +98,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 
 **Learning Journey Details**  
 **Dates Available:**  
-Session have been cancelled
+**Session have been cancelled**
 
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 30 students per school each session  
@@ -115,7 +115,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journeys details</u>** 
 <br>
-Fully booked
+**Fully booked**
 <br>
 	
 **Open to:** Secondary and JC Students 
