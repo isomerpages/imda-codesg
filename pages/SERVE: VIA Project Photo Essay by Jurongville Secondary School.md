@@ -14,8 +14,9 @@ I would like to share my experience in leading and running the Infocomm Media Cl
 The Infocomm Club members attended the Emerging Tech x VIA training Zoom session where we learnt about the basics of AI, played AI games and had a chance to interact with the Alpha Mini robot. The Alpha Mini robot mesmerised and charmed us with its adorable dance moves and detailed facial expressions. Personally, I enjoyed playing the games powered by AI such as Semantris, Quick Draw and Rock Paper Scissors with my friends. It was really fascinating that the AI in these games could respond and adapt to the player’s behaviour. 
 
 **Preparation**<br>
-![](/images/events/competitions/JV%202.png)
 We planned to have an AI showcase to share our knowledge and the exciting applications of AI with our fellow schoolmates (Jv-nites). As part of our preparation, we took the initiative to deepen our knowledge by completing the AI for Citizens program where we earned digital badges. 
+
+![](/images/events/competitions/JV%202.png)
 
 Our members were divided into four teams to get the preparations underway. Team 1 researched and created PowerPoint slides on an Introduction to AI and real-life AI applications. Team 2 came up with questions and created a Kahoot quiz to check for audience understanding while Team 3 would comprise the emcees and station masters for the AI showcase. Team 4 scripted and filmed a skit with the Alpha M ini robot “AI Buddy”. We used Alpha Mini’s various facial expressions and dynamic moves in the skit to tell the story of a boy and his supportive AI Buddy. 
 
@@ -29,7 +30,6 @@ Jv-Nites doing the quizzes
 Emcee engaging Jv-nites 
 
 While we were initially worried about the booth’s ability to engage our audience, we were immensely thankful for and overwhelmed by the support shown by Jv-nites and teachers alike. The showcase was a success through and through and as a club we could take pride in it as we witnessed our fellow Jv-nites enjoying themselves, exploring and learning about AI. 
-
 
 ![](/images/events/competitions/JV%208.jpg)
 Alpha Mini Robot: Star of the day 
