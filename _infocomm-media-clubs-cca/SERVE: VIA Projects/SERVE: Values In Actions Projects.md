@@ -2,7 +2,9 @@
 title: "SERVE: Values In Actions Projects"
 permalink: /infocomm-media-clubs/serve
 description: ""
+third_nav_title: "SERVE: VIA Projects"
 ---
+
 ### SERVE: Values-In-Action Projects
 
 #### Members will be provided with opportunities to serve their peers and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
