@@ -30,4 +30,4 @@ Each school is eligible to send a delegation of 4 members comprising the chairpe
 Find out more about the appointment of the two new roles <a href="#top">here<a/>.
 
 **Registration**<br>
-Registration is now closed. 
+Registration is now closed.
