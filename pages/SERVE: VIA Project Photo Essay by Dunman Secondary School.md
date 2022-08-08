@@ -3,7 +3,7 @@ title: "SERVE: VIA Project Photo Essay by Dunman Secondary School"
 permalink: /Photo-Essay-Dunman-Sec
 description: ""
 ---
-#### Title: Journey of Ultron-Sentries VS Gideon 
+#### Title: The very fun journey of Dunman's A.I. Learning
 
 The whole experience of carrying out this Values-in-Action (VIA) project has been an enjoyable experience for us as we got to know each other better. It provided us with an avenue for club members from different age groups to come together and work as a team.
 
