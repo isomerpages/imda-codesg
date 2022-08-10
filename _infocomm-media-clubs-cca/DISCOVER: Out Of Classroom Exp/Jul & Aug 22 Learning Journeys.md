@@ -39,11 +39,8 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
 **<u>Learning Journey Details</u>**
-<br>**Dates Available:** 
 <br> 
-* Month of August: <br>
-24 August / 31 August
-<br>
+**Registration is now closed**<br>
 
 **Open to:** Secondary and JC Students 
 <br>
@@ -63,10 +60,7 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 **<u>Learning Journey Details</u>**
 <br>
-**Dates Available:**  <br>
-
-*   Month of August:  
-18 August / 29 August <br>
+**Registration is now closed**
 
 **Open to:** Primary, Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session <br>
@@ -97,6 +91,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 ![](/images/Icmclub/5G%20and%20ALOT.jpg)
 
 **<u>Learning Journey Details</u>**
+<br>
 
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 30 students per school each session  
@@ -116,7 +111,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 <br>
 **Fully booked**
 <br>
-	
+
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 20 Students per school for each session 
@@ -135,7 +130,7 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 <br> **Dates available:** 
 * Month of August:
 <br>	
-22 August / 23 August / 24 August / 26 August / 29 August
+22 August / 23 August / 29 August
 <br> 
 
 **Open to:** Secondary and JC Students 
@@ -163,7 +158,7 @@ DSLR cameras will be provided to all students during the workshop.
 <br>**Dates available:** <br>
 
 * Month of August: <br>
-16 August / 19 August / 22 August / 23 August / 29 August
+22 August / 23 August
 <br>
 
 **Suitable for:** Primary, Secondary and JC Students
