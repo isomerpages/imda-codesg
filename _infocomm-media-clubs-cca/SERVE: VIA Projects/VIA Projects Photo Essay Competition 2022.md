@@ -10,7 +10,7 @@ Despite the challenges of reaching out to the community, the students devised cr
 
 **Read the photo essay winning entries below!**
 
-* [Canberra Secondary School](/Photo-Essay-Canberra-Sec)
+* [Canberra Primary School ](/Photo-Essay-Canberra-Pri)
 * [Dunman Secondary School](/Photo-Essay-Dunman-Sec)
 * [Jurongville Secondary School](/Photo-Essay-Jurongville-Sec)
 * [Raffles Girls' School](/Photo-Essay-Raffles-Girls-Sch)
