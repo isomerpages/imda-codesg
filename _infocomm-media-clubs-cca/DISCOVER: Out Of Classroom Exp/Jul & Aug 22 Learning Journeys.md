@@ -130,7 +130,7 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 <br> **Dates available:** 
 * Month of August:
 <br>	
-22 August / 23 August / 29 August
+29 August
 <br> 
 
 **Open to:** Secondary and JC Students 
