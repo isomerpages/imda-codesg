@@ -7,7 +7,7 @@ description: ""
 
 The curated programmes and activities in the following 5 categories take guidance from MOE’s CCA LEAPS framework and provide more opportunities for club members to obtain CCA points:
 
-* **DISCOVER**: [Out-of-Classroom Learning Experiences](/infocomm-media-clubs/discover/)
+* **DISCOVER**: [Out-of-Classroom Learning Experience](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/discover-out-of-classroom-exp/jul-aug-22)
 * **EXCEL**: [A National Platform to Gain Knowledge, Excel & Receive Recognition](/infocomm-media-clubs-cca/excel)
 * **LEAD**: [Acquire Leadership Skills](/infocomm-media-clubs-cca/lead)
 * **LEARN**: [Training & Deep Skills Acquisition](/infocomm-media-clubs/learn)
