@@ -1,6 +1,6 @@
 ---
 title: Jul & Aug 22 Learning Journeys
-permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Jul-Aug-22
+permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Jul-Aug-22/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
@@ -127,10 +127,8 @@ Digital content creators are a new wave of pioneers, setting new standards on th
 TheSmartLocal is a well-known media publisher known for its quality editorial and video content. Learn from the professionals on digital storyboarding techniques and uncover secrets on how to capture and grab attention with fascinating content.
 
 **<u>Learning Journey Details</u>**
-<br> **Dates available:** 
-* Month of August:
-<br>	
-29 August
+<br>
+**Fully booked**
 <br> 
 
 **Open to:** Secondary and JC Students 
@@ -155,11 +153,7 @@ Learn from the experts on the fundamentals to tips and tricks on photography tec
 DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>**
-<br>**Dates available:** <br>
-
-* Month of August: <br>
-22 August / 23 August
-<br>
+<br>**Fully Booked** <br>
 
 **Suitable for:** Primary, Secondary and JC Students
 <br> 
