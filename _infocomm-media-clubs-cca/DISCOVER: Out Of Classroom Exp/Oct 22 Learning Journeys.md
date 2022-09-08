@@ -9,4 +9,4 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ### Sign up [here](https://go.gov.sg/discoveroct2022)!
 
 ![](/images/Icmclub/Oct%20LJ%201.png)
-![](/images/Icmclub/Oct%20LJ%202.png)
+![](/images/Icmclub/DISCOVER%20Learning%20Journeys%20Oct.png)
