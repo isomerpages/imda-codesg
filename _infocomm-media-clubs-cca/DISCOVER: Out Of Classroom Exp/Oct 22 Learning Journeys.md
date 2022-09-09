@@ -16,8 +16,6 @@ More workshops are happening in October and we look forward to having your Club 
 
 For FAQs, please view [here](/Learning-Journey-FAQs)
 
-### Sign up [here](https://go.gov.sg/discoveroct2022)!
-
 ### **Drones**
 
 #### **65 Drones**
@@ -25,7 +23,7 @@ For FAQs, please view [here](/Learning-Journey-FAQs)
 <br>
 Find out first-hand from a drone technologist on what it takes to design and programme a drone light show and experience "live" first-person view drone flights. Also, take part in a mini challenge to design a light show and stand a chance to win a DJI drone!
 
-<u>Learning Journey Details</u>
+**<u>Learning Journey Details</u>**
 <br>
 **Dates:** 17 Oct / 18 Oct / 19 Oct / 20 Oct <br>
 **Open to:** Primary / Secondary students<br>
@@ -52,7 +50,7 @@ Calling all aspiring photographers! Master the art of taking amazing photos and 
 Do you want to be a compelling digital storyteller? Learn from industry professionals on digital storyboarding techniques and uncover secrets to how you can grab attention with fascinating content. <br>
 
 **<u>Learning Journey Details:**</u> <br>
-**Dates:** 14 Oct / 17 Oct / 18 Oct / 19 Oct / 20 Oct / 21 Oct
+**Dates:** 14 Oct / 17 Oct / 18 Oct / 19 Oct / 20 Oct / 21 Oct <br>
 **Open to:** Secondary / Junior College students<br>
 **Capacity:** 25 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
