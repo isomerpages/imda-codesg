@@ -48,11 +48,11 @@ Calling all aspiring photographers! Master the art of taking amazing photos and 
 
 Do you want to be a compelling digital storyteller? Learn from industry professionals on digital storyboarding techniques and uncover secrets to how you can grab attention with fascinating content. <br>
 
-**<u>Learning Journey Details:**</u> <br>
-**Dates:** 14 Oct / 17 Oct / 18 Oct / 19 Oct / 20 Oct / 21 Oct <br>
-**Open to:** Secondary / Junior College students<br>
-**Capacity:** 25 students per school for each session <br>
-**Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
+<u>**Learning Journey Details:**</u> <br>
+**Dates**: 14 Oct / 17 Oct / 18 Oct / 19 Oct / 20 Oct / 21 Oct <br>
+**Open to**: Secondary / Junior College students<br>
+**Capacity**: 25 students per school for each session <br>
+**Location**: Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
 
 For FAQs, please view [here](/Learning-Journey-FAQs)
 <br>
