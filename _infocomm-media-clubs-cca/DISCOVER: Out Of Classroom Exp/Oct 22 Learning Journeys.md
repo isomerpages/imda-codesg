@@ -6,7 +6,53 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
 ## DISCOVER: Out of Classroom Experiences
 
+#### Post-Examination Workshops
+DISCOVER Learning Journeys are back by popular demand!
+
+More than 1,200 Infocomm Media Club members have already participated and learnt about immersive media, drones, and content creation.
+
+More workshops are happening in October and we look forward to having 
+
+your Club members participate in them!
+
 ### Sign up [here](https://go.gov.sg/discoveroct2022)!
 
-![](/images/Icmclub/DISCOVER%20Learning%20Journeys%20Oct%20(1).png)
-![](/images/Icmclub/DISCOVER%20Learning%20Journeys%20Oct.png)
+### **Drones**
+![](/images/Icmclub/Drone1.png)
+
+#### **65 Drones**
+<br>
+Find out first-hand from a drone technologist on what it takes to design and programme a drone light show and experience "live" first-person view drone flights. Also, take part in a mini challenge to design a light show and stand a chance to win a DJI drone!
+
+<u>Learning Journey Details</u>
+<br>
+**Dates:** 17 Oct / 18 Oct / 19 Oct / 20 Oct <br>
+**Open to:** Primary / Secondary students<br>
+**Capacity:** 20 students per school for each session<br>
+**Location:** NUS Alumni Shaw Foundation House Auditorium, 11 Kent Ridge Dr S119244
+
+### **Esports, Media and Content Creation**
+
+#### **Canon** <br>
+Calling all aspiring photographers! Master the art of taking amazing photos and videos at Canon's Imaging Academy Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos. <br>
+
+**<u>Learning Journey Details</u>**
+<br>
+**Dates:**  17 Oct / 21 Oct / 25 Oct / 27 Oct<br>
+**Open to:** Primary / Secondary students<br>
+**Capacity:** 10 -15 students per school for each session<br>
+**Location:** 1 Fusionopolis Place, Level 3 Galaxis, S138522
+
+#### **The Smart Local** <br>
+Do you want to be a compelling digital storyteller? Learn from industry professionals on digital storyboarding techniques and uncover secrets to how you can grab attention with fascinating content. <br>
+
+**<u>Learning Journey Details:**</u> <br>
+**Dates:** 14 Oct / 17 Oct / 18 Oct / 19 Oct / 20 Oct / 21 Oct
+**Open to:** Secondary / Junior College students<br>
+**Capacity:** 25 students per school for each session <br>
+**Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
+
+For FAQs, please view [here](/Learning-Journey-FAQs)
+<br>
+<br>
+What are you waiting for? [Sign up now!](https://go.gov.sg/discoveroct2022)
