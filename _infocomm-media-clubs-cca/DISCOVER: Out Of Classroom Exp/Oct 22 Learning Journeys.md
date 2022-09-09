@@ -7,12 +7,11 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ## DISCOVER: Out of Classroom Experiences
 
 #### Post-Examination Workshops
-
-##### DISCOVER Learning Journeys are back by popular demand!
+**DISCOVER Learning Journeys are back by popular demand!**
 
 More than 1,200 Infocomm Media Club members have already participated and learnt about immersive media, drones, and content creation.
 
-More workshops are happening in October and we look forward to having your Club members participate in them!
+More workshops are happening in October and we look forward to having your Club members participate in them! [Sign up now!](https://go.gov.sg/discoveroct2022)
 
 For FAQs, please view [here](/Learning-Journey-FAQs)
 
