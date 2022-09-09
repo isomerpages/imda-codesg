@@ -11,7 +11,7 @@ You can sign up from our registration page [here](https://form.gov.sg/#!/6299ab5
 <br>
 
 **2. What are the dates for the learning journeys?** <br>
-The learning journeys are between 18 July to 31 August 2022. The available dates for each journey can be found on the registration page when you sign up.
+The learning journeys are in the month of October 2022. The available dates for each journey can be found on the registration page when you sign up.
 <br>
 <br>
 
