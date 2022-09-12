@@ -32,7 +32,7 @@ Find out first-hand from a drone technologist on what it takes to design and pro
 **Capacity:** 20 students per school for each session<br>
 **Location:** NUS Alumni Shaw Foundation House Auditorium, 11 Kent Ridge Dr S119244
 
-### **Esports, Media and Content Creation**
+### **Media and Content Creation**
 
 #### **Canon** <br>
 ![](/images/Icmclub/Canon.png)
