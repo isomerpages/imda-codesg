@@ -1,23 +1,21 @@
 ---
 title: Learning Journey FAQs
-permalink: /Learning-Journey-FAQs
+permalink: /Learning-Journey-FAQs/
 description: ""
 ---
-
-
 ## FREQUENTLY ASKED QUESTIONS
 
 **1. How do I register for IMDA’s DISCOVER learning journey?** <br>
-You can sign up from our registration page [here](https://form.gov.sg/#!/6299ab5e3635bd0012eb5f59).  Availability is on a first-come-first-served basis.
+You can sign up from our registration page [here](https://go.gov.sg/discoveroct2022).  Availability is on a first-come-first-served basis.
 <br>
 <br>
 
 **2. What are the dates for the learning journeys?** <br>
-The learning journeys are between 18 July to 31 August 2022. The available dates for each journey can be found on the registration page when you sign up.
+The learning journeys are in the month of October 2022. The available dates for each journey can be found on the registration page when you sign up.
 <br>
 <br>
 
-**3\. If I have sign up for DISCOVER in April 2022, can I sign up in July/August 2022 again?**  <br>
+**3\. If I have sign up for DISCOVER in July/August 2022, can I sign up in October 2022 again?**  <br>
 Yes, you can! However, please note that priority will be given to schools that have not participated in our programmes.
 <br>
 <br>
