@@ -11,9 +11,10 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 More than 1,200 Infocomm Media Club members have already participated and learnt about immersive media, drones, and content creation. 
 
-The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis. <br>
-
 More workshops are happening in October and we look forward to having your Club members participate in them! [Sign up now!](https://go.gov.sg/discoveroct2022)
+
+<i>*The DISCOVER experience is open to Primary, Secondary/JC schools only. </i>
+<i> Registration and slots availability are based on a first-come-first-served basis. </i>
 
 For FAQs, please view [here](/Learning-Journey-FAQs)
 
@@ -61,7 +62,10 @@ Do you want to be a compelling digital storyteller? Learn from industry professi
 **Capacity:** 25 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
 
-For FAQs, please view [here](/Learning-Journey-FAQs)
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes.
+*
 <br>
+
+For FAQs, please view [here](/Learning-Journey-FAQs)
 <br>
 What are you waiting for? [Sign up now!](https://go.gov.sg/discoveroct2022)
