@@ -9,4 +9,4 @@ third_nav_title: Upcoming Events
 Come participate in the Infocomm Media Club Teachers Seminar for a sneak peek at the upcoming activities and programmes planned for the 2023 school year in addition to other key updates.
 
 Mark your calendars and stay tuned for  registration details!
-
+![Teachers Seminar Nov 22 EDM](/images/events/workshops-and-exhibitions/Teachersseminar/Teachers%20Seminar%202022%20V3.png)
