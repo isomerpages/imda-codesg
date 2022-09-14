@@ -6,7 +6,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 ---
 ### EXCEL: A National Platform to Gain Knowledge, Excel & Receive Recognition
 
-#### Register and submit your entries [here](https://form.gov.sg/#!/625e313cf3192100131ffe47). Submission closes ~~16 September 2022, 2359 hours~~ **(Extended to 21 September 2022, 2359 hours)
+#### Register and submit your entries [here](https://form.gov.sg/#!/625e313cf3192100131ffe47). Submission closes ~~16 September 2022, 2359 hours~~ **<br>(Extended to 21 September 2022, 2359 hours)
 **
 The Infocomm Media Development Authority (IMDA) has launched the Digital for Life Youth Awards, a national award for youths across the infocomm and media related CCAs in Singapore to ideate, create and inspire others with their innovation and creativity. 
 
