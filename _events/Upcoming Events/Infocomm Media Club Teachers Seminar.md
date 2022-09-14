@@ -10,4 +10,3 @@ Come participate in the Infocomm Media Club Teachers Seminar for a sneak peek at
 
 Mark your calendars and stay tuned for  registration details!
 
-![Teachers Seminar Nov 2022 EDM](/images/events/workshops-and-exhibitions/Teachersseminar/Teachers%20Seminar%202022%20V3.png)
