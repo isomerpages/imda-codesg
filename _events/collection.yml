@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - "Upcoming Events/EXCEL : Infocomm Media Club Teachers Seminar.md"
       - "Upcoming Events/EXCEL : Digital for Life Youth Awards 2022.md"
       - Upcoming Events/.keep
       - "Past Events/LEARN: Student Development Programmes.md"
