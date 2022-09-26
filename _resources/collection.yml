@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Resources.md
-      - Teachers Engagement.md
       - Newsletter.md
