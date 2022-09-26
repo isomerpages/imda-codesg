@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Teachers Engagement.md
       - resources.md
       - Newsletter.md
