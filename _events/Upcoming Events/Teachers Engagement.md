@@ -4,7 +4,7 @@ permalink: /resources/teachers-engagement/
 description: ""
 third_nav_title: Upcoming Events
 ---
-# Teachers Seminar 2022
+# Teachers Seminar Nov 2022
 
 Come participate in the **Infocomm Media Club Teachers Seminar** to look back at the programmes in 2022, get a sneak peek at the upcoming activities and programmes planned for the 2023 school year as well as be inspired by the achievements of fellow Clubs and students. **Happening on Nov 4 at Sands Expo and Convention Centre from 3pm – 6pm.**
 
