@@ -18,6 +18,25 @@ More workshops are happening in October and we look forward to having your Club 
 
 For FAQs, please view [here](/Learning-Journey-FAQs)
 
+
+### IMMERSIVE MEDIA
+![](/images/Icmclub/New%20World%20Carnival%201.jpg)
+Immersive technology will transform 
+
+**<u>Learning Journey Details</u>** <br>
+**Time:** 3pm to 5pm 
+<br>
+**Dates:** 17 Oct / 18 Oct 
+<br>
+**Open to:** Secondary and JC Students <br>
+**Capacity:** 15 - 20 students or 30 - 35 students per school for each session* 
+<br>
+**Location:** 313 Orchard Rd, #03-31, 313 @ Somerset 238895 
+<br>
+
+*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes
+
+
 ### **Drones**
 
 #### **65 Drones**
