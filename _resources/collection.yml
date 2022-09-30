@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - resources.md
+      - Resources.md
       - Newsletter.md
