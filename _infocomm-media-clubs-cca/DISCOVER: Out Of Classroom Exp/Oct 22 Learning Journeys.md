@@ -21,7 +21,6 @@ For FAQs, please view [here](/Learning-Journey-FAQs)
 
 ### IMMERSIVE MEDIA
 ![](/images/Icmclub/New%20World%20Carnival%201.jpg)
-Immersive technology will transform 
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm 
