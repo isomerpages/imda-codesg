@@ -2,10 +2,9 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - LEARN Accelerators/.keep
       - About.md
-      - "DISCOVER: Out Of Classroom Exp/Oct 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/.keep"
+      - "DISCOVER: Out Of Classroom Exp/Oct 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/Jul & Aug 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/April' 22 Learning Journeys.md"
       - "EXCEL: A Platform to Excel/.keep"
@@ -13,6 +12,7 @@ collections:
         Knowledge, Excel & Receive Recognition.md"
       - "EXCEL: A Platform to Excel/Mental Health & Youths Webinar.md"
       - "LEAD: Acquire Leadership Skills.md"
+      - LEARN Accelerators/.keep
       - "LEARN: Courses for Infocomm Media Clubs.md"
       - "SERVE: VIA Projects/.keep"
       - "SERVE: VIA Projects/SERVE: Values In Actions Projects.md"
