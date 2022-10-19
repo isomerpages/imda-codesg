@@ -8,7 +8,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 
 ![New Key Visual for Infocomm Media Club Youth Awards](/images/Icmclub/IMC%20New%20KV.png)
 
-#### Infocomm Media Club Youth Awards (Formerly known as Digital for Life Youth Awards)
+#### Infocomm Media Club Youth Awards  <br>(Formerly known as Digital for Life Youth Awards)
 
 The Infocomm Media Club Youth Awards is a national award designed for members in infocomm and media related CCAs to ideate, create and inspire others with their innovation and creativity. This year, students were challenged to develop tech and media solutions to address mental health issues faced by youth.
 
