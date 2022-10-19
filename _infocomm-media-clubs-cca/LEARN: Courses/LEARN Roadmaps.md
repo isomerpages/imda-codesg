@@ -4,9 +4,6 @@ permalink: /infocomm-media-clubs/learn/roadmaps/
 description: LEARN ROADMAPS
 third_nav_title: "LEARN: Courses"
 ---
-
-
-
 ### LEARN: Courses for Infocomm Media Clubs (previously known as ICM Learning Roadmaps)
 
 Infocomm Media Club members will be provided training in various infocomm and media domains such as Artificial Intelligence, Game Development and Mobile App Development.
