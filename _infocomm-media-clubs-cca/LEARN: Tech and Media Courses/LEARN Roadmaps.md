@@ -21,6 +21,6 @@ Application will open on 4 Nov 2022 and close on 31 January 2023<br>
 
 ![Application Process 2023](/images/Icmclub/Apply_Process_23.png)
 
-*Denotes New Courses 
+*Denotes New Courses
 
 
