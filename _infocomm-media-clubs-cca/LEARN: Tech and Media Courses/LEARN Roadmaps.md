@@ -20,9 +20,3 @@ Apply for the LEARN Roadmaps training courses **(by CCA Teacher-in-Charge or HOD
 [Primary School Application Form](https://form.gov.sg/63403219589d2200124b7fdb) | [Secondary School/JC Application Form](https://form.gov.sg/6340328d71c6110012728842)
 
 ![Application Process 2023](/images/Icmclub/Apply_Process_23.png)
-
-
-
-
-
-
