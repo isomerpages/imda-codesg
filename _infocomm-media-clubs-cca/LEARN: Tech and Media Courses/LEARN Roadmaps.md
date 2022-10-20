@@ -12,11 +12,11 @@ IMDA worked with tech giants to develop industry-backed learning roadmaps that p
 
 IMDA supports each school for up to *2 courses annually, where the training cost is fully funded by IMDA. The training will be conducted at the school premises, during the CCA hours. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
 
-*Schools requiring more course support can write to imda_codesg@imda.gov.sg
+*Schools requiring more course support can write to [imda_codesg@imda.gov.sg](imda_codesg@imda.gov.sg)
 
 [DOWNLOAD THE INFORMATION KIT HERE](/files/icm-learning-roadmap/LEARN%20RM%20Info%20Kit__20Oct23.pdf)
 
-Apply for the LEARN Roadmaps training courses (by CCA Teacher-in-Charge or HOD Equivalent)
+Apply for the LEARN Roadmaps training courses<br>(by CCA Teacher-in-Charge or HOD Equivalent)
 
 Application will open on 4 Nov 2022 and close on 31 January 2023<br>
 [Primary School Application Form](https://form.gov.sg/63403219589d2200124b7fdb) | [Secondary School/JC Application Form](https://form.gov.sg/6340328d71c6110012728842)
