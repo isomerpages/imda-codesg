@@ -27,7 +27,7 @@ Application will open on 4 Nov 2022 and close on 31 January 2023<br>
 
 |**Training Provider**| **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
-|  **Make the Change** | Pedro Agurre<br>[pedro@makethechange.sg](pedro@makethechange.sg)<br> | • Immersive with APPLE (Primary)* <br>• Immersive with APPLE (Secondary/JC) |
+|  **Make the Change** | Pedro Agurre<br>[pedro@makethechange.sg](mailto:pedro@makethechange.sg)<br> | • Immersive with APPLE (Primary)* <br>• Immersive with APPLE (Secondary/JC) |
 |**edm8ker**| See Rui Yin<br>[ruiyin@edm8ker.com](ruiyin@edm8ker.com)<br>8183 5166 <br> |• Social Robotics with SOFTBANK (Primary)* |
 |**Republic Polytechnic**| IvanWee<br>[ivan_wee@rp.edu.sg](ivan_wee@rp.edu.sg)<br>66971128<br>|• Cybersecurity with CISCO (Secondary/ JC)|
 |**Sustainable Living Lab**| Weng Wan Ying<br>[wanying@sustainablelivinglab.org](wanying@sustainablelivinglab.org)<br>8121 4127|• Artificial Intelligence with INTEL<br>(Secondary / JC)|
