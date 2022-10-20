@@ -12,7 +12,7 @@ IMDA worked with tech giants to develop industry-backed learning roadmaps that p
 
 IMDA supports each school for up to *2 courses annually, where the training cost is fully funded by IMDA. The training will be conducted at the school premises, during the CCA hours. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
 
-*Schools requiring more course support can write to [imda_codesg@imda.gov.sg](imda_codesg@imda.gov.sg)
+*Schools requiring more course support can write to [IMDA\_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
 
 [DOWNLOAD THE INFORMATION KIT HERE](/files/icm-learning-roadmap/LEARN%20RM%20Info%20Kit__20Oct23.pdf)
 
