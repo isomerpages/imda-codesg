@@ -16,7 +16,7 @@ IMDA supports each school for up to 2 courses* annually, where the training cost
 
 [DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit2023)
 
-Apply for the LEARN Roadmaps training courses<br>(by CCA Teacher-in-Charge or HOD Equivalent)
+Apply for the LEARN Roadmaps training courses **(by CCA Teacher-in-Charge or HOD Equivalent)**
 
 Application will open on 4 Nov 2022 and close on 31 January 2023<br>
 [Primary School Application Form](https://form.gov.sg/63403219589d2200124b7fdb) | [Secondary School/JC Application Form](https://form.gov.sg/6340328d71c6110012728842)
