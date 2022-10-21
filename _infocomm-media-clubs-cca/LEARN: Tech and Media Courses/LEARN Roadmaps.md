@@ -14,7 +14,7 @@ IMDA supports each school for up to *2 courses annually, where the training cost
 
 Schools requiring more course support can write to [IMDA\Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
 
-[DOWNLOAD THE INFORMATION KIT HERE](/files/icm-learning-roadmap/LEARN%20RM%20Info%20Kit__20Oct23.pdf)
+[DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit2023)
 
 Apply for the LEARN Roadmaps training courses<br>(by CCA Teacher-in-Charge or HOD Equivalent)
 
