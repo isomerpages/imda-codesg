@@ -10,9 +10,9 @@ LEARN Roadmaps are structured training courses, in topics across Infocomm and me
 
 IMDA worked with tech giants to develop industry-backed learning roadmaps that provides industry-specific knowledge on tech and media to develop proficiency in the domain through the partners’ materials and platform. To cater to different interests, IMDA also offer tech and media courses in a broad spectrum of topics through our training partners.
 
-IMDA supports each school for up to *2 courses annually, where the training cost is fully funded by IMDA. The training will be conducted at the school premises, during the CCA hours. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
+IMDA supports each school for up to 2 courses* annually, where the training cost is fully funded by IMDA. The training will be conducted at the school premises, during the CCA hours. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
 
-Schools requiring more course support can write to [IMDA\Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
+* Schools requiring more course support can write to [IMDA\Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
 
 [DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit2023)
 
