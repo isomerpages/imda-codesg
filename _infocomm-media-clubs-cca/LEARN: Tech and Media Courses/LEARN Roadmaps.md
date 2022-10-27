@@ -12,9 +12,6 @@ IMDA partners with industry leaders to develop industry-backed learning roadmaps
 
 Each school i supported with up to 2 courses annually, where the training cost is fully funded by IMDA*. The training will be conducted at the school premises, during the CCA hours. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
 
-*Schools requiring more course support can write to [IMDA\Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
-
-[DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit2023)
 
 **Apply for the LEARN Roadmaps training courses**
 
@@ -39,4 +36,5 @@ Application will open on 4 Nov 2022 and close on 31 January 2023 (Please note th
 |**Roboto**| Brian Lee<br>[brianlee@roboto.sg](mailto:brianlee@roboto.sg)<br>9767 8052<br>|• Game Development (Primary)<br>• Mobile App Development (Primary)<br> • Robotics (Primary)<br> • Game Development (Secondary/JC)|
 |**Stag Match**| Nazreen MY<br>[nazreen@smet.edu.sg](mailto:nazreen@smet.edu.sg)<br><br> Thomas Yeo<br>[thomas.yeo@smet.edu.sg](mailto:thomas.yeo@smet.edu.sg)<br><br>[info@stagmatch.com.sg](mailto:info@stagmatch.com.sg)<br>6612 7165<br>| • Artificial Intelligence (Primary)<br>• Game Development (Secondary/JC)<br> • Robotics (Secondary/JC)|
 
-For enquiries, Schools can contact IMDA at [IMDA\_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg).
+For enquiries, Schools can contact IMDA at [IMDA\_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
+<br>*Schools requiring more course support can write to [IMDA\Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
