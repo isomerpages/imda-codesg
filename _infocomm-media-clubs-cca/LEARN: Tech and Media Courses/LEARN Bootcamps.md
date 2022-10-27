@@ -12,7 +12,7 @@ The LEARN bootcamps aim to provide passionate Club members to enrich their learn
 **Meta Spark Augmented Reality (AR) Studio Bootcamp (Sec/JC)**
 * 5, 7, 8, 9, 11 Nov 2022
 
-In this bootcamp, participants will be introduced to the world of AR, where they create their own interactive AR filters effects using the Spark AR platform, and then publish and share their AR creations through Meta and Instagram. As part of the bootcamp, participants will also get to take part in a nation-wide AR competition and stand to win attractive prizes!
+Immerse in the world of AR, where students can create their own interactive AR filters effects using the Spark AR platform, then publish and share their AR creations through Meta and Instagram. As part of the bootcamp, students will also get to take part in a nation-wide AR competition and stand to win attractive prizes!
 
 Sign up now! [https://go.gov.sg/sparkarnov22](https://go.gov.sg/sparkarnov22)
 
