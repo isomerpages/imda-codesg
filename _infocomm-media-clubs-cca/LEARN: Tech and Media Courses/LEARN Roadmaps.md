@@ -12,6 +12,7 @@ IMDA partners with industry leaders to develop industry-backed learning roadmaps
 
 Each school i supported with up to 2 courses annually, where the training cost is fully funded by IMDA*. The training will be conducted at the school premises, during the CCA hours. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
 
+[DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit22-23)
 
 **Apply for the LEARN Roadmaps training courses**
 
