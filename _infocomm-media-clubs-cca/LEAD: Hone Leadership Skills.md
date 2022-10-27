@@ -3,8 +3,7 @@ title: "LEAD: Hone Leadership Skills"
 permalink: /infocomm-media-clubs-cca/lead/
 description: ""
 ---
-
-### LEAD: Acquire Leadership Skills
+### LEAD: Hone Leadership Skills
 
 <a name="top"></a>
 #### Appointment of Emerging Tech Specialist and Tech for Good Champion
@@ -21,14 +20,5 @@ This student leader will lead his or her peers to plan and execute a Values-in-A
 
 Click [here](/files/infocomm-media-clubs/LEAD%20Selection%20Info%20Kit_Final.pdf) for the nomination process.
 
-#### Infocomm Media Club Student Leadership Conference
+**Check out this space for upcoming training in 2023!**
 
-Be part of our inaugural student leadership conference where Club leaders can be inspired by industry professionals giving talks on Leadership in Tech and Media, Tech for Good, New Frontiers in Media.
-
-**Eligibility**<br>
-Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. 
-
-Find out more about the appointment of the two new roles <a href="#top">here<a/>.
-
-**Registration**<br>
-Registration is now closed.
