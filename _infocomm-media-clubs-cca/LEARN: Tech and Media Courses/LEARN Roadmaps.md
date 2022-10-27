@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs/learn/roadmaps/
 description: LEARN Roadmaps
 third_nav_title: "LEARN: Tech and Media Courses"
 ---
-### LEARN Roadmaps (previously known as ICM Learning Roadmaps)
+### LEARN Roadmaps
 
 LEARN Roadmaps are structured, broad-based training courses, in topics across infocomm and media domains such as Artificial Intelligence, Game Development and New Media. Specifically tailored for Infocomm Media Club students, these courses help develop basic tech and media skills amongst Club members.
 
