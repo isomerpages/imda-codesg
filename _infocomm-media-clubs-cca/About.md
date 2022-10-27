@@ -15,4 +15,4 @@ The curated programmes and activities in the following 5 categories take guidanc
 
 
 
-Download the information kit for details of our programmes [[here]](https://go.gov.sg/learn-roadmaps-infokit2023)
+Download the information kit for details of our programmes [[here]](https://go.gov.sg/infocomm-media-club-about)
