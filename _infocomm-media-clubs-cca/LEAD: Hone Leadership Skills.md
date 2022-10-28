@@ -5,8 +5,7 @@ description: ""
 ---
 ### LEAD: Hone Leadership Skills
 
-<a name="top"></a>
-##### Appointment of Emerging Tech Specialist and Tech for Good Champion
+**Appointment of Emerging Tech Specialist and Tech for Good Champion**
 
 To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
 
