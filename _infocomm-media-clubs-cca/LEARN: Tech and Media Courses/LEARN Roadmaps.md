@@ -38,4 +38,5 @@ Application will open on 4 Nov 2022 and close on 31 January 2023 <br>(Please not
 |**Stag Match**| Nazreen MY<br>[nazreen@smet.edu.sg](mailto:nazreen@smet.edu.sg)<br><br> Thomas Yeo<br>[thomas.yeo@smet.edu.sg](mailto:thomas.yeo@smet.edu.sg)<br><br>[info@stagmatch.com.sg](mailto:info@stagmatch.com.sg)<br>6612 7165<br>| • Artificial Intelligence (Primary)<br>• Game Development (Secondary/JC)<br> • Robotics (Secondary/JC)|
 
 For enquiries, Schools can contact IMDA at [IMDA\_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
-<br>*Schools requiring more course support can write to [IMDA\Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
+
+<br>*Schools requiring more course support can write to [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
