@@ -14,4 +14,4 @@ LEARN covers two training modes:
 <br>These broad-based courses are held during CCA hours at the school’s premises. Teachers-in-charge will choose the courses suitable for their Clubs and apply to IMDA. This Info Kit will cover the application process and the course offerings for LEARN Roadmap in 2023.
 
 **LEARN Bootcamps & Accelerators**
-<br>These fast-tracked learning courses are held outside of school curriculum hours, at external premises. IMDA will inform schools when the bootcamps and accelerators are ready for application, for teachers to disseminate the information to their Club members. Infocomm Media Clubs members can apply to training vendors directly for the bootcamps or accelerators.
+<br>These fast-tracked industry-backed learning courses are held outside of school curriculum hours, at external premises.
