@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs/learn/bootcamps/
 description: LEARN BOOTCAMPS
 third_nav_title: "LEARN: Tech and Media Courses"
 ---
-### LEARN Bootcamps
+## LEARN Bootcamps
 The LEARN bootcamps aim to provide passionate Club members to enrich their learning in tech and media through industry-backed holiday programmes. Club members will have a deeper appreciation of the topics and reinforce their learning through these programmes.
 
 #### Upcoming Bootcamps
