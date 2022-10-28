@@ -12,7 +12,7 @@ sections:
       url: /about/
       key_highlights:
         - title: Code For Fun
-          description: Coding for Schools
+          description: Learn Computational Thinking
           url: /code-for-fun/
         - title: Infocomm Media Club CCA
           description: Coding for Infocomm Media Clubs
