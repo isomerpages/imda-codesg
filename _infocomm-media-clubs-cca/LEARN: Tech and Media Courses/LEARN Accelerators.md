@@ -15,4 +15,4 @@ Commitment: 110 hours
 
 Acquire deep Data Science skills through designing and building solutions to solving real problem statements from partners. Students will learn the necessary machine learning and deep learning skills to design and build their own AI solutions. At the end of the Accelerator, students will obtain the foundational AWS Cloud Practitioner Essentials certification.
 
-Sign up now! [https://go.gov.sg/aws-accel22](https://go.gov.sg/aws-accel22)
+Sign up [now](https://go.gov.sg/aws-accel22)! 
