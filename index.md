@@ -14,8 +14,8 @@ sections:
         - title: Code For Fun
           description: Learn Computational Thinking
           url: /code-for-fun/
-        - title: Infocomm Media Club CCA
-          description: Coding for Infocomm Media Clubs
+        - title: "INFOCOMM MEDIA CLUBS PROGRAMME          "
+          description: For Infocomm Media Club CCAs
           url: /infocomm-media-clubs/
         - title: Newsletter
           description: Check out our newsletter!
