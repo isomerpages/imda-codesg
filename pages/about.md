@@ -20,4 +20,6 @@ Whether or not someone decides to take up an infocomm media career, these are im
 
 ---
 
-![codesg is an initiatve by IMDA](/images/about/imda-dlp-v2.jpeg)
+![](/images/about/IMDA%20&%20DFL.png)
+
+(/images/about/imda-dlp-v2.jpeg)
