@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs-cca/LEARN/Overview/
 description: LEARN Introduction
 third_nav_title: "LEARN: Tech and Media Courses"
 ---
-### LEARN: Broad Based Training and Deep Skills Acquisition
+## LEARN: Broad Based Training and Deep Skills Acquisition
 
 As part of IMDA’s LEARN menu, Infocomm Media Club members will be provided training in various infocomm and media domains such as Artificial Intelligence, Game Development and Mobile App Development. The intent is to spark passion for tech and media skills acquisition.
 
