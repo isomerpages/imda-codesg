@@ -14,9 +14,8 @@ Each school is supported with up to 2 courses annually, where the training cost 
 
 [DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit22-23)
 
-**Apply for the LEARN Roadmaps training courses**
-
-Application will open on 4 Nov 2022 and close on 31 January 2023 <br>(Please note that only HOD equivalent or the CCA Teacher-in-charge is eligible to apply for the courses)<br>
+##### Apply for the LEARN Roadmaps training courses
+Application will open on 4 Nov 2022 and close on 31 January 2023* <br>*Please note that only HOD equivalent or the CCA Teacher-in-charge is eligible to apply for the courses<br>
 [Primary School Application Form](https://form.gov.sg/63403219589d2200124b7fdb) | [Secondary School/JC Application Form](https://form.gov.sg/6340328d71c6110012728842)
 
 ![New Application Process](/images/Icmclub/Apply_Process_20Oct23.jpg)
