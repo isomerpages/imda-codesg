@@ -7,7 +7,7 @@ third_nav_title: "LEARN: Tech and Media Courses"
 ### LEARN Accelerators
 The LEARN Accelerators aim to provide Club members with opportunities to deepen their learning and understanding of tech and media through holistic and intensive programmes, supported by industry leaders. Students will undergo training over 6 to 10 months on weekends and school holidays where they will work on real-life challenges and develop practical tech solutions.
 
-**(Upcoming Accelerators)**
+#### Upcoming Accelerators
 
 **AWS Data Science Accelerator (Sec/JC)**<br>
 Commitment: 110 hours 
