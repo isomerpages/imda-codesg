@@ -3,11 +3,10 @@ title: "LEAD: Hone Leadership Skills"
 permalink: /infocomm-media-clubs-cca/LEAD/
 description: ""
 ---
-
 ### LEAD: Hone Leadership Skills
 
 <a name="top"></a>
-#### Appointment of Emerging Tech Specialist and Tech for Good Champion
+##### Appointment of Emerging Tech Specialist and Tech for Good Champion
 
 To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
 
@@ -22,4 +21,3 @@ This student leader will lead his or her peers to plan and execute a Values-in-A
 Click [here](/files/infocomm-media-clubs/LEAD%20Selection%20Info%20Kit_Final.pdf) for the nomination process.
 
 **Check out this space for upcoming training in 2023!**
-
