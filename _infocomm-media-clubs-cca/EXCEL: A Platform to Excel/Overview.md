@@ -4,7 +4,6 @@ permalink: /infocomm-media-clubs-cca/EXCEL/
 description: ""
 third_nav_title: "EXCEL: A Platform to Excel"
 ---
-
 ## EXCEL: A National Platform to Gain Knowledge, Excel & Receive Recognition
 
 ![New Key Visual for Infocomm Media Club Youth Awards](/images/Icmclub/IMC%20New%20KV.png)
