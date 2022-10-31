@@ -3,16 +3,20 @@ collections:
     output: true
     order:
       - About.md
-      - "DISCOVER: Out Of Classroom Exp/Oct 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/.keep"
+      - "DISCOVER: Out Of Classroom Exp/Overview.md"
+      - "DISCOVER: Out Of Classroom Exp/Oct 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/Jul & Aug 22 Learning Journeys.md"
       - "DISCOVER: Out Of Classroom Exp/April' 22 Learning Journeys.md"
+      - "LEARN: Tech and Media Courses/.keep"
+      - "LEARN: Tech and Media Courses/Overview.md"
+      - "LEARN: Tech and Media Courses/LEARN Roadmaps.md"
+      - "LEARN: Tech and Media Courses/LEARN Accelerators.md"
+      - "LEARN: Tech and Media Courses/LEARN Bootcamps.md"
+      - "LEAD: Hone Leadership Skills.md"
+      - "SERVE: Values In Action/.keep"
+      - "SERVE: Values In Action/Overview.md"
+      - "SERVE: Values In Action/VIA Projects Photo Essay Competition 2022.md"
       - "EXCEL: A Platform to Excel/.keep"
-      - "EXCEL: A Platform to Excel/EXCEL: A National Platform to Gain
-        Knowledge, Excel & Receive Recognition.md"
+      - "EXCEL: A Platform to Excel/Overview.md"
       - "EXCEL: A Platform to Excel/Mental Health & Youths Webinar.md"
-      - "LEAD: Acquire Leadership Skills.md"
-      - "LEARN: Courses for Infocomm Media Clubs.md"
-      - "SERVE: VIA Projects/.keep"
-      - "SERVE: VIA Projects/SERVE: Values In Actions Projects.md"
-      - "SERVE: VIA Projects/VIA Projects Photo Essay Competition 2022.md"
