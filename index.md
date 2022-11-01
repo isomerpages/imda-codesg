@@ -6,7 +6,7 @@ sections:
   - hero:
       title: Code@SG
       subtitle: Developing computational thinking and making as a national capability
-        in Singapore.
+        in Singapore
       background: /images/home-page/banner-image-final-010819.jpg
       button: Learn More
       url: /about/
