@@ -21,7 +21,7 @@ Get started with AI and explore what AI can do. Discover how AI can help you in 
 
 Go on an adventure with Rolly and Mavie and uncover the wonders of AI in your daily lives! Get to learn more about AI through fun-filled comics and interactive activities. Try out the quiz at the end of the book to test your AI knowledge!
 
-The AI activity book will be made available for students who are going through, or have been through the <a href="https://codesg.imda.gov.sg/in-schools/code-for-fun/overview/" target="_blank">Code For Fun Enrichment Programme</a> in primary schools, where you can continue your AI learning journey at home.
+The AI activity book will be made available for students who are going through, or have been through the [Code for Fun Enrichment Programme ](https://codesg.imda.gov.sg/code-for-fun/)  in primary schools, where you can continue your AI learning journey at home.
 	
 Download the activity book [here](/files/resources/IMDA-Ai-Activity-Book.pdf).
 
