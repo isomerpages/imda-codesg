@@ -10,7 +10,7 @@ Want to find out how you can start your tech journey beyond coding? Here are som
 
 This information kit is designed to help teachers plan their school's Infocomm Media Club activites.
 
-[Click here to download a copy!]
+[DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit22-23)
 
 
 ### Artificial Intelligence (AI)
