@@ -14,5 +14,3 @@ The curated programmes and activities in the following 5 pillars take guidance f
 * **[LEAD](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/LEAD/)**: Hone leadership skills through training and opportunities to apply the skills
 * **[SERVE](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/SERVE/)**: Give back to the Community using acquired digital skills through Values-In-Action projects
 * **[EXCEL](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/EXCEL/)**: Compete and be recognized in national Tech and Media competition
-
-Download the information kit for details of our programmes [[here]](https://go.gov.sg/infocomm-media-club-about)

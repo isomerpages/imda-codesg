@@ -4,18 +4,14 @@ breadcrumb: Resources
 title: Resources
 description: ""
 ---
-
 Want to find out how you can start your tech journey beyond coding? Here are some resources that you may find useful to start with. 
 
-### Infocomm Media Club Info Kit
+### LEARN Roadmaps Info Kit
 
 This information kit is designed to help teachers plan their school's Infocomm Media Club activites.
 
-[Click here to download a copy!](/files/icm-learning-roadmap/IMDA%20ICM%20Club%20Info%20Kit.pdf)
+[DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit22-23)
 
-#### Digital for Life Youth Awards 2022
-
-All you need to know about the competition in this handy info kit. Click [here](https://file.go.gov.sg/dflyouthawards.pdf) to download!
 
 ### Artificial Intelligence (AI)
 
@@ -25,7 +21,7 @@ Get started with AI and explore what AI can do. Discover how AI can help you in 
 
 Go on an adventure with Rolly and Mavie and uncover the wonders of AI in your daily lives! Get to learn more about AI through fun-filled comics and interactive activities. Try out the quiz at the end of the book to test your AI knowledge!
 
-The AI activity book will be made available for students who are going through, or have been through the <a href="https://codesg.imda.gov.sg/in-schools/code-for-fun/overview/" target="_blank">Code For Fun Enrichment Programme</a> in primary schools, where you can continue your AI learning journey at home.
+The AI activity book will be made available for students who are going through, or have been through the [Code for Fun Enrichment Programme ](https://codesg.imda.gov.sg/code-for-fun/)  in primary schools, where you can continue your AI learning journey at home.
 	
 Download the activity book [here](/files/resources/IMDA-Ai-Activity-Book.pdf).
 
