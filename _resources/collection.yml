@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Telegram.md
       - Resources.md
       - Newsletter.md
