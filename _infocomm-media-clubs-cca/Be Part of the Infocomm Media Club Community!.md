@@ -4,7 +4,9 @@ permalink: /infocomm-media-clubs-cca/be-part-of-the-community/
 description: ""
 ---
 ### Be Part of the Infocomm Media Club Community!
-### 
+###
+
+
 Adopt the tagline **“An Infocomm Media Club, Powered by IMDA”** on your school website or social media channel and get our exclusive Bluetooth trackers! 
 
 
