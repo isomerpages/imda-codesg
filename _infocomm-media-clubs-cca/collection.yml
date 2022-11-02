@@ -2,6 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - Be Part of the Infocomm Media Club Community!.md
       - About.md
       - "DISCOVER: Out Of Classroom Exp/.keep"
       - "DISCOVER: Out Of Classroom Exp/Overview.md"
