@@ -23,9 +23,9 @@ Please add in the image at the top of the page. Download here.
 
 **Scenario B: Where the club is mentioned in a list**
 <br>
-Please add in text, “An Infocomm Media Club, Powered by Infocomm Media Development Authority.” next to your club name. 
+Please add in text, “An Infocomm Media Club, powered by the Infocomm Media Development Authority.” next to your club name. 
 
-E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, Powered by Infocomm Media Development Authority), Library Club
+E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by the Infocomm Media Development Authority), Library Club
 
 #### Infocomm Media Club Telegram Channel
 
