@@ -25,7 +25,7 @@ Please add in the image at the top of the page. Download here.
 <br>
 Please add in text, “An Infocomm Media Club, powered by the Infocomm Media Development Authority.” next to your club name. 
 
-E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by the Infocomm Media Development Authority), Library Club
+E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by the Infocomm Media Development Authority) and Library Club
 
 #### Infocomm Media Club Telegram Channel
 
