@@ -5,7 +5,7 @@ description: ""
 ---
 ## Be Part of the Infocomm Media Club Community
 
-Adopt the tagline **“An Infocomm Media Club, Powered by IMDA”** on your school website or social media channel and get our exclusive Bluetooth trackers! 
+Adopt the tagline **“An Infocomm Media Club, powered by IMDA”** on your school website or social media channel and get our exclusive Bluetooth trackers! 
 
 **How to redeem the bluetooth trackers**  
 
