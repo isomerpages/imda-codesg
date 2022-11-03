@@ -26,10 +26,10 @@ Download the image [here](https://file.go.gov.sg/imdaimctagline.JPG)
 
 #### **Scenario B: Where the club is mentioned in a list**
 
-Please add in, “An Infocomm Media Club, powered by the Infocomm Media Development Authority.” next to your club name, where appropriate.<br>
+Please add in, “An Infocomm Media Club, powered by the Infocomm Media Development Authority” next to your club name, where appropriate.<br>
 
 
-E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by the Infocomm Media Development Authority) and Library Club
+E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by the Infocomm Media Development Authority) and Library Club.
 
 ### Infocomm Media Club Telegram Channel
 
