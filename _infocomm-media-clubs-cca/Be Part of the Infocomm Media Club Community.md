@@ -11,7 +11,7 @@ Adopt the tagline **“An Infocomm Media Club, powered by IMDA”** on your scho
 
 **Step 1:** Adopt the tagline and take up at least one activity from IMDA Infocomm Media Club’s programme. Check out the programmes [here](https://codesg.imda.gov.sg/infocomm-media-clubs/)!
 
-**Step 2:** Share [link](https://form.gov.sg/63498379a246ba00125e253e) of the webpage/social media channel for verification. IMDA will be in contact within 3 working days to verify the details.
+**Step 2:** Share [link](https://go.gov.sg/imc-tokens-redemption) of the webpage/social media channel for verification. IMDA will be in contact within 3 working days to verify the details.
 
 **Adopting the tagline**
 <br>
