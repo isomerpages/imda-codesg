@@ -31,4 +31,4 @@ E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, Powered by I
 
 Subscribe to our very own Telegram channel where we will share the latest news, updates and event invitations just for teachers.
 
-Subscribe [here](https://go.gov.sg/imda-imc-telegram-channel)! 
+Subscribe [here](https://go.gov.sg/imda-imc-telegram-channel)!
