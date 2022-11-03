@@ -26,3 +26,9 @@ Please add in the image at the top of the page. Download here.
 Please add in text, “An Infocomm Media Club, Powered by Infocomm Media Development Authority.” next to your club name. 
 
 E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, Powered by Infocomm Media Development Authority), Library Club
+
+#### Infocomm Media Club Telegram Channel
+#### 
+Subscribe to our very own Telegram channel where we will share the latest news, updates and event invitations just for teachers.
+
+Subscribe now! [link](https://go.gov.sg/imda-imc-telegram-channel)
