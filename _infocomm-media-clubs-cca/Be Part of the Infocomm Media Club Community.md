@@ -16,7 +16,7 @@ Adopt the tagline and take up at least one activity from IMDA Infocomm Media Clu
 Share [link](https://go.gov.sg/imc-tokens-redemption) of the webpage/social media channel for verification. IMDA will be in contact within 3 working days to verify the details.
 
 ### **Adopting the tagline** <br>
-The Infocomm Media Club tagline is to be used in conjunction with your tech/media CCA club name, to be associated with your club. It is to be applied to school website and social media channels where applicable. 
+The Infocomm Media Club tagline is to be used in conjunction with your tech/media CCA club name. It is to be applied to school website and social media channels where applicable. 
 
 ##### **Scenario A: Where the club has an description page**
 
