@@ -5,7 +5,7 @@ description: ""
 ---
 ## Be Part of the Infocomm Media Club Community
 
-Adopt the tagline **“An Infocomm Media Club, powered by IMDA”** on your school website or social media channel and get our exclusive Bluetooth trackers! 
+Adopt the tagline **“An Infocomm Media Club, powered by IMDA”** on your school website or social media channel and get our exclusive bluetooth trackers! 
 
 ### **How to redeem the bluetooth trackers**  
 
@@ -15,14 +15,14 @@ Adopt the tagline and take up at least one activity from IMDA Infocomm Media Clu
 **Step 2:** <br>
 Share [link](https://go.gov.sg/imc-tokens-redemption) of the webpage/social media channel for verification. IMDA will be in contact within 3 working days to verify the details.
 
-**Adopting the tagline**: <br>
+### **Adopting the tagline** <br>
 The Infocomm Media Club tagline is to be used in conjunction with your tech/media CCA club name, to be associated with your club. It is to be applied to school website and social media channels where applicable. 
 
-#### **Scenario A: Where the club has an description page**
+##### **Scenario A: Where the club has an description page**
 
 Please use the provided image in the club's description page, where appropriate. Download the image [here](https://file.go.gov.sg/imdaimctagline.JPG).
 
-#### **Scenario B: Where the club is mentioned in a list**
+##### **Scenario B: Where the club is mentioned in a list**
 
 Please add “An Infocomm Media Club, powered by the Infocomm Media Development Authority” next to your club name, where appropriate.<br>
 
