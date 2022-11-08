@@ -87,4 +87,4 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 <u> Tech Category </u>
 * Hearbox by Greendale Secondary School   
 * SANITAS MENTIS by Ngee Ann Secondary School    
-* Tinder for Mental Wellness by Presbyterian High School  
+* Tinder for Mental Wellness by Presbyterian High School
