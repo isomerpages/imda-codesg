@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Upcoming Events/.keep
+      - Past Events/Teachers Seminar (Nov).md
       - "Past Events/EXCEL : Infocomm Media Club Youth Awards.md"
       - Past Events/.keep
       - "Past Events/DISCOVER: Teachers' Workshop 2022.md"
