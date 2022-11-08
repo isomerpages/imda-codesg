@@ -21,12 +21,18 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 **Distinction**
 | Media Category | Tech Category | 
 | -------- | -------- | 
-| Text     | Text     |
+| Canberra Secondary School, Scrambled |  Dunman High School,  Tammy Things |
+| Greendale Secondary School, Silver Ribbon: The Next Chapter |  Northbrooks Secondary School, Empowering Youths in Mental Health |
+| Holy Innocents' High School, Minds to Hearts |  Dunman High School,  Tammy Things |
+| Jurongville Secondary School, Power Up! (Retro Game) |  Dunman High School,  Tammy Things |
+| Nanyang Girls' High School, Health in SYNC |  Dunman High School,  Tammy Things |
+
+
+
 
 **Commendation**
 
 
 | Media Category | Tech Category | 
 | -------- | -------- | 
-| Text     | Text     | 
-
+| Text     | Text     |
