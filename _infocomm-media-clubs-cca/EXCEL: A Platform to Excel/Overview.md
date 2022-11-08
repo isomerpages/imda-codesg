@@ -67,13 +67,11 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 
 #### Commendation
 <u> Media Category </u>
-| Silver Ribbon Project by Bedok South Secondary School | Hearbox by Greendale Secondary School     |
-| Overcoming by Catholic High School (Secondary) | SANITAS MENTIS by Ngee Ann Secondary School     |
-| You Are Not Alone by Damai Secondary School | Tinder for Mental Wellness by Presbyterian High School    |
-| HelpOutLoud by Dunman Secondary School | 
-| iHearYou by Fuhua Secondary School | 
-| Seeking Help as Youth by Gan Eng Seng Secondary School | 
-| your_lighthouse by Nan Hua High School | 
+* Silver Ribbon Project by Bedok South Secondary School
+* Overcoming by Catholic High School (Secondary) 
+* You Are Not Alone by Damai Secondary School 
+* HelpOutLoud by Dunman Secondary School 
+* Seeking Help as Youth by Gan Eng Seng Secondary School 
 | The Silver Dove Project by Ngee Ann Secondary School | 
 | Helping teenagers who are facing mental health problems by Northbrooks Secondary School  | 
 | It All Starts Hear Media Project by Peicai Secondary School | 
@@ -86,3 +84,9 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | How would they think? by Yusof Ishak Secondary School |
 
 <u> Tech Category </u>
+* Hearbox by Greendale Secondary School   
+* SANITAS MENTIS by Ngee Ann Secondary School    
+* Tinder for Mental Wellness by Presbyterian High School  
+* iHearYou by Fuhua Secondary School
+* your_lighthouse by Nan Hua High School 
+* Helping teenagers who are facing mental health problems by Northbrooks Secondary School 
