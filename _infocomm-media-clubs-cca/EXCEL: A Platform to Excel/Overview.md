@@ -62,8 +62,8 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | It All Starts Hear Media Project by Peicai Secondary School | Text     |
 | The wall by Presbyterian High School | Text     |
 | stress_pop! by School of Science and Technology | Text     |
-|  | Text     |
-|  | Text     |
+| Help Those Around You by St Hilda's Secondary School | Text     |
+| Resolution by Victoria Secondary School | Text     |
 |  | Text     |
 |  | Text     |
 |  | Text     |
