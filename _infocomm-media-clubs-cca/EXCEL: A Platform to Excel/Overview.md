@@ -57,9 +57,9 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | iHearYou by Fuhua Secondary School | Text     |
 | Seeking Help as Youth by Gan Eng Seng Secondary School | Text     |
 | your_lighthouse by Nan Hua High School | Text     |
-|  | Text     |
-|  | Text     |
-|  | Text     |
+| The Silver Dove Project by Ngee Ann Secondary School | Text     |
+| Helping teenagers who are facing mental health problems by Northbrooks Secondary School  | Text     |
+| It All Starts Hear Media Project by Peicai Secondary School | Text     |
 |  | Text     |
 |  | Text     |
 |  | Text     |
