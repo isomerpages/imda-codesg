@@ -49,4 +49,4 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 **Commendation**
 | Media Category | Tech Category | 
 | -------- | -------- | 
-| Text     | Text     |
+| Bedok South Secondary School | Text     |
