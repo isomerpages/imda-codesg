@@ -21,5 +21,12 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 **Distinction**
 | Media Category | Tech Category | 
 | -------- | -------- | 
+| Text     | Text     |
+
+**Commendation**
+
+
+| Media Category | Tech Category | 
+| -------- | -------- | 
 | Text     | Text     | 
 
