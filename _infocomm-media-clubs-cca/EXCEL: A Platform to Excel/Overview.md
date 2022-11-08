@@ -53,7 +53,6 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Overcoming by Catholic High School (Secondary) | SANITAS MENTIS by Ngee Ann Secondary School     |
 | You Are Not Alone by Damai Secondary School | Tinder for Mental Wellness by Presbyterian High School    |
 | HelpOutLoud by Dunman Secondary School | 
-| Silver Ribbon Project by Bedok South Secondary School | 
 | iHearYou by Fuhua Secondary School | 
 | Seeking Help as Youth by Gan Eng Seng Secondary School | 
 | your_lighthouse by Nan Hua High School | 
