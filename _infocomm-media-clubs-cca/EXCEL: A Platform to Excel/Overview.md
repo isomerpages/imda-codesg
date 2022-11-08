@@ -54,8 +54,17 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | You Are Not Alone by Damai Secondary School | Text     |
 | HelpOutLoud by Dunman Secondary School | Text     |
 | Silver Ribbon Project by Bedok South Secondary School | Text     |
-| Silver Ribbon Project by Bedok South Secondary School | Text     |
-| Silver Ribbon Project by Bedok South Secondary School | Text     |
-| Silver Ribbon Project by Bedok South Secondary School | Text     |
-| Silver Ribbon Project by Bedok South Secondary School | Text     |
-| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| iHearYou by Fuhua Secondary School | Text     |
+| Seeking Help as Youth by Gan Eng Seng Secondary School | Text     |
+| your_lighthouse by Nan Hua High School | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
+|  | Text     |
