@@ -64,7 +64,6 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | stress_pop! by School of Science and Technology | Text     |
 | Help Those Around You by St Hilda's Secondary School | Text     |
 | Resolution by Victoria Secondary School | Text     |
-|  | Text     |
-|  | Text     |
-|  | Text     |
-|  | Text     |
+| Shine A Light by Woodlands Secondary School | Text     |
+| Good health and well-being by Yuhua Secondary School | Text     |
+| How would they think? by Yusof Ishak Secondary School | Text     |
