@@ -30,10 +30,10 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 **Accomplishment**
 | Media Category | Tech Category | 
 | -------- | -------- | 
-| Demystifying Help by Anglo-Chinese School (Independent)   | New Epic Radio Device (N.E.R.D) by Bukit View Secondary School   |
+| Demystifying Help by Anglo-Chinese School (Independent)  | New Epic Radio Device (N.E.R.D) by Bukit View Secondary School   |
 | Mental Health Silver Ribbon by Boon Lay Secondary School   | FLOW - Overcome Challenges by Clementi Town Secondary School  |
 | Don't just sit there, seek support! by Christ Church Secondary School  | Cordial Minnie by Hua Yi Secondary School |
-| Spot Mental Illness Now! by Clementi Town Secondary School   |  The LIGHTHOUSE by Jurongville Secondary School   |
+| Spot Mental Illness Now! by Clementi Town Secondary School   |  The LIGHTHOUSE by Jurongville Secondary School  |
 | Seek Help Now! by Edgefield Secondary School | Ment4You by Methodist Girls' School |
 | Help.sg by Greenridge Secondary School  | Mental Health Warriors by Nan Chiau High School  |
 | Wellness begins ‘hear’ by Hua Yi Secondary School   | Artificial Intelligence, Authentic Smile by North Vista Secondary School  |
@@ -60,8 +60,8 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | The Silver Dove Project by Ngee Ann Secondary School | Text     |
 | Helping teenagers who are facing mental health problems by Northbrooks Secondary School  | Text     |
 | It All Starts Hear Media Project by Peicai Secondary School | Text     |
-|  | Text     |
-|  | Text     |
+| The wall by Presbyterian High School | Text     |
+| stress_pop! by School of Science and Technology | Text     |
 |  | Text     |
 |  | Text     |
 |  | Text     |
