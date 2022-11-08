@@ -27,12 +27,13 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Jurongville Secondary School, Power Up! (Retro Game) |  Dunman High School,  Tammy Things |
 | Nanyang Girls' High School, Health in SYNC |  Dunman High School,  Tammy Things |
 
-
+**Accomplishment**
+| Media Category | Tech Category | 
+| -------- | -------- | 
+| Text     | Text     |
 
 
 **Commendation**
-
-
 | Media Category | Tech Category | 
 | -------- | -------- | 
 | Text     | Text     |
