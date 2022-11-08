@@ -32,7 +32,7 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Empowering Youths in Mental Health by Northbrooks Secondary School 
 * Healing Cafe by Raffles Girls' School 
 * MentalStop by School of Science and Technology 
-* Be Well Buddy by St Margarets'
+* Be Well Buddy by St Margaret's Secondary School
 
 #### Accomplishment
 <u> Media Category </u>
