@@ -49,4 +49,13 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 **Commendation**
 | Media Category | Tech Category | 
 | -------- | -------- | 
-| Bedok South Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| Overcoming by Catholic High School (Secondary) | Text     |
+| You Are Not Alone by Damai Secondary School | Text     |
+| HelpOutLoud by Dunman Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
+| Silver Ribbon Project by Bedok South Secondary School | Text     |
