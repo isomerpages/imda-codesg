@@ -46,6 +46,11 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Strengthening Youths in the Network of care by Mayflower Secondary
 * The Counsel Council 🌱❤️ by Methodist Girls' School   
 * What Meets The 'I' by Pasir Ris Crest Secondary School  
+* You deserve to be happy by Paya Lebar Methodist Girls' School 
+* A letter to me by Raffles Girls' School
+* Mental Health in Youth by Seng Kang Secondary School 
+* Love Yourself by Tampines Secondary School
+* Seek Help - It's Okay not to be Okay by Teck Whye Secondary 
 
 <u>Tech Category </u>
 * New Epic Radio Device (N.E.R.D) by Bukit View Secondary School   
@@ -57,16 +62,11 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Artificial Intelligence, Authentic Smile by North Vista Secondary School  
 * The Mental Health Pit Stop by Paya Lebar Methodist Girls' School 
 * Griffles Cares! by Raffles Institution (Secondary) 
-* Mental Health NOW! by Serangoon Secondary School  |
-| You deserve to be happy by Paya Lebar Methodist Girls' School   | MentWell by Zhonghua Secondary School  |
-| A letter to me by Raffles Girls' School |    
-| Mental Health in Youth by Seng Kang Secondary School |  |
-| Love Yourself by Tampines Secondary School  |   |
-| Seek Help - It's Okay not to be Okay by Teck Whye Secondary School |    |
+* Mental Health NOW! by Serangoon Secondary School 
+* MentWell by Zhonghua Secondary School  
 
-**Commendation**
-| Media Category | Tech Category | 
-| -------- | -------- | 
+#### Commendation
+<u> Media Category </u>
 | Silver Ribbon Project by Bedok South Secondary School | Hearbox by Greendale Secondary School     |
 | Overcoming by Catholic High School (Secondary) | SANITAS MENTIS by Ngee Ann Secondary School     |
 | You Are Not Alone by Damai Secondary School | Tinder for Mental Wellness by Presbyterian High School    |
@@ -84,3 +84,5 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Shine A Light by Woodlands Secondary School | 
 | Good health and well-being by Yuhua Secondary School | 
 | How would they think? by Yusof Ishak Secondary School |
+
+<u> Tech Category </u>
