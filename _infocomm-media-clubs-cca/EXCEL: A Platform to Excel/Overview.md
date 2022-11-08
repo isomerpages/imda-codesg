@@ -34,14 +34,14 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Mental Health Silver Ribbon by Boon Lay Secondary School   | FLOW - Overcome Challenges by Clementi Town Secondary School  |
 | Don't just sit there, seek support! by Christ Church Secondary School  | Cordial Minnie by Hua Yi Secondary School |
 | Spot Mental Illness Now! by Clementi Town Secondary School   |  The LIGHTHOUSE by Jurongville Secondary Schoo   |
-| Seek Help Now! by Edgefield Secondary School |  |
-| Help.sg by Greenridge Secondary School  | Text     |
-| Wellness begins ‘hear’ by Hua Yi Secondary School   | Text     |
+| Seek Help Now! by Edgefield Secondary School | Ment4You by Methodist Girls' School |
+| Help.sg by Greenridge Secondary School  | Mental Health Warriors by Nan Chiau High School  |
+| Wellness begins ‘hear’ by Hua Yi Secondary School   | Artificial Intelligence, Authentic Smile by North Vista Secondary School  |
 | Strengthening Youths in the Network of care by Mayflower Secondary School   | Text     |
 | The Counsel Council 🌱❤️ by Methodist Girls' School   | Text     |
 | What Meets The 'I' by Pasir Ris Crest Secondary School   | Text   |
 | You deserve to be happy by Paya Lebar Methodist Girls' School   | Text     |
-| A letter to me by Raffles Girls' School | Text     |
+| A letter to me by Raffles Girls' School |    |
 | Mental Health in Youth by Seng Kang Secondary School | Text     |
 | Love Yourself by Tampines Secondary School  | Text     |
 | Seek Help - It's Okay not to be Okay by Teck Whye Secondary School | Text     |
