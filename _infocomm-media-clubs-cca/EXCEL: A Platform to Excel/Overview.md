@@ -27,7 +27,7 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Health in SYNC by Nanyang Girls' High School 
 
 <u>Tech Category </u>
-* HopeHub - A Bot which Identies Signs of Distress by Catholic High
+* HopeHub - A Bot which Identies Signs of Distress by Catholic High School 
 * Tammy Things by Dunman High School
 * Empowering Youths in Mental Health by Northbrooks Secondary School 
 * Healing Cafe by Raffles Girls' School 
@@ -38,19 +38,19 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 <u> Media Category </u>
 * Demystifying Help by Anglo-Chinese School (Independent)  
 * Mental Health Silver Ribbon by Boon Lay Secondary School
-* Don't just sit there, seek support! by Christ Church Secondary School 
+* Don't Just Sit There, Seek Support! by Christ Church Secondary School 
 * Spot Mental Illness Now! by Clementi Town Secondary School 
 * Seek Help Now! by Edgefield Secondary School
 * Help.sg by Greenridge Secondary School
-* Wellness begins ‘hear’ by Hua Yi Secondary School  
-* Strengthening Youths in the Network of care by Mayflower Secondary
+* Wellness Begins ‘Hear’ by Hua Yi Secondary School  
+* Strengthening Youths in the Network of care by Mayflower Secondary School
 * The Counsel Council 🌱❤️ by Methodist Girls' School   
 * What Meets The 'I' by Pasir Ris Crest Secondary School  
-* You deserve to be happy by Paya Lebar Methodist Girls' School 
-* A letter to me by Raffles Girls' School
+* You Deserve To Be Happy by Paya Lebar Methodist Girls' School 
+* A Letter To Me by Raffles Girls' School
 * Mental Health in Youth by Seng Kang Secondary School 
 * Love Yourself by Tampines Secondary School
-* Seek Help - It's Okay not to be Okay by Teck Whye Secondary 
+* Seek Help - It's Okay not to be Okay by Teck Whye Secondary School
 
 <u>Tech Category </u>
 * New Epic Radio Device (N.E.R.D) by Bukit View Secondary School   
@@ -61,31 +61,31 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Mental Health Warriors by Nan Chiau High School  
 * Artificial Intelligence, Authentic Smile by North Vista Secondary School  
 * The Mental Health Pit Stop by Paya Lebar Methodist Girls' School 
-* Griffles Cares! by Raffles Institution (Secondary) 
+* Griffles Cares! by Raffles Institution 
 * Mental Health NOW! by Serangoon Secondary School 
 * MentWell by Zhonghua Secondary School  
 
 #### Commendation
 <u> Media Category </u>
 * Silver Ribbon Project by Bedok South Secondary School
-* Overcoming by Catholic High School (Secondary) 
+* Overcoming by Catholic High School  
 * You Are Not Alone by Damai Secondary School 
 * HelpOutLoud by Dunman Secondary School 
 *  iHearYou by Fuhua Secondary School
 * Seeking Help as Youth by Gan Eng Seng Secondary School 
-* your_lighthouse by Nan Hua High School 
+* Your_Lighthouse by Nan Hua High School 
 * The Silver Dove Project by Ngee Ann Secondary School 
-* Helping teenagers who are facing mental health problems by Northbrooks Secondary School
+* Helping Teenagers Who Are Facing Mental Health Problems by Northbrooks Secondary School
 * It All Starts Hear Media Project by Peicai Secondary School
-* The wall by Presbyterian High School
-* Stress_pop! by School of Science and Technology 
+* The Wall by Presbyterian High School
+* Stress_Pop! by School of Science and Technology 
 * Help Those Around You by St Hilda's Secondary School
 * Resolution by Victoria Secondary School
 * Shine A Light by Woodlands Secondary School 
-* Good health and well-being by Yuhua Secondary School 
-* How would they think? by Yusof Ishak Secondary School 
+* Good Health and Well-Being by Yuhua Secondary School 
+* How Would They Think? by Yusof Ishak Secondary School 
 
 <u> Tech Category </u>
 * Hearbox by Greendale Secondary School   
 * SANITAS MENTIS by Ngee Ann Secondary School    
-* Tinder for Mental Wellness by Presbyterian High School
+* Tinder For Mental Wellness by Presbyterian High School
