@@ -71,22 +71,20 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Overcoming by Catholic High School (Secondary) 
 * You Are Not Alone by Damai Secondary School 
 * HelpOutLoud by Dunman Secondary School 
+*  iHearYou by Fuhua Secondary School
 * Seeking Help as Youth by Gan Eng Seng Secondary School 
-| The Silver Dove Project by Ngee Ann Secondary School | 
-| Helping teenagers who are facing mental health problems by Northbrooks Secondary School  | 
-| It All Starts Hear Media Project by Peicai Secondary School | 
-| The wall by Presbyterian High School | 
-| stress_pop! by School of Science and Technology | 
-| Help Those Around You by St Hilda's Secondary School |
-| Resolution by Victoria Secondary School | 
-| Shine A Light by Woodlands Secondary School | 
-| Good health and well-being by Yuhua Secondary School | 
-| How would they think? by Yusof Ishak Secondary School |
+* your_lighthouse by Nan Hua High School 
+* The Silver Dove Project by Ngee Ann Secondary School 
+* Helping teenagers who are facing mental health problems by Northbrooks Secondary School
+* It All Starts Hear Media Project by Peicai Secondary School
+* stress_pop! by School of Science and Technology 
+* Help Those Around You by St Hilda's Secondary School
+* Resolution by Victoria Secondary School
+* Shine A Light by Woodlands Secondary School 
+* Good health and well-being by Yuhua Secondary School 
+* How would they think? by Yusof Ishak Secondary School 
 
 <u> Tech Category </u>
 * Hearbox by Greendale Secondary School   
 * SANITAS MENTIS by Ngee Ann Secondary School    
 * Tinder for Mental Wellness by Presbyterian High School  
-* iHearYou by Fuhua Secondary School
-* your_lighthouse by Nan Hua High School 
-* Helping teenagers who are facing mental health problems by Northbrooks Secondary School 
