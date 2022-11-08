@@ -36,7 +36,7 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Spot Mental Illness Now! by Clementi Town Secondary School   | Text     |
 | Seek Help Now! by Edgefield Secondary School | Text     |
 | Help.sg by Greenridge Secondary School  | Text     |
-| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Wellness begins ‘hear’ by Hua Yi Secondary School   | Text     |
 | Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
 | Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
 | Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
