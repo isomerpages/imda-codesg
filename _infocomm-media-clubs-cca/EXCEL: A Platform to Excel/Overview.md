@@ -16,31 +16,48 @@ The Infocomm Media Club Youth Awards is a national award designed for members in
 
 The finalists will be presenting their entries on 4th November 2022 at Marina Bay Sands for the final judging. Teams awarded Distinction of the Tech category and the Media category will score a one-week Immersion Programme at J. P. Morgan and Bloomr.sg respectively, as well as receive up to $750 worth of attractive prizes!
 
-##### We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards.
+### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards.**
+#### Distinction
+<u> Media Category </u>
+* Scrambled by Canberra Secondary School 
+* Silver Ribbon: The Next Chapter by Greendale Secondary School 
+* Minds to Hearts by Holy Innocents' High School   
+* I Am Different by Kent Ridge Secondary School 
+* Power Up! (Retro Game) by Jurongville Secondary School  
+* Health in SYNC by Nanyang Girls' High School 
 
-**Distinction**
-| Media Category | Tech Category |  
-| -------- | -------- | 
-| Scrambled by Canberra Secondary School |  HopeHub - A Bot which Identies Signs of Distress by Catholic High |  <br>
-| Silver Ribbon: The Next Chapter by Greendale Secondary School | Tammy Things by Dunman High School |  <br>
-|  Minds to Hearts by Holy Innocents' High School  |  Empowering Youths in Mental Health by Northbrooks Secondary School |  <br>
-| I Am Different by Kent Ridge Secondary School  | Healing Cafe by Raffles Girls' School |   <br>
-| Power Up! (Retro Game) by Jurongville Secondary School |  MentalStop by School of Science and Technology |  <br>
-| Health in SYNC by Nanyang Girls' High School | Be Well Buddy by St Margarets' |  <br>
+<u>Tech Category </u>
+* HopeHub - A Bot which Identies Signs of Distress by Catholic High
+* Tammy Things by Dunman High School
+* Empowering Youths in Mental Health by Northbrooks Secondary School 
+* Healing Cafe by Raffles Girls' School 
+* MentalStop by School of Science and Technology 
+* Be Well Buddy by St Margarets'
 
-**Accomplishment**
-| Media Category | Tech Category | 
-| -------- | -------- | 
-| Demystifying Help by Anglo-Chinese School (Independent)  | New Epic Radio Device (N.E.R.D) by Bukit View Secondary School   |
-| Mental Health Silver Ribbon by Boon Lay Secondary School   | FLOW - Overcome Challenges by Clementi Town Secondary School  |
-| Don't just sit there, seek support! by Christ Church Secondary School  | Cordial Minnie by Hua Yi Secondary School |
-| Spot Mental Illness Now! by Clementi Town Secondary School   |  The LIGHTHOUSE by Jurongville Secondary School  |
-| Seek Help Now! by Edgefield Secondary School | Ment4You by Methodist Girls' School |
-| Help.sg by Greenridge Secondary School  | Mental Health Warriors by Nan Chiau High School  |
-| Wellness begins ‘hear’ by Hua Yi Secondary School   | Artificial Intelligence, Authentic Smile by North Vista Secondary School  |
-| Strengthening Youths in the Network of care by Mayflower Secondary School  | The Mental Health Pit Stop by Paya Lebar Methodist Girls' School  |
-| The Counsel Council 🌱❤️ by Methodist Girls' School   | Griffles Cares! by Raffles Institution (Secondary) |
-| What Meets The 'I' by Pasir Ris Crest Secondary School   | Mental Health NOW! by Serangoon Secondary School  |
+#### Accomplishment
+<u> Media Category </u>
+* Demystifying Help by Anglo-Chinese School (Independent)  
+* Mental Health Silver Ribbon by Boon Lay Secondary School
+* Don't just sit there, seek support! by Christ Church Secondary School 
+* Spot Mental Illness Now! by Clementi Town Secondary School 
+* Seek Help Now! by Edgefield Secondary School
+* Help.sg by Greenridge Secondary School
+* Wellness begins ‘hear’ by Hua Yi Secondary School  
+* Strengthening Youths in the Network of care by Mayflower Secondary
+* The Counsel Council 🌱❤️ by Methodist Girls' School   
+* What Meets The 'I' by Pasir Ris Crest Secondary School  
+
+<u>Tech Category </u>
+* New Epic Radio Device (N.E.R.D) by Bukit View Secondary School   
+* FLOW - Overcome Challenges by Clementi Town Secondary School 
+* Cordial Minnie by Hua Yi Secondary School 
+* The LIGHTHOUSE by Jurongville Secondary School  
+* Ment4You by Methodist Girls' School 
+* Mental Health Warriors by Nan Chiau High School  
+* Artificial Intelligence, Authentic Smile by North Vista Secondary School  
+* The Mental Health Pit Stop by Paya Lebar Methodist Girls' School 
+* Griffles Cares! by Raffles Institution (Secondary) 
+* Mental Health NOW! by Serangoon Secondary School  |
 | You deserve to be happy by Paya Lebar Methodist Girls' School   | MentWell by Zhonghua Secondary School  |
 | A letter to me by Raffles Girls' School |    
 | Mental Health in Youth by Seng Kang Secondary School |  |
