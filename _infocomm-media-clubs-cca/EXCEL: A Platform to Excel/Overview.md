@@ -16,7 +16,7 @@ The Infocomm Media Club Youth Awards is a national award designed for members in
 
 The finalists will be presenting their entries on 4th November 2022 at Marina Bay Sands for the final judging. Teams awarded Distinction of the Tech category and the Media category will score a one-week Immersion Programme at J. P. Morgan and Bloomr.sg respectively, as well as receive up to $750 worth of attractive prizes!
 
-### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
+#### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
 #### Distinction
 <u> Media Category </u>
 * Scrambled by Canberra Secondary School 
