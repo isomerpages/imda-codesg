@@ -31,6 +31,16 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Media Category | Tech Category | 
 | -------- | -------- | 
 | Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Mental Health Silver Ribbon by Boon Lay Secondary School   | Text     |
+| Don't just sit there, seek support! by Christ Church Secondary School  | Text     |
+| Spot Mental Illness Now! by Clementi Town Secondary School   | Text     |
+| Seek Help Now! by Edgefield Secondary School | Text     |
+| Help.sg by Greenridge Secondary School  | Text     |
+| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
 
 **Commendation**
 | Media Category | Tech Category | 
