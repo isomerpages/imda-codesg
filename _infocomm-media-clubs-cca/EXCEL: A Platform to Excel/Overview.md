@@ -37,10 +37,14 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 | Seek Help Now! by Edgefield Secondary School | Text     |
 | Help.sg by Greenridge Secondary School  | Text     |
 | Wellness begins ‘hear’ by Hua Yi Secondary School   | Text     |
-| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
-| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
-| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
-| Demystifying Help by Anglo-Chinese School (Independent)   | Text     |
+| Strengthening Youths in the Network of care by Mayflower Secondary School   | Text     |
+| The Counsel Council 🌱❤️ by Methodist Girls' School   | Text     |
+| What Meets The 'I' by Pasir Ris Crest Secondary School   | Text   |
+| You deserve to be happy by Paya Lebar Methodist Girls' School   | Text     |
+| A letter to me by Raffles Girls' School | Text     |
+| Mental Health in Youth by Seng Kang Secondary School | Text     |
+| Love Yourself by Tampines Secondary School  | Text     |
+| Seek Help - It's Okay not to be Okay by Teck Whye Secondary School | Text     |
 
 **Commendation**
 | Media Category | Tech Category | 
