@@ -18,7 +18,7 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 
 #### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
 #### Distinction
-![]()
+![](/images/events/competitions/Media%20Distinction.jpg)
 <u> Media Category </u>
 * Scrambled by Canberra Secondary School 
 * Silver Ribbon: The Next Chapter by Greendale Secondary School 
