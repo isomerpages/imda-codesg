@@ -19,7 +19,9 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 #### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
 #### Distinction
 <u> Media Category </u>
-![](/images/events/competitions/Media%20Distinction.jpg)
+![](/images/events/competitions/Media%20Distinction.jpg) 
+*From Left to Right, Top row: Canberra Secondary School and Greendale Secondary School. Middle Row: Holy Innocents' High School and Kent Ridge Secondary School. Last Row: Jurongville Secondary School and Nanyang Girls' High School.* <br>
+
 * Scrambled by Canberra Secondary School 
 * Silver Ribbon: The Next Chapter by Greendale Secondary School 
 * Minds to Hearts by Holy Innocents' High School   
@@ -29,6 +31,8 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 
 <u>Tech Category </u>
 ![](/images/events/competitions/Tech%20Distinction.jpg)
+*From Left to Right: Top Row: Catholic High School and Dunman High School. Middle Row: Northbrooks Secondary School and Raffles Girls' School. Last Row: School of Science and Technology and St Margaret's Secondary School. <br>*
+
 * HopeHub - A Bot which Identies Signs of Distress by Catholic High School 
 * Tammy Things by Dunman High School
 * Empowering Youths in Mental Health by Northbrooks Secondary School 
