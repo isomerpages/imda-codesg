@@ -18,8 +18,8 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 
 #### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
 #### Distinction
-![](/images/events/competitions/Media%20Distinction.jpg)
 <u> Media Category </u>
+![](/images/events/competitions/Media%20Distinction.jpg)
 * Scrambled by Canberra Secondary School 
 * Silver Ribbon: The Next Chapter by Greendale Secondary School 
 * Minds to Hearts by Holy Innocents' High School   
@@ -27,8 +27,8 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 * Power Up! (Retro Game) by Jurongville Secondary School  
 * Health in SYNC by Nanyang Girls' High School 
 
-![](/images/events/competitions/Tech%20Distinction.jpg)
 <u>Tech Category </u>
+![](/images/events/competitions/Tech%20Distinction.jpg)
 * HopeHub - A Bot which Identies Signs of Distress by Catholic High School 
 * Tammy Things by Dunman High School
 * Empowering Youths in Mental Health by Northbrooks Secondary School 
