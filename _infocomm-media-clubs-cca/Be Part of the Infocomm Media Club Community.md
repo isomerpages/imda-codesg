@@ -20,7 +20,7 @@ The Infocomm Media Club tagline is to be used in conjunction with your tech/medi
 
 ##### **Scenario A: Where the club has an description page**
 
-Please use the provided image in the club's description page, where appropriate. Download the image [here](https://go.gov.sg/infocomm-media-club-tagline)
+Please use the provided image in the club's description page, where appropriate. Download the image [here](https://go.gov.sg/imdaimctagline)
 
 ##### **Scenario B: Where the club is mentioned in a list**
 
