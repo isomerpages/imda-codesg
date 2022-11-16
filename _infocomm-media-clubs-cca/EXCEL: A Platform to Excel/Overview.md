@@ -10,11 +10,11 @@ third_nav_title: "EXCEL: A Platform to Excel"
 
 #### Infocomm Media Club Youth Awards 
 
-The Infocomm Media Club Youth Awards is a national award designed for members in infocomm and media related CCAs to ideate, create and inspire others with their innovations. This year, students are challenged to develop tech and media solutions to address mental health issues faced by youth.
+The Infocomm Media Club Youth Awards is a national award designed for members in infocomm and media related CCAs to ideate, create and inspire others with their innovations. This year, students developed tech and media solutions to address mental health issues faced by youth.
 
 **249 students** from **46 schools** submitted **over 50 entries** to address the problem statements issued by the 4 non-profit organisations, Campus PSY, It All Starts Hear.SG (IASH.SG), Silver Ribbon and Strengthening Youths in a Network of Care (SYNC).
 
-The finalists will be presenting their entries on 4th November 2022 at Marina Bay Sands for the final judging. Teams awarded Distinction of the Tech category and the Media category will score a one-week Immersion Programme at J. P. Morgan and Bloomr.sg respectively, as well as receive up to $750 worth of attractive prizes!
+The finalists presented their entries on 4th November 2022 at Marina Bay Sands for the final judging. Teams awarded Distinction of the Tech category and the Media category scored a one-week Immersion Programme at J. P. Morgan and Bloomr.sg respectively, as well as receive up to $750 worth of attractive prizes!
 
 #### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
 #### Distinction
@@ -33,7 +33,7 @@ The finalists will be presenting their entries on 4th November 2022 at Marina Ba
 ![](/images/events/competitions/Tech%20Distinction.jpg)
 *From Left to Right: Top Row: Catholic High School and Dunman High School. Middle Row: Northbrooks Secondary School and Raffles Girls' School. Last Row: School of Science and Technology and St Margaret's Secondary School. <br>*
 
-* HopeHub - A Bot which Identies Signs of Distress by Catholic High School 
+* HopeHub - A Bot which Identifies Signs of Distress by Catholic High School 
 * Tammy Things by Dunman High School
 * Empowering Youths in Mental Health by Northbrooks Secondary School 
 * Healing Cafe by Raffles Girls' School 
