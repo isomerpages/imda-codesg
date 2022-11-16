@@ -33,7 +33,7 @@ The finalists presented their entries on 4th November 2022 at Marina Bay Sands f
 ![](/images/events/competitions/Tech%20Distinction.jpg)
 *From Left to Right: Top Row: Catholic High School and Dunman High School. Middle Row: Northbrooks Secondary School and Raffles Girls' School. Last Row: School of Science and Technology and St Margaret's Secondary School. <br>*
 
-* HopeHub - A Bot which Identies Signs of Distress by Catholic High School 
+* HopeHub - A Bot which Identifies Signs of Distress by Catholic High School 
 * Tammy Things by Dunman High School
 * Empowering Youths in Mental Health by Northbrooks Secondary School 
 * Healing Cafe by Raffles Girls' School 
