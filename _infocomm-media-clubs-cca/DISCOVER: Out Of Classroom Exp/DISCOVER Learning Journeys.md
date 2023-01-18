@@ -4,9 +4,7 @@ permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Feb-Apr-23/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
-
-
-## DISCOVER: Out of Classroom Experiences
+## DISCOVER: Out of Classroom Experiences 2023
 Look forward to exciting workshops specially curated for Infocomm and Media club members! [Sign up now!]
 <br>
 <br>
@@ -144,7 +142,7 @@ Singapore 339348
 ### Photography 
 #### Canon
 
-![](/images/Icmclub/CIA%20logo%20for%20pages-3106.png)
+![](/images/Icmclub/Canon.png)
 
 Calling all aspiring photographers - Master the art of taking amazing photos and videos at Canon’s Imaging Academy.  
 
