@@ -4,8 +4,8 @@ permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Feb-Apr-23/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
-## DISCOVER: Out of Classroom Experiences 2023
-Look forward to exciting workshops specially curated for Infocomm and Media club members! [Sign up now!]
+## DISCOVER: Out of Classroom Experiences 
+This July and August, look forward to exciting workshops specially curated for Infocomm and Media club members! Sign up now!
 <br>
 <br>
 For FAQs, please view [here](/Learning-Journey-FAQs)
@@ -164,4 +164,4 @@ DSLR cameras will be provided to all students during the workshop.
 For FAQs, please view [here](/Learning-Journey-FAQs)
 <br>
 <br>
-What are you waiting for? [Sign up now!]
+What are you waiting for? Sign up now!
