@@ -5,7 +5,7 @@ description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
 ## DISCOVER: Out of Classroom Experiences
-This July and August, look forward to exciting workshops specially curated for Infocomm and Media club members! [Sign up now!](https://go.gov.sg/981rxw)
+Look forward to exciting workshops specially curated for Infocomm and Media club members! [Sign up now!]
 <br>
 <br>
 For FAQs, please view [here](/Learning-Journey-FAQs)
@@ -23,8 +23,7 @@ Immersive technology will transform the way we live, work, learn, and experience
 Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
 
 **<u>Learning Journey Details</u>**
-<br> **Registration is now closed**<br>
-
+<br> **Dates**: <br>
 **Open to:** Primary, Secondary and JC students 
 <br>
 **Capacity:**  10 - 20 students per school for each session
@@ -40,8 +39,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 
 **<u>Learning Journey Details</u>**
 <br> 
-**Registration is now closed**<br>
-
+**Dates:**<br>
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 15 - 20 students or 30 - 35 students per school for each session*
@@ -60,7 +58,7 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 **<u>Learning Journey Details</u>**
 <br>
-**Registration is now closed**
+**Dates:**
 
 **Open to:** Primary, Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session <br>
@@ -68,7 +66,7 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 ### 5G Network, Internet-of-Things & Automation
 
-#### A\*STAR (CANCELLED)
+#### A\*STAR 
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Research Institutes which focus on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech.
 
@@ -78,12 +76,12 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 
 **<u>Learning Journey Details</u>**
 <br>
-
+**Dates:**<br>
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 25 students per school for each session  
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
 
-#### 5G and AIoT Centre @ Singapore Polytechnic (SP) (CANCELLED)
+#### 5G and AIoT Centre @ Singapore Polytechnic (SP) 
 
 Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks.
 
@@ -109,7 +107,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journeys details</u>** 
 <br>
-**Fully booked**
+**Dates:**
 <br>
 
 **Open to:** Secondary and JC Students 
@@ -128,7 +126,7 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 
 **<u>Learning Journey Details</u>**
 <br>
-**Fully booked**
+**Dates:**
 <br> 
 
 **Open to:** Secondary and JC Students 
@@ -153,7 +151,7 @@ Learn from the experts on the fundamentals to tips and tricks on photography tec
 DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>**
-<br>**Fully Booked** <br>
+<br>**Dates:** <br>
 
 **Suitable for:** Primary, Secondary and JC Students
 <br> 
@@ -165,4 +163,4 @@ DSLR cameras will be provided to all students during the workshop.
 For FAQs, please view [here](/Learning-Journey-FAQs)
 <br>
 <br>
-What are you waiting for? [Sign up now!](https://go.gov.sg/981rxw)
+What are you waiting for? [Sign up now!]
