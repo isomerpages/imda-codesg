@@ -4,7 +4,6 @@ permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Feb-Apr-23/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
-
 ## DISCOVER: Out of Classroom Experiences 2023
 Look forward to exciting workshops specially curated for Infocomm and Media club members! [Sign up now!]
 <br>
@@ -24,7 +23,8 @@ Immersive technology will transform the way we live, work, learn, and experience
 Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries. 
 
 **<u>Learning Journey Details</u>**
-<br> **Dates**: <br>
+<br>**Registration is now closed**<br>
+
 **Open to:** Primary, Secondary and JC students 
 <br>
 **Capacity:**  10 - 20 students per school for each session
@@ -38,9 +38,9 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
-**<u>Learning Journey Details</u>**
-<br> 
-**Dates:**<br>
+**<u>Learning Journey Details</u>** <br>
+**Registration is now closed**<br>
+
 **Open to:** Secondary and JC Students 
 <br>
 **Capacity:** 15 - 20 students or 30 - 35 students per school for each session*
@@ -59,7 +59,7 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 
 **<u>Learning Journey Details</u>**
 <br>
-**Dates:**
+**Registration is now closed**
 
 **Open to:** Primary, Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session <br>
@@ -77,7 +77,8 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 
 **<u>Learning Journey Details</u>**
 <br>
-**Dates:**<br>
+**Registration is now closed**<br>
+
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 25 students per school for each session  
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
@@ -90,7 +91,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 ![](/images/Icmclub/5G%20and%20ALOT.jpg)
 
 **<u>Learning Journey Details</u>**
-<br>
+<br> **Registration is now closed**
 
 **Open to:** Secondary and JC Students  
 **Capacity:** 20 - 30 students per school each session  
@@ -108,7 +109,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journeys details</u>** 
 <br>
-**Dates:**
+**Registration is now closed**
 <br>
 
 **Open to:** Secondary and JC Students 
@@ -127,8 +128,7 @@ TheSmartLocal is a well-known media publisher known for its quality editorial an
 
 **<u>Learning Journey Details</u>**
 <br>
-**Dates:**
-<br> 
+**Registration is now closed**<br> 
 
 **Open to:** Secondary and JC Students 
 <br> 
@@ -152,7 +152,7 @@ Learn from the experts on the fundamentals to tips and tricks on photography tec
 DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>**
-<br>**Dates:** <br>
+<br>**Registration is now closed**<br>
 
 **Suitable for:** Primary, Secondary and JC Students
 <br> 
