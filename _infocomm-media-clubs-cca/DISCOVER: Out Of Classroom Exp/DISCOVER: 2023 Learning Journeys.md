@@ -75,13 +75,62 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
-Mar - 23 &nbsp;&nbsp;&nbsp; &nbsp;    Jul - 19, 26 <br>
-Apr - 13, 18, 27&nbsp;&nbsp;&nbsp;  Aug - 2, 26<br>
-**Open to:** Primary/ Secondary and JC Students <br>
-**Capacity:** 20 students per school for each session<br>
-**Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
+Mar - 23   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Jul - 19, 26 <br>
+Apr - 13, 18, 27&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Aug - 2, 26<br>
+May - 3   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Oct - 25 <br>
+**Open to:** Secondary and JC Students <br>
+**Capacity:** 30 students per school for each session<br>
+**Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
 
-### **Media and Content Creation**
+#### **5G and AIoT Centre @ Singapore Polytechnic (SP)**
+![](/images/Icmclub/5G%20and%20AIoT%20Centre%20SP.jpeg)
+
+Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks.
+
+Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralized real-time monitoring and more with hands-on experiences.
+
+**<u>Learning Journey Details</u>** <br>
+
+**Time:** 3pm to 5pm<br>
+**Dates:**  May - 3 <br>
+**Open to:** Secondary and JC Students <br>
+**Capacity:** 20 - 30 students per school for each session<br>
+**Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
+
+### ESPORTS, MEDIA AND CONTENT CREATION
+#### **THE GYM**
+![](/images/Icmclub/THE%20GYM.jpg)
+
+Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours eSports co-working space and production studio for gamers to train, compete and kickstart their professional eSports career.
+
+Experience The Gym’s holistic production studio and hands-on with eSports casting. Step into the shoes of an eSports caster and observer and learn more about what goes behind the scenes of a professional eSports competition.
+
+**<u>Learning Journey Details</u>** <br>
+**Time:** 3pm to 5pm<br>
+**Dates:** <br>
+Feb - 28 <br>
+Mar - 1, 2, 7, 8, 9, 22, 28, 29, 30 <br>
+**Open to:** Secondary and JC Students <br>
+**Capacity:** 20 students per school for each session<br>
+**Location:** 316 Jalan Besar, Singapore 208974
+
+#### **The Smart Local** <br>
+![](/images/Icmclub/The%20Smart%20Local.jpg)
+
+Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
+
+The Smart Local is a well-known media publisher known for its quality editorial and video content. Learn from the professionals on digital storyboarding techniques and uncover secrets on how to capture and grab attention with fascinating content.
+
+
+**<u>Learning Journey Details</u>**<br>
+**Time:** 3pm to 5pm<br>
+**Dates:** <br>
+Feb - 21, 23 <br>
+Mar - 7, 9, 21, 23 <br>
+Apr - 4, 6, 18, 20 <br>
+**Open to:** Secondary and JC students<br>
+**Capacity:** 20 students per school for each session <br>
+**Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
 
 #### **Canon** <br>
 ![](/images/Icmclub/Canon.png)
@@ -96,21 +145,7 @@ Calling all aspiring photographers! Master the art of taking amazing photos and 
 <br>
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, S138522
 
-#### **The Smart Local** <br>
-![](/images/Icmclub/The%20Smart%20Local.jpg)
-
-Do you want to be a compelling digital storyteller? Learn from industry professionals on digital storyboarding techniques and uncover secrets to how you can grab attention with fascinating content. <br>
-
-**<u>Learning Journey Details</u>** <br> 
-**Registration is now closed** <br>
-
-**Open to:** Secondary / Junior College students<br>
-**Capacity:** 25 students per school for each session <br>
-**Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
-
-<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes. </i>
 
 
-For FAQs, please view [here](/Learning-Journey-FAQs)
 
-What are you waiting for? [Sign up now!](https://go.gov.sg/discoveroct2022)
+
