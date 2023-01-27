@@ -159,11 +159,11 @@ DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** May to Oct **(dates to be confirmed)**<br>
+**Dates:** May to Oct (To be confirmed)<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
-**Location:** To be confirmed
+**Location:** (To be confirmed)
 
 ### WEARABLE TECH
 #### **Refract Technologies**
@@ -172,9 +172,9 @@ DSLR cameras will be provided to all students during the workshop.
 Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refract is a Singapore-based technology innovation group that specializes in the field of extended reality (XR) where real-time full-body tracking technologies are used for gaming and entertainment.
 
 **<u>Learning Journey Details</u>** <br>
-**Time:** To be confirmed<br>
-**Dates:** Oct To be confirmed <br>
+**Time:** (To be confirmed)<br>
+**Dates:** Oct (To be confirmed )<br>
 **Open to:** Secondary and JC students <br>
 **Capacity:** 5 - 10 students per school for each session
 <br>
-**Location:** To be confirmed
+**Location:** (To be confirmed)
