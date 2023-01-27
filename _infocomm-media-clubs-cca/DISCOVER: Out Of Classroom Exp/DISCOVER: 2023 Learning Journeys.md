@@ -20,7 +20,7 @@ For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
 
 
 
-<i>*Note : The DISCOVER experience is open to infocomm media-related clubs in Primary and Secondary schools/Junior Colleges only. </i>
+<i>*Note : The DISCOVER experience is open to infocomm media-related clubs in Primary/Secondary schools and Junior Colleges only. </i>
 <i> <br>Registration and slots availability are based on a first-come-first-served basis. </i>
 
 
@@ -31,7 +31,6 @@ For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
 Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
 
 **<u>Learning Journey Details</u>** <br>
-
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
 Feb - 28 <br>
@@ -52,7 +51,6 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 
 
 **<u>Learning Journey Details</u>** <br>
-
 **Time:** 3:30pm to 5:30pm<br>
 **Dates:** <br>
 Feb - 21, 23, 28 <br>
@@ -72,7 +70,6 @@ Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Rese
 Learn about emerging technologies such as Internet-of-Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR (Augmented Reality)/VR in actual work environments, as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
 
 **<u>Learning Journey Details</u>** <br>
-
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
 Mar - 23   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Jul - 19, 26 <br>
@@ -90,7 +87,6 @@ Live your digital life in the fast lane and get up to speed with 5G when you vis
 Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralized real-time monitoring and more with hands-on experiences.
 
 **<u>Learning Journey Details</u>** <br>
-
 **Time:** 3pm to 5pm<br>
 **Dates:**  May - 3 <br>
 **Open to:** Secondary and JC Students <br>
