@@ -62,6 +62,25 @@ Apr - 4, 6, 10, 11, 13, 14, 17, 18, 20, 25 <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
 
+
+### 5G NETWORK, INTERNET-OF-THINGS & AUTOMATION
+#### **ARTC @ A*STAR**
+![](/images/Icmclub/ARTC%20ASTAR.jpeg)
+
+Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Research Institutes which focuses on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech.
+
+Learn about emerging technologies such as Internet-of-Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR (Augmented Reality)/VR in actual work environments, as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
+
+**<u>Learning Journey Details</u>** <br>
+
+**Time:** 3pm to 5pm<br>
+**Dates:** <br>
+Mar - 23 &nbsp;&nbsp;&nbsp; &nbsp;    Jul - 19, 26 <br>
+Apr - 13, 18, 27&nbsp;&nbsp;&nbsp;  Aug - 2, 26<br>
+**Open to:** Primary/ Secondary and JC Students <br>
+**Capacity:** 20 students per school for each session<br>
+**Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
+
 ### **Media and Content Creation**
 
 #### **Canon** <br>
