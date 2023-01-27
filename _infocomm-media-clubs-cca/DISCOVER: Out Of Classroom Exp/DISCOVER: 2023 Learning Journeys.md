@@ -171,5 +171,14 @@ DSLR cameras will be provided to all students during the workshop.
 
 ### WEARABLE TECH
 #### **Refract Technologies**
+![](/images/Icmclub/Wearable%20Tech.png)
 
+Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refract is a Singapore-based technology innovation group that specializes in the field of extended reality (XR) where real-time full-body tracking technologies are used for gaming and entertainment.
 
+**<u>Learning Journey Details</u>** <br>
+**Time:** To be confirmed<br>
+**Dates:** Oct To be confirmed <br>
+**Open to:** Secondary and JC students <br>
+**Capacity:** 5 - 10 students per school for each session
+<br>
+**Location:** To be confirmed
