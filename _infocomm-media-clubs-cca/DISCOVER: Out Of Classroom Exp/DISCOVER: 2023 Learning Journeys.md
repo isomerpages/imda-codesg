@@ -132,20 +132,42 @@ Apr - 4, 6, 18, 20 <br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
 
+### PHOTOGRAPHY<br>
 #### **Canon** <br>
 ![](/images/Icmclub/Canon.png)
 
-Calling all aspiring photographers! Master the art of taking amazing photos and videos at Canon's Imaging Academy Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos. 
+Calling all aspiring photographers - master the art of taking amazing photos and videos at Canon’s Imaging Academy.
+
+Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos with an outdoor hands-on practice session.
+
+DSLR cameras will be provided to all students during the workshop.
+
 
 **<u>Learning Journey Details</u>** <br>
-**Registration is now closed**
-
-**Open to:** Primary / Secondary students <br>
+**Time:** 3pm to 5pm<br>
+**Dates:**<br>
+Feb – 14, 15, 21, 22, 23, 28<br>
+Mar – 7, 9, 21, 22, 23, 28, 30<br>
+Apr – 4, 6 11, 13, 18, 20, 25<br>
+**Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 10 -15 students per school for each session
 <br>
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, S138522
 
+### DRONES
+#### **65Drones**
+![](/images/Icmclub/65Drones.jpg)
 
+From National Day Parade to New Year’s Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
+DSLR cameras will be provided to all students during the workshop.
+
+**<u>Learning Journey Details</u>** <br>
+**Time:** 3pm to 5pm<br>
+**Dates:** May to Oct **(dates to be confirmed)**<br>
+**Open to:** Primary / Secondary and JC students <br>
+**Capacity:** 20 students per school for each session
+<br>
+**Location:** To be confirmed
 
 
 
