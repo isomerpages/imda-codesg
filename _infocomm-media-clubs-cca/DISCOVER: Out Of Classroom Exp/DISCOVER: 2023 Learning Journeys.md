@@ -25,7 +25,7 @@ For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
 
 
 ### IMMERSIVE MEDIA
-#### ART SCIENCE MUSEUM
+#### **ART SCIENCE MUSEUM**
 ![](/images/DISCOVER%20EDM1%20(2).jpg)
 
 Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
