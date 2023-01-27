@@ -169,5 +169,7 @@ DSLR cameras will be provided to all students during the workshop.
 <br>
 **Location:** To be confirmed
 
+### WEARABLE TECH
+#### **Refract Technologies**
 
 
