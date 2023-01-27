@@ -4,3 +4,94 @@ permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/2023-learning
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
+## DISCOVER: Out of Classroom Experiences
+
+#### Start 2023 with a bang!
+**DISCOVER Learning Journeys for 2023 are now open for registration!**
+
+This year’s DISCOVER learning journey period is now extended from **February to October** and IMDA has tied up with our tech and media partners to offer a plethora of exciting workshops that covers topics such as immersive media, artificial intelligence, drones, eSports, media content creation and photography.
+
+From **February** to **April 2023**, look forward to exciting workshops specially curated for Infocomm Media Club members! Sign up [now](https://go.gov.sg/discover2023)! 
+
+We also have plans for more learning journeys from May to October, so do indicate your interest in the sign-up form too.  
+  
+
+For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
+
+
+
+<i>*Note : The DISCOVER experience is open to infocomm media-related clubs in Primary and Secondary schools/Junior Colleges only. </i>
+<i> <br>Registration and slots availability are based on a first-come-first-served basis. </i>
+
+
+### IMMERSIVE MEDIA
+#### ART SCIENCE MUSEUM
+![](/images/DISCOVER%20EDM1%20(2).jpg)
+
+Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
+
+**<u>Learning Journey Details</u>** <br>
+
+**Time:** 3pm to 5pm<br>
+**Dates:** <br>
+Feb - 28 <br>
+Mar - 1, 2, 21, 22, 23, 28, 29, 30 <br>
+Apr - 11, 12, 13, 18, 19, 20 <br>
+**Open to:** Primary/ Secondary and JC Students <br>
+**Capacity:** 20 students per school for each session 
+<br>
+**Location:** 6 Bayfront Ave, Singapore 018974
+<br>
+
+#### **HEADROCK VR**
+![](/images/Icmclub/Headrock%20VR%20.jpg)
+<br>
+Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand-new way.
+
+Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries.
+
+
+**<u>Learning Journey Details</u>** <br>
+
+**Time:** 3:30pm to 5:30pm<br>
+**Dates:** <br>
+Feb - 21, 23, 28 <br>
+Mar - 2, 7, 9, 21, 23, 28, 30 <br>
+Apr - 4, 6, 10, 11, 13, 14, 17, 18, 20, 25 <br>
+**Open to:** Primary/ Secondary and JC Students <br>
+**Capacity:** 20 students per school for each session<br>
+**Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
+
+### **Media and Content Creation**
+
+#### **Canon** <br>
+![](/images/Icmclub/Canon.png)
+
+Calling all aspiring photographers! Master the art of taking amazing photos and videos at Canon's Imaging Academy Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos. 
+
+**<u>Learning Journey Details</u>** <br>
+**Registration is now closed**
+
+**Open to:** Primary / Secondary students <br>
+**Capacity:** 10 -15 students per school for each session
+<br>
+**Location:** 1 Fusionopolis Place, Level 3 Galaxis, S138522
+
+#### **The Smart Local** <br>
+![](/images/Icmclub/The%20Smart%20Local.jpg)
+
+Do you want to be a compelling digital storyteller? Learn from industry professionals on digital storyboarding techniques and uncover secrets to how you can grab attention with fascinating content. <br>
+
+**<u>Learning Journey Details</u>** <br> 
+**Registration is now closed** <br>
+
+**Open to:** Secondary / Junior College students<br>
+**Capacity:** 25 students per school for each session <br>
+**Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
+
+<i>*Please note that if your group size attending is 15-20, you will be combined with another school for your learning journey. If group size cannot be met on the school’s chosen date, IMDA reserves the right to make necessary adjustments and will notify the school of such changes. </i>
+
+
+For FAQs, please view [here](/Learning-Journey-FAQs)
+
+What are you waiting for? [Sign up now!](https://go.gov.sg/discoveroct2022)
