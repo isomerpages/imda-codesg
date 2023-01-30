@@ -26,7 +26,7 @@ For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023).
 
 ### IMMERSIVE MEDIA
 #### **ART SCIENCE MUSEUM**
-![](/images/DISCOVER%20EDM1%20(2).jpg)
+![](/images/Icmclub/ASM.png)
 
 Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
 
@@ -43,8 +43,8 @@ Apr - 12, 13, 20 <br>
 <br>
 
 #### **HEADROCK VR**
-![](/images/Icmclub/Headrock%20VR%20.jpg)
-<br>
+![](/images/Icmclub/Headrock%20VR.png)
+
 Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand-new way.
 
 Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries.
@@ -63,7 +63,7 @@ Apr - 4, 6, 10, 11, 14, 17, 18, 20 <br>
 
 ### 5G NETWORK, INTERNET-OF-THINGS & AUTOMATION
 #### **ARTC @ A*STAR**
-![](/images/Icmclub/ARTC%20ASTAR.jpeg)
+![](/images/Icmclub/Astar.png)
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Research Institutes which focuses on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech.
 
@@ -83,7 +83,7 @@ Oct - 25 <br>
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
 
 #### **5G and AIoT Centre @ Singapore Polytechnic (SP)**
-![](/images/Icmclub/5G%20and%20AIoT%20Centre%20SP.jpeg)
+![](/images/Icmclub/5G%20and%20AIoT%20Centre.png)
 
 Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks.
 
@@ -98,7 +98,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 
 ### ESPORTS, MEDIA AND CONTENT CREATION
 #### **THE GYM**
-![](/images/Icmclub/THE%20GYM.jpg)
+![](/images/Icmclub/The%20Gym.png)
 
 Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours eSports co-working space and production studio for gamers to train, compete and kickstart their professional eSports career.
 
@@ -114,7 +114,7 @@ Mar - 1, 2, 7, 8, 22, 29, 30 <br>
 **Location:** 316 Jalan Besar, Singapore 208974
 
 #### **The Smart Local** <br>
-![](/images/Icmclub/The%20Smart%20Local.jpg)
+![](/images/Icmclub/TSL.png)
 
 Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
 
@@ -155,7 +155,7 @@ Apr – 4, 11, 13, 18, 20, 25<br>
 
 ### DRONES
 #### **65Drones**
-![](/images/Icmclub/65Drones.jpg)
+![](/images/Icmclub/65%20Drones.png)
 
 From National Day Parade to New Year’s Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
 DSLR cameras will be provided to all students during the workshop.
@@ -170,7 +170,7 @@ DSLR cameras will be provided to all students during the workshop.
 
 ### WEARABLE TECH
 #### **Refract Technologies**
-![](/images/Icmclub/Wearable%20Tech.png)
+![](/images/Icmclub/Refract%20Tech.png)
 
 Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refract is a Singapore-based technology innovation group that specializes in the field of extended reality (XR) where real-time full-body tracking technologies are used for gaming and entertainment.
 
