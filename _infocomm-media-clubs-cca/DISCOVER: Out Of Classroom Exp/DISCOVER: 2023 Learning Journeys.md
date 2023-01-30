@@ -6,22 +6,22 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
 ## DISCOVER: Out of Classroom Experiences
 
-#### Start 2023 with a bang!
+
 **DISCOVER Learning Journeys for 2023 are now open for registration!**
 
-This year’s DISCOVER learning journey period is now extended from **February to October** and IMDA has tied up with our tech and media partners to offer a plethora of exciting workshops that covers topics such as immersive media, artificial intelligence, drones, eSports, media content creation and photography.
+Start 2023 with a bang with our DISCOVER learning journeys! Happening from **February to October,** IMDA has tied up with our tech and media partners to offer a plethora of exciting workshops that covers topics such as immersive media, artificial intelligence, drones, eSports, media content creation and photography.
 
-From **February** to **April 2023**, look forward to exciting workshops specially curated for Infocomm Media Club members! Sign up [now](https://go.gov.sg/discover2023)! 
+Registration is now open for learning journeys conducted from **February** to **April 2023**. Look forward to exciting workshops specially curated for Infocomm Media Club members!  Sign up [now](https://go.gov.sg/discover2023)! 
 
-We also have plans for more learning journeys from May to October, so do indicate your interest in the sign-up form too.  
-  
+Keen to join us from May onward? We are planning for more exciting learning journeys, so 
+please indicate your interest [here](https://go.gov.sg/discover2023).
 
-For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
+For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023).
 
 
 
 <i>*Note : The DISCOVER experience is open to infocomm media-related clubs in Primary/Secondary schools and Junior Colleges only. </i>
-<i> <br>Registration and slots availability are based on a first-come-first-served basis. </i>
+<i>Registration and slots availability are based on a first-come-first-served basis. </i>
 
 
 ### IMMERSIVE MEDIA
@@ -72,9 +72,12 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
-Mar - 23   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Jul - 19, 26 <br>
-Apr - 13, 18, 27&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Aug - 2, 26<br>
-May - 3   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Oct - 25 <br>
+Mar - 23<br>
+Apr - 13, 18, 27 <br>
+May - 3 <br>
+Jul - 19, 26 <br>
+Aug - 2, 26<br>
+Oct - 25 <br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 30 students per school for each session<br>
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
