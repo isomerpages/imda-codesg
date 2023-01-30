@@ -55,7 +55,7 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 **Dates:** <br>
 Feb - 28 <br>
 Mar - 7, 9, 21, 23, 28, 30 <br>
-Apr - 4, 6, 10, 11, 14, 17, 18, 20 <br>
+Apr - 4, 6, 10, 11, 17, 18, 20 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
@@ -76,7 +76,7 @@ Mar - 23<br>
 Apr - 13, 18, 27 <br>
 May - 3 <br>
 Jul - 19, 26 <br>
-Aug - 2, 26<br>
+Aug - 2, 16<br>
 Oct - 25 <br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 30 students per school for each session<br>
@@ -91,7 +91,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:**  May - 3 <br>
+**Dates:**  ~~May - 3~~ (Fully Booked)<br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 25 - 30 students per school for each session<br>
 **Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
