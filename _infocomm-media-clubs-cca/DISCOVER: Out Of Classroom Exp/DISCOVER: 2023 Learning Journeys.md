@@ -93,7 +93,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 **Time:** 3pm to 5pm<br>
 **Dates:**  May - 3 <br>
 **Open to:** Secondary and JC Students <br>
-**Capacity:** 20 - 30 students per school for each session<br>
+**Capacity:** 25 - 30 students per school for each session<br>
 **Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
 
 ### ESPORTS, MEDIA AND CONTENT CREATION
