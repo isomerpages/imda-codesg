@@ -120,7 +120,7 @@ The Smart Local is a well-known media publisher known for its quality editorial 
 
 **<u>Learning Journey Details</u>**<br>
 **Time:** 3pm to 5pm<br>
-**Dates:** (Fully Booked)<br>
+**Dates:** (Fully Booked) Look out for upcoming slots in May to Oct<br>
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
