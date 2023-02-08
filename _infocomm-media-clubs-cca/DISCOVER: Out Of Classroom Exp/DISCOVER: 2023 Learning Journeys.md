@@ -54,8 +54,8 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 **Time:** 3:30pm to 5:30pm<br>
 **Dates:** <br>
 Feb - 21 <br>
-Mar - 21, 28, 30 <br>
-Apr - 6, 11, 17, 18, 20 <br>
+Mar - 28, 30 <br>
+Apr - 6, 11, 18, 20 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
@@ -73,7 +73,7 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
 Mar - 23<br>
-Jul - 19, 26 <br>
+Jul - 26 <br>
 Aug - 2, 16<br>
 Oct - 25 <br>
 **Open to:** Secondary and JC Students <br>
@@ -105,7 +105,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
-Mar - 1, 2, 7, 29, 30 <br>
+Mar - 2, 7, 29, 30 <br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 316 Jalan Besar, Singapore 208974
@@ -120,7 +120,7 @@ The Smart Local is a well-known media publisher known for its quality editorial 
 
 **<u>Learning Journey Details</u>**<br>
 **Time:** 3pm to 5pm<br>
-**Dates:** (Fully Booked) *Look out for upcoming dates in May to Oct<br>
+**Dates:** (Fully Booked)*Look out for upcoming dates in May to Oct<br>
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
@@ -139,9 +139,9 @@ DSLR cameras will be provided to all students during the workshop.
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:**<br>
-Feb – 14, 15, 21, 23, 28<br>
-Mar – 7, 9, 21, 23, 28<br>
-Apr – 13, 18<br>
+Feb – 21, 23, 28<br>
+Mar – 9, 23 <br>
+Apr – 3, 10, 13, 18<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 10 -15 students per school for each session
 <br>
