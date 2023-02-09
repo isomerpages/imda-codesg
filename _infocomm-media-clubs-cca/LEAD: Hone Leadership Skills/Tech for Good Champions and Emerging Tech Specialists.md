@@ -13,7 +13,7 @@ To provide more opportunities for students, IMDA has minted two new leadership r
 * We recommend appointing students to the new roles at Secondary 2 where they will continue to serve for two years. 
 
 **Scope of roles**
-![](/images/Icmclub/New%201.png)
+![](/images/Icmclub/New%204.png)
 
 **Attainment of LEAPS Points**
 ![](/images/Icmclub/New%203.png)
