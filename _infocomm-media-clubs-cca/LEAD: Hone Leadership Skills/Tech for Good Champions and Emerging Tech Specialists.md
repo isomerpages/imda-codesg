@@ -4,8 +4,6 @@ permalink: /infocomm-media-clubs-cca/LEAD/TechforGood/
 description: ""
 third_nav_title: "LEAD: Hone Leadership Skills"
 ---
-
-
 ## LEAD: Hone Leadership Skills
 
 **Appointment of Emerging Tech Specialist and Tech for Good Champion**
