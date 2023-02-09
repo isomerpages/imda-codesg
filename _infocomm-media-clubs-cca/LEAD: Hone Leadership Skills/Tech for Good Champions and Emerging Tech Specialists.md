@@ -4,45 +4,20 @@ permalink: /infocomm-media-clubs-cca/LEAD/TechforGood/
 description: ""
 third_nav_title: "LEAD: Hone Leadership Skills"
 ---
-## LEAD: Hone Leadership Skills
+## **Tech for Good Champions and Emerging Tech Specialists**
 
 **Appointment of Tech for Good Champions and Emerging Tech Specialists**
 
-To provide more opportunities for students, IMDA has minted two new leadership roles for secondary 2 members. Teachers are highly encouraged to adopt these two new roles and appoint student leaders who will serve the community and their school.
+To provide more opportunities for students, IMDA has minted two new leadership roles. Teachers are highly encouraged to adopt these two new roles and appoint student leaders who will serve the community and their school. 
 
 
+*Both new roles will be part of the Upper Secondary CCA Executive Committee. 
+* We recommend appointing students to the new roles at Secondary 2 where they will continue to serve for two years. 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+**Scope of roles**
+![](/images/Icmclub/Scope%20of%20roles.png)
 
+**Attainment of LEAPS Points**
+![](/images/Icmclub/Attainment%20of%20LEAPS%20Points.png)
 
-
-
-
-  
-*Both new roles will be part of the Upper Secondary CCA Executive Committee
-
-* They are appointed at Secondary 2 and will serve for two years.
-
-* At Secondary 3, the leaders can take up an advisory role to the incoming Secondary 2 junior leaders.
-
-For FAQs, please view [here](https://)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+For FAQs, please view [here](https://go.gov.sg/lead-faqtechforgood)
