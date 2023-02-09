@@ -2,8 +2,6 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
-      - "LEAD: Hone Leadership Skills/LEAD: Hone Leadership Skills.md"
-      - "LEAD: Hone Leadership Skills/.keep"
       - About.md
       - Be Part of the Infocomm Media Club Community.md
       - "DISCOVER: Out Of Classroom Exp/.keep"
@@ -17,6 +15,8 @@ collections:
       - "LEARN: Tech and Media Courses/LEARN Roadmaps.md"
       - "LEARN: Tech and Media Courses/LEARN Accelerators.md"
       - "LEARN: Tech and Media Courses/LEARN Bootcamps.md"
+      - "LEAD: Hone Leadership Skills/.keep"
+      - "LEAD: Hone Leadership Skills/LEAD: Hone Leadership Skills.md"
       - "SERVE: Values In Action/.keep"
       - "SERVE: Values In Action/Overview.md"
       - "SERVE: Values In Action/VIA Projects Photo Essay Competition 2022.md"
