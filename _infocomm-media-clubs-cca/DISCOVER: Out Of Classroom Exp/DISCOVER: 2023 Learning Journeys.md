@@ -34,7 +34,7 @@ Come discover how the intersection of art and science has positively impacted th
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
 Feb - 28 <br>
-Mar - 2, 21, 23, 28, 30 <br>
+Mar - 2, 21, 23, 30 <br>
 Apr - 13, 20 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session 
@@ -141,7 +141,7 @@ DSLR cameras will be provided to all students during the workshop.
 **Dates:**<br>
 Feb – 21, 23, 28<br>
 Mar – 9, 23 <br>
-Apr – 3, 10, 13, 18<br>
+Apr – 3, 10, 13<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 10 -15 students per school for each session
 <br>
