@@ -10,14 +10,39 @@ third_nav_title: "LEAD: Hone Leadership Skills"
 
 To provide more opportunities for students, IMDA has minted two new leadership roles for secondary 2 members. Teachers are highly encouraged to adopt these two new roles and appoint student leaders who will serve the community and their school.
 
-**Emerging Tech Specialist**
-<br>
-This student leader will lead his or her peers in the club to educate and excite others about Emerging Technologies through talks, lessons and showcases. He/she will also be responsible for staying abreast of the latest developments in the technology space and levelling up the knowledge of his or her peers as well.
 
-**Tech for Good Champion**
-<br>
-This student leader will lead his or her peers to plan and execute a Values-in-Action project which involves infocomm media and technology. He/she will be responsible for liaising with external partners and beneficiaries.
 
-Click [here](/files/infocomm-media-clubs/LEAD%20Selection%20Info%20Kit_Final.pdf) for the nomination process.
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
-**Check out this space for upcoming training in 2023!**
+
+
+
+
+  
+*Both new roles will be part of the Upper Secondary CCA Executive Committee
+
+* They are appointed at Secondary 2 and will serve for two years.
+
+* At Secondary 3, the leaders can take up an advisory role to the incoming Secondary 2 junior leaders.
+
+For FAQs, please view [here](https://)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
