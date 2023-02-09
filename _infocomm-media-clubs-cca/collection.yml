@@ -2,6 +2,7 @@ collections:
   infocomm-media-clubs-cca:
     output: true
     order:
+      - "LEAD: Hone Leadership Skills/LEAD: Hone Leadership Skills.md"
       - "LEAD: Hone Leadership Skills/.keep"
       - About.md
       - Be Part of the Infocomm Media Club Community.md
