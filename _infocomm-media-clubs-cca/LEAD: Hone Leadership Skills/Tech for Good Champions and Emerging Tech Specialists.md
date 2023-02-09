@@ -18,6 +18,6 @@ To provide more opportunities for students, IMDA has minted two new leadership r
 ![](/images/Icmclub/New%201.png)
 
 **Attainment of LEAPS Points**
-![](/images/Icmclub/New%202.png)
+![](/images/Icmclub/New%20New%202.png)
 
 For FAQs, please view [here](https://go.gov.sg/lead-faqtechforgood)
