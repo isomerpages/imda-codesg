@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs-cca/LEAD/TechforGood/
 description: ""
 third_nav_title: "LEAD: Hone Leadership Skills"
 ---
-#### Appointment of Tech for Good Champions and Emerging Tech Specialists
+#### **Appointment of Tech for Good Champions and Emerging Tech Specialists**
 
 To provide more opportunities for students, IMDA has minted two new leadership roles. Teachers are highly encouraged to adopt these two new roles and appoint student leaders who will serve the community and their school. 
 
