@@ -6,9 +6,9 @@ third_nav_title: "LEAD: Hone Leadership Skills"
 ---
 ## LEAD: Hone Leadership Skills
 
-**Appointment of Emerging Tech Specialist and Tech for Good Champion**
+**Appointment of Tech for Good Champions and Emerging Tech Specialists**
 
-To provide more opportunities for students, IMDA will be minting two new leadership roles for secondary 2 members. 
+To provide more opportunities for students, IMDA has minted two new leadership roles for secondary 2 members. Teachers are highly encouraged to adopt these two new roles and appoint student leaders who will serve the community and their school.
 
 **Emerging Tech Specialist**
 <br>
