@@ -11,6 +11,6 @@ The curated programmes and activities in the following 5 pillars take guidance f
 
 * **[DISCOVER](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/DISCOVER/Overview/)**: Immerse in Out-of-Classroom experiences through Learning Journeys to understand how Tech and Media are applied in the industry
 * **[LEARN](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/LEARN/Overview/)**: Gain broad-based training through Roadmaps and acquire deep skills and knowledge with Accelerators and Bootcamps
-* **[LEAD](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/LEAD/)**: Hone leadership skills through training and opportunities to apply the skills
+* **[LEAD](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/LEAD/Overview/)**: Hone leadership skills through training and opportunities to apply the skills
 * **[SERVE](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/SERVE/)**: Give back to the Community using acquired digital skills through Values-In-Action projects
 * **[EXCEL](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/EXCEL/)**: Compete and be recognized in national Tech and Media competition
