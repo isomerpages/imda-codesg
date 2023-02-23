@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Code@SG
+title: Infocomm Media Development Authority
 permalink: /
 sections:
   - hero:
@@ -39,4 +39,7 @@ sections:
       alt: alt text
       button: Click here
 notification: "\n\n"
+description: Code@SG
+image: /images/isomer-logo.svg
 ---
+
