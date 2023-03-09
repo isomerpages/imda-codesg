@@ -15,10 +15,7 @@ Each school is supported with up to 2 courses annually, where the training cost 
 [DOWNLOAD THE INFORMATION KIT HERE](https://go.gov.sg/learn-roadmaps-infokit22-23)
 
 ##### Apply for the LEARN Roadmaps training courses
-[Primary School Application Form](https://form.gov.sg/63403219589d2200124b7fdb) | [Secondary School/JC Application Form](https://form.gov.sg/6340328d71c6110012728842)
-<br>Application ~~will open on 4 Nov 2022 and close on 31 January 2023~~ window is **extended to 28 February 2023**. Please note that only HOD equivalent or the CCA Teacher-in-charge is eligible to apply for the courses.
-
-For enquiries, schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
+The 2023 application window has closed on 28 Feb 2023. <br>Schools that intend to submit late applications can email us at [IMDA\_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg) for assistance.
 
 ![New Application Process](/images/Icmclub/Apply_Process_20Oct23.jpg)
 
@@ -32,7 +29,7 @@ For enquiries, schools can contact IMDA at [IMDA_Codesg@imda.gov.sg](mailto:IMDA
 |**Sustainable Living Lab**| Weng Wan Ying<br>[wanying@sustainablelivinglab.org](mailto:wanying@sustainablelivinglab.org)<br>8121 4127|• Artificial Intelligence with INTEL<br>(Secondary / JC)|
 |**Tinker Class**| Soon Yin Jie<br>[yjsoon@tinkertanker.com](mailto:yjsoon@tinkertanker.com) <br>9682 1694|• Mobile App Development with APPLE (Secondary/ JC)|
 |**Zenitant**| Philip Kong<br>[philipkong@zenitant.com.sg](mailto:philipkong@zenitant.com.sg)<br>9744 0711 <br><br>Muhd Nizam<br>[nizam@zenitant.com.sg](mailto:nizam@zenitant.com.sg)<br>9129 0362|• Digital Making with MICROSOFT (Primary)^ <br>• Game Development with MICROSOFT (Primary)^ |
-|**ACP Computer Training School**| Poon Kum Seng<br>[kum_seng@acpcomputer.edu.sg](mailto:kum_seng@acpcomputer.edu.sg)<br>8102 2256|• Data Analytics (Secondary/JC)<br><br>*ACP's Cybersecurity and Mobile App Development courses are unavailable for application*.|
+|**ACP Computer Training School**| Poon Kum Seng<br>[kum_seng@acpcomputer.edu.sg](mailto:kum_seng@acpcomputer.edu.sg)<br>8102 2256|• Data Analytics (Secondary/JC)<br> • Mobile App Development (Primary/Secondary/JC)<br><br>*ACP’s Cybersecurity courses are unavailable for application.|
 |**Duck Learning**| Murtaza Njmudden<br>[murtaza@ducklearning.com](mailto:murtaza@ducklearning.com)<br>9752 5201<br>|• Game Development (Primary)<br>• Robotics (Primary)<br>• Artificial Intelligence(Secondary/JC)<br>• Data Analytics (Secondary/JC)<br>• Internet of Things (Secondary/JC)<br> • Robotics (Secondary/JC)|
 |**EP Education**| Koh Choon Chuan <br>[cckoh@epasia.cc](mailto:cckoh@epasia.cc)<br>9146 6015<br><br> Pee Hai Rou<br>[hairou@epasia.cc](mailto:hairou@epasia.cc)<br> 9853 8811| • Artificial Intelligence (Primary) <br>• Artificial Intelligence (Secondary/JC)<br>• Internet of Things (Secondary/JC)|
 |**Roboto**| Brian Lee<br>[brianlee@roboto.sg](mailto:brianlee@roboto.sg)<br>9767 8052<br>|• Game Development (Primary)<br>• Mobile App Development (Primary)<br> • Robotics (Primary)<br> • Game Development (Secondary/JC)|
