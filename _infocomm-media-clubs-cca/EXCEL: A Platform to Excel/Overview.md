@@ -7,7 +7,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 # EXCEL: A National Platform to Gain Knowledge, Excel & Receive Recognition
 
 
-![](/images/Icmclub/Coming%20soon%20v3(resized).gif)
+[undefined](https://go.gov.sg/excel-competition-gif)
 
 The **Infocomm Media Development Authority (IMDA)** and **Google** will be launching a brand-new **national tech competition** for Infocomm Media Clubs this **July**, taking place at **Google**.
 
