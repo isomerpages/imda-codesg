@@ -16,4 +16,4 @@ In this new format, teams will be trained and can put their tech skills to the t
 
 * Check out the competition [FAQ](https://go.gov.sg/excel-competition-faq) (what you need to know: no. of stages, competition dates, eligibility)
 
-* Start forming a team to represent your school. Each school may register one team of five students. No prior coding experience is required and students will get to learn new skills as part of the competition process
+* Start forming a team to represent your school. Each school may register one team of five students.<br> No prior coding experience is required and students will get to learn new skills as part of the competition process.
