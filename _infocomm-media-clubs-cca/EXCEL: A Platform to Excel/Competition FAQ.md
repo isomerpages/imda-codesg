@@ -15,7 +15,8 @@ The Infocomm Media Development Authority (IMDA) is the organiser of this inaugur
 **2.**&nbsp;&nbsp;&nbsp;&nbsp;**What is the new competition about?**
 
 In this new format, teams will put their tech skills to the test and compete against other teams to solve a series of tech challenges each week. There are a total of four stages, with the highest scoring teams in each stage to advance to the next round.
-<br>Details of the challenges will be unveiled soon.
+
+Details of the challenges will be unveiled soon.
 
 **3.**&nbsp;&nbsp;&nbsp;&nbsp;**What is different about this competition?**
 
