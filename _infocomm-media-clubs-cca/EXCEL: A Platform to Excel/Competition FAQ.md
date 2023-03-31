@@ -28,6 +28,7 @@ To spark our youth’s interest and curiosity in tech, the competition will be p
 **4.**&nbsp;&nbsp;&nbsp;&nbsp; **When is the duration of the competition?**  
 
 The competition will take place in the month of July.\*
+
 ![](/images/Icmclub/competition%20duration.png)
 _\*Important: Participants must be able to commit throughout the competition duration. Team(s) who is/are late or absent on the date of the competition will be considered to have withdrawn from the entire competition._
 
@@ -40,7 +41,7 @@ Only students from Infocomm and Media related CCAs at MOE Secondary schools, inc
 
 **6.**&nbsp;&nbsp;&nbsp;&nbsp; **How many members can each team have?** 
 
-Each school may register ONLY one team of five students. \*
+Each school may register ONLY one team of five students. \*<br>
 
 _\*_ _Any substitution of team members after the registration period has to be requested for in writing to the Organiser at least 1 week in advanced. The Organiser should also be informed of any last-minute substitution on any of the competition day(s) (e.g. medical, personal emergencies, etc)._
 
