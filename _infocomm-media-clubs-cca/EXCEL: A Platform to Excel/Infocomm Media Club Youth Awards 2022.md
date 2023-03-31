@@ -6,8 +6,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 ---
 # Infocomm Media Club Youth Awards
 
-![New Key Visual for Infocomm Media Club Youth Awards](/images/Icmclub/IMC%20New%20KV.png)
-
+![](/images/Icmclub/IMC%20New%20KV.png)
 The Infocomm Media Club Youth Awards is a national award designed for members in infocomm and media related CCAs to ideate, create and inspire others with their innovations. This year, students developed tech and media solutions to address mental health issues faced by youth.
 
 **249 students** from **46 schools** submitted **over 50 entries** to address the problem statements issued by the 4 non-profit organisations, Campus PSY, It All Starts Hear.SG (IASH.SG), Silver Ribbon and Strengthening Youths in a Network of Care (SYNC).
@@ -102,3 +101,4 @@ Missed the ‘Mental Health &amp; Youths’ webinar on 13 July 2022?
 Find out more about the awards theme and hear from Non-Profit Organisations (Campus PSY, It All Starts Hear.SG, Silver Ribbon, SYNC (IMPART) on their problem statements and how you can create impactful tech or media solutions to help fellow youths.
 
 **Catch the recording here!**
+
