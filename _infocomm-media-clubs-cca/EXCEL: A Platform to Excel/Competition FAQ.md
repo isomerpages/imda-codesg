@@ -30,7 +30,7 @@ To spark our youth’s interest and curiosity in tech, the competition will be p
 
 The competition will take place in the month of July.\*
 
-![](/images/Icmclub/competition%20duration.png)
+![](/images/Icmclub/competition%20duration%20new.png)
 _\*Important: Participants must be able to commit throughout the competition duration. Team(s) who is/are late or absent on the date of the competition will be considered to have withdrawn from the entire competition._
 
 
