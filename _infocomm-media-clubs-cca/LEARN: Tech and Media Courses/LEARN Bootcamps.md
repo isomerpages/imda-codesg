@@ -9,12 +9,15 @@ The LEARN bootcamps aim to provide passionate Club members to enrich their learn
 
 #### Upcoming Bootcamps
      
-**Meta Spark Augmented Reality (AR) Studio Bootcamp (Sec/JC)**
-* 5, 7, 8, 9, 11 Nov 2022
+**Meta Spark Bootcamp (Sec/JC)**
 
-Immerse in the world of AR, where students can create their own interactive AR filters effects using the Spark AR platform, then publish and share their AR creations through Meta and Instagram. As part of the bootcamp, students will also get to take part in a nation-wide AR competition and stand to win attractive prizes!
+The Meta Spark bootcamp is the perfect opportunity for students who are passionate about technology to explore the world of Augmented Reality (AR) and discover new ways of engaging with their environment. In this 24-hr bootcamp held across 4 days, students will learn how to use Meta Spark to create their own custom AR immersive experiences that can be shared on Meta and Instagram. As a final project, students will participate in a nation-wide AR competition by creating an AR effect to spread the message of a sustainable future, for a chance to win attractive prizes from Meta.
+<br>
+* **When:** 29 May to 1 June 2023, 9.30am - 5pm 
+* **Where:** Temasek Polytechnic, 21 Tampines Ave 1 Singapore 59757 
+* **Requirements:** Participants are required to bring their laptops/MacBooks with updated operating systems that can run Meta Spark (iPads and Chromebooks are not supported). For those who do not have their own laptops, we have a limited number of desktops available for use. We'll send installation instructions beforehand.
 
-Sign Up [Now!](https://go.gov.sg/sparkarnov22)
+[Sign Up Now!](https://go.gov.sg/sparkarmay23)
 
 <br>**SenseTime AI Bootcamp (Sec/JC)**
 * 14 - 18 Nov 2022
