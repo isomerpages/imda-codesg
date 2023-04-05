@@ -13,4 +13,3 @@ Limited slots are available for each workshop. See below mailer for more details
 ![](/images/teacher%20seminar%201.jpg)
 
 ![](/images/teacher%20seminar%202.jpg)
-
