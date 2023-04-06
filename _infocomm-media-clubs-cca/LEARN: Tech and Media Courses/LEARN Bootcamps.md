@@ -31,7 +31,7 @@ The Unity Game Development bootcamp provides students the opportunity to work on
 *   **Where**: St. Patrick’s School, 490 E Coast Rd, Singapore 429058
 *   **Requirements**: Windows PCs will be provided at the training venue. Students with their own Windows PC or macOS devices who want to bring them along (iPads and Chromebooks are not supported) can do so; we'll send installation instructions beforehand.
 
-Sign up here
+[Sign up here](https://go.gov.sg/unity-bc23 )
 
 **Microsoft Digital Making & Game Development Bootcamp (Pri)**
 ![](/images/Icmclub/microsoft%20digital%20making%20&%20game%20development%20bootcamp%20(pri).jpg)
