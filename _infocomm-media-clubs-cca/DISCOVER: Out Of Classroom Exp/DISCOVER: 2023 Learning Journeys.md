@@ -33,7 +33,7 @@ Come discover how the intersection of art and science has positively impacted th
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
-May - 3, 10, 11, 15 <br>
+May - 3, 11, 15 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session 
 <br>
@@ -50,8 +50,7 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
-**Dates:** <br>
-May - 3, 4, 5, 8<br>
+**Dates:** (Fully Booked)<br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
