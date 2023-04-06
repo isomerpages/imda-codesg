@@ -66,7 +66,7 @@ Calling all aspiring photographers! Master the art of taking amazing photos and 
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, S138522
 
 #### **The Smart Local** <br>
-![](/images/Icmclub/The%20Smart%20Local.jpg)
+![](/images/Icmclub/TSL.png)
 
 Do you want to be a compelling digital storyteller? Learn from industry professionals on digital storyboarding techniques and uncover secrets to how you can grab attention with fascinating content. <br>
 
