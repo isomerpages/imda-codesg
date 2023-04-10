@@ -1,10 +1,9 @@
 ---
-title: Jul & Aug 22 Learning Journeys
+title: Jul &amp; Aug 22 Learning Journeys
 permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Jul-Aug-23/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
-
 ## DISCOVER: Out of Classroom Experiences 
 This July and August, look forward to exciting workshops specially curated for Infocomm and Media club members! Sign up now!
 <br>
@@ -17,7 +16,7 @@ For FAQs, please view [here](/Learning-Journey-FAQs)
 ### IMMERSIVE MEDIA
 #### Headrock VR 
 
-![](/images/Icmclub/Headrock.jpg)
+![](/images/Icmclub/HRVR1.jpg)
 
 Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand new way. 
 
@@ -62,11 +61,11 @@ Experience a multitude of activities at 65Drones’ workshops specially curated 
 <br>
 **Registration is now closed**
 
-**Open to:** Primary, Secondary and JC Students <br>
-**Capacity:** 20 students per school for each session <br>
-**Location:** NUS Alumni Shaw Foundation House Auditorium 11 Kent Ridge Dr, Singapore 119244
+**Open to:**&nbsp;Primary, Secondary and JC Students <br>
+**Capacity:**&nbsp;20 students per school for each session <br>
+**Location:**&nbsp;NUS Alumni Shaw Foundation House Auditorium 11 Kent Ridge Dr, Singapore 119244
 
-### 5G Network, Internet-of-Things & Automation
+### 5G Network, Internet-of-Things &amp; Automation
 
 #### A\*STAR 
 
@@ -80,9 +79,9 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 <br>
 **Registration is now closed**<br>
 
-**Open to:** Secondary and JC Students  
-**Capacity:** 20 - 25 students per school for each session  
-**Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
+**Open to:**&nbsp;Secondary and JC Students  
+**Capacity:**&nbsp;20 - 25 students per school for each session  
+**Location:**&nbsp;3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
 
 #### 5G and AIoT Centre @ Singapore Polytechnic (SP) 
 
@@ -94,15 +93,14 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 **<u>Learning Journey Details</u>**
 <br> **Registration is now closed**
 
-**Open to:** Secondary and JC Students  
-**Capacity:** 20 - 30 students per school each session  
-**Location:** Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
+**Open to:**&nbsp;Secondary and JC Students  
+**Capacity:**&nbsp;20 - 30 students per school each session  
+**Location:**&nbsp;Singapore Polytechnic, 500 Dover Road, Block T14 Level 3, Singapore 139651
 
 ### Esports, Media and Content Creation 
 
 #### The Gym
-
-![](/images/Icmclub/E-sports.jpg)
+![](/images/Icmclub/The%20Gym.png)
 
 Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours eSports co-working space and production studio for gamers to train, compete and kickstart their professional eSports career.
 
@@ -121,7 +119,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 #### TheSmartLocal
 
-![](/images/Icmclub/The%20Smart%20Local.jpg)
+![](/images/Icmclub/TSL.png)
 
 Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
 

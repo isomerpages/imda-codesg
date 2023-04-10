@@ -11,7 +11,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 Start 2023 with a bang with our DISCOVER learning journeys! Happening from **February to October,** IMDA has tied up with our tech and media partners to offer a plethora of exciting workshops that covers topics such as immersive media, artificial intelligence, drones, eSports, media content creation and photography.
 
-Registration is now open for learning journeys conducted from **February** to **April 2023**. Look forward to exciting workshops specially curated for Infocomm Media Club members!  Sign up [now](https://go.gov.sg/discover2023)! 
+Registration is now open for learning journeys conducted from **February** to **April 2023**. Look forward to exciting workshops specially curated for Infocomm Media Club members!  Sign up [now](https://go.gov.sg/discover2023)!&nbsp;
 
 Keen to join us from May onward? We are planning for more exciting learning journeys, so 
 please indicate your interest [here](https://go.gov.sg/discover2023).
@@ -33,8 +33,7 @@ Come discover how the intersection of art and science has positively impacted th
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
-Mar - 21, 23, 30 <br>
-Apr - 4, 14 <br>
+May - 3, 11, 15 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session 
 <br>
@@ -51,15 +50,13 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
-**Dates:** <br>
-Mar - 28<br>
-Apr - 6, 18, 20 <br>
+**Dates:** (Fully Booked)<br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
 
 
-### 5G NETWORK, INTERNET-OF-THINGS & AUTOMATION
+### 5G NETWORK, INTERNET-OF-THINGS &amp; AUTOMATION
 #### **ARTC @ A*STAR**
 ![](/images/Icmclub/Astar.png)
 
@@ -71,7 +68,6 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 **Time:** 3pm to 5pm<br>
 **Dates:** <br>
 Aug - 16<br>
-Oct - 25 <br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 30 students per school for each session<br>
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
@@ -100,8 +96,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** <br>
-Mar - 30 <br>
+**Dates:** (Fully Booked)<br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 316 Jalan Besar, Singapore 208974
@@ -135,7 +130,7 @@ DSLR cameras will be provided to all students during the workshop.
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:**<br>
-Apr – 13, 27 <br>
+May – 16<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 10 -15 students per school for each session
 <br>
