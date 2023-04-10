@@ -1,6 +1,6 @@
 ---
 title: LEARN Roadmaps
-permalink: /infocomm-media-clubs/learn/roadmaps/
+permalink: /infocomm-media-clubs-cca/learn/roadmaps/
 description: LEARN Roadmaps
 third_nav_title: "LEARN: Tech and Media Courses"
 ---

@@ -1,6 +1,6 @@
 ---
 title: LEARN Accelerators
-permalink: /infocomm-media-clubs/learn/accelerators/
+permalink: /infocomm-media-clubs-cca/learn/accelerators/
 description: LEARN ACCELERATORS
 third_nav_title: "LEARN: Tech and Media Courses"
 ---

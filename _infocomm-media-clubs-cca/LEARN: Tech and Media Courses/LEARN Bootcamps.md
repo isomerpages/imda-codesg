@@ -1,6 +1,6 @@
 ---
-title: LEARN BootCamps
-permalink: /infocomm-media-clubs-cca/learn-tech-and-media-courses/bootcamps/
+title: LEARN Bootcamps
+permalink: /infocomm-media-clubs-cca/learn/bootcamps/
 description: ""
 third_nav_title: "LEARN: Tech and Media Courses"
 ---
