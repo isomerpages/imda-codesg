@@ -14,7 +14,7 @@ An app with these scanning capabilities was developed, and not by any of the exp
 
 #### **The Language of the Future**
 
-As an avid coder, Ian has been participating in various coding contests like the [Code XtremeApps 2019](https://www.imda.gov.sg/news-and-events/events-listing/Code-XtremeApps-2019) and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects that test his coding skills and he is currently excited at the prospect of continuing his studies in Computer Science.
+As an avid coder, Ian has been participating in various coding contests like the **Code XtremeApps 2019** and the [2021 Splash Awards](https://www.scs.org.sg/awards/splash). Even while doing his national service, he is constantly on the lookout for projects that test his coding skills and he is currently excited at the prospect of continuing his studies in Computer Science.
 
 “I’ve always liked inventing new things, solving problems, understanding and learning new things,” Ian shares. Coding is a way for him to do this, and with different programming languages in his arsenal, it also enables him to give back to the community.
  
@@ -38,7 +38,7 @@ Noticing her enthusiasm and proactiveness, Wei Xuan’s teacher, Michelle Goh, o
 
 These early classroom experiences paved the way for Wei Xuan to continue her coding journey outside of school.
 
-Despite only having picked up coding in 2020, when she came across [Apple’s WWDC21 Swift Student Challenge](https://developer.apple.com/wwdc21/swift-student-challenge/) in 2021, Wei Xuan developed an app to educate the public about mental health in just two weeks
+Despite only having picked up coding in 2020, when she came across [Apple’s WWDC Swift Student Challenge](https://developer.apple.com/wwdc23/swift-student-challenge/) in 2021, Wei Xuan developed an app to educate the public about mental health in just two weeks
 
 “We are very proud of Wei Xuan for her care for others and her values-driven purpose in using technology to contribute to the betterment of society,” Michelle says, noting that Wei Xuan’s efforts, where she emerged as one of the top 4 winners from Singapore to clinch an international award, was a remarkable feat for a first timer. 
 
