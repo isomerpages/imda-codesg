@@ -26,4 +26,4 @@ This 5-day hybrid bootcamp provides students the opportunity to dive into Artifi
 
 In this bootcamp, students will be introduced to the world of AR, where they can create their own interactive AR filters and effects with Meta’s Spark AR platform, and then publish and share their AR creations through Meta and Instagram.
 
-For enquiries, schools can contact us at 
+For enquiries, schools can contact us at <br> [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
