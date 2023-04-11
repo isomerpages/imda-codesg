@@ -11,7 +11,10 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 More than 1,200 Infocomm Media Club members have already participated and learnt about immersive media, drones, and content creation. 
 
-More workshops are happening in October and we look forward to having your Club members participate in them! [Sign up now!](https://go.gov.sg/discoveroct2022)
+More workshops are happening in October and we look forward to having your Club members participate in them! <br>
+
+**Registration is now closed**
+<br>
 
 <i>*The DISCOVER experience is open to Primary, Secondary/JC schools only. </i>
 <i> Registration and slots availability are based on a first-come-first-served basis. </i>
