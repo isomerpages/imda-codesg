@@ -4,7 +4,6 @@ permalink: /events/Upcoming-Events/Learn-Student-Development-Programmes/
 description: ""
 third_nav_title: Past Events
 ---
-
 # LEARN: Student Development Programmes 2022
 
 **Microsoft Digital Making and Game Development Bootcamp (Pri)**
@@ -27,4 +26,4 @@ This 5-day hybrid bootcamp provides students the opportunity to dive into Artifi
 
 In this bootcamp, students will be introduced to the world of AR, where they can create their own interactive AR filters and effects with Meta’s Spark AR platform, and then publish and share their AR creations through Meta and Instagram.
 
-For enquiries, schools can contact us at [IMDA_Codesg@imda.gov.sg](IMDA_Codesg@imda.gov.sg).
+For enquiries, schools can contact us at 
