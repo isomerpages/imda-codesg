@@ -12,13 +12,15 @@ third_nav_title: "EXCEL: A Platform to Excel"
 
 The Infocomm Media Development Authority (IMDA) is the organiser of this inaugural competition, together with Google for 2023.
 
-**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is the new competition about?**
+
+
+<br>**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is the new competition about?**
 
 In this new format, teams will put their tech skills to the test and compete against other teams to solve different tech challenges each week.
 
 Details of the challenges will be unveiled in due course.
 
-**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is different about this competition?**
+<br>**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is different about this competition?**
 
 Teams will solve different tech challenges curated and designed by Google.
 
@@ -26,7 +28,7 @@ The challenges (which will only be announced on the competition day) will requir
 
 To spark our youth’s interest and curiosity in tech, the competition will be part of an online series that will be published during the competition. A filming crew will accompany the teams throughout the competition to document their journey and sentiments. Details of the online series will be announced soon.
 
-**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **When is the duration of the competition?**  
+<br> **4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **When is the duration of the competition?**  
 The competition will take place from July to mid-August. \*
 ![](/images/Icmclub/competition%20duration%20final.png)
 *Important: Participants must be able to commit throughout the competition duration. Team(s) who is/are late or absent on the date of the competition will be considered to have withdrawn from the entire competition.
@@ -40,11 +42,10 @@ The competition will take place from July to mid-August. \*
 **5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Who can participate in this competition?**
 
 Only students from Infocomm and Media related CCAs at MOE Secondary schools, including Year 1 to 4 students from Integrated Programme schools can participate.
- have?
 
 
 
-**6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **How many members can each team have?**
+<br> **6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **How many members can each team have?**
 
 Each school may register ONLY one team of five students. *
 
@@ -52,12 +53,12 @@ Each school may register ONLY one team of five students. *
 
 
 
-**7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Are the students in each team required to be in the same level cohort (e.g. all Sec 2s)?**
+<br> **7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Are the students in each team required to be in the same level cohort (e.g. all Sec 2s)?**
 
 No. The team can consist of students across various level cohorts (e.g. a combination of Sec 1, 2 and 3 members)
 
 
-**8.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Are students required to possess a certain level of tech competency or required to have prior competition experience?**
+<br>**8.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Are students required to possess a certain level of tech competency or required to have prior competition experience?**
 
 No. The competition is open to all students, regardless of their level of technical competency or background. No prior coding experience is required and students will get to learn new skills as part of the competition process. Sec 1 students are welcome to join the competition as well.
 
@@ -87,8 +88,3 @@ Please kindly [contact us](mailto:imda_codesg@imda.gov.sg) if you have further e
 
 
 Please click [here](https://go.gov.sg/excel-competition-faq) to download the competition FAQ.
-
-
-
-
-
