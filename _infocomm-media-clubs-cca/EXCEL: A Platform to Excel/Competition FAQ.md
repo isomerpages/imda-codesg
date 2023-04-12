@@ -39,13 +39,13 @@ The competition will take place from July to mid-August. \*
 
 #### Eligibility and Formation of teams
 
-**5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Who can participate in this competition?**
+**5.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Who can participate in this competition?**
 
 Only students from Infocomm and Media related CCAs at MOE Secondary schools, including Year 1 to 4 students from Integrated Programme schools can participate.
 
 
 
-<br> **6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **How many members can each team have?**
+<br> **6.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **How many members can each team have?**
 
 Each school may register ONLY one team of five students. *
 
