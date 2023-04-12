@@ -19,7 +19,7 @@ The finalists presented their entries on 4th November 2022 at Marina Bay Sands f
 
 #### **We are pleased to announce the winning teams of the Infocomm Media Club Youth Awards!**
 
-#### Distinction
+#### **Distinction**
 
 ##### Media Category
 ![](/images/events/competitions/Media%20Distinction.jpg)
@@ -44,7 +44,7 @@ From Left to Right: Top Row: Catholic High School and Dunman High School. Middle
 *   MentalStop by School of Science and Technology
 *   Be Well Buddy by St Margaret’s Secondary School
 
-#### Accomplishment
+#### **Accomplishment**
 ##### Media Category
 
 *   Demystifying Help by Anglo-Chinese School (Independent)
@@ -77,7 +77,7 @@ From Left to Right: Top Row: Catholic High School and Dunman High School. Middle
 *   Mental Health NOW! by Serangoon Secondary School
 *   MentWell by Zhonghua Secondary School
 
-#### Commendation
+#### **Commendation**
 
 ##### Media Category
 
