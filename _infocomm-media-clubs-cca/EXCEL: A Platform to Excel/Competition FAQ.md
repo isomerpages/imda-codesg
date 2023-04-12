@@ -80,7 +80,7 @@ There will be exciting prizes such as cash vouchers to be won! All participants 
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By participating in the competition, each school is deemed to have accepted and agreed to abide by the competition rules.<br>
 <br>**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each school shall be responsible to seek the necessary media consent for their students’ participation in the competition.<br>
 <br>**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All finalists (schools who have advanced to the final stage) will be required to represent their school at the finals on 18 August 2023. <br>
-<br>**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All modes of official communication will be through email with the competition secretariat (imda_codesg@imda.gov.sg).<br>
+<br>**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All mode of official communication will be through email with the competition secretariat (imda_codesg@imda.gov.sg).<br>
 <br>**5.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The organiser reserves the right to amend these terms and conditions at any time without prior notice.
 
 #### Contact us
