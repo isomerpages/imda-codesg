@@ -84,5 +84,3 @@ Do you want to be a compelling digital storyteller? Learn from industry professi
 
 
 For FAQs, please view [here](/Learning-Journey-FAQs)
-
-What are you waiting for? [Sign up now!](https://go.gov.sg/discoveroct2022)
