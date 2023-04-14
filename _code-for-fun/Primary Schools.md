@@ -6,7 +6,7 @@ permalink: /code-for-fun/primary/
 
 ![](/images/cff/CFF%20Pri%20image.jpg)
 
-The **Code For Fun** Programme for Primary schools offers a standardised curriculum to all upper primary students, so that all students in our schools will have exposure to baseline computational thinking before they leave primary school. The programme also introduces students to some basic concepts of emerging technology.
+The **Code For Fun** Programme for primary schools offers a standardised curriculum to all upper primary students, so that all students in our schools will have exposure to baseline computational thinking before they leave primary school. The programme also introduces students to some basic concepts of emerging technology.
 Through this 10-hour curriculum, students will be able to:
 
 * Learn about core computational thinking concepts and how it can be applied to aspects of daily life;
@@ -16,6 +16,6 @@ Through this 10-hour curriculum, students will be able to:
 
 
  
-Application instructions will be sent to all MOE Government & Government-Aided Primary Schools between **September** to **October** annually. Schools applying for the programme should submit their application within the application period provided.
+Application instructions will be sent to all MOE Government & Government-Aided primary schools between **September** to **October** annually. Schools applying for the programme should submit their application within the application period provided.
 
-For enquires regarding the **Code For Fun** Enrichment Programme for Primary Schools, please contact [IMDA](mailto:wan_nurshafiqah_jamil_from.tp@imda.gov.sg).
+For enquires regarding the **Code For Fun** Enrichment Programme for primary schools, please contact [IMDA](mailto:wan_nurshafiqah_jamil_from.tp@imda.gov.sg).
