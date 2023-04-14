@@ -8,8 +8,8 @@ permalink: /code-for-fun/secondary/
 
 From 2023 onwards, the programme is enhanced to include the following:
 * Schools have the option of either the Vendor-run or School-run model:
-<br>&nbsp;&nbsp;**o** Vendor-run: Vendor delivers student training and hardware. IMDA and MOE HQ funds student training and hardware.
-<br>&nbsp;&nbsp;&nbsp;**o** School-run: School conducts comparable student training programme. Vendor delivers hardware, funded by IMDA and MOE HQ.
+<br>&nbsp;&nbsp;   **I.**&nbsp;Vendor-run: Vendor delivers student training and hardware. IMDA and MOE HQ funds student training and hardware.
+<br>&nbsp;&nbsp;&nbsp; **II.** School-run: School conducts comparable student training programme. Vendor delivers hardware, funded by IMDA and MOE HQ.
 * Better integration with schools’ Applied Learning Programmes (ALP) via ALP-theme student projects.
 * Inclusion of emerging tech via project themes, hardware such as AI camera and SLS module developed by IMDA.
 
@@ -31,3 +31,5 @@ All MOE Government and Government-Aided secondary schools are eligible to apply 
 Application for 2023 has closed.  Application for 2024 will open in **October/November 2023**.
 
 For enquires regarding the **Code For Fun** Enrichment Programme for secondary schools, please contact [IMDA](mailto:sing_yuan_tan_from.tp@imda.gov.sg;imda_codesg@imda.gov.sg).
+
+                     *
