@@ -6,12 +6,12 @@ permalink: /code-for-fun/primary/
 
 ![](/images/cff/CFF%20Pri%20image.jpg)
 
-The **Code For Fun** Programme for primary schools offers a standardised curriculum to all upper primary students, so that all students in our schools will have exposure to baseline computational thinking before they leave primary school. The programme also introduces students to some basic concepts of emerging technology.
+The **Code For Fun** Programme for primary schools offers a standardised curriculum to all upper primary students, to equip them with baseline computational thinking skills before they leave primary school. The programme also introduces students to some basic concepts of emerging technology.
 Through this 10-hour curriculum, students will be able to:
 
 * Learn about core computational thinking concepts and how it can be applied to aspects of daily life;
 * Understand basic programming concepts such as debugging, events, loops, variables, functions and conditionals;
-* Develop logical thinking and problem-solving skills by breaking down problems into bite-size; and
+* Develop logical thinking and problem-solving skills; and
 * Be introduced to emerging technologies such as Artificial Intelligence (A.I.) and cybersecurity concepts.
 
 
