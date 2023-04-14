@@ -16,6 +16,6 @@ Through this 10-hour curriculum, students will be able to:
 
 
  
-Application instructions will be sent to all **MOE Government & Government-Aided Primary Schools** between **September** to **October** annually. Schools applying for the programme should submit their application within the application period provided.
+Application instructions will be sent to all MOE Government & Government-Aided Primary Schools between **September** to **October** annually. Schools applying for the programme should submit their application within the application period provided.
 
 For enquires regarding the **Code For Fun** Enrichment Programme for Primary Schools, please contact [IMDA](mailto:wan_nurshafiqah_jamil_from.tp@imda.gov.sg).
