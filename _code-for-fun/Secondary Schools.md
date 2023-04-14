@@ -21,6 +21,9 @@ The programme continues to offer a 10-hour curriculum which:
 *  reinforces students’ understanding through practical project work; and
 *  includes two programming tracks, namely, Block-based programming and Text-based programming, will be available under the programme.
 
+       
+IMDA and MOE HQ will fund the training cost and/or hardware cost of one lower secondary school cohort (i.e. either Secondary 1 or Secondary 2) per year, subject to terms and conditions.
+
 **Application Details**
 
 All MOE Government &amp; Government-Aided Secondary Schools are eligible to apply for this programme.
