@@ -8,8 +8,8 @@ permalink: /code-for-fun/secondary/
 
 From 2023 onwards, the programme is enhanced to include the following:
 * Schools have the option of either the Vendor-run or School-run model:
-<br>&nbsp;&nbsp; **-** Vendor-run: Vendor delivers student training and hardware. IMDA and MOE HQ funds student training and hardware.
-<br>&nbsp;&nbsp;&nbsp;**-** School-run: School conducts comparable student training programme. Vendor delivers hardware, funded by IMDA and MOE HQ.
+<br>&nbsp;&nbsp;**o** Vendor-run: Vendor delivers student training and hardware. IMDA and MOE HQ funds student training and hardware.
+<br>&nbsp;&nbsp;&nbsp;**o** School-run: School conducts comparable student training programme. Vendor delivers hardware, funded by IMDA and MOE HQ.
 * Better integration with schools’ Applied Learning Programmes (ALP) via ALP-theme student projects.
 * Inclusion of emerging tech via project themes, hardware such as AI camera and SLS module developed by IMDA.
 
@@ -19,7 +19,7 @@ The programme continues to offer a 10-hour curriculum which:
 *   focuses on computational thinking concepts including their application in the real world and in coding; 
 *   incorporates elements of making and design prototyping through the use of microcontrollers;
 *  reinforces students’ understanding through practical project work; and
-*  includes two programming tracks, namely, Block-based programming and Text-based programming, will be available under the programme.
+*  includes two programming tracks, namely, Block-based programming and Text-based programming.
 
        
 IMDA and MOE HQ will fund the training cost and/or hardware cost of one lower secondary school cohort (i.e. either Secondary 1 or Secondary 2) per year, subject to terms and conditions.
