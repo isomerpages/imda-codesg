@@ -2,7 +2,7 @@
 title: About
 permalink: /code-for-fun/
 ---
-#### Code For Fun Enrichment Programme aims to increase primary and secondary school students’ knowledge of computational thinking, coding and making. 
+#### Code For Fun Enrichment Programme aims to increase primary and secondary school students’ knowledge of computational thinking, coding and digital making. 
 
 ![Students learning how to code](/images/cff/codeforfun1.jpg)
 
