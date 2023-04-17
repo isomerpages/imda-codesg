@@ -31,5 +31,3 @@ All MOE Government and Government-Aided secondary schools are eligible to apply 
 Application for 2023 has closed.  Application for 2024 will open in **October/November 2023**.
 
 For enquires regarding the **Code For Fun** Enrichment Programme for secondary schools, please contact [IMDA](mailto:sing_yuan_tan_from.tp@imda.gov.sg;imda_codesg@imda.gov.sg).
-
-                     *
