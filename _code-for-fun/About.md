@@ -6,7 +6,7 @@ permalink: /code-for-fun/
 
 ![Students learning how to code](/images/cff/codeforfun1.jpg)
 
-The Code For Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary and secondary schools. Students learn computational thinking and coding concepts though engaging hands-on experiences, robotic kits and/or microcontrollers.
+The Code For Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary and secondary schools. Students learn computational thinking and coding concepts through engaging hands-on experiences, robotic kits and/or microcontrollers.
 
 Click [here](/stories/#codeforfun) to view the media coverage.
 
