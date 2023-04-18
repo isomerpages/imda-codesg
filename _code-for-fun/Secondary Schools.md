@@ -7,7 +7,8 @@ permalink: /code-for-fun/secondary/
 ![Students coding in class](/images/cff/codeforfun2.jpg)
 
 From 2023 onwards, the programme is enhanced to include the following:
-* Schools have the option of either the Vendor-run or School-run model:
+* Schools have the option of either the Vendor-run or School-run model:<br>
+
 ![](/images/cff/vendor%20or%20school%20run%20models%20lower%20res.png)
 
 * Better integration with schools’ Applied Learning Programmes (ALP) via ALP-theme student projects.
