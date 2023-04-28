@@ -7,7 +7,7 @@ description: ""
 
 Adopt the tagline **“An Infocomm Media Club, powered by IMDA”** on your school website or social media channel and get our exclusive bluetooth trackers! 
 
-### **How to redeem the bluetooth trackers**  
+### **How to redeem the bluetooth trackers** &nbsp;
 
 **Step 1:** <br>
 Adopt the tagline and take up at least one activity from IMDA Infocomm Media Club’s programme. Check out the programmes [here](https://codesg.imda.gov.sg/infocomm-media-clubs/)!
@@ -31,6 +31,6 @@ E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by t
 
 ### Infocomm Media Club Telegram Channel
 
-Subscribe to our very own Telegram channel where we will share the latest news, updates and event invitations just for teachers.
+Be part of our Infocomm Media Club community by subscribing to our very own Telegram channel, created exclusively for Infocomm Media Club teachers. In this channel, we share the latest happenings of IMDA’s Infocomm Media Clubs programme and tech news. Subscribe today and ensure that you never miss out on important information and event invitations. By joining our Telegram community, you will also receive our exclusive Bluetooth tracker when you complete the form before **30 June 2023**.
 
-Subscribe [here](https://go.gov.sg/imda-imc-telegram-channel)!
+Subscribe [here](https://go.gov.sg/signup-imc-telegram-web)!
