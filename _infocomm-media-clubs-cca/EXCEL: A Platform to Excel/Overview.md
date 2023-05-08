@@ -22,4 +22,4 @@ Check out the competition FAQ [here](https://codesg.imda.gov.sg/infocomm-media-c
 
 ![](/images/Icmclub/(resized)%20register%20now%20edm.png)
 
-Click [here](https://form.gov.sg/643654b93e8d6600117294b3)to register now!
+Click [here](https://form.gov.sg/643654b93e8d6600117294b3) to register now!
