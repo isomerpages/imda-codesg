@@ -18,6 +18,8 @@ Registration will be on a **FIRST-COME-FIRST-SERVED** basis. There are **limited
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Win attractive prizes for your Infocomm Media Club
 
 
-Check out the competition FAQ [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/excel/competition-faq/) (what you need to know: no. of stages, competition dates, eligibility)
+Check out the competition FAQ [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/excel/competition-faq/) for more information. (no. of stages, competition dates, eligibility)
 
 ![](/images/Icmclub/(resized)%20register%20now%20edm.png)
+
+Click [here](https://form.gov.sg/643654b93e8d6600117294b3)to register now!
