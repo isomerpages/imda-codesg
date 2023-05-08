@@ -12,8 +12,7 @@ Rally your teams to take part in this brand-new national tech competition! Teams
   
 Registration will be on a **FIRST-COME-FIRST-SERVED** basis. There are **limited spaces** available so **sign up early** and secure your school’s spot in this exhilarating national competition!
 
-**What to expect:**
-
+**What to expect:**<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to code AI, race drones and battle your way to the finals<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Claim glory for your school as the Championship will be aired as a YouTube web series
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Win attractive prizes for your Infocomm Media Club
