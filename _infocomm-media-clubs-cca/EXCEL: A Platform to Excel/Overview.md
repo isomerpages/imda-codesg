@@ -4,15 +4,22 @@ permalink: /infocomm-media-clubs-cca/excel/overview/
 description: ""
 third_nav_title: "EXCEL: A Platform to Excel"
 ---
-# EXCEL: A National Platform to Gain Knowledge, Excel & Receive Recognition
+# EXCEL: A National Platform to Gain Knowledge, Excel &amp; Receive Recognition
+#### **National Youth Tech Championship is now open for** [**registration**](https://form.gov.sg/643654b93e8d6600117294b3)**!**
 
-![](/images/Icmclub/Coming%20soon%20v3(resized2).gif)
+Rally your teams to take part in this brand-new national tech competition! Teams will undergo progressive and scaffolded training to **acquire AI skills** before going head-to-head each week to **tackle different tech challenges** curated by Google.
 
-The **Infocomm Media Development Authority (IMDA)** and **Google** will be launching a brand-new **national tech competition** for Infocomm Media Clubs this **July**, taking place at **Google**.
+  
+Registration will be on a **FIRST-COME-FIRST-SERVED** basis. There are **limited spaces** available so **sign up early** and secure your school’s spot in this exhilarating national competition!
 
-In this new format, teams will be trained and can put their tech skills to the test to solve a series of hands-on challenges designed by Google each week. The competition will be part of an online web series, in episodic form that would be released during the competition. Details of the competition and web series will be announced soon.
+**What to expect:**
 
-**Registration opens in early May** and here’s what you can do to get a head start for the competition:
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to code AI, race drones and battle your way to the finals<br>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Claim glory for your school as the Championship will be aired as a YouTube web series
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Win attractive prizes for your Infocomm Media Club
 
-*   Check out the [competition FAQ](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/excel/competition-faq/) (what you need to know: no. of stages, competition dates, eligibility)
-*   Start forming a team to represent your school. Each school may register one team of five students. No prior coding experience is required and students will get to learn new skills as part of the competition process
+
+Check out the competition FAQ [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/excel/competition-faq/) (what you need to know: no. of stages, competition dates, eligibility)
+
+![](/images/Icmclub/(resized)%20register%20now%20edm.png)
+
