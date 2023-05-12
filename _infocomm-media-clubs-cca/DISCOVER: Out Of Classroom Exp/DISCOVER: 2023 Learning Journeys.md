@@ -32,8 +32,7 @@ Come discover how the intersection of art and science has positively impacted th
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** <br>
-May - 3, 11, 15 <br>
+**Dates:** 13 July <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session 
 <br>
@@ -129,8 +128,7 @@ DSLR cameras will be provided to all students during the workshop.
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:**<br>
-May – 16<br>
+**Dates:** (Fully booked)<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 10 -15 students per school for each session
 <br>
