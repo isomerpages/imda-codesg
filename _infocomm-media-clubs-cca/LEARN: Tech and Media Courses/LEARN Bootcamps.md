@@ -60,8 +60,7 @@ The Meta Spark bootcamp is the perfect opportunity for students who are passiona
 [Sign up here](https://go.gov.sg/sparkarmay23)
 
 **Bernina Sew &amp; Code Bootcamp (Pri)**
-![](/images/bernina_code%20and%20sew_bootcamp.jpg)
-
+![](/images/bernina_promobootcamp_websitebanner.PNG)
 The Sew &amp; Code Bootcamp is a week-long holiday bootcamp designed for students aged 10 to 12 (P4-6). Students will get hands-on experience in design, coding, sewing, embroidery, and electronics with BERNINA machines. <br>
 
 Using TurtleStitch and Bernina app, students will learn coding principles through creating generative artwork and learn to use sewing and embroidery features of the Bernina machine. As a final project, students will integrate microcontrollers and sensors with e-textile to create a functioning e-textile product.
