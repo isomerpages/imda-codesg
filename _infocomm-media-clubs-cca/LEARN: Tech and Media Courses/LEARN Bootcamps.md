@@ -29,7 +29,7 @@ As a final project, students will create their own custom app that they can use 
 
 The Microsoft Digital Making and Game Development Bootcamp lets primary school students create digital controllers using micro:bit and simple games within Microsoft Makecode Arcade and Microsoft Minecraft Education. Students will learn to code micro:bit processors, link with sensors and actuators, making automation solutions. In Minecraft Education, students will continue the coding practice, collaborate with peers and craft a project to address a real word problem. Makecode Arcade brings back 2D platformers, with students using block-based coding to create simple arcade games for their own entertainment or playing with friends!
 
-*   **When**: Choose either 5 to 8 June 2023 (Run 1), or 19 to 21,  23 June 2023 (Run 2).  From 9am to 5pm on all days
+*   **When**: Choose either 5 to 8 June 2023 (Run 1), or 19 to 21,  23 June 2023 (Run 2). 9am to 5pm on all days
     
 *   **Where**: Microsoft Singapore - 182 Cecil Street, #13-01 Frasers Tower, Singapore 069547
 *   **Requirements**: Laptops, micro:bit and components will be provided at the training venue. Students can bring their own Windows/Chromebook laptops if they wish to; the vendor will guide on the login instructions for the web-based platforms.
@@ -65,8 +65,8 @@ The Meta Spark bootcamp is the perfect opportunity for students who are passiona
 The Sew &amp; Code Bootcamp is a week-long holiday bootcamp designed for students aged 10 to 12 (P4-6). Students will get hands-on experience in design, coding, sewing, embroidery, and electronics with BERNINA machines. <br>
 
 Using TurtleStitch and Bernina app, students will learn coding principles through creating generative artwork and learn to use sewing and embroidery features of the Bernina machine. As a final project, students will integrate microcontrollers and sensors with e-textile to create a functioning e-textile product.
-* When: 20 to 23 June 2023, 9am – 4pm (including breaks)
-* Where: TBA
-* Requirements: All materials and iPads will be provided at the bootcamp
+* **When:** 20 to 23 June 2023, 9am – 4pm (including breaks)
+* **Where:** TBA
+* **Requirements:** All materials and iPads will be provided at the bootcamp
 
 [Sign up here ](https://go.gov.sg/bernina-sewcode2023)
