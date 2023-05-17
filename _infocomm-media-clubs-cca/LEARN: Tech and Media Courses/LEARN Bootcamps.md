@@ -12,7 +12,7 @@ The LEARN bootcamps aim to provide passionate Club members with opportunities to
 
 **Google AppSheet Bootcamp (Pri)**
 ![](/images/web%20banner.jpg)
-The Google AppSheet Bootcamp introduces students to the world of app development. This fun and engaging program is designed to teach students the basics of app development using the Google AppSheet platform. With features like the drag-and-drop interface and automatic data syncing, AppSheet allows students to focus on the process of problem solving with design thinking skills and areas of app development like user interface and user experience. 
+The Google AppSheet Bootcamp introduces students to the world of app development. This fun and engaging program is designed to teach students the basics of app development using the Google AppSheet platform. With features like the drag-and-drop interface and automatic data syncing, AppSheet allows students to focus on the process of problem solving with design thinking skills and areas of app development like user interface and user experience.&nbsp;
 
 As a final project, students will create their own custom app that they can use and share with friends and family.
 
@@ -24,12 +24,12 @@ As a final project, students will create their own custom app that they can use 
 
 [Sign up here](https://go.gov.sg/google-appsheet2023 )
 
-**Microsoft Digital Making & Game Development Bootcamp (Pri)**
-![](/images/Icmclub/microsoft%20digital%20making%20&%20game%20development%20bootcamp%20(pri).jpg)
+**Microsoft Digital Making &amp; Game Development Bootcamp (Pri)**
+![](/images/Icmclub/microsoft%20digital%20making%20&amp;%20game%20development%20bootcamp%20(pri).jpg)
 
 The Microsoft Digital Making and Game Development Bootcamp lets primary school students create digital controllers using micro:bit and simple games within Microsoft Makecode Arcade and Microsoft Minecraft Education. Students will learn to code micro:bit processors, link with sensors and actuators, making automation solutions. In Minecraft Education, students will continue the coding practice, collaborate with peers and craft a project to address a real word problem. Makecode Arcade brings back 2D platformers, with students using block-based coding to create simple arcade games for their own entertainment or playing with friends!
 
-*   **When**: Choose either 5 to 8 June 2023 (Run 1), or 19 to 21 & 23 June 2023 (Run 2). 9am to 5pm on all days
+*   **When**: Choose either 5 to 8 June 2023 (Run 1), or 19 to 21 &amp; 23 June 2023 (Run 2). 9am to 5pm on all days
     
 *   **Where**: Microsoft Singapore - 182 Cecil Street, #13-01 Frasers Tower, Singapore 069547
 *   **Requirements**: Laptops, micro:bit and components will be provided at the training venue. Students can bring their own Windows/Chromebook laptops if they wish to; the vendor will guide on the login instructions for the web-based platforms.
@@ -59,10 +59,11 @@ The Meta Spark bootcamp is the perfect opportunity for students who are passiona
 
 [Sign up here](https://go.gov.sg/sparkarmay23)
 
-**Bernina Sew & Code Bootcamp (Pri)**
+**Bernina Sew &amp; Code Bootcamp (Pri)**
 ![](/images/bernina_code%20and%20sew_bootcamp.jpg)
 
-The Sew & Code Bootcamp is a week-long holiday bootcamp designed for students aged 10 to 12 (P4-6). Students will get hands-on experience in design, coding, sewing, embroidery, and electronics with BERNINA machines. 
+The Sew &amp; Code Bootcamp is a week-long holiday bootcamp designed for students aged 10 to 12 (P4-6). Students will get hands-on experience in design, coding, sewing, embroidery, and electronics with BERNINA machines. <br>
+
 Using TurtleStitch and Bernina app, students will learn coding principles through creating generative artwork and learn to use sewing and embroidery features of the Bernina machine. As a final project, students will integrate microcontrollers and sensors with e-textile to create a functioning e-textile product.
 * When: 20 to 23 June 2023, 9am – 4pm (including breaks)
 * Where: TBA
