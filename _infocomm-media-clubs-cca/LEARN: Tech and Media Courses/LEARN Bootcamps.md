@@ -58,3 +58,14 @@ The Meta Spark bootcamp is the perfect opportunity for students who are passiona
 *   **Requirements**: Participants are required to bring their laptops/MacBooks with updated operating systems that can run Meta Spark (iPads and Chromebooks are not supported). For those who do not have their own laptops, we have a limited number of desktops available for use. We’ll send installation instructions beforehand.
 
 [Sign up here](https://go.gov.sg/sparkarmay23)
+
+**Bernina Sew & Code Bootcamp (Pri)**
+![](/images/bernina_code%20and%20sew_bootcamp.jpg)
+
+The Sew & Code Bootcamp is a week-long holiday bootcamp designed for students aged 10 to 12 (P4-6). Students will get hands-on experience in design, coding, sewing, embroidery, and electronics with BERNINA machines. 
+Using TurtleStitch and Bernina app, students will learn coding principles through creating generative artwork and learn to use sewing and embroidery features of the Bernina machine. As a final project, students will integrate microcontrollers and sensors with e-textile to create a functioning e-textile product.
+* When: 20 to 23 June 2023, 9am – 4pm (including breaks)
+* Where: TBA
+* Requirements: All materials and iPads will be provided at the bootcamp
+
+[Sign up here ](https://go.gov.sg/bernina-sewcode2023)
