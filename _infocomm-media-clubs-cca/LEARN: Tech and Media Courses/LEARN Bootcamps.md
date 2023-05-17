@@ -54,7 +54,8 @@ The Meta Spark bootcamp is the perfect opportunity for students who are passiona
 
 *   **When**: 12 June to 15 June 2023, 9.30am – 5pm
 *   **Where**: Temasek Polytechnic, 21 Tampines Ave 1 Singapore 529757
-*   **Requirements**: Participants are required to bring their laptops/MacBooks with updated operating systems that can run Meta Spark (iPads and Chromebooks are not supported). For those who do not have their own laptops, we have a limited number of desktops available for use. We’ll send installation instructions beforehand.
+*   **Requirements**: Participants are required to bring their laptops/MacBooks with updated operating systems that can run Meta Spark (iPads and Chromebooks are not supported). For those who do not have their own laptops, we have a limited number of desktops available for use. We’ll send installation instructions beforehand. <br>
+* *Opens to all Secondary and JC students*
 
 [Sign up here](https://go.gov.sg/sparkarmay23)
 
