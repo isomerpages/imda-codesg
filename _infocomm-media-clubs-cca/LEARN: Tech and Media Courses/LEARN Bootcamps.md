@@ -10,27 +10,19 @@ The LEARN bootcamps aim to provide passionate Club members with opportunities to
 
 #### Upcoming Bootcamps
 
-**Meta Spark Bootcamp (Sec/JC)**
-![](/images/Icmclub/meta%20spark%20bootcamp.png)
+**Google AppSheet Bootcamp (Pri)**
+![](/images/web%20banner.jpg)
+The Google AppSheet Bootcamp introduces students to the world of app development. This fun and engaging program is designed to teach students the basics of app development using the Google AppSheet platform. With features like the drag-and-drop interface and automatic data syncing, AppSheet allows students to focus on the process of problem solving with design thinking skills and areas of app development like user interface and user experience. 
 
-The Meta Spark bootcamp is the perfect opportunity for students who are passionate about technology to explore the world of Augmented Reality (AR) and discover new ways of engaging with their environment. In this 24-hr bootcamp held across 4 days, students will learn how to use Meta Spark to create their own custom AR immersive experiences that can be shared on Meta and Instagram. As a final project, students will participate in a nation-wide AR competition by creating an AR effect to spread the message of a sustainable future, for a chance to win attractive prizes from Meta.
+As a final project, students will create their own custom app that they can use and share with friends and family.
 
-*   **When**: 29 May to 1 June 2023, 9.30am – 5pm
-*   **Where**: Temasek Polytechnic, 21 Tampines Ave 1 Singapore 529757
-*   **Requirements**: Participants are required to bring their laptops/MacBooks with updated operating systems that can run Meta Spark (iPads and Chromebooks are not supported). For those who do not have their own laptops, we have a limited number of desktops available for use. We’ll send installation instructions beforehand.
+* **When:** 29 May to 31 May 2023, 9.00am to 5.00pm
 
-[Find out more here](https://go.gov.sg/sparkarmay23)
+* **Where:** Google Asia Pacific, Singapore - 70 Pasir Panjang Rd, #03-71 Mapletree Business City II, Singapore 117371
 
-**Unity Game Development Bootcamp (Sec/JC)**
-![](/images/Icmclub/unity%20bootcamp.png)
+* **Requirements:** Chromebooks will be provided at the training venue. No laptop or tablet is required.
 
-The Unity Game Development bootcamp provides students the opportunity to work on a versatile game engine that many mobile games are built on. In this week-long bootcamp, students will learn to use the Unity game engine, acquire coding skills in C# for Unity and be equipped with game design fundamentals and philosophy. As a final project, students will customise their own game using the Unity platform.
-
-*   **When**: 5 to 9 June 2023, 9am – 4pm
-*   **Where**: St. Patrick’s School, 490 E Coast Rd, Singapore 429058
-*   **Requirements**: Windows PCs will be provided at the training venue. Students with their own Windows PC or macOS devices who want to bring them along (iPads and Chromebooks are not supported) can do so; we’ll send installation instructions beforehand.
-
-[Sign up here](https://go.gov.sg/unity-bc23)
+[Sign up here](https://go.gov.sg/google-appsheet2023 )
 
 **Microsoft Digital Making & Game Development Bootcamp (Pri)**
 ![](/images/Icmclub/microsoft%20digital%20making%20&%20game%20development%20bootcamp%20(pri).jpg)
@@ -42,4 +34,27 @@ The Microsoft Digital Making and Game Development Bootcamp lets primary school s
 *   **Where**: Microsoft Singapore - 182 Cecil Street, #13-01 Frasers Tower, Singapore 069547
 *   **Requirements**: Laptops, micro:bit and components will be provided at the training venue. Students can bring their own Windows/Chromebook laptops if they wish to; the vendor will guide on the login instructions for the web-based platforms.
 
-[Sign up here](https://go.gov.sg/microsoft-bc23)
+[Sign up here ](https://go.gov.sg/microsoft-bc23)
+
+**Unity Game Development Bootcamp (Sec/JC)**
+![](/images/Icmclub/unity%20bootcamp.png)
+
+The Unity Game Development bootcamp provides students the opportunity to work on a versatile game engine that many mobile games are built on. In this week-long bootcamp, students will learn to use the Unity game engine, acquire coding skills in C# for Unity and be equipped with game design fundamentals and philosophy. As a final project, students will customise their own game using the Unity platform.
+
+*   **When**: 5 to 9 June 2023, 9am – 4pm
+*   **Where**: St. Patrick’s School, 490 E Coast Rd, Singapore 429058
+*   **Requirements**: Windows PCs will be provided at the training venue. Students with their own Windows PC or macOS devices who want to bring them along (iPads and Chromebooks are not supported) can do so; we’ll send installation instructions beforehand.
+
+[Sign up here](https://go.gov.sg/unity-bc23)
+
+
+**Meta Spark Bootcamp (Sec/JC)**
+![](/images/meta_updated_promobootcamp_websitebanner%20.PNG)
+
+The Meta Spark bootcamp is the perfect opportunity for students who are passionate about technology to explore the world of Augmented Reality (AR) and discover new ways of engaging with their environment. In this 24-hr bootcamp held across 4 days, students will learn how to use Meta Spark to create their own custom AR immersive experiences that can be shared on Meta and Instagram. As a final project, students will participate in a nation-wide AR competition by creating an AR effect to spread the message of a sustainable future, for a chance to win attractive prizes from Meta.
+
+*   **When**: 12 June to 15 June 2023, 9.30am – 5pm
+*   **Where**: Temasek Polytechnic, 21 Tampines Ave 1 Singapore 529757
+*   **Requirements**: Participants are required to bring their laptops/MacBooks with updated operating systems that can run Meta Spark (iPads and Chromebooks are not supported). For those who do not have their own laptops, we have a limited number of desktops available for use. We’ll send installation instructions beforehand.
+
+[Sign up here](https://go.gov.sg/sparkarmay23)
