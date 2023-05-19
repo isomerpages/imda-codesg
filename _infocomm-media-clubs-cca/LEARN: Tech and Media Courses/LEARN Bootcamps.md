@@ -62,7 +62,7 @@ The Sew &amp; Code Bootcamp is a week-long holiday bootcamp designed for student
 
 Using TurtleStitch and Bernina app, students will learn coding principles through creating generative artwork and learn to use sewing and embroidery features of the Bernina machine. As a final project, students will integrate microcontrollers and sensors with e-textile to create a functioning e-textile product.
 * **When:** 20 to 23 June 2023, 9am – 4pm (including breaks)
-* **Where:** TBA
+* **Where:** Bernina M38 #08-03, 38 Jalan Pemimpin, Singapore 577178
 * **Requirements:** All materials and iPads will be provided at the bootcamp
 
 [Sign up here ](https://go.gov.sg/bernina-sewcode2023)
