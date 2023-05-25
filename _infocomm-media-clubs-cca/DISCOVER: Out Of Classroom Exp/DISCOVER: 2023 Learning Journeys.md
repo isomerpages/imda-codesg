@@ -113,7 +113,7 @@ Make your voice be heard and let your creative minds curate captivating shareabl
 **Dates:** 
 * July - 5, 12 &amp; 19
 * August - 2, 16, 23 &amp; 30
-* October - 4, 11, 18 &amp; 25
+* October - 4, 11, 18 &amp; 25 <br>
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
@@ -143,7 +143,7 @@ From National Day Parade to New Year’s Eve Party, swarm of drones are being us
 **Time:** 3pm to 5pm<br>
 **Dates:** 
 * July - 31
-* August - 14, 21, 23 &amp; 28
+* August - 14, 21, 23 &amp; 28 <br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
