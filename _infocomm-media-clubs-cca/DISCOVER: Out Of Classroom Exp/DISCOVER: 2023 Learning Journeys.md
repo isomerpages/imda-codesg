@@ -9,19 +9,18 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 **DISCOVER Learning Journeys for 2023 are now open for registration!**
 
-Start 2023 with a bang with our DISCOVER learning journeys! Happening from **February to October,** IMDA has tied up with our tech and media partners to offer a plethora of exciting workshops that covers topics such as immersive media, artificial intelligence, drones, eSports, media content creation and photography.
+Embark on an unforgettable learning journey with us! Expand your students’ horizons and discover the world of emerging technology through our incredible learning experiences.
 
-Registration is now open for learning journeys conducted from **February** to **April 2023**. Look forward to exciting workshops specially curated for Infocomm Media Club members!  Sign up [now](https://go.gov.sg/discover2023)!&nbsp;
+We have added more slots for your favourite learning journeys.
+Register now for more than 30 learning journeys conducted from May to October. Sign up [now](https://go.gov.sg/discover2023)!
 
-Keen to join us from May onward? We are planning for more exciting learning journeys, so 
-please indicate your interest [here](https://go.gov.sg/discover2023).
+***Availability is on a first-come-first-served basis.
+Registration closes on 20th June 2023.***
 
-For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023).
+For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
+.<br>
 
-
-
-<i>*Note : The DISCOVER experience is open to infocomm media-related clubs in Primary/Secondary schools and Junior Colleges only. </i>
-<i>Registration and slots availability are based on a first-come-first-served basis. </i>
+*Note: The DISCOVER experience is open to infocomm media-related clubs in Primary/Secondary schools and Junior Colleges only. 
 
 
 ### IMMERSIVE MEDIA
