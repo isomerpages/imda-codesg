@@ -24,14 +24,14 @@ For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
 
 
 ### IMMERSIVE MEDIA
-#### **ART SCIENCE MUSEUM**
+#### **ART SCIENCE MUSEUM** 
 ![](/images/Icmclub/ASM.png)
 
 Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** 13 July <br>
+**Dates:** (Fully Booked) <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session 
 <br>
@@ -41,14 +41,16 @@ Come discover how the intersection of art and science has positively impacted th
 #### **HEADROCK VR**
 ![](/images/Icmclub/Headrock%20VR.png)
 
-Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand-new way.
+Immerse yourself in a world of virtual reality with Headrock VR! Experience the next level of immersive media and learn how VR can be applied across the varied fields and industries. 
 
-Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries.
-
+Dive into a wonderland where anything is possible. From thrilling roller coaster rides to epic battles in outer space, their VR experiences will transport you to a new dimension of excitement!
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
-**Dates:** (Fully Booked)<br>
+**Dates:** 
+* July: 5, 6, 12, 19, 20 ,26 &amp; 27 
+* August: 2, 3, 16, 17, 23, 24, 30 &amp; 31
+* October: 11, 12, 18, 19 &amp; 25
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
