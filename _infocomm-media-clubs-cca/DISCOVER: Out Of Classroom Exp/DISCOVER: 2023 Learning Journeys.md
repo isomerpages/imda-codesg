@@ -9,30 +9,29 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 **DISCOVER Learning Journeys for 2023 are now open for registration!**
 
-Start 2023 with a bang with our DISCOVER learning journeys! Happening from **February to October,** IMDA has tied up with our tech and media partners to offer a plethora of exciting workshops that covers topics such as immersive media, artificial intelligence, drones, eSports, media content creation and photography.
+Embark on an unforgettable learning journey with us! Expand your students’ horizons and discover the world of emerging technology through our incredible learning experiences.
 
-Registration is now open for learning journeys conducted from **February** to **April 2023**. Look forward to exciting workshops specially curated for Infocomm Media Club members!  Sign up [now](https://go.gov.sg/discover2023)!&nbsp;
+We have added more slots for your favourite learning journeys.
+Register now for more than 30 learning journeys conducted from May to October. Sign up [now](https://go.gov.sg/discover2023)!
 
-Keen to join us from May onward? We are planning for more exciting learning journeys, so 
-please indicate your interest [here](https://go.gov.sg/discover2023).
+***Availability is on a first-come-first-served basis.
+Registration closes on 20th June 2023.***
 
-For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023).
+For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
+.<br>
 
-
-
-<i>*Note : The DISCOVER experience is open to infocomm media-related clubs in Primary/Secondary schools and Junior Colleges only. </i>
-<i>Registration and slots availability are based on a first-come-first-served basis. </i>
+*Note: The DISCOVER experience is open to infocomm media-related clubs in Primary/Secondary schools and Junior Colleges only. 
 
 
 ### IMMERSIVE MEDIA
-#### **ART SCIENCE MUSEUM**
+#### **ART SCIENCE MUSEUM** 
 ![](/images/Icmclub/ASM.png)
 
 Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** 13 July <br>
+**Dates:** (Fully Booked) <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session 
 <br>
@@ -42,14 +41,16 @@ Come discover how the intersection of art and science has positively impacted th
 #### **HEADROCK VR**
 ![](/images/Icmclub/Headrock%20VR.png)
 
-Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand-new way.
+Immerse yourself in a world of virtual reality with Headrock VR! Experience the next level of immersive media and learn how VR can be applied across the varied fields and industries. 
 
-Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR headsets to embark on larger-than-life adventures like braving rapids on a jungle raft or riding a dog sled through an unrelenting blizzard. Through these thematic VR experiences, learn how the technology works and discover its potential applications across varied fields and industries.
-
+Dive into a wonderland where anything is possible. From thrilling roller coaster rides to epic battles in outer space, their VR experiences will transport you to a new dimension of excitement!
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
-**Dates:** (Fully Booked)<br>
+**Dates:** 
+* July - 5, 6, 12, 19, 20 ,26 &amp; 27 
+* August - 2, 3, 16, 17, 23, 24, 30 &amp; 31
+* October - 11, 12, 18, 19 &amp; 25 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
@@ -65,8 +66,8 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** <br>
-Aug - 16<br>
+**Dates:** 
+August - 16<br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 30 students per school for each session<br>
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
@@ -103,14 +104,16 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 #### **The Smart Local** <br>
 ![](/images/Icmclub/TSL.png)
 
-Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
+Time to level up your media skills! Learn how to produce good content with guidance from professionals from The Smart Local. Get tips and tricks to craft compelling content to digital storyboarding. 
 
-The Smart Local is a well-known media publisher known for its quality editorial and video content. Learn from the professionals on digital storyboarding techniques and uncover secrets on how to capture and grab attention with fascinating content.
-
+Make your voice be heard and let your creative minds curate captivating shareable content that resonates with your audience now!
 
 **<u>Learning Journey Details</u>**<br>
 **Time:** 3pm to 5pm<br>
-**Dates:** (Fully Booked) *Look out for upcoming dates in May to Oct<br>
+**Dates:** 
+* July - 5, 12 &amp; 19
+* August - 2, 16, 23 &amp; 30
+* October - 4, 11, 18 &amp; 25 <br>
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
@@ -119,11 +122,7 @@ The Smart Local is a well-known media publisher known for its quality editorial 
 #### **Canon** <br>
 ![](/images/Icmclub/Canon.png)
 
-Calling all aspiring photographers - master the art of taking amazing photos and videos at Canon’s Imaging Academy.
-
-Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos with an outdoor hands-on practice session.
-
-DSLR cameras will be provided to all students during the workshop.
+Calling all aspiring photographers - master the art of taking amazing photos and videos at Canon’s Imaging Academy. Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos with an outdoor hands-on practice session.
 
 
 **<u>Learning Journey Details</u>** <br>
@@ -138,12 +137,13 @@ DSLR cameras will be provided to all students during the workshop.
 #### **65Drones**
 ![](/images/Icmclub/65%20Drones.png)
 
-From National Day Parade to New Year’s Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
-DSLR cameras will be provided to all students during the workshop.
+From National Day Parade to New Year’s Eve Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** May to Oct (To be confirmed)<br>
+**Dates:** 
+* July - 31
+* August - 14, 21, 23 &amp; 28 <br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
@@ -156,9 +156,9 @@ DSLR cameras will be provided to all students during the workshop.
 Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refract is a Singapore-based technology innovation group that specializes in the field of extended reality (XR) where real-time full-body tracking technologies are used for gaming and entertainment.
 
 **<u>Learning Journey Details</u>** <br>
-**Time:** (To be confirmed)<br>
-**Dates:** Oct (To be confirmed )<br>
+**Time:** 3pm to 5pm <br>
+**Dates:** August - 15 &amp; 17 <br>
 **Open to:** Secondary and JC students <br>
 **Capacity:** 5 - 10 students per school for each session
 <br>
-**Location:** (To be confirmed)
+**Location:** 141 Middle Road Singapore 188976&nbsp; 
