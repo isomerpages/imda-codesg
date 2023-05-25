@@ -124,8 +124,6 @@ Make your voice be heard and let your creative minds curate captivating shareabl
 
 Calling all aspiring photographers - master the art of taking amazing photos and videos at Canon’s Imaging Academy. Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos with an outdoor hands-on practice session.
 
-DSLR cameras will be provided to all students during the workshop.
-
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
