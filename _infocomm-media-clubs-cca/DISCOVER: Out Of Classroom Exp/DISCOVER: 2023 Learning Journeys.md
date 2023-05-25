@@ -161,4 +161,4 @@ Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refrac
 **Open to:** Secondary and JC students <br>
 **Capacity:** 5 - 10 students per school for each session
 <br>
-**Location:** (To be confirmed)
+**Location:** 141 Middle Road Singapore 188976&nbsp; 
