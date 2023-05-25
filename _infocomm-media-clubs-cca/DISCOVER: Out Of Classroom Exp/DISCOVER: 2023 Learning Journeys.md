@@ -104,14 +104,16 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 #### **The Smart Local** <br>
 ![](/images/Icmclub/TSL.png)
 
-Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
+Time to level up your media skills! Learn how to produce good content with guidance from professionals from The Smart Local. Get tips and tricks to craft compelling content to digital storyboarding. 
 
-The Smart Local is a well-known media publisher known for its quality editorial and video content. Learn from the professionals on digital storyboarding techniques and uncover secrets on how to capture and grab attention with fascinating content.
-
+Make your voice be heard and let your creative minds curate captivating shareable content that resonates with your audience now!
 
 **<u>Learning Journey Details</u>**<br>
 **Time:** 3pm to 5pm<br>
-**Dates:** (Fully Booked) *Look out for upcoming dates in May to Oct<br>
+**Dates:** 
+* July - 5, 12 &amp; 19
+* August - 2, 16, 23 &amp; 30
+* October - 4, 11, 18 &amp; 25
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
@@ -139,12 +141,15 @@ DSLR cameras will be provided to all students during the workshop.
 #### **65Drones**
 ![](/images/Icmclub/65%20Drones.png)
 
-From National Day Parade to New Year’s Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
-DSLR cameras will be provided to all students during the workshop.
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
+From National Day Parade to New Year’s Eve Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** May to Oct (To be confirmed)<br>
+**Dates:** 
+* July - 31
+* August - 14, 21, 23 &amp; 28
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
@@ -157,8 +162,8 @@ DSLR cameras will be provided to all students during the workshop.
 Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refract is a Singapore-based technology innovation group that specializes in the field of extended reality (XR) where real-time full-body tracking technologies are used for gaming and entertainment.
 
 **<u>Learning Journey Details</u>** <br>
-**Time:** (To be confirmed)<br>
-**Dates:** Oct (To be confirmed )<br>
+**Time:** 3pm to 5pm <br>
+**Dates:** August - 15 &amp; 17 <br>
 **Open to:** Secondary and JC students <br>
 **Capacity:** 5 - 10 students per school for each session
 <br>
