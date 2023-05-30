@@ -110,8 +110,7 @@ Make your voice be heard and let your creative minds curate captivating shareabl
 
 **<u>Learning Journey Details</u>**<br>
 **Time:** 3pm to 5pm<br>
-**Dates:** 
-* October - 11 &amp; 25 <br>
+**Dates:**  October - 11 &amp; 25 <br>
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
@@ -139,8 +138,7 @@ From National Day Parade to New Year’s Eve Party, swarm of drones are being us
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** 
-* July - 31<br>
+**Dates:** July - 31<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
