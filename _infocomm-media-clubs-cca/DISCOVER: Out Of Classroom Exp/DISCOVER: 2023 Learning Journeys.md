@@ -48,8 +48,8 @@ Dive into a wonderland where anything is possible. From thrilling roller coaster
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
 **Dates:** 
-* July - 5, 6, 12, 19, 20 ,26 &amp; 27 
-* August - 2, 3, 16, 17, 23, 24, 30 &amp; 31
+* July - 6, 12, 19, 26 &amp; 27 
+* August - 2, 3, 16, 17, 30 &amp; 31
 * October - 11, 12, 18, 19 &amp; 25 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
@@ -67,7 +67,7 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
 **Dates:** 
-August - 16<br>
+(Fully Booked)<br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 30 students per school for each session<br>
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
@@ -110,10 +110,7 @@ Make your voice be heard and let your creative minds curate captivating shareabl
 
 **<u>Learning Journey Details</u>**<br>
 **Time:** 3pm to 5pm<br>
-**Dates:** 
-* July - 5, 12 &amp; 19
-* August - 2, 16, 23 &amp; 30
-* October - 4, 11, 18 &amp; 25 <br>
+**Dates:**  October - 11 &amp; 25 <br>
 **Open to:** Secondary and JC students<br>
 **Capacity:** 20 students per school for each session <br>
 **Location:** Chutex Building, 219 Kallang Bahru, #04-00 Chutex Building, Singapore 339348
@@ -141,9 +138,7 @@ From National Day Parade to New Year’s Eve Party, swarm of drones are being us
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** 
-* July - 31
-* August - 14, 21, 23 &amp; 28 <br>
+**Dates:** July - 31<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
@@ -157,8 +152,8 @@ Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refrac
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm <br>
-**Dates:** August - 15 &amp; 17 <br>
+**Dates:** August - 15  <br>
 **Open to:** Secondary and JC students <br>
 **Capacity:** 5 - 10 students per school for each session
 <br>
-**Location:** 141 Middle Road Singapore 188976&nbsp; 
+**Location:** 71 Ayer Rajah Crescent, #04-12/14, Singapore 139951
