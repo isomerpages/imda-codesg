@@ -48,8 +48,8 @@ Dive into a wonderland where anything is possible. From thrilling roller coaster
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
 **Dates:** 
-* July - 6, 12, 19, 26 &amp; 27 
-* August - 2, 3, 16, 17, 30 &amp; 31
+* July - 17 &amp; 27 
+* August - 3, 16 &amp; 31
 * October - 11, 12, 18, 19 &amp; 25 <br>
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
@@ -138,7 +138,7 @@ From National Day Parade to New Year’s Eve Party, swarm of drones are being us
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** July - 31<br>
+**Dates:** August - 11<br>
 **Open to:** Primary / Secondary and JC students <br>
 **Capacity:** 20 students per school for each session
 <br>
