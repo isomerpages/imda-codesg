@@ -51,6 +51,7 @@ Dive into a wonderland where anything is possible. From thrilling roller coaster
 * July - 17 &amp; 27 
 * August - 3, 16 &amp; 31
 * October - 11, 12, 18, 19 &amp; 25 <br>
+
 **Open to:** Primary/ Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 80 Siloso Road, Southside Blk B, #01-03, Singapore 098969
