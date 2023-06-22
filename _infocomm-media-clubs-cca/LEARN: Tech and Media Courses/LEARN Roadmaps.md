@@ -26,7 +26,7 @@ The 2023 application window has closed on 28 Feb 2023. <br>Schools that intend t
 |  **Make the Change** | Pedro Agurre<br>[pedro@makethechange.sg](mailto:pedro@makethechange.sg)<br> | • Immersive with APPLE (Primary)^ <br>• Immersive with APPLE (Secondary/JC) |
 |**edm8ker**| See Rui Yin<br>[ruiyin@edm8ker.com](mailto:ruiyin@edm8ker.com)<br>8183 5166 <br> |• Social Robotics with SOFTBANK (Primary)^ |
 |**Republic Polytechnic**| Ivan Wee<br>[ivan_wee@rp.edu.sg](mailto:ivan_wee@rp.edu.sg)<br>66971128<br>|• Cybersecurity with CISCO (Secondary/ JC)|
-|**Sustainable Living Lab**| Weng Wan Ying<br>[wanying@sustainablelivinglab.org](mailto:wanying@sustainablelivinglab.org)<br>8121 4127|• Artificial Intelligence with INTEL<br>(Secondary / JC)|
+|**Sustainable Living Lab**| Niki Lee<br>[niki.lee@sustainablelivinglab.org](mailto:niki.lee@sustainablelivinglab.org)<br>86229317|• Artificial Intelligence with INTEL<br>(Secondary / JC)|
 |**Tinker Class**| Soon Yin Jie<br>[yjsoon@tinkertanker.com](mailto:yjsoon@tinkertanker.com) <br>9682 1694|• Mobile App Development with APPLE (Secondary/ JC)|
 |**Zenitant**| Philip Kong<br>[philipkong@zenitant.com.sg](mailto:philipkong@zenitant.com.sg)<br>9744 0711 <br><br>Muhd Nizam<br>[nizam@zenitant.com.sg](mailto:nizam@zenitant.com.sg)<br>9129 0362|• Digital Making with MICROSOFT (Primary)^ <br>• Game Development with MICROSOFT (Primary)^ |
 |**ACP Computer Training School**| Poon Kum Seng<br>[kum_seng@acpcomputer.edu.sg](mailto:kum_seng@acpcomputer.edu.sg)<br>8102 2256| • Cybersecurity (Primary/Secondary/JC) <br> • Data Analytics (Secondary/JC)<br> • Mobile App Development (Primary/Secondary/JC)|
