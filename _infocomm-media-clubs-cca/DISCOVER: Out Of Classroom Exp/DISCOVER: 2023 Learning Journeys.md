@@ -15,7 +15,7 @@ We have added more slots for your favourite learning journeys.
 Register now for more than 30 learning journeys conducted from May to October. Sign up [now](https://go.gov.sg/discover2023)!
 
 ***Availability is on a first-come-first-served basis.
-Registration closes on 20th June 2023.***
+Registration closes on 31 July 2023.***
 
 For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
 .<br>
