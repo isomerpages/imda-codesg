@@ -8,7 +8,4 @@ third_nav_title: "SERVE: Values In Action"
 
 Club members will be provided with opportunities to serve in their schools and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
 
-
-
-
-
+![](/images/Icmclub/serve%20sem%202%20round%20up%20website.jpg)
