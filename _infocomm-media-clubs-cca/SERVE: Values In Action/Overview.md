@@ -23,6 +23,7 @@ Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve/tech-satu
 Volunteer as a festival guide or conduct a workshop\* to help build a digitally inclusive society!
 
 The Digital for Life movement brings together Singaporeans from all ages and walks of life to embrace digital learning as a lifelong pursuit.  
+
 (\*Only schools on certain LEARN roadmaps are eligible.)  
   
 Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-microsoft-tech-exposure-workshops/) to read more about Microsoft Tech Exposure Workshops  
