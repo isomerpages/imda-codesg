@@ -13,6 +13,7 @@ Club members will be provided with opportunities to serve in their schools and t
 **(Every 3rd Saturday of the month)**
 
 Propose and conduct a digital workshop to benefit underprivileged children at Heartbeat@Bedok.  
+
 VIVITA staff will mentor your Club members to shape the content and deliver a meaningful experience!  
   
 Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve/tech-saturday-2023/) to read more about Tech Saturday
