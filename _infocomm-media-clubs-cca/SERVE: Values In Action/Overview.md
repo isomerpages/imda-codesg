@@ -25,14 +25,14 @@ Volunteer as a festival guide or conduct a workshop\* to help build a digitally 
 The Digital for Life movement brings together Singaporeans from all ages and walks of life to embrace digital learning as a lifelong pursuit.  
 (\*Only schools on certain LEARN roadmaps are eligible.)  
   
-Click here to read more about Microsoft Tech Exposure Workshops  
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-microsoft-tech-exposure-workshops/) to read more about Microsoft Tech Exposure Workshops  
   
 ### S.T.E.A.M. Lab  
 **(9 and 10 September)**  
 
 Set up a booth at Punggol Regional Library as part of their learning and tinkering carnival to teach science, tech, engineering, arts or math concepts to children and teens.  
   
-Click here to read more about S.T.E.A.M. Lab
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-steam-lab/) to read more about S.T.E.A.M. Lab
 
   
 ### Digital for Life Festival  
@@ -44,7 +44,7 @@ The Digital for Life movement brings together Singaporeans from all ages and wal
   
 (\*Only schools on certain LEARN roadmaps are eligible.)  
   
-Click here to read more about Digital for Life Festival  
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-digital-for-life-festival/) to read more about Digital for Life Festival  
 
 ### Serve up Emerging Tech  
 **(Term 3 - before 25 August**)  
@@ -52,7 +52,7 @@ Click here to read more about Digital for Life Festival
 Enthuse the rest of your schoolmates about emerging technology through a talk or a showcase and stand to win up to $50 of food delivery e-vouchers for your Club!  
 We want our Club members to leverage their skills and knowledge to serve as tech ambassadors.  
   
-[Click here to read more about Serve Up Emerging Tech](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-up-emerging-tech-2023/)  
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-up-emerging-tech-2023/) to read more about Serve Up Emerging Tech 
 
 ### Propose your own workshops  
 Propose your own workshops and IMDA can help to link you up with various community clubs and national library branches that could host your VIA project.  
