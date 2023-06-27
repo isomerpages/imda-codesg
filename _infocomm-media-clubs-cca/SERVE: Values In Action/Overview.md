@@ -7,5 +7,55 @@ third_nav_title: "SERVE: Values In Action"
 ## SERVE: Values-In-Action Projects
 
 Club members will be provided with opportunities to serve in their schools and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
+![](/images/Icmclub/serve%20sem%202%20round%20up%20website.jpg) 
 
-![](/images/Icmclub/serve%20sem%202%20round%20up%20website.jpg)
+### Tech Saturday<br>
+**(Every 3rd Saturday of the month)**
+
+Propose and conduct a digital workshop to benefit underprivileged children at Heartbeat@Bedok.  
+VIVITA staff will mentor your Club members to shape the content and deliver a meaningful experience!  
+  
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve/tech-saturday-2023/) to read more about Tech Saturday
+  
+### Microsoft Tech Exposure Workshops  
+**(September, November, December school holidays)** 
+  
+Volunteer as a festival guide or conduct a workshop\* to help build a digitally inclusive society!
+
+The Digital for Life movement brings together Singaporeans from all ages and walks of life to embrace digital learning as a lifelong pursuit.  
+(\*Only schools on certain LEARN roadmaps are eligible.)  
+  
+Click here to read more about Microsoft Tech Exposure Workshops  
+  
+### S.T.E.A.M. Lab  
+**(9 and 10 September)**  
+
+Set up a booth at Punggol Regional Library as part of their learning and tinkering carnival to teach science, tech, engineering, arts or math concepts to children and teens.  
+  
+Click here to read more about S.T.E.A.M. Lab
+
+  
+### Digital for Life Festival  
+**(28, 29 October and 4, 5, 11, 12 November)**  
+
+Volunteer as a festival guide or conduct a workshop\* to help build a digitally inclusive society!
+
+The Digital for Life movement brings together Singaporeans from all ages and walks of life to embrace digital learning as a lifelong pursuit.  
+  
+(\*Only schools on certain LEARN roadmaps are eligible.)  
+  
+Click here to read more about Digital for Life Festival  
+
+### Serve up Emerging Tech  
+**(Term 3 - before 25 August**)  
+  
+Enthuse the rest of your schoolmates about emerging technology through a talk or a showcase and stand to win up to $50 of food delivery e-vouchers for your Club!  
+We want our Club members to leverage their skills and knowledge to serve as tech ambassadors.  
+  
+[Click here to read more about Serve Up Emerging Tech](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-up-emerging-tech-2023/)  
+
+### Propose your own workshops  
+Propose your own workshops and IMDA can help to link you up with various community clubs and national library branches that could host your VIA project.  
+Tell us what you have in mind and help us to help you!
+
+Email us at [imda\_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg)
