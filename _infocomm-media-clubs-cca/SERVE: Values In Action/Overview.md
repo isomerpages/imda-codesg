@@ -7,8 +7,7 @@ third_nav_title: "SERVE: Values In Action"
 ## SERVE: Values-In-Action Projects
 
 Club members will be provided with opportunities to serve in their schools and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
-![](/images/Icmclub/serve%20sem%202%20round%20up%20website.jpg) 
-
+![](/images/Icmclub/serve%20sem%202%20round%20up%20website%20newest.jpg)
 ### Tech Saturday
 **(Every 3rd Saturday of the month)**
 
@@ -56,7 +55,8 @@ We want our Club members to leverage their skills and knowledge to serve as tech
   
 Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-up-emerging-tech-2023/) to read more about Serve Up Emerging Tech 
 
-### Propose your own workshops  
+### Propose your own workshops
+**(Term 3 and Term 4)**  
 Propose your own workshops and IMDA can help to link you up with various community clubs and national library branches that could host your VIA project.  
 Tell us what you have in mind and help us to help you!
 
