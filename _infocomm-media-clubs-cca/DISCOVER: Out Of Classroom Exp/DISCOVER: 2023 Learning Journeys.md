@@ -97,7 +97,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** (Fully Booked)<br>
+**Dates:** July - 31 <br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
 **Location:** 316 Jalan Besar, Singapore 208974
