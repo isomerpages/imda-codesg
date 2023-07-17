@@ -153,7 +153,7 @@ Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refrac
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm <br>
-**Dates:** August - 15  <br>
+**Dates:**   (Cancelled)  <br>
 **Open to:** Secondary and JC students <br>
 **Capacity:** 5 - 10 students per school for each session
 <br>
