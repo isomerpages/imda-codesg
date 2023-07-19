@@ -55,7 +55,9 @@ The Science Centre closes at 5pm so it is recommended that the latest the learni
 **10)**&nbsp;&nbsp; **When is the deadline for registration?** <br>Registration closes at the end of Term 3.
 
 **11)**&nbsp;&nbsp; **How many student volunteers are required to conduct the learning journey for others?**<br>
-It is recommended that the Club sends a minimum of 10 student volunteers to guide participants around the 8 zones.The 8 zones are as follows:
+It is recommended that the Club sends a minimum of 10 student volunteers to guide participants around the 8 zones.
+
+The 8 zones are as follows:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Artificial Intelligence (AI) / Data Analytics
 
@@ -72,4 +74,3 @@ It is recommended that the Club sends a minimum of 10 student volunteers to guid
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sensors<br>
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; User Experience (UX)
-
