@@ -22,7 +22,7 @@ Click [here](https://form.gov.sg/64b4a708b0717e0012c91055) to sign up now!<br>
 
 **FAQ**
 
-**1)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Will training be provided for the student volunteers?** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A webinar recording link and a resource deck will be sent to the teacher-in-charge once students sign up.  
+**1)**&nbsp;&nbsp;&nbsp;&nbsp; **Will training be provided for the student volunteers?** <br> A webinar recording link and a resource deck will be sent to the teacher-in-charge once students sign up.  
   
 **2)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Will the student volunteers be expected to engage seniors by themselves?**  
 There will be other adult volunteers present to assist (Healthier SG ambassadors, Smart Nation ambassadors, IMDA’s Digital ambassadors).  
