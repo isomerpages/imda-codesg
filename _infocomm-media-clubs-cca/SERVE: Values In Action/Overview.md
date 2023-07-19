@@ -68,7 +68,7 @@ Get trained to SERVE as a Smart Nation Ambassador to assist residents on Healthi
   
 Healthier SG was launched in March this year to help Singaporeans take steps towards better health. A series of roadshows have been organised and we are calling Infocomm Media Club members to play a part too!  
   
-Click here to read more about SERVE at Healthier SG Roadshows.
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-healthier-sg-roadshows/) to read more about SERVE at Healthier SG Roadshows.
 
 ### Conduct a learning journey to PlayScape
 **(Tuesdays – Fridays during Term 3 and Term 4)**
