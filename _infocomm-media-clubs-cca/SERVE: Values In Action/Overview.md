@@ -64,7 +64,8 @@ Tell us what you have in mind and help us to help you!
 Email us at [imda_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg)
 
 ### SERVE at Healthier SG Roadshows
-**(12 August to 5 November)**  
+**(12 August to 5 November)** 
+
 Get trained to SERVE as a Smart Nation Ambassador to assist residents on Healthier SG and its related apps! (Healthy365, HealthHub, Singpass)  
   
 Healthier SG was launched in March this year to help Singaporeans take steps towards better health. A series of roadshows have been organised and we are calling Infocomm Media Club members to play a part too!  
