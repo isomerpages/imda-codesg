@@ -57,10 +57,11 @@ Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-up-emergi
 
 ### Propose your own workshops
 **(Term 3 and Term 4)**  
+
 Propose your own workshops and IMDA can help to link you up with various community clubs and national library branches that could host your VIA project.  
 Tell us what you have in mind and help us to help you!
 
-Email us at [imda\_codesg@imda.gov.sg]
+Email us at [imda_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg)
 
 ### SERVE at Healthier SG Roadshows
 **(12 August to 5 November)**  
