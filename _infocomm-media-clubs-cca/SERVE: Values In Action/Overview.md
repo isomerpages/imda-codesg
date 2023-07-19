@@ -68,7 +68,7 @@ Get trained to SERVE as a Smart Nation Ambassador to assist residents on Healthi
   
 Healthier SG was launched in March this year to help Singaporeans take steps towards better health. A series of roadshows have been organised and we are calling Infocomm Media Club members to play a part too!  
   
-**Click here to read more about SERVE at Healthier SG Roadshows.**
+Click here to read more about SERVE at Healthier SG Roadshows.
 
 ### Conduct a learning journey to PlayScape
 **(Tuesdays – Fridays during Term 3 and Term 4)**
@@ -78,4 +78,3 @@ PlayScape is an exhibit at the Science Centre featuring 8 zones showcasing digit
 Receive training and conduct a learning journey to help others fully appreciate our Smart Nation tech at PlayScape. Organise a trip for your own beneficiaries, juniors within the school or even another CCA as part of an exchange!  
 
 **Click here to read more about Conduct a learning journey to PlayScape.**
-
