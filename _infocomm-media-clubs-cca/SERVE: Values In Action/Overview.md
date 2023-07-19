@@ -77,4 +77,4 @@ PlayScape is an exhibit at the Science Centre featuring 8 zones showcasing digit
 
 Receive training and conduct a learning journey to help others fully appreciate our Smart Nation tech at PlayScape. Organise a trip for your own beneficiaries, juniors within the school or even another CCA as part of an exchange!  
 
-**Click here to read more about Conduct a learning journey to PlayScape.**
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-smart-nation-playscape) to read more about Conduct a learning journey to PlayScape.
