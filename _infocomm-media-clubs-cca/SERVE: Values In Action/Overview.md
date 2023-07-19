@@ -7,7 +7,7 @@ third_nav_title: "SERVE: Values In Action"
 ## SERVE: Values-In-Action Projects
 
 Club members will be provided with opportunities to serve in their schools and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
-![](/images/Icmclub/serve%20sem%202%20round%20up%20website%20newest.jpg)
+![](/images/Icmclub/serve%20sem%202%20round%20up%20website%20(19%20july).jpg)
 ### Tech Saturday
 **(Every 3rd Saturday of the month)**
 
@@ -57,7 +57,26 @@ Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-up-emergi
 
 ### Propose your own workshops
 **(Term 3 and Term 4)**  
+
 Propose your own workshops and IMDA can help to link you up with various community clubs and national library branches that could host your VIA project.  
 Tell us what you have in mind and help us to help you!
 
-Email us at [imda\_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg)
+Email us at [imda_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg)
+
+### SERVE at Healthier SG Roadshows
+**(12 August to 5 November)** 
+
+Get trained to SERVE as a Smart Nation Ambassador to assist residents on Healthier SG and its related apps! (Healthy365, HealthHub, Singpass)  
+  
+Healthier SG was launched in March this year to help Singaporeans take steps towards better health. A series of roadshows have been organised and we are calling Infocomm Media Club members to play a part too!  
+  
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-healthier-sg-roadshows/) to read more about SERVE at Healthier SG Roadshows.
+
+### Conduct a learning journey to PlayScape
+**(Tuesdays – Fridays during Term 3 and Term 4)**
+
+PlayScape is an exhibit at the Science Centre featuring 8 zones showcasing digital technologies powering Singapore’s Smart Nation journey. By using gamified interactive elements, this exhibition brings technological concepts to life.
+
+Receive training and conduct a learning journey to help others fully appreciate our Smart Nation tech at PlayScape. Organise a trip for your own beneficiaries, juniors within the school or even another CCA as part of an exchange!  
+
+Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-smart-nation-playscape) to read more about Conduct a learning journey to PlayScape.
