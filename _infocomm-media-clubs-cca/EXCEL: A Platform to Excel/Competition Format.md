@@ -4,3 +4,4 @@ permalink: /infocomm-media-clubs-cca/excel/competition-format/
 description: ""
 third_nav_title: "EXCEL: A Platform to Excel"
 ---
+![](/images/Icmclub/competition%20format.jpg)
