@@ -17,8 +17,7 @@ The Infocomm Media Development Authority (IMDA) is the organiser of this inaugur
 <br>**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is the new competition about?**
 
 In this new format, teams will put their tech skills to the test and compete against other teams to solve different tech challenges each week.
-
-Details of the challenges will be unveiled in due course.
+![](/images/Icmclub/competition%20format.jpg)
 
 <br>**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What is different about this competition?**
 
@@ -72,7 +71,7 @@ Registration will open in May! Do stay tune to our website and registration mail
 #### Prizes
 **10.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **What are the prizes?**
 
-There will be exciting prizes such as cash vouchers to be won! All participants will receive a Certificate of Participation.
+![](/images/Icmclub/resized%20nytc%20prizes%20.jpg)
 
 
 #### Terms of Participation
