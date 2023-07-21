@@ -10,7 +10,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 
 **Latest competition updates:**<br>
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support your team in the [YouTube Shorts popularity contest](https://www.youtube.com/playlist?list=PL6-X01R5u5Z_y5aoFBKLrb5q2XlQrp0rF) now! The top 4 teams that receive the most likes by **28 July, 23:59pm** will get to visit Titan Studios Singapore.<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Episode 1 of the NYTC will air on **21 July, 7pm** on @teamtitanofficial YouTube channel.&nbsp; Stay tuned for it!
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Episode 1 of the NYTC will air on **21 July, 7pm** on @teamtitanofficial YouTube channel. <br>Stay tuned for it!
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
