@@ -73,6 +73,8 @@ Registration will open in May! Do stay tune to our website and registration mail
 
 ![](/images/Icmclub/resized%20nytc%20prizes%20.jpg)
 
+All participants will also receive a Certificate of Participation.
+
 
 #### Terms of Participation
 
