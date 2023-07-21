@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Something EXCITING is coming your way this JULY!.md
       - Upcoming Events/.keep
       - Past Events/Teachers Seminar (Nov).md
       - "Past Events/EXCEL : Infocomm Media Club Youth Awards.md"
