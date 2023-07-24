@@ -48,8 +48,7 @@ Dive into a wonderland where anything is possible. From thrilling roller coaster
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3:30pm to 5:30pm<br>
 **Dates:** 
-* July - 31 
-* August - 3, 16 &amp; 31
+* August - 7, 16 &amp; 31
 * October - 11, 12, 18, 19 &amp; 25 <br>
 
 **Open to:** Primary/ Secondary and JC Students <br>
@@ -97,10 +96,10 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 **<u>Learning Journey Details</u>** <br>
 **Time:** 3pm to 5pm<br>
-**Dates:** July - 31 <br>
+**Dates:** August - 17 <br>
 **Open to:** Secondary and JC Students <br>
 **Capacity:** 20 students per school for each session<br>
-**Location:** 316 Jalan Besar, Singapore 208974
+**Location:** New Media Laboratory, Kallang Wave Mall #02-08, 1 Stadium Place, Singapore 397628
 
 #### **The Smart Local** <br>
 ![](/images/Icmclub/TSL.png)
