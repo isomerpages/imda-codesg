@@ -30,4 +30,4 @@ This November holiday, NLB is having a 2-day carnival where children and teens c
 There will be an estimated 200 - 300 visitors per day.
 
 **3) Will my Club be allowed to only anchor a single day or certain hours?** <br>
-NLB requires partners to commit to both days of the carnival for the entire duration. 
+NLB requires partners to commit to both days of the carnival for the entire duration.
