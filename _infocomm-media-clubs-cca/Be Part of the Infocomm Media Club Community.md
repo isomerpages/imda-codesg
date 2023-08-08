@@ -5,32 +5,15 @@ description: ""
 ---
 ## Be Part of the Infocomm Media Club Community
 
-Adopt the tagline **“An Infocomm Media Club, powered by IMDA”** on your school website or social media channel and get our exclusive bluetooth trackers! 
 
-### **How to redeem the bluetooth trackers** &nbsp;
+### **Join our mailing list** &nbsp;
 
-**Step 1:** <br>
-Adopt the tagline and take up at least one activity from IMDA Infocomm Media Club’s programme. Check out the programmes [here](https://codesg.imda.gov.sg/infocomm-media-clubs/)!
+Receive eDMs about IMDA's Infocomm Media Clubs programme when you sign up. By joining our mailing list, you will always get the most up-to-date information about our initiatives delivered straight to your inbox. Partner with IMDA to elevate and enrich the CCA experience of your Club members today! 
 
-**Step 2:** <br>
-Share [link](https://go.gov.sg/imc-tokens-redemption) of the webpage/social media channel for verification. IMDA will be in contact within 3 working days to verify the details.
+**Click [here](https://form.gov.sg/64d1e56e7c3c460011d2fe8e) to join!**
 
-### **Adopting the tagline** <br>
-The Infocomm Media Club tagline is to be used in conjunction with your tech/media CCA club name. It is to be applied to school website and social media channels where applicable. 
+### **Join our Telegram channel** <br>
 
-##### **Scenario A: Where the club has an description page**
+Be part of our Infocomm Media Club community by subscribing to our very own Telegram channel, created exclusively for teachers-in-charge. In this channel, we share the latest happenings of IMDA’s Infocomm Media Clubs programme and tech news. Subscribe today and ensure that you never miss out on important information and event invitations! The bite-sized information can be easily forwarded to your colleagues and student leaders on their mobile. 
 
-Please use the provided image in the club's description page, where appropriate. Download the image [here](https://go.gov.sg/imdaimctagline)
-
-##### **Scenario B: Where the club is mentioned in a list**
-
-Please add “An Infocomm Media Club, powered by the Infocomm Media Development Authority” next to your club name, where appropriate.<br>
-
-
-E.g. Chess Club, Green Club, Infocomm Club (An Infocomm Media Club, powered by the Infocomm Media Development Authority) and Library Club.
-
-### Infocomm Media Club Telegram Channel
-
-Be part of our Infocomm Media Club community by subscribing to our very own Telegram channel, created exclusively for Infocomm Media Club teachers. In this channel, we share the latest happenings of IMDA’s Infocomm Media Clubs programme and tech news. Subscribe today and ensure that you never miss out on important information and event invitations. By joining our Telegram community, you will also receive our exclusive Bluetooth tracker when you complete the form before **30 June 2023**.
-
-Subscribe [here](https://go.gov.sg/signup-imc-telegram-web)!
+**Click [here](https://go.gov.sg/signup-imc-telegram-web) to subscribe!**
