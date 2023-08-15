@@ -13,7 +13,7 @@ Your Infocomm Media Club can play a part in building a society which is ready fo
 * First **15 Clubs** to tell us about your workshop, tech showcase or booth will receive **$50 food delivery e-vouchers**
 
 #### Submission guidelines ###
-* Email your entry in a single Word document with the photos directly inserted into it to **imda_codesg@imda.gov.sg** by **31 August 2023**
+* Email your entry in a single Word document with the photos directly inserted into it to imda_codesg@imda.gov.sg by **31 August 2023**
 * Indicate 'SERVE: Emerging tech submission' in the subject line <br>
 ##### Details to be included ###
 * Name and level of writer, school, Club name
