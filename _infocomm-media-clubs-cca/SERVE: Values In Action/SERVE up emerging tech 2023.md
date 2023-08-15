@@ -25,7 +25,7 @@ Your Infocomm Media Club can play a part in building a society which is ready fo
 * Estimated number of people engaged
 * Quote from a Club volunteer or participant reflecting on the experience
 * Only 1 submission per Club
-* Sharing within the CCA does not fulfill the criteria (eg. seniors teaching juniors) 
+* Sharing within the CCA does not fulfill the criteria (eg. seniors teaching juniors) <br> 
 
 #### Be inspired by these schools! ###
 Read about the schools and clubs that have stepped up to serve others using their digital skills!
