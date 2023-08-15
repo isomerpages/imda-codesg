@@ -8,14 +8,14 @@ third_nav_title: "SERVE: Values In Action"
 
 Your Infocomm Media Club can play a part in building a society which is ready for the digital future. As tech ambassadors, members can excite and expose others to emerging technology. This can take the form of an assembly talk, informal exchanges with other CCAs, interactive booths/showcases or workshops. Tell us about how your Club has SERVE-d up emerging technology to win attractive prizes! <br> 
 
-#### Prizes to be won ###
+#### Prizes to be won 
 * First **30 Clubs** to tell us about your talk or sharing will receive **$25 food delivery e-vouchers**
 * First **15 Clubs** to tell us about your workshop, tech showcase or booth will receive **$50 food delivery e-vouchers**
 
-#### Submission guidelines ###
-* Email your entry in a single Word document with the photos directly inserted into it to imda_codesg@imda.gov.sg by **31 August 2023**
+#### Submission guidelines 
+* Email your entry in a single Word document with the photos directly inserted into it to [imda_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg) by **31 August 2023**
 * Indicate 'SERVE: Emerging tech submission' in the subject line <br>
-##### Details to be included ###
+##### Details to be included 
 * Name and level of writer, school, Club name
 * 3 - 5 photos of members in action giving a talk, putting up an interactive booth/showcase or conducting a workshop
 * 120 to 150 word write-up with the following information:
@@ -27,7 +27,7 @@ Your Infocomm Media Club can play a part in building a society which is ready fo
 * Only 1 submission per Club
 * Sharing within the CCA does not fulfill the criteria (eg. seniors teaching juniors) <br> 
 
-#### Be inspired by these schools! ###
+#### Be inspired by these schools! 
 Read about the schools and clubs that have stepped up to serve others using their digital skills!
       
 **When sustainability meets tech** <br>
