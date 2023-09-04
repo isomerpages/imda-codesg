@@ -7,7 +7,8 @@ third_nav_title: "SERVE: Values In Action"
 ## SERVE: Values-In-Action Projects
 
 Club members will be provided with opportunities to serve in their schools and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
-![](/images/Icmclub/serve%20sem%202%20round%20up%20website%20(19%20july).jpg)
+
+![](/images/Icmclub/updated%20serve%20sem%202%20round%20u.png)
 ### Tech Saturday
 **(Every 3rd Saturday of the month)**
 
@@ -29,9 +30,9 @@ The Digital for Life movement brings together Singaporeans from all ages and wal
 Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-microsoft-tech-exposure-workshops/) to read more about Microsoft Tech Exposure Workshops  
   
 ### S.T.E.A.M. Lab  
-**(9 and 10 September)**  
+**(18 and 19 November)**  
 
-Set up a booth at Punggol Regional Library as part of their learning and tinkering carnival to teach science, tech, engineering, arts or math concepts to children and teens.  
+Set up a booth at Woodlands Regional Library as part of their learning and tinkering carnival to teach science, tech, engineering, arts or math concepts to children and teens.  
   
 Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-steam-lab/) to read more about S.T.E.A.M. Lab
 
