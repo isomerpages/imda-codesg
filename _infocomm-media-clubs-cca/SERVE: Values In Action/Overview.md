@@ -32,7 +32,7 @@ Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-microsoft
 ### S.T.E.A.M. Lab  
 **(18 and 19 November)**  
 
-Set up a booth at Punggol Regional Library as part of their learning and tinkering carnival to teach science, tech, engineering, arts or math concepts to children and teens.  
+Set up a booth at Woodlands Regional Library as part of their learning and tinkering carnival to teach science, tech, engineering, arts or math concepts to children and teens.  
   
 Click [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/serve-steam-lab/) to read more about S.T.E.A.M. Lab
 
