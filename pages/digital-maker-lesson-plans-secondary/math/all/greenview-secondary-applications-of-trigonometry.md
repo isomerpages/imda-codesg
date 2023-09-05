@@ -16,6 +16,6 @@ Learn Trigonometry hands-on using micro:bit while solving problems in real life 
 
 * 1 x Microbit Microsoft block editor
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/math/Lesson Plan_Mathematics and Microbit_Lie Hui Min.pdf)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/math/lesson plan_mathematics and microbit_lie hui min.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

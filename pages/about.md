@@ -8,7 +8,7 @@ Various programmes are run in schools and community that reach out to students a
 
 #### Understanding Computational Thinking and Making<br>
 Computational thinking describes the processes and approaches we draw on when thinking about how a computer can help us to solve complex problems and create systems.  There are four aspects to computational thinking: <br>
-![Computational Thinking infographic](/images/about/ComputationalThinking_v7.2-20190614.jpg)<br>
+![Computational Thinking infographic](/images/about/computationalthinking_v7.2-20190614.jpg)<br>
 
 While Computational Thinking focuses on the thought processes involved in formulating problems and their solutions, Computational Making focuses more on the Do-It-Yourself culture of making with technology, as well as the involvement of a wider social network in co-creating. <br> 
 
@@ -20,4 +20,4 @@ Whether or not someone decides to take up an infocomm media career, these are im
 
 ---
 
-![](/images/about/IMDA%20&%20DFL.png)
+![](/images/about/imda%20&%20dfl.png)

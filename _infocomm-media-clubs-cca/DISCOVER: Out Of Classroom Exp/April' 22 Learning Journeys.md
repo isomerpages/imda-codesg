@@ -8,8 +8,8 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 
 #### These experiences will provide members exposure to real-world context and applications and help to augment in-class lessons.
 
-![Discover EDM 1](/images/Icmclub/discover01.png)
-![Discover EDM 2](/images/Icmclub/discover02.png)
+![Discover EDM 1](/images/icmclub/discover01.png)
+![Discover EDM 2](/images/icmclub/discover02.png)
 
 **Registration is now closed. 
 <br>

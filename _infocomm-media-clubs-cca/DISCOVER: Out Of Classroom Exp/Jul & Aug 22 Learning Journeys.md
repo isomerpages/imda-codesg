@@ -8,7 +8,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 This July and August, look forward to exciting workshops specially curated for Infocomm and Media club members! Sign up now!
 <br>
 <br>
-For FAQs, please view [here](/Learning-Journey-FAQs)
+For FAQs, please view [here](/learning-journey-faqs)
 
 
 <i>Note: The DISCOVER experience is open to Primary, Secondary/JC schools only. Registration and slots availability are based on a first-come-first-served basis.</i>
@@ -16,7 +16,7 @@ For FAQs, please view [here](/Learning-Journey-FAQs)
 ### IMMERSIVE MEDIA
 #### Headrock VR 
 
-![](/images/Icmclub/HRVR1.jpg)
+![](/images/icmclub/hrvr1.jpg)
 
 Immersive technology will transform the way we live, work, learn, and experience entertainment in a brand new way. 
 
@@ -34,7 +34,7 @@ Join us at one of Singapore’s largest Virtual Reality (VR) parks and put on VR
 
 #### New World Carnival
  
-![](/images/Icmclub/New%20World%20Carnival%201.jpg)
+![](/images/icmclub/new%20world%20carnival%201.jpg)
 
 Come experience all about the Metaverse! Explore art through VR and wonder through Singapore’s first NFT gallery spanning over 7,000 sqft and featuring local NFT artists. Step into the VR zone and have fun while learning through a variety of games, including multi-player experiences such as a VR escape room and laser tag!
 
@@ -55,7 +55,7 @@ Come experience all about the Metaverse! Explore art through VR and wonder throu
 
 Experience a multitude of activities at 65Drones’ workshops specially curated for drone enthusiasts! Find out first-hand from a drone technologist on what it takes to design and programme a drone light show; experience “live” first person view drone flights. What’s more, take part in a mini challenge to design a light show and stand a stand to win DJI drone!
 
-![](/images/Icmclub/Drone1.png)
+![](/images/icmclub/drone1.png)
 
 **<u>Learning Journey Details</u>**
 <br>
@@ -73,7 +73,7 @@ Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Rese
 
 Learn about emerging technologies such as Internet of Things and Intelligent Robotics and interact with engineers and researchers who will pull back the curtains on next generation manufacturing. Witness the use of AR (Augmented Reality)/VR in actual work environments as well as robots and automation systems as they emulate human intelligence and perform tasks with better control and repeatability.
 
-![](/images/Icmclub/ASTAR.jpg)
+![](/images/icmclub/astar.jpg)
 
 **<u>Learning Journey Details</u>**
 <br>
@@ -88,7 +88,7 @@ Learn about emerging technologies such as Internet of Things and Intelligent Rob
 Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks.
 
 Experience SP’s advanced technology equipment that is integrated with 5G within an AIoT ecosystem. Learn all about latency, high speed wireless connectivity, centralised real-time monitoring and more with hands-on experiences.
-![](/images/Icmclub/5G%20and%20ALOT.jpg)
+![](/images/icmclub/5g%20and%20alot.jpg)
 
 **<u>Learning Journey Details</u>**
 <br> **Registration is now closed**
@@ -100,7 +100,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 ### Esports, Media and Content Creation 
 
 #### The Gym
-![](/images/Icmclub/The%20Gym.png)
+![](/images/icmclub/the%20gym.png)
 
 Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours eSports co-working space and production studio for gamers to train, compete and kickstart their professional eSports career.
 
@@ -119,7 +119,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 
 #### TheSmartLocal
 
-![](/images/Icmclub/TSL.png)
+![](/images/icmclub/tsl.png)
 
 Digital content creators are a new wave of pioneers, setting new standards on the art of creating engaging content with captivating storytelling skills.
 
@@ -142,7 +142,7 @@ Singapore 339348
 ### Photography 
 #### Canon
 
-![](/images/Icmclub/Canon.png)
+![](/images/icmclub/canon.png)
 
 Calling all aspiring photographers - Master the art of taking amazing photos and videos at Canon’s Imaging Academy.  
 
@@ -160,7 +160,7 @@ DSLR cameras will be provided to all students during the workshop.
 **Location:** 1 Fusionopolis Place, Level 3 Galaxis, Singapore 138522
 
 
-For FAQs, please view [here](/Learning-Journey-FAQs)
+For FAQs, please view [here](/learning-journey-faqs)
 <br>
 <br>
 What are you waiting for? Sign up now!

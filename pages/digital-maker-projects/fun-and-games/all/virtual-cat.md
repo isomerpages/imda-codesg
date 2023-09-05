@@ -147,19 +147,19 @@ After which, paint both side of the covers. I used acrylic paint, but you can us
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat11.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat11.jpg)
 
 **11. Attaching the LED - Part I**<br>Attach 2 wires to the micro:bit, one at Pin 1 and at the GND pin. I twisted the copper wires around the pins to attach them, but you may solder them if you wish.<br>
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat12.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat12.jpg)
 
 **12. Attaching the LED - Part II**<br>Next, bend the pins of the LED light and attach the wire to it. I twisted the wires but similarly, you could also solder for a more firm connection.<br>
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat13.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat13.jpg)
 
 **13. Attaching the Sound Output**<br>We also want the cat to make a sound to notify us if it needs us. I used a cheap pair of earphones for the sound output. Place the tip of both earphones into the holes made in the ears at the front cover.
 
@@ -167,7 +167,7 @@ I hot-glued the earphones to the cover, you may use other kinds of glue. Do be c
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat14.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat14.jpg)
 
 **14. Attaching the micro:bit, Earphones and LED to the Front Cover: Part I**<br>I made a makeshift strap from cardboard and hot glue it to fit the micro:bit snugly on the cover. Place the LED light through the bottom hole in the front cover.
 
@@ -175,13 +175,13 @@ Next use crocodile clips to connect Pin 0 to the the top part of the 3.5mm jack 
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat15.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat15.jpg)
 
 **15. Attaching the micro:bit, Earphones and LED to the Front Cover: Part II**<br>The wires can become quite clunky, I tied the wires up to practice some proper wire management.<br>
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat16.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat16.jpg)
 
 **16. Attaching the battery holder**<br>Attach the battery holder to the back of the Virtual Cat with velcro.
 
@@ -189,19 +189,19 @@ Put the wire of the battery holder through the back cover and connect it to the 
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat17.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat17.jpg)
 
 **17. Joining the front and back of the Virtual Cat**<br>Join the two covers together using the pipe cleaners through the 4 holes. I choose orange to fit the color of the cat. Do ensure that all the wires and internal parts fit inside.<br>
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat18.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat18.jpg)
 
 **18. Finishing Touch**<br>Twist the pipe cleaners to fasten the casing and the Virtual Cat is now completed!<br>
 
 ---
 
-![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat19.JPG)
+![12](/images/in-schools/digital-maker/projects/fun-and-games/virtual-cat/virtual-cat19.jpg)
 
 **19. End Product: Mission Complete!**<br>Your Virtual Cat is now complete! MEOW!<br>
 

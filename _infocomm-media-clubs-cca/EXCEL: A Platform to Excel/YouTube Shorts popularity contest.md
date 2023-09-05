@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs-cca/excel-youtube-shorts-popularity-contest/
 description: ""
 third_nav_title: "EXCEL: A Platform to Excel"
 ---
-![](/images/Icmclub/nytc%20web%20banner.jpg)
+![](/images/icmclub/nytc%20web%20banner.jpg)
 
 
 **Show your support for your NYTC team in our YouTube Shorts popularity contest!**  

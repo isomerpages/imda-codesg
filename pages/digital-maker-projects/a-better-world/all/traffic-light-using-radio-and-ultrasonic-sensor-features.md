@@ -7,7 +7,7 @@ breadcrumb: 'Traffic Light using Radio and Ultrasonic Sensor features'
 
 **Contributed by Cedric Phua from Seng Kang Primary School**
 
-![1](/images/in-schools/digital-maker/projects/a-better-world/Traffic-Light-using-Radio-and-Ultrasonic-Sensor-features.jpg)
+![1](/images/in-schools/digital-maker/projects/a-better-world/traffic-light-using-radio-and-ultrasonic-sensor-features.jpg)
 
 This is a micro:bit project that make use of 2 micro:bits, an ultrasonic sensor, 3 LEDs (light), and Breadboard.
 

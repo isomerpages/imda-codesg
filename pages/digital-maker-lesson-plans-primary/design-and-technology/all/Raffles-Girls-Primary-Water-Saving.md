@@ -6,7 +6,7 @@ breadcrumb: 'Raffles Girls Primary Water Saving'
 ---
 
 
-![water saving](/images/in-schools/digital-maker/overview/lesson-plans/primary/Raffles-Girls-Primary-Water-Saving.png)
+![water saving](/images/in-schools/digital-maker/overview/lesson-plans/primary/raffles-girls-primary-water-saving.png)
 
 Students will create a device that alerts users when too much water has been used.
 

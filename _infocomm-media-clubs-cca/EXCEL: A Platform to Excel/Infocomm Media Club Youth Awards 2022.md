@@ -6,7 +6,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 ---
 # Infocomm Media Club Youth Awards 2022
 
-![](/images/Icmclub/IMC%20New%20KV.png)
+![](/images/icmclub/imc%20new%20kv.png)
 
 
 
@@ -22,7 +22,7 @@ The finalists presented their entries on 4th November 2022 at Marina Bay Sands f
 #### **Distinction**
 
 ##### Media Category
-![](/images/events/competitions/Media%20Distinction.jpg)
+![](/images/events/competitions/media%20distinction.jpg)
 From Left to Right, Top row: Canberra Secondary School and Greendale Secondary School. Middle Row: Holy Innocents’ High School and Kent Ridge Secondary School. Last Row: Jurongville Secondary School and Nanyang Girls’ High School._  
 
 *   Scrambled by Canberra Secondary School
@@ -33,7 +33,7 @@ From Left to Right, Top row: Canberra Secondary School and Greendale Secondary S
 *   Health in SYNC by Nanyang Girls’ High School
 
 ##### Tech Category
-![](/images/events/competitions/Tech%20Distinction.jpg)
+![](/images/events/competitions/tech%20distinction.jpg)
 From Left to Right: Top Row: Catholic High School and Dunman High School. Middle Row: Northbrooks Secondary School and Raffles Girls’ School. Last Row: School of Science and Technology and St Margaret’s Secondary School.  
 
 

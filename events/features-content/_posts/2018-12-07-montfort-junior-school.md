@@ -9,14 +9,14 @@ breadcrumb: 'Montfort Junior School'
 
 ## Montfort Junior School
 
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school1.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school1.jpg)
 <sub>Incorporating the micro:bit into the curriculum</sub>
 
 Montfort Junior School (MJS) has always had an emphasis on technological knowhow and active group experiences. This focus on experiential and hands-on learning means that digital making is a natural fit. Therefore, when IMDA announced its Code for Fun Enrichment Programme (organized jointly with MOE) in 2015, MJS did not hesitate to sign up.
 
 Principal Mr Wilbur Wong shared, “This is a wonderful platform for us because we have been looking into computational thinking and making. This platform provides us with additional resources.” Since then, MJS has continued to incorporate a 6-year coding programme that begins with the coding basics in Pr. 1 and culminates in a Hackathon in Pr. 6.
 
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school2.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school2.jpg)
 <sub>Montfort tinkerers showing their DIY projects</sub>
 
 ## "Students can apply computational thinking to their everyday school life to deconstruct and solve problems.”
@@ -39,31 +39,31 @@ With such strong support from the School Board and teaching staff in creating a 
 Here are some of their highlights since 2017:
 
 **Visit by micro:bit Foundation then-CEO, Mr Zach Shelby – Nov 2017**
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school3.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school3.jpg)
 <sub>Mr Shelby viewing the boys’ project</sub>
 
 Mr Shelby visited MJS’s Tinkershop and was shown the winning projects from Hackathon. Students also showcased their anti-theft device and shared with Mr Shelby about their idea behind this device and how it can solve real-life problems in school. CEO commended MJS’s digital making culture and believes Montfort Junior is going in the right direction, an affirmation to the school’s efforts.
 
 **Presentation at Microsoft Education Exchange – May 2018**
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school4.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school4.jpg)
 <sub>Team Montfort proud to represent at this prestigious event</sub>
 
 Montfort Junior digital makers demonstrated the use of their anti-theft device which utilises the motion sensor, alarm and communication functions of the micro:bit. They were proud to share the rationale of their project and their learning experience with participating educators from all over the world.
 
 **Montfort Junior showcase at Digital Maker Carnival – Jun 2018**
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school5.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school5.jpg)
 <sub>Montfort Junior School Principal, Mr Wilbur Wong (L), Senior Minister of State, Ministry of Transport & Ministry of Communications and Information Janil Puthucheary (C) and Minister for Communications and Information S. Iswaran (R) with the Montfort digital makers</sub>
 
 Montfort Junior collaborated with vendors to showcase a micro:bit mini golf-game at the carnival to Minister for Communications and Information S. Iswaran and Senior Minister of State, Ministry of Transport & Ministry of Communications and Information Janil Puthucheary. This experience taught the students that the micro:bit can be used in other ways outside of what they have been taught in their curriculum.
 
 **Montfort Junior showcase at Maker Faire – Aug 2018**
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school6.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school6.jpg)
 <sub>Montfort digital makers excited to showcase their creation at Maker Faire</sub>
 
 Students showcased various DIY projects like micro:bit games, applications and robot cars. The exposure helped the students open their eyes to possibilities as they interacted with participants and shared ideas.
 
 **Cluster-friendship Hackathon – Sep 2018**
-![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school7.JPG)
+![montfort-junior-school](/images/stories/features/montfort-junior-school/montfort-junior-school7.jpg)
 <sub>Students from different schools working together during the Hackathon</sub>
 
 28 teams from 7 schools participated in the Smart Homes and Smart Living hackathon. Coders with different experience levels gathered to learn and have fun, foster new friendships and create synergy as they work towards a common goal.

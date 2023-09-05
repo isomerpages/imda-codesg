@@ -3,6 +3,6 @@ title: Newsletter EDM Jul 2022
 permalink: /permalink/
 description: ""
 ---
-![](/images/Newsletter%20EDM%20HTML%20Image/facebook-icon.png)
-![](/images/Newsletter%20EDM%20HTML%20Image/insta-icon.png)
-![](/images/Newsletter%20EDM%20HTML%20Image/website-icon.png)
+![](/images/newsletter%20edm%20html%20image/facebook-icon.png)
+![](/images/newsletter%20edm%20html%20image/insta-icon.png)
+![](/images/newsletter%20edm%20html%20image/website-icon.png)

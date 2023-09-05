@@ -13,4 +13,4 @@ What’s more, join us for the Digital for Life Youth thereafter to cheer on you
 
 **Registration is now closed**
 
-![](/images/events/workshops-and-exhibitions/Teachersseminar/Teachers%20Seminar%202022%20V3.png)
+![](/images/events/workshops-and-exhibitions/teachersseminar/teachers%20seminar%202022%20v3.png)

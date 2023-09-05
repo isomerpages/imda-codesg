@@ -17,7 +17,7 @@ Each school is supported with up to 2 courses annually, where the training cost 
 ##### Apply for the LEARN Roadmaps training courses
 The 2023 application window has closed on 28 Feb 2023. <br>Schools that intend to submit late applications can email us at&nbsp;[IMDA\_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg) for assistance.
 
-![New Application Process](/images/Icmclub/Apply_Process_20Oct23.jpg)
+![New Application Process](/images/icmclub/apply_process_20oct23.jpg)
 
 ^Denotes New Courses
 
