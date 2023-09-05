@@ -1,6 +1,6 @@
 ---
 title: VIA Projects Photo Essay Competition 2022
-permalink: /infocomm-media-clubs-cca/Photo-Essay-Competition/
+permalink: /infocomm-media-clubs-cca/photo-essay-competition/
 description: ""
 third_nav_title: "SERVE: Values In Action"
 ---

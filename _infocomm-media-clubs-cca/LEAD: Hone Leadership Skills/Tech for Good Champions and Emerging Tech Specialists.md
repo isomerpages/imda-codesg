@@ -1,6 +1,6 @@
 ---
 title: Tech for Good Champions and Emerging Tech Specialists
-permalink: /infocomm-media-clubs-cca/LEAD/TechforGood/
+permalink: /infocomm-media-clubs-cca/lead/techforgood/
 description: ""
 third_nav_title: "LEAD: Hone Leadership Skills"
 ---

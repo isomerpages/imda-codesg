@@ -1,6 +1,6 @@
 ---
 title: Jul &amp; Aug 22 Learning Journeys
-permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/Jul-Aug-23/
+permalink: /infocomm-media-clubs-cca/discover-out-of-classroom-exp/jul-aug-23/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---

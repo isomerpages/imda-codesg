@@ -1,6 +1,6 @@
 ---
 title: "SERVE: VIA Project Photo Essay by Jurongville Secondary School"
-permalink: /Photo-Essay-Jurongville-Sec
+permalink: /photo-essay-jurongville-sec/
 description: ""
 ---
 #### Title: The Prowess of Artificial Intelligence - "Exploring AI with Jv-nites" by Ker Beng Yang

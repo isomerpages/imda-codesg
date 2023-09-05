@@ -1,6 +1,6 @@
 ---
 title: "SERVE: VIA Project Photo Essay by Dunman Secondary School"
-permalink: /Photo-Essay-Dunman-Sec
+permalink: /photo-essay-dunman-sec/
 description: ""
 ---
 #### Title: The very fun journey of Dunman's A.I. Learning

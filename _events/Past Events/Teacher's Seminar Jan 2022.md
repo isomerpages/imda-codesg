@@ -1,6 +1,6 @@
 ---
 title: Teacher's Seminar Jan 2022
-permalink: /events/teacherseminar
+permalink: /events/teacherseminar/
 description: ""
 third_nav_title: Past Events
 ---

@@ -1,6 +1,6 @@
 ---
 title: Newsletter EDM Jul 2022
-permalink: /permalink
+permalink: /permalink/
 description: ""
 ---
 ![](/images/Newsletter%20EDM%20HTML%20Image/facebook-icon.png)

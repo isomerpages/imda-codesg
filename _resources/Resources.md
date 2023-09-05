@@ -1,5 +1,5 @@
 ---
-permalink: /Resources/
+permalink: /resources/
 breadcrumb: Resources
 title: Resources
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "LEARN: Student Development Programmes 2022"
-permalink: /events/Upcoming-Events/Learn-Student-Development-Programmes/
+permalink: /events/upcoming-events/learn-student-development-programmes/
 description: ""
 third_nav_title: Past Events
 ---

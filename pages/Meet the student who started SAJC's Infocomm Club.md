@@ -1,6 +1,6 @@
 ---
 title: Meet the student who started SAJC's Infocomm Club
-permalink: /SAJC-Infocomm-Club/
+permalink: /sajc-infocomm-club/
 date: 2022-02-15
 layout: post
 description: ""

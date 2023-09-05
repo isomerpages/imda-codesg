@@ -1,6 +1,6 @@
 ---
 title: "LEAD: Student Leadership Conference 2022"
-permalink: /events/Lead-Student-Leadership-Conference-2022/
+permalink: /events/lead-student-leadership-conference-2022/
 description: ""
 third_nav_title: Past Events
 ---

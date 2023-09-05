@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /infocomm-media-clubs-cca/SERVE/
+permalink: /infocomm-media-clubs-cca/serve/
 description: ""
 third_nav_title: "SERVE: Values In Action"
 ---

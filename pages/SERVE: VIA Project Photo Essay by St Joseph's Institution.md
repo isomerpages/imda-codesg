@@ -1,6 +1,6 @@
 ---
 title: "SERVE: VIA Project Photo Essay by St Joseph's Institution"
-permalink: /Photo-Essay-SJI
+permalink: /photo-essay-sji/
 description: ""
 ---
 #### Title: AI IN THE COMMUNITY - A VIA PROJECT by Jeremy Siah 

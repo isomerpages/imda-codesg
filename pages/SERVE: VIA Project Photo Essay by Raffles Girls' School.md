@@ -1,6 +1,6 @@
 ---
 title: "SERVE: VIA Project Photo Essay by Raffles Girls' School"
-permalink: /Photo-Essay-Raffles-Girls-Sch
+permalink: /photo-essay-raffles-girls-sch/
 description: ""
 ---
 

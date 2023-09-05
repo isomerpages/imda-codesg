@@ -1,6 +1,6 @@
 ---
 title: April' 22 Learning Journeys
-permalink: /infocomm-media-clubs/April-22-Learning-Journeys
+permalink: /infocomm-media-clubs/april-22-learning-journeys/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
