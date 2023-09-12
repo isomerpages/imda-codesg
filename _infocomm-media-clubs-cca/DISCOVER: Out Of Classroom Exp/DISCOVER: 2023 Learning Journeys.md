@@ -1,6 +1,6 @@
 ---
 title: "DISCOVER: 2023 Learning Journeys"
-permalink: /infocomm-media-clubs-cca/DISCOVER-Out-Of-Classroom-Exp/2023-learning-journeys/
+permalink: /infocomm-media-clubs-cca/discover-out-of-classroom-exp/2023-learning-journeys/
 description: ""
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
@@ -25,7 +25,7 @@ For FAQs, please view [here](https://go.gov.sg/learningjourneysfaq2023)
 
 ### IMMERSIVE MEDIA
 #### **ART SCIENCE MUSEUM** 
-![](/images/Icmclub/ASM.png)
+![](/images/icmclub/asm.png)
 
 Come discover how the intersection of art and science has positively impacted the world we know today through a Virtual Reality world. Experience the VR Gallery, one of the first   in Southeast Asia, and step into a future world where you will immerse in VR on a cinematic scale, bringing you on a journey of discovering the unexplored. 
 
@@ -39,7 +39,7 @@ Come discover how the intersection of art and science has positively impacted th
 <br>
 
 #### **HEADROCK VR**
-![](/images/Icmclub/Headrock%20VR.png)
+![](/images/icmclub/headrock%20vr.png)
 
 Immerse yourself in a world of virtual reality with Headrock VR! Experience the next level of immersive media and learn how VR can be applied across the varied fields and industries. 
 
@@ -58,7 +58,7 @@ Dive into a wonderland where anything is possible. From thrilling roller coaster
 
 ### 5G NETWORK, INTERNET-OF-THINGS &amp; AUTOMATION
 #### **ARTC @ A*STAR**
-![](/images/Icmclub/Astar.png)
+![](/images/icmclub/astar.png)
 
 Advanced Remanufacturing and Technology Centre (ARTC) is one of A\*STAR’s Research Institutes which focuses on developing high value advanced manufacturing and remanufacturing technologies in sectors such as Aerospace, Engineering and MedTech.
 
@@ -73,7 +73,7 @@ Learn about emerging technologies such as Internet-of-Things and Intelligent Rob
 **Location:** 3 Cleantech Loop, #01/01 CleanTech Two, Singapore 637143
 
 #### **5G and AIoT Centre @ Singapore Polytechnic (SP)**
-![](/images/Icmclub/5G%20and%20AIoT%20Centre.png)
+![](/images/icmclub/5g%20and%20aiot%20centre.png)
 
 Live your digital life in the fast lane and get up to speed with 5G when you visit Singapore Polytechnic’s 5G and Artificial Intelligence of Things Centre. This is Singapore’s first 5G live test facility and ideation centre to experience the blistering speeds of 5G networks.
 
@@ -88,7 +88,7 @@ Experience SP’s advanced technology equipment that is integrated with 5G withi
 
 ### ESPORTS, MEDIA AND CONTENT CREATION
 #### **THE GYM**
-![](/images/Icmclub/The%20Gym.png)
+![](/images/icmclub/the%20gym.png)
 
 Where do professional gamers ply their trade? The Gym is Asia’s first 24 hours eSports co-working space and production studio for gamers to train, compete and kickstart their professional eSports career.
 
@@ -102,7 +102,7 @@ Experience The Gym’s holistic production studio and hands-on with eSports cast
 **Location:** New Media Laboratory, Kallang Wave Mall #02-08, 1 Stadium Place, Singapore 397628
 
 #### **The Smart Local** <br>
-![](/images/Icmclub/TSL.png)
+![](/images/icmclub/tsl.png)
 
 Time to level up your media skills! Learn how to produce good content with guidance from professionals from The Smart Local. Get tips and tricks to craft compelling content to digital storyboarding. 
 
@@ -117,7 +117,7 @@ Make your voice be heard and let your creative minds curate captivating shareabl
 
 ### PHOTOGRAPHY<br>
 #### **Canon** <br>
-![](/images/Icmclub/Canon.png)
+![](/images/icmclub/canon.png)
 
 Calling all aspiring photographers - master the art of taking amazing photos and videos at Canon’s Imaging Academy. Learn from the experts on the fundamentals to tips and tricks on photography techniques and how to take beautiful photos with an outdoor hands-on practice session.
 
@@ -132,7 +132,7 @@ Calling all aspiring photographers - master the art of taking amazing photos and
 
 ### DRONES
 #### **65Drones**
-![](/images/Icmclub/65%20Drones.png)
+![](/images/icmclub/65%20drones.png)
 
 From National Day Parade to New Year’s Eve Party, swarm of drones are being used at significant events to entertain and mesmerise the crowds. Learn how to program swarm of drones to create a drone light show and experience ‘live’ first person-view from a drone technologist.
 
@@ -146,7 +146,7 @@ From National Day Parade to New Year’s Eve Party, swarm of drones are being us
 
 ### WEARABLE TECH
 #### **Refract Technologies**
-![](/images/Icmclub/Refract%20Tech.png)
+![](/images/icmclub/refract%20tech.png)
 
 Do you dream of using Taekwondo to fight in virtual reality? Now you can! Refract is a Singapore-based technology innovation group that specializes in the field of extended reality (XR) where real-time full-body tracking technologies are used for gaming and entertainment.
 

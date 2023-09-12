@@ -16,6 +16,6 @@ Students will set up experiments to measure plant growth with the micro:bit help
 
 * 1 x Recycled cardboard box 
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/P5  6 Science  Energy Forms  UsesPhotosynthesis TinkerTanker.pdf)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/p5  6 science  energy forms  usesphotosynthesis tinkertanker.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

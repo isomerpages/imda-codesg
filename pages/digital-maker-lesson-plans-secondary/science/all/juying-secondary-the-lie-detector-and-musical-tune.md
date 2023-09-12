@@ -10,6 +10,6 @@ breadcrumb: 'Secondary School - science'
 
 Students to create a simple lie detector machine, which works by measuring the electrical conductivity of our skin. On feeling nervous (when someone lies), our skin’s electrical conductivity will increase, and the moisture sensor to detect the changes in humidity (sweat). This allows us to determine if a person is telling the truth or not. 
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/The Lie Detector -Science Biology.pdf)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/the lie detector -science biology.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

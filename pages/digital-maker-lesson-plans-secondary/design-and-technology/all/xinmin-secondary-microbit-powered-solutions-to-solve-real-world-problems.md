@@ -19,6 +19,6 @@ Students will identify a possible project using the micro-bit. They will underst
 * 1 x Needs Analysis Worksheet
 
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/Sec 1 DT  Needs AnalysisIdentifying Design Tasks Xinmin Sec (2).zip)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/sec 1 dt  needs analysisidentifying Design Tasks Xinmin Sec (2).zip)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

@@ -17,6 +17,6 @@ Students will use the micro:bit and some materials to create their own keyboard 
 * 1 x JavaScript block editor
 
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/music-and-art/Sec 2 Music  Keyboard Greenview Secondary.pdf)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/music-and-art/sec 2 music  keyboard greenview secondary.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

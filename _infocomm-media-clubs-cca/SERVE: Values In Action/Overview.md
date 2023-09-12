@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /infocomm-media-clubs-cca/SERVE/
+permalink: /infocomm-media-clubs-cca/serve/
 description: ""
 third_nav_title: "SERVE: Values In Action"
 ---
@@ -8,7 +8,7 @@ third_nav_title: "SERVE: Values In Action"
 
 Club members will be provided with opportunities to serve in their schools and the community. IMDA has curated meaningful Values-In-Action projects where industry partners will provide the training required for members to be able to teach others confidently.
 
-![](/images/Icmclub/updated%20serve%20sem%202%20round%20u.png)
+![](/images/icmclub/updated%20serve%20sem%202%20round%20u.png)
 ### Tech Saturday
 **(Every 3rd Saturday of the month)**
 

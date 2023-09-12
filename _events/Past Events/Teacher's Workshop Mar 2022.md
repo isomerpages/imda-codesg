@@ -1,6 +1,6 @@
 ---
 title: Teacher's Workshop Mar 2022
-permalink: /events/teachersworkshopmar22
+permalink: /events/teachersworkshopmar22/
 description: ""
 third_nav_title: Past Events
 ---

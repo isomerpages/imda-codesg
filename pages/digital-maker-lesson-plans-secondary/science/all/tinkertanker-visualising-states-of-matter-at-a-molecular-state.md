@@ -14,6 +14,6 @@ Students will learn about how particles of matter behave differently in terms of
 
 * 1 x USB connector Computer or phones with Internet access (optional)
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/Sec 1  2 Science  Model of MatterParticulate Nature of Matter TinkerTanker.pdf)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/science/sec 1  2 science  model of matterparticulate nature of matter tinkertanker.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

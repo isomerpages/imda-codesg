@@ -7,7 +7,7 @@ breadcrumb: 'Remote Controlled Robot Car'
 
 **Contributed by Cedric Phua**
 
-![1](/images/in-schools/digital-maker/projects/fun-and-games/remote-control-robot-car/CedricRobotCar1.png)
+![1](/images/in-schools/digital-maker/projects/fun-and-games/remote-control-robot-car/cedricrobotcar1.png)
 
 This project focuses on using the feature of Mirco:bit such as Radio, Accelerometer, Buttons and LED features to remotely control the robot car.
 

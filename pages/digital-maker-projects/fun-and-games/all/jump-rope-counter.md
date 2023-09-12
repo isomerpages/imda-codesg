@@ -38,7 +38,7 @@ Jump rope is a great calories burner exercise that most people can take part in.
 
 ---
 
-![4](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter4.JPG)
+![4](/images/in-schools/digital-maker/projects/fun-and-games/jump-rope-counter/jump-rope-counter4.jpg)
 
 **3. Upload Successful** <br>Click done once you see the screen on the right, it means the script has been successfully downloaded to your default Downloads folder.Copy the downloaded script to your micro:bit drive. The downloaded script should end with a .hex extension.<br>
 

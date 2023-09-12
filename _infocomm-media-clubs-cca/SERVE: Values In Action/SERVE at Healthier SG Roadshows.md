@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs-cca/serve-healthier-sg-roadshows/
 description: ""
 third_nav_title: "SERVE: Values In Action"
 ---
-![](/images/Icmclub/website%20hsg%20roadshows.png)
+![](/images/icmclub/website%20hsg%20roadshows.png)
 
 Get trained to SERVE as a Smart Nation Ambassador to assist residents on Healthier SG and its related apps! (Healthy365, HealthHub, Singpass)  
   
@@ -16,7 +16,7 @@ Healthier SG was launched in March this year to help Singaporeans take steps tow
 **Additional info:** Members only need to commit to a single shift on a single day. They may choose between 9am - 1.30pm or 1.30pm - 6pm. 
 Refer to the FAQ for more details. 
 
-![](/images/Icmclub/healthiersg%20roadshows%20dates.png)
+![](/images/icmclub/healthiersg%20roadshows%20dates.png)
 
 Click [here](https://form.gov.sg/64b4a708b0717e0012c91055) to sign up now!<br>        
 

@@ -22,14 +22,14 @@ As the saying goes, “You can’t use up creativity. The more you use, the more
 
 Think this is just a normal photo frame? I was at first but the students from Clementi Town Secondary School explained to me how they used a motion sensor and a micro:bit  to create a smart photo frame with LEDS that will light up once it detects motion. Imagine my delight when the photo lights up when I walked past!<br>
 ![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch2.jpg)<br>
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch3.JPG)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch3.jpg)<br>
 
 Students from Xinmin Secondary School created a ‘Rock Paper Scissors’ game, a music player, as well as a plant-watering reminder! Through my interaction with them, I learned that these projects were completed within a semester during their Design & Technology (D&T) and Information Communication & Technology (ICT) lessons. Talk about multi-tasking! Being able to come up with such innovative creations within a short period of time is no easy feat; I’m truly amazed at their achievements at such a young age.<br>
 ![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch4.jpg)<br>
 
 Ngee Ann Polytechnic students from the School of Engineering course showcased a Bluetooth controlled (toy) car, designed to help stroke patients and elderlies improve their motor skills. Their lecturer, Mr Chua, shared that these students underwent C++ programming in their first year, where they picked up skills that came in handy for this project.<br>
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch5.JPG)<br>
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch6.JPG)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch5.jpg)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch6.jpg)<br>
 
 These students have proven that innovation and creativity is indeed boundless! No matter how old or how experienced one is, taking the first step out of his or her comfort zone to explore the wonders of digital making is key! Visit our homepage at www.digitalmaker.sg. to find out more on how you, or your child, can make a difference as a digital maker. 
 
@@ -45,16 +45,16 @@ The Digital Garage also provides an ease of access for Digital Making with the m
 
 Digital Garage will be branching out into other constituencies, so do keep a look out for one in your vicinity! Meanwhile, for those who are looking for a space to create and innovate, head on over to their website, https://xpc.sg, or contact Home-fix XPC at +65 6444 9751 to book a maker space! If you wish to learn on how to program and code using the micro:bit, do head over to Tanjong Pagar CC Facebook at www.facebook.com/TanjongPagarCC to look at the available schedule timings.
 
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch7.JPG)<br>
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch8.JPG)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch7.jpg)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch8.jpg)<br>
 
 ### 4. Never Stop Learning, No Matter Your Age
 During the micro:bit workshop at the launch, I was surprised to witness the room filled with makers of all ages! It was heartening to see individuals come together to share in the spirit of digital making, regardless of their age. This goes to show that the digital making spirit is not only limited to youths but to individuals of all ages, from all spectrums of life. 
 
 With society becoming increasingly reliant on technology, it is no wonder that tech jobs are high in demand. This year, IMDA reported a lack of up to 30,000 information technology professionals, reflecting how valuable coding skills are, parents should certainly consider providing a head start for their children!
 
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch9.JPG)<br>
-![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch10.JPG)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch9.jpg)<br>
+![top-4-takeaways-from-the-digital-garage-launch](/images/stories/features/top-4-takeaways-from-the-digital-garage-launch/top-4-takeaways-from-the-digital-garage-launch10.jpg)<br>
 
 It was truly an inspiring and insightful time spent at the Digital Garage launch speaking to many motivated students about their projects, and witnessing individuals from all walks of life gather together to embrace and support the Digital Making spirit. As what SMS Indranee said, “The sky’s the limit. You can continue to make and invent as many things as your creativity and imagination allows you to!” I am now even more excited to kick start my Digital Making journey!
 

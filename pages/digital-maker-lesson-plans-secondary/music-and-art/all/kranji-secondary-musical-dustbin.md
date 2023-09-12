@@ -1,6 +1,6 @@
 ---
 title: 'Musical Dustbin'
-permalink: '/kranji-secondary-musical-dustbin /'
+permalink: /kranji-secondary-musical-dustbin /
 breadcrumb: 'Secondary School - music and art'
 
 ---

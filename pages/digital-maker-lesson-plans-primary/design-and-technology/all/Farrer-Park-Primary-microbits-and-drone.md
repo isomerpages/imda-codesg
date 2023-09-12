@@ -8,6 +8,6 @@ breadcrumb: 'micro:bits and drone'
 
 Using the accelerometer on the mirco:bit to perform a simple indication which direction the drone is flying and how stable the drone is when hovering.
 
-Download the lesson plan [here](/files/lesson-plans/primary-schools/design-and-technology/Farrer-Park-Primary-microbits-and-drone.pdf)
+Download the lesson plan [here](/files/lesson-plans/primary-schools/design-and-technology/farrer-park-primary-microbits-and-drone.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-primary/)

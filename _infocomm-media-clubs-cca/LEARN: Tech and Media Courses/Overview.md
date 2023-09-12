@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /infocomm-media-clubs-cca/LEARN/Overview/
+permalink: /infocomm-media-clubs-cca/learn/overview/
 description: LEARN Introduction
 third_nav_title: "LEARN: Tech and Media Courses"
 ---

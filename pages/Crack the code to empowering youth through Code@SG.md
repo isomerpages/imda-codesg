@@ -27,7 +27,7 @@ It starts from addressing any fear that the students may have. After all, the te
 
 “But when we understand the process, it’s actually very simple and when we break down the steps, students realise they’ve seen parts of it before,” he adds.
 
-![Students from Rulang Primary playing with a STEM assembly kit.](/images/stories/features/Codesg%20Apr22/01.jpg)
+![Students from Rulang Primary playing with a STEM assembly kit.](/images/stories/features/codesg%20apr22/01.jpg)
 *Students from Rulang Primary playing with a STEM assembly kit. This helps them understand design-thinking concepts and exercise creative problem solving in a simple and fun way.*
 
 When [Code For Fun](https://codesg.imda.gov.sg/code-for-fun/) is run at Rulang Primary , students are introduced to computational thinking by proposing the steps to make chicken rice, Gary shares. As the class runs through the instructions, they begin to see what makes sense and what doesn’t, gradually refining their steps in a logical fashion—and in doing so, demonstrating computational thought.
@@ -48,7 +48,7 @@ To give students a taste of how coding can solve real-world problems, Jurongvill
 
 Ruting describes it as an all-rounded experience that combined lessons about coding with design-thinking and real world issues—ultimately demonstrating how her students’ computing skills, coupled with research and understanding of the user experience can come together to tackle real-life issues.   
 
-![To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides. ](/images/stories/features/Codesg%20Apr22/02.jpg)
+![To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides. ](/images/stories/features/codesg%20apr22/02.jpg)
 *To help students see the relevance of coding in solving real-world problems, Mr Stanley Tan from Jurongville Secondary School guides them through the process of using LEGO kids to develop sensors for natural disasters like landslides.*
 
 #### **#3 Provide opportunities for ownership and achievement**
@@ -57,7 +57,7 @@ In 2021, Yishun Town Secondary’s Infocomm Media Club students  participated in
 
 “The victory certainly brought the Infocomm Club the much-needed boost of positivity,” Rommel Chua, Infocomm Media Club teacher-in-charge at Yishun Town Secondary shares. These accomplishments, he adds, can generate interest by giving students a sense of pride.
 
-![Jurongville Secondary School students pick up coding skills through bite-sized, manageable activities like how to code a flickering flame.](/images/stories/features/Codesg%20Apr22/03.jpg)
+![Jurongville Secondary School students pick up coding skills through bite-sized, manageable activities like how to code a flickering flame.](/images/stories/features/codesg%20apr22/03.jpg)
 *Jurongville Secondary School students pick up coding skills through bite-sized, manageable activities like how to code a flickering flame. Activities like this foster a sense of accomplishment and can develop interest in coding.*
 
 Even outside of competitions, small successes go a long way in increasing the confidence of youth and encouraging them to continue coding, Ruting chimes in.
@@ -78,7 +78,7 @@ At Rulang Primary, the children are introduced to coding in the context of playi
 
 “The excitement of handling the robots make kids interested and want to do more,” Gary observes. “The fact that they could see the robots move on their command made them really excited, and from there, we were able to teach them the basics of how it worked.”
 
-![Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. ](/images/stories/features/Codesg%20Apr22/04.jpg)
+![Learning coding by playing with Sphero BOLT, an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic. ](/images/stories/features/codesg%20apr22/04.jpg)
 *Learning coding by playing with [Sphero BOLT](https://sphero.com/products/sphero-bolt), an app-enabled robot, adds an element of entertainment. This is suitable for helping young students at Rulang Primary stay engaged and interested in the topic.*
 
 Older students, on the other hand, are capable of taking on more challenging tasks. Thus, at Jurongville Secondary, when students developed sensors for landslides and alarms for forest fires, they were only given guiding questions to research and had to develop possible solutions themselves, Ruting shares.

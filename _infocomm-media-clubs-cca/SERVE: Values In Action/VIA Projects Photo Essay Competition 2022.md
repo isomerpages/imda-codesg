@@ -1,6 +1,6 @@
 ---
 title: VIA Projects Photo Essay Competition 2022
-permalink: /infocomm-media-clubs-cca/Photo-Essay-Competition/
+permalink: /infocomm-media-clubs-cca/photo-essay-competition/
 description: ""
 third_nav_title: "SERVE: Values In Action"
 ---
@@ -11,8 +11,8 @@ Despite the challenges of reaching out to the community, the students devised cr
 
 **Read the photo essay winning entries below!**
 
-* [Canberra Primary School ](/Photo-Essay-Canberra-Pri)
-* [Dunman Secondary School](/Photo-Essay-Dunman-Sec)
-* [Jurongville Secondary School](/Photo-Essay-Jurongville-Sec)
-* [Raffles Girls' School](/Photo-Essay-Raffles-Girls-Sch)
-* [St Joseph's Institution](/Photo-Essay-SJI)
+* [Canberra Primary School ](/photo-essay-canberra-pri)
+* [Dunman Secondary School](/photo-essay-dunman-sec)
+* [Jurongville Secondary School](/photo-essay-jurongville-sec)
+* [Raffles Girls' School](/photo-essay-raffles-girls-sch)
+* [St Joseph's Institution](/photo-essay-sji)

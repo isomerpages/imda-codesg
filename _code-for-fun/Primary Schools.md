@@ -4,7 +4,7 @@ permalink: /code-for-fun/primary/
 ---
 ### From 2020, all upper primary students will undergo a 10-hour computational thinking and coding enrichment class to expose them to the skills needed to embrace new opportunities in the digital economy.
 
-![](/images/cff/CFF%20Pri%20image.jpg)
+![](/images/cff/cff%20pri%20image.jpg)
 
 The **Code For Fun** Programme for primary schools offers a standardised curriculum to all upper primary students, to equip them with baseline computational thinking skills before they leave primary school. The programme also introduces students to some basic concepts of emerging technology.
 Through this 10-hour curriculum, students will be able to:

@@ -9,7 +9,7 @@ breadcrumb: 'Never Too Young to Code - Cedric Phua'
 
 ## Never Too Young to Code - Cedric Phua
 
-![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/Never-Too-Young-to-Code-Cedric-Phua1.JPG) 
+![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/never-too-young-to-code-cedric-phua1.jpg) 
 
 Many young children are by nature inquisitive and excited to create, which makes them prime candidates for picking up coding and digital making skills early in life. 10-year-old Cedric Phua, who has been creating his own projects since he was 9, is one such early adopter. His story shows that digital making is not only achievable for young children, but also fun!
 
@@ -25,9 +25,9 @@ Although Cedric had some initial difficulties understanding the programming synt
 
 Cedric’s father credits the block based programming system of the micro:bit for his enthusiasm for self-directed learning, saying that the eye-catching interface made learning to code fun rather than tedious.
 
-![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/Never-Too-Young-to-Code-Cedric-Phua2.JPG) 
+![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/never-too-young-to-code-cedric-phua2.jpg) 
 
-![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/Never-Too-Young-to-Code-Cedric-Phua3.JPG) 
+![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/never-too-young-to-code-cedric-phua3.jpg) 
 <sub>Cedric’s robo car project, and the micro:bit kit he used to create it.</sub>
 
 
@@ -45,7 +45,7 @@ Speaking about the project, Cedric said, “My parents and I were stuck in the r
 
 Besides micro:bit, Mr. and Mrs. Phua also nurture Cedric’s interest in digital technology in other ways. Mr. Phua shared that he would be bringing Cedric to a workshop at <a href="https://www.imda.gov.sg/community/consumer-education/digital-literacy-and-participation/labsnlb" target="_blank">IMDA PIXEL Labs @NLB</a> to learn more about the Internet of Things, the concept of how different internet-enabled devices interact in a digital network.
 
-![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/Never-Too-Young-to-Code-Cedric-Phua4.JPG) 
+![never-too-young-to-code-cedric-phua](/images/stories/features/never-too-young-to-code-cedric-phua/never-too-young-to-code-cedric-phua4.jpg) 
 
 ## "I realized the key to success is: Don’t be discouraged even if you fail after many tries.”
 

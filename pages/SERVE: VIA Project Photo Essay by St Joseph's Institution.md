@@ -1,6 +1,6 @@
 ---
 title: "SERVE: VIA Project Photo Essay by St Joseph's Institution"
-permalink: /Photo-Essay-SJI
+permalink: /photo-essay-sji/
 description: ""
 ---
 #### Title: AI IN THE COMMUNITY - A VIA PROJECT by Jeremy Siah 
@@ -11,20 +11,20 @@ We set up a booth outside the school canteen, complete with posters, signs, a la
 
 Overall, the experience was extremely enjoyable and memorable. I had lots of fun imparting my knowledge about AI to my fellow Josephians, in hope that they would be able to apply it in their day-to-day life, as well as spread the knowledge to others. This also helped deepen my understanding of AI when I shared with others. I truly realised that while tiring, such Values-In-Action opportunities are precious learning opportunities which can be hard to come by. I am glad that I made full use of this particular opportunity to learn and grow.  
 
-![](/images/events/competitions/SJI%201.png)
+![](/images/events/competitions/sji%201.png)
 The online sharing by Sustainable Living Lab in session
 
-![](/images/events/competitions/SJI%202.jpg)
+![](/images/events/competitions/sji%202.jpg)
 A CCA member trying out the Alpha Mini robot
 
-![](/images/events/competitions/SJI%203.jpg)
+![](/images/events/competitions/sji%203.jpg)
 CCA members were amused by the amazing capabilities of the robot
 
-![](/images/events/competitions/SJI%204.png)
+![](/images/events/competitions/sji%204.png)
 Some CCA members at the booth during their shift
 
-![](/images/events/competitions/SJI%205.png)
+![](/images/events/competitions/sji%205.png)
 Booth packed with intrigued students
 
-![](/images/events/competitions/SJI%206.png)
+![](/images/events/competitions/sji%206.png)
 Gifts like these were handed out to students who visited the booth

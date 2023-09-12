@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /infocomm-media-clubs-cca/DISCOVER/Overview/
+permalink: /infocomm-media-clubs-cca/discover/overview/
 description: DISCOVER Introduction
 third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---

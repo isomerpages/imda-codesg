@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs-cca/serve-smart-nation-playscape/
 description: ""
 third_nav_title: "SERVE: Values In Action"
 ---
-![](/images/Icmclub/website%20playscape.png)
+![](/images/icmclub/website%20playscape.png)
 
 PlayScape is an exhibit at the Science Centre featuring 8 zones showcasing digital technologies powering Singapore’s Smart Nation journey. By using gamified interactive elements, this exhibition brings technological concepts to life. 
 

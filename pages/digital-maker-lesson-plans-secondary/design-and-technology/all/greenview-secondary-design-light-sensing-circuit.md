@@ -21,6 +21,6 @@ Students will have the opportunity to learn through hands-on activity. They will
 * Connecting wires and resistors
 
 
-Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/Lesson PlanDT and MicrobitWee Soh Ye Patrick.pdf)
+Download the lesson plan [here](/files/lesson-plans/secondary-schools/design-and-technology/lesson plandt and microbitwee soh ye patrick.pdf)
 
 To view more lesson ideas, please return to the Lesson Ideas page by [clicking here](/in-schools/digital-maker/lesson-ideas-secondary/)

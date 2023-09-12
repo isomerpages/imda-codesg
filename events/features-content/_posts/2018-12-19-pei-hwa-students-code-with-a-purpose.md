@@ -55,7 +55,7 @@ Students who have similar interest but cannot make the same time commitment as j
 
 A survey conducted by the school showed that students were highly receptive to the digital making curriculum, even with female students who are normally perceived to be less inclined towards coding. The successful adoption of DMP by Pei Hwa is further reflected by their numerous digital making achievements in the short two years since they started the programme. Here is a quick rundown:
 
-![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose1.JPG)<sub>Presenting their project at Maker Faire 2017 to Minister Vivian Balakrishnan</sub>
+![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose1.jpg)<sub>Presenting their project at Maker Faire 2017 to Minister Vivian Balakrishnan</sub>
 
 ![pei-hwa-students-code-with-a-purpose](/images/stories/features/pei-hwa-students-code-with-a-purpose/pei-hwa-students-code-with-a-purpose2.jpg)
 <sub>Project showcase at Tech Saturday in 2018, where local celebrity Romeo Tan tried out the shooting game</sub>

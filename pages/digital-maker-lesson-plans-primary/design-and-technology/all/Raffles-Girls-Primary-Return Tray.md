@@ -6,7 +6,7 @@ breadcrumb: 'Return Tray'
 ---
 
 
-![return tray](/images/in-schools/digital-maker/overview/lesson-plans/primary/Raffles-Girls-Primary-Return Tray.jpg)
+![return tray](/images/in-schools/digital-maker/overview/lesson-plans/primary/raffles-girls-primary-return tray.jpg)
 
 Using micro:bit and light sensors, students will create a system that gives off an alert when a tray is not returned.
 

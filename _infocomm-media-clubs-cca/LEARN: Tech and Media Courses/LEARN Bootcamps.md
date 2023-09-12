@@ -37,7 +37,7 @@ The Microsoft Digital Making and Game Development Bootcamp lets primary school s
 [Sign up here ](https://go.gov.sg/microsoft-bc23)
 
 **Unity Game Development Bootcamp (Sec/JC)** - FULLY SUBSCRIBED
-![](/images/Icmclub/unity%20bootcamp.png)
+![](/images/icmclub/unity%20bootcamp.png)
 
 The Unity Game Development bootcamp provides students the opportunity to work on a versatile game engine that many mobile games are built on. In this week-long bootcamp, students will learn to use the Unity game engine, acquire coding skills in C# for Unity and be equipped with game design fundamentals and philosophy. As a final project, students will customise their own game using the Unity platform.
 
@@ -46,7 +46,7 @@ The Unity Game Development bootcamp provides students the opportunity to work on
 *   **Requirements**: Windows PCs will be provided at the training venue. Students with their own Windows PC or macOS devices who want to bring them along (iPads and Chromebooks are not supported) can do so; we’ll send installation instructions beforehand.
 
 **Meta Spark Bootcamp (Sec/JC)**
-![](/images/meta_updated_promobootcamp_websitebanner%20.PNG)
+![](/images/meta_updated_promobootcamp_websitebanner%20.png)
 
 The Meta Spark bootcamp is the perfect opportunity for students who are passionate about technology to explore the world of Augmented Reality (AR) and discover new ways of engaging with their environment. In this 24-hr bootcamp held across 4 days, students will learn how to use Meta Spark to create their own custom AR immersive experiences that can be shared on Meta and Instagram. As a final project, students will participate in a nation-wide AR competition by creating an AR effect to spread the message of a sustainable future, for a chance to win attractive prizes from Meta.
 
@@ -57,7 +57,7 @@ The Meta Spark bootcamp is the perfect opportunity for students who are passiona
 [Sign up here](https://go.gov.sg/sparkarmay23)
 
 **Bernina Sew &amp; Code Bootcamp (Pri)**
-![](/images/bernina_promobootcamp_websitebanner.PNG)
+![](/images/bernina_promobootcamp_websitebanner.png)
 The Sew &amp; Code Bootcamp is a week-long holiday bootcamp designed for students aged 10 to 12 (P4-6). Students will get hands-on experience in design, coding, sewing, embroidery, and electronics with BERNINA machines. <br>
 
 Using TurtleStitch and Bernina app, students will learn coding principles through creating generative artwork and learn to use sewing and embroidery features of the Bernina machine. As a final project, students will integrate microcontrollers and sensors with e-textile to create a functioning e-textile product.

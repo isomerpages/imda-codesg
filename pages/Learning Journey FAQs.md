@@ -1,6 +1,6 @@
 ---
 title: Learning Journey FAQs
-permalink: /Learning-Journey-FAQs/
+permalink: /learning-journey-faqs/
 description: ""
 ---
 ## FREQUENTLY ASKED QUESTIONS
