@@ -35,12 +35,12 @@ More than **230 talented students** from **51 different schools** immersed in an
 *Top Row (Left to Right): Anglo-Chinese School (Barker), Damai Secondary School
 Bottom Row (Left to Right): Dunman High School, Yishun Secondary School*
 
-While competitions are all about competing, overcoming challenges and emerging victoriously, the journey that shapes the student is equally significant. As such, a special award – the **GUMPTION Award**, was presented to the most inspiring team who has displayed and demonstrated tenacity and perseverance throughout the competition.
+While competitions are all about competing, overcoming challenges, and emerging victoriously, the journey that shapes the student is equally significant. As such, a special award – the **GUMPTION Award** – was presented to the most inspiring team that displayed and demonstrated tenacity and perseverance throughout the competition.
 
 **Gumption Award Winner**: Bedok Green Secondary School
 ![](/images/NYTC2023/gumption%20award%20winner%20-%20bedok%20green%20secondary%20school.jpg)
 
-<br>
+
 
 <center>
   <p> THANK YOU FOR BEING PART OF THE NATIONAL YOUTH TECH CHAMPIONSHIP 2023!</p>
