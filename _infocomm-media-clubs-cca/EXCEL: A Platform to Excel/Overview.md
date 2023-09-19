@@ -52,7 +52,7 @@ While competitions are all about competing, overcoming challenges and emerging v
   <p> SEE YOU IN THE NEXT SEASON!</p>
 </center>
 
-### National Youth Tech Championship YouTube web series
+#### **National Youth Tech Championship YouTube web series**
 
 Catch the [National Youth Tech Championship web series on YouTube](https://www.youtube.com/playlist?list=PLctna5nnXQyPiplW_Sf4Bp8KPbtYky4aR) and follow the students along on their journey as they tackle AI and drone challenges!<br>
 
