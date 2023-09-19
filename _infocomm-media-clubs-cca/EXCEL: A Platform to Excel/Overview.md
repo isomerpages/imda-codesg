@@ -30,6 +30,7 @@ More than **230 talented students** from **51 different schools** immersed in an
 * Damai Secondary School
 * Dunman High School
 * Yishun Secondary School
+
 ![](/images/NYTC2023/finalist%20x%204.png)
 *Top Row (Left to Right): Anglo-Chinese School (Barker), Damai Secondary School
 Bottom Row (Left to Right): Dunman High School, Yishun Secondary School*
