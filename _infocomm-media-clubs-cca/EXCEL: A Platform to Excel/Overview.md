@@ -32,7 +32,7 @@ More than **230 talented students** from **51 different schools** immersed in an
 * Yishun Secondary School
 ![](/images/NYTC2023/finalist%20x%204.png)
 *Top Row (Left to Right): Anglo-Chinese School (Barker), Damai Secondary School
-Bottom Row (Left to Right): Dunman High School, Yishun Secondary School *
+Bottom Row (Left to Right): Dunman High School, Yishun Secondary School*
 
 While competitions are all about competing, overcoming challenges and emerging victoriously, the journey that shapes the student is equally significant. As such, a special award – the **GUMPTION Award**, was presented to the most inspiring team who has displayed and demonstrated tenacity and perseverance throughout the competition.
 
