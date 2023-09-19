@@ -39,9 +39,16 @@ While competitions are all about competing, overcoming challenges and emerging v
 **Gumption Award Winner**: Bedok Green Secondary School
 ![](/images/NYTC2023/gumption%20award%20winner%20-%20bedok%20green%20secondary%20school.jpg)
 
-**THANK YOU FOR BEING PART OF THE NATIONAL YOUTH TECH CHAMPIONSHIP 2023!**
+<center>
+  <p> THANK YOU FOR BEING PART OF THE NATIONAL YOUTH TECH CHAMPIONSHIP 2023!</p>
+</center>
+
 ![](/images/NYTC2023/thank%20you%20for%20being%20part%20of%20the%20national%20youth%20tech%20championship%202023!.jpg)
-**SEE YOU IN THE NEXT SEASON!**
+
+
+<center>
+  <p> SEE YOU IN THE NEXT SEASON!</p>
+</center>
 
 #### National Youth Tech Championship YouTube web series
 
