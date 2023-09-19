@@ -4,7 +4,7 @@ permalink: /infocomm-media-clubs-cca/excel/competition-faq/
 description: ""
 third_nav_title: "EXCEL: A Platform to Excel"
 ---
-# Frequently Asked Questions (FAQ)
+#         National Youth Tech Championship (NYTC) 2023
 
 #### About the competition
 
