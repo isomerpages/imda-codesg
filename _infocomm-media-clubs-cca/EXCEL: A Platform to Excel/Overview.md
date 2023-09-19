@@ -12,6 +12,5 @@ Immersed in an exhilarating **6-week journey**, more than **230 talented student
 
 #### **Congratulations to the winning teams of the National Youth Tech Championship!**
 
-**Champion: Anglo-Chinese School (Independent)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Champion: Anglo-Chinese School (Independent)**
 ![](/images/NYTC2023/champion%20-%20anglo-chinese%20school%20(independent).jpg)
-
