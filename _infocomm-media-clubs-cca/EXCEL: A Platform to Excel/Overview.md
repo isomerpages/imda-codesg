@@ -8,7 +8,7 @@ third_nav_title: "EXCEL: A Platform to Excel"
 
 
 ![](/images/NYTC2023/nytc%20web%20banner.png)
-More than **230 talented students** from **51 different schools** immersed in an exhilarating **6-week journey** and participated in trainings to acquire AI skills to gear up for an array of thrilling tech challenges curated by Google Engineers. All in pursuit of the coveted trophy at the grand finale held on 18th August 2023.
+<br>More than **230 talented students** from **51 different schools** immersed themselves in an exhilarating **6-week journey** and participated in training to acquire AI skills, gearing up for an array of thrilling tech challenges curated by Google Engineers—all in pursuit of the coveted trophy at the grand finale held on August 18, 2023.
 
 #### **Congratulations to the winning teams of the National Youth Tech Championship!**
 
