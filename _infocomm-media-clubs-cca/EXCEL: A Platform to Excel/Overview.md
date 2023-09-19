@@ -47,7 +47,6 @@ While competitions are all about competing, overcoming challenges and emerging v
 
 ![](/images/NYTC2023/thank%20you%20for%20being%20part%20of%20the%20national%20youth%20tech%20championship%202023!.jpg)
 
-
 <center>
   <p> SEE YOU IN THE NEXT SEASON!</p>
 </center>
