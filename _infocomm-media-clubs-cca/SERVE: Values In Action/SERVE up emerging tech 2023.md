@@ -17,15 +17,16 @@ We appreciate the enthusiastic participation from all the Infocomm Media Clubs. 
 e-vouchers.
 
 * The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.
+<br>
 #### Be inspired by these schools! 
 We applaud these schools and clubs for their outstanding efforts in serving their communities through emerging technology.<br>
 
 Click on the links below to read more about their incredible projects!
       
 **Unleash your inner designer** <br>
-Discover how Ngee Ann Secondary School's Infocomm Technology (Media Production) Club partnered with VIVITA to conduct a Tech Saturday workshop. They taught a group of enthusiastic children how to use Canva as a design tool. Dive into their heartwarming experience and read about the unexpected guest that came by! <br>
+Discover how Ngee Ann Secondary School's Infocomm Technology (Media Production) Club partnered with VIVITA to conduct a Tech Saturday workshop. They taught a group of enthusiastic children how to use Canva as a design tool. Dive into their heartwarming experience and read about the unexpected guest that came by!
 
-[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-nass)
+&nbsp;  [Click here to read more](https://go.gov.sg/serve-up-emerging-tech-nass)
 
 
 **Game development with Scratch**<br>
