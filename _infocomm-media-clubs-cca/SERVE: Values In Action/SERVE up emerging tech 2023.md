@@ -12,11 +12,11 @@ Thank you to everyone who submitted their entries by the deadline of August 31, 
 
 We appreciate the enthusiastic participation from all the Infocomm Media Clubs. Here are the details of the prizes awarded:
 
-The first 30 Clubs that shared their talk or presentation have received $25 food delivery
+* The first 30 Clubs that shared their talk or presentation have received $25 food delivery
 
 e-vouchers.
 
-The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.
+* The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.
 
 #### Be inspired by these schools! 
 We applaud these schools and clubs for their outstanding efforts in serving their communities through emerging technology.<br>
