@@ -19,6 +19,7 @@ e-vouchers.
 * The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.
 #### Be inspired by these schools! 
 We applaud these schools and clubs for their outstanding efforts in serving their communities through emerging technology.<br>
+
 Click on the links below to read more about their incredible projects!
       
 **Unleash your inner designer** <br>
