@@ -6,30 +6,46 @@ third_nav_title: "SERVE: Values In Action"
 ---
 ![](/images/serve%20up%20website.png)
 
-Your Infocomm Media Club can play a part in building a society which is ready for the digital future. As tech ambassadors, members can excite and expose others to emerging technology. This can take the form of an assembly talk, informal exchanges with other CCAs, interactive booths/showcases or workshops. Tell us about how your Club has SERVE-d up emerging technology to win attractive prizes! <br> 
+Your Infocomm Media Club can play a part in building a society which is ready for the digital future. As tech ambassadors, members can excite and expose others to emerging technology. This can take the form of an assembly talk, informal exchanges with other CCAs, interactive booths/showcases or workshops.
 
-#### Prizes to be won 
-* First **30 Clubs** to tell us about your talk or sharing will receive **$25 food delivery e-vouchers**
-* First **15 Clubs** to tell us about your workshop, tech showcase or booth will receive **$50 food delivery e-vouchers**
+Thank you to everyone who submitted their entries by the deadline of August 31, 2023.
 
-#### Submission guidelines 
-* Email your entry in a single Word document with the photos directly inserted into it to [imda_codesg@imda.gov.sg](mailto:imda_codesg@imda.gov.sg) by **31 August 2023**
-* Indicate 'SERVE: Emerging tech submission' in the subject line <br>
-##### Details to be included 
-* Name and level of writer, school, Club name
-* 3 - 5 photos of members in action giving a talk, putting up an interactive booth/showcase or conducting a workshop
-* 120 to 150 word write-up with the following information:
-* Date of sharing / workshop / showcase / booth
-* Topic or content being shared
-* Number of Club volunteers
-* Estimated number of people engaged
-* Quote from a Club volunteer or participant reflecting on the experience
-* Only 1 submission per Club
-* Sharing within the CCA does not fulfill the criteria (eg. seniors teaching juniors) <br> 
+We appreciate the enthusiastic participation from all the Infocomm Media Clubs. Here are the details of the prizes awarded:
 
+* The first 30 Clubs that shared their talk or presentation have received $25 food delivery
+
+e-vouchers.
+
+* The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.
 #### Be inspired by these schools! 
-Read about the schools and clubs that have stepped up to serve others using their digital skills!
+We applaud these schools and clubs for their outstanding efforts in serving their communities through emerging technology.<br>
+Click on the links below to read more about their incredible projects!
       
+**Unleash your inner designer** <br>
+Discover how Ngee Ann Secondary School's Infocomm Technology (Media Production) Club partnered with VIVITA to conduct a Tech Saturday workshop. They taught a group of enthusiastic children how to use Canva as a design tool. Dive into their heartwarming experience and read about the unexpected guest that came by! 
+[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-nass)
+
+
+**Game development with Scratch**
+Six members from Bedok South Secondary School's Infocomm Club conducted a Game Development Workshop using Scratch. They brought their cat sprites to life in a session that was not just educational but also entertaining for their lower secondary schoolmates. Find out how it was conducted as part of the Library Programme.
+
+&nbsp; [Click here to read more](https://go.gov.sg/serve-up-emerging-tech-bsss)
+
+**Innovating for sustainability**
+Clementi Town Secondary School's Infocomm Technology Club unveiled their groundbreaking Recyclebot project at DeepRace Dash 2023. These students harnessed the power of Artificial Intelligence to automate recycling. Dive into their story and read about the showcase which took place at NUS.
+
+&nbsp;[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-ctss)
+
+**Embark on an exciting Artificial Intelligence adventure**
+Jurongville Secondary School's Infocomm Club gave an eye-opening introduction to Artificial Intelligence (AI) at library@harbourfront. Parents and their young children discovered the incredible world of AI while interacting with robots. Delve into the students’ unforgettable personal stories and meaningful reflections from conducting the workshop.
+
+&nbsp;[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-jss)
+
+**Robotics for all**
+Raffles Girls' School’s Robotics Club conducted 3 different activities to raise awareness about robotics and Artificial Intelligence. This included an exciting cohort wide Hebocon workshop for Year 1 students where groups assembled scrappy robots using motors, wires and available resources. Take a look at the students’ creations!&nbsp;
+
+[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-rgs)
+
 **When sustainability meets tech** <br>
 Canberra Primary School’s Digital Artisans partnered with their Cub scouts to come up with robotics solutions to address sustainability issues. Find out how they used AI and Mbot2 in this meaningful project!  
   
@@ -40,7 +56,7 @@ Corporation Primary School’s Infocomm Club had a Scratch Day Showcase involvin
   
 [Click here to read more](https://go.gov.sg/serveupcorporation)  
   
-**Tech on full display** &nbsp;&nbsp;  
+**Tech on full display**
 North Vista Primary School’s Infocomm and Innovation CCA put up an interactive booth at their school’s open house. Find out how they engaged visitors using Strawbees and used Scratch coding to share about the importance of financial literacy!  
   
 [Click here to read more](https://go.gov.sg/serveupnorthvista)
