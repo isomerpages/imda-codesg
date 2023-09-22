@@ -28,22 +28,22 @@ Discover how Ngee Ann Secondary School's Infocomm Technology (Media Production) 
 [Click here to read more](https://go.gov.sg/serve-up-emerging-tech-nass)
 
 
-**Game development with Scratch**
+**Game development with Scratch**<br>
 Six members from Bedok South Secondary School's Infocomm Club conducted a Game Development Workshop using Scratch. They brought their cat sprites to life in a session that was not just educational but also entertaining for their lower secondary schoolmates. Find out how it was conducted as part of the Library Programme.
 
 &nbsp; [Click here to read more](https://go.gov.sg/serve-up-emerging-tech-bsss)
 
-**Innovating for sustainability**
+**Innovating for sustainability**<br>
 Clementi Town Secondary School's Infocomm Technology Club unveiled their groundbreaking Recyclebot project at DeepRace Dash 2023. These students harnessed the power of Artificial Intelligence to automate recycling. Dive into their story and read about the showcase which took place at NUS.
 
 &nbsp;[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-ctss)
 
-**Embark on an exciting Artificial Intelligence adventure**
+**Embark on an exciting Artificial Intelligence adventure**<br>
 Jurongville Secondary School's Infocomm Club gave an eye-opening introduction to Artificial Intelligence (AI) at library@harbourfront. Parents and their young children discovered the incredible world of AI while interacting with robots. Delve into the students’ unforgettable personal stories and meaningful reflections from conducting the workshop.
 
 &nbsp;[Click here to read more](https://go.gov.sg/serve-up-emerging-tech-jss)
 
-**Robotics for all**
+**Robotics for all**<br>
 Raffles Girls' School’s Robotics Club conducted 3 different activities to raise awareness about robotics and Artificial Intelligence. This included an exciting cohort wide Hebocon workshop for Year 1 students where groups assembled scrappy robots using motors, wires and available resources. Take a look at the students’ creations!&nbsp;
 
 [Click here to read more](https://go.gov.sg/serve-up-emerging-tech-rgs)
@@ -53,12 +53,12 @@ Canberra Primary School’s Digital Artisans partnered with their Cub scouts to 
   
 [Click here to read more](https://go.gov.sg/serveupcanberra) 
   
-**Playing games, showcasing Scratch**&nbsp;  
+**Playing games, showcasing Scratch** <br>
 Corporation Primary School’s Infocomm Club had a Scratch Day Showcase involving presentations of projects by Primary 3 and 4 students. Find out how they ran their very own CCA festival for others to enjoy!  
   
 [Click here to read more](https://go.gov.sg/serveupcorporation)  
   
-**Tech on full display**
+**Tech on full display**<br>
 North Vista Primary School’s Infocomm and Innovation CCA put up an interactive booth at their school’s open house. Find out how they engaged visitors using Strawbees and used Scratch coding to share about the importance of financial literacy!  
   
 [Click here to read more](https://go.gov.sg/serveupnorthvista)
