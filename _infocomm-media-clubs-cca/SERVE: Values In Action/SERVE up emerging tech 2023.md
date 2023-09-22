@@ -22,7 +22,8 @@ We applaud these schools and clubs for their outstanding efforts in serving thei
 Click on the links below to read more about their incredible projects!
       
 **Unleash your inner designer** <br>
-Discover how Ngee Ann Secondary School's Infocomm Technology (Media Production) Club partnered with VIVITA to conduct a Tech Saturday workshop. They taught a group of enthusiastic children how to use Canva as a design tool. Dive into their heartwarming experience and read about the unexpected guest that came by! 
+Discover how Ngee Ann Secondary School's Infocomm Technology (Media Production) Club partnered with VIVITA to conduct a Tech Saturday workshop. They taught a group of enthusiastic children how to use Canva as a design tool. Dive into their heartwarming experience and read about the unexpected guest that came by! <br>
+
 [Click here to read more](https://go.gov.sg/serve-up-emerging-tech-nass)
 
 
