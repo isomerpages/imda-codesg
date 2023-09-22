@@ -16,8 +16,7 @@ We appreciate the enthusiastic participation from all the Infocomm Media Clubs. 
 
 e-vouchers.
 
-* The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.
-<br>
+* The first 15 Clubs that showcased their workshop, tech innovations, or booths have been awarded $50 food delivery e-vouchers.<br>
 #### Be inspired by these schools! 
 We applaud these schools and clubs for their outstanding efforts in serving their communities through emerging technology.<br>
 
