@@ -25,7 +25,7 @@ As a final project, students will create their own custom app that they can use 
 [Sign up here](https://go.gov.sg/google-appsheet2023 )
 
 **Microsoft Digital Making &amp; Game Development Bootcamp (Pri)**
-![](/images/Icmclub/microsoft%20digital%20making%20&amp;%20game%20development%20bootcamp%20(pri).jpg)
+![](/images/icmclub/microsoft%20digital%20making%20&amp;%20game%20development%20bootcamp%20(pri).jpg)
 
 The Microsoft Digital Making and Game Development Bootcamp lets primary school students create digital controllers using micro:bit and simple games within Microsoft Makecode Arcade and Microsoft Minecraft Education. Students will learn to code micro:bit processors, link with sensors and actuators, making automation solutions. In Minecraft Education, students will continue the coding practice, collaborate with peers and craft a project to address a real word problem. Makecode Arcade brings back 2D platformers, with students using block-based coding to create simple arcade games for their own entertainment or playing with friends!
 

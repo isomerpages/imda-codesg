@@ -5,28 +5,52 @@ description: ""
 third_nav_title: "EXCEL: A Platform to Excel"
 ---
 # EXCEL: A National Platform to Gain Knowledge, Excel &amp; Receive Recognition
-#### **National Youth Tech Championship (NYTC)**<br>
 
 
-**Latest competition updates:**<br>
+![](/images/NYTC2023/nytc%20web%20banner.png)
+<br>More than **230 talented students** from **51 different schools** immersed themselves in an exhilarating **6-week journey** and participated in training to acquire AI skills, gearing up for an array of thrilling tech challenges curated by Google Engineers—all in pursuit of the coveted trophy at the grand finale held on August 18, 2023.
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Catch [NYTC Episode 1](https://www.youtube.com/watch?v=kOGFHePJVnA) to follow the journey of the students as they navigate their way through AI challenges designed by Google engineers!<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support your team in the [YouTube Shorts popularity contest](https://www.youtube.com/playlist?list=PL6-X01R5u5Z_y5aoFBKLrb5q2XlQrp0rF) now! The top 4 teams that receive the most likes by **28 July, 23:59pm** will get to visit Titan Studios Singapore.<br>
-
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-(**Registration is now closed)**
-
-Rally your teams to take part in this brand-new national tech competition! Teams will undergo progressive and scaffolded training to **acquire AI skills** before going head-to-head each week to **tackle different tech challenges** curated by Google.
-
-  
-Registration will be on a **FIRST-COME-FIRST-SERVED** basis. There are **limited spaces** available so **sign up early** and secure your school’s spot in this exhilarating national competition!
-
-**What to expect:**<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to code AI, race drones and battle your way to the finals<br>
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Claim glory for your school as the Championship will be aired as a YouTube web series
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Win attractive prizes for your Infocomm Media Club
+#### **Congratulations to the winning teams of the National Youth Tech Championship!**
 
 
-Check out the competition FAQ [here](https://codesg.imda.gov.sg/infocomm-media-clubs-cca/excel/competition-faq/) for more information. (no. of stages, competition dates, eligibility)
+**Champion**: Anglo-Chinese School (Independent)
+![](/images/NYTC2023/champion%20-%20anglo-chinese%20school%20(independent).jpg)
+
+**1st Runner Up**: Xinmin Secondary School
+![](/images/NYTC2023/1st%20runner%20up%20-%20xinmin%20secondary%20school.jpg)
+
+**2nd Runner Up**: Clementi Town Secondary School
+![](/images/NYTC2023/2nd%20runner%20up%20-%20clementi%20town%20secondary%20school.jpg)
+
+**3rd Runner Up**: NUS High School of Math and Science
+![](/images/NYTC2023/3rd%20runner%20up-%20nus%20high%20school%20of%20math%20and%20science.jpg)
+
+**Finalists**: 
+* Anglo-Chinese School (Barker)
+* Damai Secondary School
+* Dunman High School
+* Yishun Secondary School
+
+![](/images/NYTC2023/finalist%20x%204.png)
+*Top Row (Left to Right): Anglo-Chinese School (Barker), Damai Secondary School<br>
+Bottom Row (Left to Right): Dunman High School, Yishun Secondary School*
+
+While competitions are all about competing, overcoming challenges, and emerging victoriously, the journey that shapes the student is equally significant. As such, a special award – the **GUMPTION Award** – was presented to the most inspiring team that displayed and demonstrated tenacity and perseverance throughout the competition.
+
+**Gumption Award Winner**: Bedok Green Secondary School
+![](/images/NYTC2023/gumption%20award%20winner%20-%20bedok%20green%20secondary%20school.jpg)
+<br>
+<center>
+  <p> THANK YOU FOR BEING PART OF THE NATIONAL YOUTH TECH CHAMPIONSHIP 2023!</p>
+</center>
+
+![](/images/NYTC2023/thank%20you%20for%20being%20part%20of%20the%20national%20youth%20tech%20championship%202023!.jpg)
+
+<center>
+  <p> SEE YOU IN THE NEXT SEASON!</p>
+</center>
+
+#### **National Youth Tech Championship YouTube web series**
+
+Catch the [National Youth Tech Championship web series on YouTube](https://www.youtube.com/playlist?list=PLctna5nnXQyPiplW_Sf4Bp8KPbtYky4aR) and follow the students along on their journey as they tackle AI and drone challenges!
+![](/images/NYTC2023/youtube%20web%20series%20new.png)
