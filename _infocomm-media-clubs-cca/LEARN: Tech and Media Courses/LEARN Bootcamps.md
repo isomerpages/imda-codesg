@@ -9,7 +9,7 @@ third_nav_title: "LEARN: Tech and Media Courses"
 The LEARN bootcamps aim to provide passionate Club members with opportunities to enrich their learning in tech and media through industry-backed holiday programmes. Club members will have a deeper appreciation of the topics and reinforce their learning through these programmes.
 
 #### Upcoming Bootcamps
-The LEARN bootcamps aim to provide passionate Club members with opportunities to enrich their learning in tech and media through industry-backed holiday programmes. Club members will have a deeper appreciation of the topics and reinforce their learning through these programmes.
+
 
 **Unity Game Development Bootcamp (Sec/JC)**
 ![](/images/icmclub/unity%20bootcamp%202024.png)
