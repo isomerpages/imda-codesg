@@ -17,7 +17,7 @@ Calling all Sec 2, 3 and JC 1 student leaders! Our highly anticipated conference
 
 100 Victoria St, #03-01 National Library / Lee Kong Chian Reference Library, S188064
 
-**Registration deadline:** 6 October 2023, 6pm
+**Registration deadline:** 6 October 2023, 6pm **(Registration extended to 13 October, 6pm)**
 
 **Additional info:**
 
