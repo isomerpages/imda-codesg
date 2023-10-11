@@ -11,7 +11,7 @@ As part of IMDA’s LEARN menu, Infocomm Media Club members will be provided tra
 LEARN covers two training modes:
 
 **LEARN Roadmaps**
-<br>These broad-based courses are held during CCA hours at the school’s premises. Teachers-in-charge will choose the courses suitable for their Clubs and apply to IMDA. This [Info Kit](https://go.gov.sg/learn-roadmaps-infokit22-23) will cover the application process and the course offerings for LEARN Roadmap in 2023.
+<br>These broad-based courses are held during CCA hours at the school’s premises. Teachers-in-charge will choose the courses suitable for their Clubs and apply to IMDA. This [infokit](https://go.gov.sg/learn-roadmaps-infokit24) will cover the application process and the course offerings for LEARN Roadmaps in 2024.
 
-**LEARN Bootcamps & Accelerators**
+**LEARN Bootcamps &amp; Accelerators**
 <br>These fast-tracked industry-backed learning courses are held outside of school curriculum hours, at external premises.
