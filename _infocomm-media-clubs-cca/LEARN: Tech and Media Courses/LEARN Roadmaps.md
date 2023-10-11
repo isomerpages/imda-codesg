@@ -36,4 +36,4 @@ The **application exercise for LEARN Roadmap 2024 will be held from 16 Oct 2023 
 |**Roboto**| Brian Lee<br>[brianlee@roboto.sg](mailto:brianlee@roboto.sg)<br>9767 8052<br>|• Game Development (Primary)<br>• Mobile App Development (Primary)<br> • Robotics (Primary)<br> • Game Development (Secondary/JC)|
 |**Stag Match**|Thomas Yeo<br>[thomas.yeo@smet.edu.sg](mailto:thomas.yeo@smet.edu.sg)<br><br>Alex<br>[stagmatch@gmail.com](mailto:stagmatch@gmail.com)<br><br>[info@stagmatch.com.sg](mailto:info@stagmatch.com.sg)<br>6612 7165<br>| • Artificial Intelligence (Primary)<br>• Game Development (Secondary/JC)<br> • Robotics (Secondary/JC)|
 
-<br>Schools requiring more course support can write to [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
+<br>Schools with queries or requesting more course/class support can write to [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
