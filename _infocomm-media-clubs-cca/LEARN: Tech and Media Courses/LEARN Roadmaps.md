@@ -9,7 +9,7 @@ LEARN Roadmaps are structured, broad-based training courses held during CCA hour
 
 IMDA partners with industry leaders to develop industry-backed learning roadmaps to develop proficiency in the domain through the partners’ materials and platform. To cater to different interests, IMDA also offers tech and media courses in a broad spectrum of topics through our training partners.
 
-Each MOE school is supported with up to 2 courses annually, where the training cost is fully funded by IMDA. Where hardware is required, schools can work with the training providers to procure the hardware at their own expense.
+Each MOE school is supported with up to 2 courses annually, where the training cost is fully funded by IMDA. Where hardware is required, schools can work with the training providers or other vendors to procure the hardware at their own expense.
 
 [Download the Information Kit 2024 here.](https://go.gov.sg/learn-roadmaps-infokit24)
 
@@ -17,11 +17,10 @@ Each MOE school is supported with up to 2 courses annually, where the training c
 
 The **application exercise for LEARN Roadmap 2024 will be held from 16 Oct 2023 to 31 Jan 2024**. Please download the Information Kit above, refer to the course details and follow the Application Process. <br><br>MOE HODs or Teachers-in-Charge of Infocomm Media Clubs can submit the course application via these links:
 
-[Primary School](https://form.gov.sg/650955b1d5cb3e0011895695 )
+* [Primary School](https://form.gov.sg/650955b1d5cb3e0011895695 )
 
-[Secondary School / Junior College](https://form.gov.sg/650be1b6dc7011001165e2cc)
-![](/images/icmclub/learn%20roadmaps%20process%202024.png)
-
+* [Secondary School / Junior College](https://form.gov.sg/650be1b6dc7011001165e2cc)
+![](/images/icmclub/learn%20roadmaps%20process%202024(new).png)
 
 |**Training Provider**| **Contact Details** | **Courses Offered** |
 | -------- | -------- | -------- |
