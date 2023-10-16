@@ -20,6 +20,12 @@ The **application exercise for LEARN Roadmap 2024 will be held from 16 Oct 2023 
 * [Primary School](https://form.gov.sg/650955b1d5cb3e0011895695 )
 
 * [Secondary School / Junior College](https://form.gov.sg/650be1b6dc7011001165e2cc)
+
+Find out more about the LEARN Roadmap courses, by attending online sharing sessions hosted by our training providers from 19 October 2023 to 25 October 2023.<br>
+
+Please refer to the email blast sent on 16 October, for the links to the online sharing sessions. <br>For schools that did not receive the links, please write to -  [IMDA_Codesg@imda.gov.sg](mailto:IMDA_Codesg@imda.gov.sg)
+
+
 ![](/images/icmclub/learn%20roadmaps%20process%202024(new).png)
 
 |**Training Provider**| **Contact Details** | **Courses Offered** |
