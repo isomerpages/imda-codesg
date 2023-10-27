@@ -1,0 +1,21 @@
+---
+title: Primary Schools
+permalink: /code-for-fun/primary/
+---
+### From 2020, all upper primary students will undergo a 10-hour computational thinking and coding enrichment class to expose them to the skills needed to embrace new opportunities in the digital economy.
+
+![](/images/cff/cff%20pri%20image.jpg)
+
+The **Code For Fun** Programme for primary schools offers a standardised curriculum to all upper primary students, to equip them with baseline computational thinking skills before they leave primary school. The programme also introduces students to some basic concepts of emerging technology.
+Through this 10-hour curriculum, students will be able to:
+
+* Learn about core computational thinking concepts and how it can be applied to aspects of daily life;
+* Understand basic programming concepts such as debugging, events, loops, variables, functions and conditionals;
+* Develop logical thinking and problem-solving skills; and
+* Be introduced to emerging technologies such as Artificial Intelligence (A.I.) and cybersecurity concepts.
+
+
+ 
+Application instructions will be sent to all MOE Government & Government-Aided primary schools between **September** to **October** annually. Schools applying for the programme should submit their application within the application period provided.
+
+For enquires regarding the **Code For Fun** Enrichment Programme for primary schools, please contact [IMDA](mailto:wan_nurshafiqah_jamil_from.tp@imda.gov.sg).

@@ -1,0 +1,16 @@
+logo: /images/about/final final code@sg 3667x567.png
+links:
+  - title: About
+    url: /about/
+  - title: Code For Fun
+    collection: code-for-fun
+  - title: Infocomm Media Club
+    collection: infocomm-media-clubs-cca
+  - title: Events
+    collection: events
+  - title: Stories
+    collection: stories
+  - title: Resources
+    collection: resources
+  - title: Contact Us
+    url: /contact-us/

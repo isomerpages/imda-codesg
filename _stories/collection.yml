@@ -1,0 +1,6 @@
+collections:
+  stories:
+    output: true
+    order:
+      - features.md
+      - media.md

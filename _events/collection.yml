@@ -1,0 +1,12 @@
+collections:
+  events:
+    output: true
+    order:
+      - Past Events/Teachers Seminar (Nov).md
+      - "Past Events/EXCEL : Infocomm Media Club Youth Awards.md"
+      - Past Events/.keep
+      - "Past Events/DISCOVER: Teachers' Workshop 2022.md"
+      - "Past Events/LEAD: Student Leadership Conference 2022.md"
+      - "Past Events/LEARN: Student Development Programmes 2022.md"
+      - Past Events/Teacher's Workshop Mar 2022.md
+      - Past Events/Teacher's Seminar Jan 2022.md

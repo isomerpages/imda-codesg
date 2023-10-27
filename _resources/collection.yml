@@ -1,0 +1,7 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Infocomm Media Club Telegram Channel.md
+      - Resources.md
+      - Newsletter.md
