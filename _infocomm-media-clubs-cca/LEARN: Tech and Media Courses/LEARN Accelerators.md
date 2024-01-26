@@ -12,7 +12,7 @@ and intensive programmes, supported by industry leaders. Students will
 undergo training over 6 to 10 months on weekends and school holidays where
 they will work on real-life challenges and develop practical tech solutions.</p>
 <h4>Upcoming Accelerators</h4>
-<p><strong>AWS Data Science Accelerator (Sec/JC)</strong>
+<p><strong>AWS Data Science Accelerator (Sec/JC)</strong> 
 <br>Commitment: 110 hours</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,7 +28,7 @@ from AWS’ Cloud Practitioner Essentials.</p>
 <p>Sign Up <a href="https://go.gov.sg/aws-accel22" rel="noopener noreferrer nofollow" target="_blank">Now!</a> (Application
 ends 16 Feb 2024)</p>
 <p></p>
-<p><strong>Swift Accelerator (Sec/JC)</strong>
+<p><strong>Swift Accelerator (Sec/JC)</strong> 
 <br>Commitment: 180 hours</p>
 <ul data-tight="true" class="tight">
 <li>
