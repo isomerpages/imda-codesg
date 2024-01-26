@@ -27,7 +27,7 @@ racing autonomous cars in a fun Deep Racer and pick up industry level knowledge
 from AWS’ Cloud Practitioner Essentials.</p>
 <p>Sign Up <a href="https://go.gov.sg/aws-accel22" rel="noopener noreferrer nofollow" target="_blank">Now!</a> (Application
 ends 16 Feb 2024)</p>
-<p>Register <a href="https://go.gov.sg/aws-accel22" rel="noopener noreferrer nofollow" target="_blank">Here</a>!</p>
+<p></p>
 <p><strong>Swift Accelerator (Sec/JC)</strong> 
 <br>Commitment: 180 hours</p>
 <ul data-tight="true" class="tight">
