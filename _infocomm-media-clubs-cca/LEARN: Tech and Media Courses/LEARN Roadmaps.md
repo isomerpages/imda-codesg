@@ -65,7 +65,7 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pedro Agurre
-<br><a href="mailto:pedro@makethechange.sg" rel="noopener noreferrer nofollow" target="_blank">pedro@makethechange.sg</a>
+<br><a href="mailto:pedro@makethechange.sg" rel="noopener noreferrer nofollow" target="_blank">pedro@makethechange.sg</a> 
 <br>
 </p>
 </td>
@@ -81,7 +81,7 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kenneth Sim
-<br><a href="mailto:kenneth@edm8ker.com" rel="noopener noreferrer nofollow" target="_blank">kenneth@edm8ker.com</a>
+<br><a href="mailto:kenneth@edm8ker.com" rel="noopener noreferrer nofollow" target="_blank">kenneth@edm8ker.com</a> 
 <br>9627 4987
 <br>
 </p>
@@ -97,7 +97,7 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alan Wong
-<br><a href="mailto:alan.wong@gsatech.com.sg" rel="noopener noreferrer nofollow" target="_blank">alan.wong@gsatech.com.sg</a>
+<br><a href="mailto:alan.wong@gsatech.com.sg" rel="noopener noreferrer nofollow" target="_blank">alan.wong@gsatech.com.sg</a> 
 <br>9237 1090
 <br>
 </p>
@@ -113,7 +113,7 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Niki Lee
-<br><a href="mailto:niki.lee@sustainablelivinglab.org" rel="noopener noreferrer nofollow" target="_blank">niki.lee@sustainablelivinglab.org</a>
+<br><a href="mailto:niki.lee@sustainablelivinglab.org" rel="noopener noreferrer nofollow" target="_blank">niki.lee@sustainablelivinglab.org</a> 
 <br>8622 9317</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,11 +142,11 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Philip Kong
-<br><a href="mailto:philipkong@zenitant.com.sg" rel="noopener noreferrer nofollow" target="_blank">philipkong@zenitant.com.sg</a>
+<br><a href="mailto:philipkong@zenitant.com.sg" rel="noopener noreferrer nofollow" target="_blank">philipkong@zenitant.com.sg</a> 
 <br>9744 0711
 <br>
 <br>Adrial Lai
-<br><a href="mailto:adriallai@zenitant.com.sg" rel="noopener noreferrer nofollow" target="_blank">adriallai@zenitant.com.sg</a>
+<br><a href="mailto:adriallai@zenitant.com.sg" rel="noopener noreferrer nofollow" target="_blank">adriallai@zenitant.com.sg</a> 
 <br>9232 5024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +161,7 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Murtaza Njmudden
-<br><a href="mailto:murtaza@ducklearning.com" rel="noopener noreferrer nofollow" target="_blank">murtaza@ducklearning.com</a>
+<br><a href="mailto:murtaza@ducklearning.com" rel="noopener noreferrer nofollow" target="_blank">murtaza@ducklearning.com</a> 
 <br>9752 5201
 <br>
 </p>
@@ -182,11 +182,11 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Koh Choon Chuan
-<br><a href="mailto:cckoh@epasia.cc" rel="noopener noreferrer nofollow" target="_blank">cckoh@epasia.cc</a>
+<br><a href="mailto:cckoh@epasia.cc" rel="noopener noreferrer nofollow" target="_blank">cckoh@epasia.cc</a> 
 <br>9146 6015
 <br>
 <br>Gwenn Tan
-<br><a href="mailto:gwenntan@epasia.cc" rel="noopener noreferrer nofollow" target="_blank">gwenntan@epasia.cc</a>
+<br><a href="mailto:gwenntan@epasia.cc" rel="noopener noreferrer nofollow" target="_blank">gwenntan@epasia.cc</a> 
 <br>9800 7990
 <br>
 </p>
@@ -204,7 +204,7 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Brian Lee
-<br><a href="mailto:brianlee@roboto.sg" rel="noopener noreferrer nofollow" target="_blank">brianlee@roboto.sg</a>
+<br><a href="mailto:brianlee@roboto.sg" rel="noopener noreferrer nofollow" target="_blank">brianlee@roboto.sg</a> 
 <br>9767 8052
 <br>
 </p>
@@ -223,12 +223,12 @@ course application via these links:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thomas Yeo
-<br><a href="mailto:thomas.yeo@smet.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thomas.yeo@smet.edu.sg</a>
+<br><a href="mailto:thomas.yeo@smet.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thomas.yeo@smet.edu.sg</a> 
 <br>
 <br>Alex
-<br><a href="mailto:stagmatch@gmail.com" rel="noopener noreferrer nofollow" target="_blank">stagmatch@gmail.com</a>
+<br><a href="mailto:stagmatch@gmail.com" rel="noopener noreferrer nofollow" target="_blank">stagmatch@gmail.com</a> 
 <br>
-<br><a href="mailto:info@stagmatch.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@stagmatch.com.sg</a>
+<br><a href="mailto:info@stagmatch.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@stagmatch.com.sg</a> 
 <br>6612 7165
 <br>
 </p>
