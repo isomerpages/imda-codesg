@@ -13,7 +13,7 @@ Be part of our inaugural student leadership conference where Club leaders can be
 **Eligibility** <br>
 Each school is eligible to send a delegation of 4 members comprising the chairperson, vice-chairperson, emerging tech specialist and tech for good champion for the conference. 
 
-Find out more about the appointment of the emerging tech specialist and tech for good champion [here](https://isomer-dlp-staging.netlify.app/infocomm-media-clubs-cca/lead#top).
+Find out more about the appointment of the emerging tech specialist and tech for good champion [here](/infocomm-media-clubs-cca/lead#top).
 
 
 **Registration is now closed**
