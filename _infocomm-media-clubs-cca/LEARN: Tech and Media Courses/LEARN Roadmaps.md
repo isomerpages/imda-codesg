@@ -22,23 +22,10 @@ at their own expense.</p>
 <p><a href="https://go.gov.sg/learn-roadmaps-infokit24" rel="noopener noreferrer nofollow" target="_blank">Download the Information Kit 2024 here.</a>
 </p>
 <h5>Apply for the LEARN Roadmaps 2024</h5>
-<p>The&nbsp;application exercise for LEARN Roadmap 2024 has been <strong>extended to 29 Feb 2024</strong>.
-Please download the Information Kit above, refer to the course details
-and follow the Application Process.
-<br>
-<br>MOE HODs or Teachers-in-Charge of Infocomm Media Clubs can submit the
-course application via these links:</p>
-<ul>
-<li>
-<p><a href="https://form.gov.sg/650955b1d5cb3e0011895695" rel="noopener noreferrer nofollow" target="_blank">Primary School</a>
+<p>The application exercise for LEARN Roadmap 2024 has ended. If you require
+training course support for your Infocomm Media Club or related CCA, please
+write to <a href="mailto:IMDA_Codesg@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>IMDA_Codesg@imda.gov.sg</u></a>
 </p>
-</li>
-<li>
-<p><a href="https://form.gov.sg/650be1b6dc7011001165e2cc" rel="noopener noreferrer nofollow" target="_blank">Secondary School / Junior College</a>
-</p>
-</li>
-</ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/icmclub/learn%20roadmaps%20process%202024(new).png">
 </div>
