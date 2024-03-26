@@ -7,10 +7,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 ---
 <p><strong>Registration for DISCOVER 2024 Learning Journeys is now OPEN!</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM___V5_01.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.jotform.com/tm_events/discoverlearningjourneys"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM___V5_01.png"></a>
 <p>Join us on a learning journey that will broaden your students' horizons
 and immerse them in the world of cutting-edge emerging technologies.</p>
 <p>We have added more sessions with exciting topics such as <strong>Digital Animation</strong>, <strong>Aerial Cinematography</strong>, <strong>Digital Fabrication</strong> and
