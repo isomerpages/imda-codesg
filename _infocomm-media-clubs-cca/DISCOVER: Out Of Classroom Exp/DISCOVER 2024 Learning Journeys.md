@@ -9,7 +9,7 @@ third_nav_title: "DISCOVER: Out Of Classroom Exp"
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM___V4_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EDM___V5_01.png">
 </div>
 <p>Join us on a learning journey that will broaden your students' horizons
 and immerse them in the world of cutting-edge emerging technologies.</p>
