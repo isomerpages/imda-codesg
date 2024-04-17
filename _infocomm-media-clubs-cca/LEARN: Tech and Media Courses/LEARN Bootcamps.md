@@ -44,6 +44,7 @@ School.</p>
 <p>Visit <a href="https://unitybootcamp.tk.sg/" rel="noopener noreferrer nofollow" target="_blank">https://unitybootcamp.tk.sg</a> for
 more details and apply for the Bootcamp.</p>
 <p></p>
+<br>
 <p><strong>Goldman Sachs AI Illuminator Coding Workshop (Secondary level)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -80,6 +81,7 @@ Students do not need to bring any hardware.</p>
 Successful applicants will be notified with the administrative details
 by 17 May 2024.</p>
 <p></p>
+<br>
 <p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
 </p>
 <p>Details and application link will be available soon.</p>
