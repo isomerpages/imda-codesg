@@ -41,7 +41,7 @@ to bring packed meals or purchase meals from the vicinity of St. Patrick’s
 School.</p>
 </li>
 </ul>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://unitybootcamp.tk.sg</a> for
+<p>Visit <a href="https://unitybootcamp.tk.sg/" rel="noopener noreferrer nofollow" target="_blank">https://unitybootcamp.tk.sg</a> for
 more details and apply for the Bootcamp.</p>
 <p></p>
 <p><strong>Goldman Sachs AI Illuminator Coding Workshop (Secondary level)</strong>
@@ -74,7 +74,7 @@ Students do not need to bring any hardware.</p>
 </li>
 </ul>
 <p></p>
-<p>Application link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66174907cd2185d32ef0736a</a>
+<p>Application link: <a href="https://form.gov.sg/66174907cd2185d32ef0736a" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66174907cd2185d32ef0736a</a>
 </p>
 <p>Application will close on 10 May 2024 or earlier if responses are overwhelming.
 Successful applicants will be notified with the administrative details
