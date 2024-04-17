@@ -80,4 +80,7 @@ Students do not need to bring any hardware.</p>
 Successful applicants will be notified with the administrative details
 by 17 May 2024.</p>
 <p></p>
+<p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
+</p>
+<p>Details and application link will be available soon.</p>
 <p>for the Bootcamp.</p>
