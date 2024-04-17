@@ -42,7 +42,7 @@ School.</p>
 </li>
 </ul>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://unitybootcamp.tk.sg</a> for
-more details and apply</p>
+more details and apply for the Bootcamp.</p>
 <p></p>
 <p><strong>Goldman Sachs AI Illuminator Coding Workshop (Secondary level)</strong>
 </p>
@@ -83,4 +83,3 @@ by 17 May 2024.</p>
 <p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
 </p>
 <p>Details and application link will be available soon.</p>
-<p>for the Bootcamp.</p>
