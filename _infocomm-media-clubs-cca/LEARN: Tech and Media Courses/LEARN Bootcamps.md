@@ -42,4 +42,42 @@ School.</p>
 </li>
 </ul>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://unitybootcamp.tk.sg</a> for
-more details and apply for the Bootcamp.</p>
+more details and apply</p>
+<p></p>
+<p><strong>Goldman Sachs AI Illuminator Coding Workshop (Secondary level)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Goldman_2024.png">
+</div>
+<p>The Goldman Sachs AI Illuminator Coding Workshop will teach secondary
+school students basic Python and AI concepts through the use of Raspberry
+Pi microcontrollers and Telegram bots. Students will get hands-on experience
+with the programming of microcontrollers integrated with sensors and LEDs,
+and using bots to create a sustainability project.</p>
+<p>Students will also get to interact with Goldman Sachs professionals to
+gain insights on the use of technology in the financial industry.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>When</strong>: 30 – 31 May 2024, 9.00 am – 3.00 pm</p>
+</li>
+<li>
+<p><strong>Where</strong>: Goldman Sachs office - Mapletree Anson, 60 Anson
+Rd, 14F MP1-2, Singapore 079914</p>
+</li>
+<li>
+<p><strong>Requirements</strong>: A Google or Gmail account is required for
+the activities. Windows PCs and hardware will be provided at the Bootcamp.
+Students do not need to bring any hardware.</p>
+</li>
+<li>
+<p><strong>Note</strong>: Lunches are provided on both days</p>
+</li>
+</ul>
+<p></p>
+<p>Application link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66174907cd2185d32ef0736a</a>
+</p>
+<p>Application will close on 10 May 2024 or earlier if responses are overwhelming.
+Successful applicants will be notified with the administrative details
+by 17 May 2024.</p>
+<p></p>
+<p>for the Bootcamp.</p>
