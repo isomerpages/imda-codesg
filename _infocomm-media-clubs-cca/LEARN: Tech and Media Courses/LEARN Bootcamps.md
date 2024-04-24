@@ -24,7 +24,7 @@ fundamentals and philosophy. As a final project, students will customise
 their own game using the Unity platform.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>When</strong>: 17 – 21 June 2024, 9.00 am – 4.00 pm</p>
+<p><strong>When</strong>: 18 – 21 June 2024, 9.00 am – 4.00 pm</p>
 </li>
 <li>
 <p><strong>Where</strong>: St. Patrick’s School – 490 East Coast Rd, Singapore
