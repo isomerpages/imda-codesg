@@ -3,7 +3,7 @@ title: LEARN Bootcamps
 permalink: /infocomm-media-clubs-cca/learn/bootcamps/
 description: ""
 third_nav_title: "LEARN: Tech and Media Courses"
-variant: markdown
+variant: tiptap
 ---
 <h2>LEARN Bootcamps</h2>
 <p>The LEARN bootcamps aim to provide passionate Club members with opportunities
@@ -44,7 +44,9 @@ School.</p>
 <p>Visit <a href="https://unitybootcamp.tk.sg/" rel="noopener noreferrer nofollow" target="_blank">https://unitybootcamp.tk.sg</a> for
 more details and apply for the Bootcamp.</p>
 <p></p>
+<p>
 <br>
+</p>
 <p><strong>Goldman Sachs AI Illuminator Coding Workshop (Secondary level)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -80,8 +82,60 @@ Students do not need to bring any hardware.</p>
 <p>Application will close on 10 May 2024 or earlier if responses are overwhelming.
 Successful applicants will be notified with the administrative details
 by 17 May 2024.</p>
-<p></p>
-<br>
 <p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
 </p>
-<p>Details and application link will be available soon.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UBTech.png">
+</div>
+<p><strong>Course content overview</strong>
+</p>
+<p>A 4-day AI and Robotics Bootcamp that reinforces students’ coding skills,
+incorporating image recognition, sorting algorithms, and hands-on robot
+engineering projects.</p>
+<p><strong>Explore Cutting-Edge Robotics: </strong>The UBTECH AI Robotics
+Bootcamp offers primary school students a unique opportunity to explore
+the realms of artificial intelligence with state-of-the-art AI-enhanced
+robots. Participants will navigate through the fundamentals of AI and robotics,
+pushing the boundaries of what they can create.</p>
+<p><strong>Develop Skills for the Future: </strong>Through interactive block
+coding exercises, students will learn how to breathe life into robots,
+enabling them to solve a variety of real-world challenges. The Bootcamp
+is packed with exciting activities that utilize advanced image and sound
+recognition technologies and the practical application of algorithms.</p>
+<p><strong>Hands-On Engineering Experience: </strong>Get ready to get your
+hands on various mimicry robots and dive deep into the mechanics of AI
+functionalities. The bootcamp also covers essential programming concepts
+like functions, variables, and sensor integration, which are crucial for
+any budding robotics engineer.</p>
+<p><strong>Foster Teamwork and Innovation: </strong>You will learn through
+hands-on experience and engage in group projects that inspire teamwork,
+creativity, and problem-solving skills. This collaborative environment
+is perfect for young learners to experiment and thrive.</p>
+<p><strong>Earn a Certification: </strong>Complete the bootcamp and earn
+a certificate of achievement that not only showcases your new skills but
+also supports your DSA applications, providing an edge in your educational
+journey.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>When</strong>: &nbsp;<strong>Run 1:</strong> 27 to 30 May 2024 <strong>Run 2:</strong> 18
+to 21 June 2024</p>
+</li>
+<li>
+<p><strong>Time:</strong> 9.00 am to 4.00 pm</p>
+</li>
+<li>
+<p><strong>Where</strong>: Titan Tech Academy - 3 Temasek Blvd, #02-738/739,
+Singapore 038983</p>
+</li>
+<li>
+<p><strong>Requirements</strong>: Students need to bring their own Windows/Mac
+PC.</p>
+</li>
+<li>
+<p><strong>Note</strong>: Meals are not provided. Students need to purchase
+their own meals at Suntec City mall.</p>
+</li>
+</ul>
+<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://titantechacademy.com/ubtech-ai-robotics-bootcamp/</a> for
+more details and apply for the Bootcamp.</p>
