@@ -15,7 +15,7 @@ and reinforce their learning through these programmes.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unity_18_June.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unity_1000x1000__1_.png">
 </div>
 <p>The Unity Game Development bootcamp provides students the opportunity
 to work on a versatile game engine that many mobile games are built on.
@@ -83,8 +83,10 @@ Students do not need to bring any hardware.</p>
 <p>Application will close on 10 May 2024 or earlier if responses are overwhelming.
 Successful applicants will be notified with the administrative details
 by 17 May 2024.</p>
+<p>
 <br>
 <br>
+</p>
 <p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
 </p>
 <p></p>
