@@ -83,6 +83,8 @@ Students do not need to bring any hardware.</p>
 <p>Application will close on 10 May 2024 or earlier if responses are overwhelming.
 Successful applicants will be notified with the administrative details
 by 17 May 2024.</p>
+<br>
+<br>
 <p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
 </p>
 <p></p>
