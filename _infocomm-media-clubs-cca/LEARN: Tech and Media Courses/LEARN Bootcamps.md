@@ -13,8 +13,9 @@ and reinforce their learning through these programmes.</p>
 <h4>Upcoming Bootcamps</h4>
 <p><strong>Unity Game Development Bootcamp (Secondary/JC level)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/icmclub/Unity_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unity_18_June.png">
 </div>
 <p>The Unity Game Development bootcamp provides students the opportunity
 to work on a versatile game engine that many mobile games are built on.
