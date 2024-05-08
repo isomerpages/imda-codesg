@@ -142,8 +142,8 @@ PC.</p>
 their own meals at Suntec City mall.</p>
 </li>
 </ul>
-<p><strong>Registration Update (8 May 2024) :  </strong>Applications for
-the UBTech AI Robotics Bootcamp 2024 are now closed due to overwhelming
-response. Successful applicants will soon receive administrative details
-from the training vendor.</p>
+<p><strong>Registration Update (8 May 2024) : </strong>Applications for the
+UBTech AI Robotics Bootcamp 2024 are now closed due to overwhelming response.
+Successful applicants will soon receive administrative details from the
+training vendor.</p>
 <p></p>
