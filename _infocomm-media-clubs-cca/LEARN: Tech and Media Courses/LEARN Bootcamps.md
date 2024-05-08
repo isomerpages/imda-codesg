@@ -142,5 +142,8 @@ PC.</p>
 their own meals at Suntec City mall.</p>
 </li>
 </ul>
-<p>Visit <a href="https://titantechacademy.com/ubtech-ai-robotics-bootcamp/" rel="noopener noreferrer nofollow" target="_blank">https://titantechacademy.com/ubtech-ai-robotics-bootcamp</a> 
-<a rel="noopener noreferrer nofollow" target="_blank">/</a>for more details and apply for the Bootcamp.</p>
+<p><strong>Registration Update (8 May 2024) :  </strong>Applications for
+the UBTech AI Robotics Bootcamp 2024 are now closed due to overwhelming
+response. Successful applicants will soon receive administrative details
+from the training vendor.</p>
+<p></p>
