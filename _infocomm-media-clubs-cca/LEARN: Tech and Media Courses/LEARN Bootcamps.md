@@ -77,14 +77,10 @@ Students do not need to bring any hardware.</p>
 <p><strong>Note</strong>: Lunches are provided on both days</p>
 </li>
 </ul>
-<p></p>
-<p>Application link: <a href="https://form.gov.sg/66174907cd2185d32ef0736a" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66174907cd2185d32ef0736a</a>
-</p>
-<p>Application will close on 10 May 2024 or earlier if responses are overwhelming.
-Successful applicants will be notified with the administrative details
-by 17 May 2024.</p>
+<p>Application for the Goldman Sachs AI Illuminator Coding Workshop is now
+closed. Successful applicants will be notified with the administrative
+details by 17 May 2024.</p>
 <p>
-<br>
 <br>
 </p>
 <p><strong>UBtech AI Robotics Bootcamp (Primary level)</strong>
